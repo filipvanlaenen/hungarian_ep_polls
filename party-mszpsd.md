@@ -61,7 +61,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 3 | 3 | 2–3 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 1–2 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -77,7 +77,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3 | 3 | 3 | 2–3 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 1–2 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 3 | 3 | 3 | 3 | 2–3 |
-| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2 | 2 | 2 |
+| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
 
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% |  |
-| 2 | 52% | 95% | Last Result, Median |
+| 1 | 4% | 100% |  |
+| 2 | 53% | 96% | Last Result, Median |
 | 3 | 27% | 43% |  |
 | 4 | 15% | 16% |  |
 | 5 | 0.3% | 0.3% |  |
