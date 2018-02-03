@@ -11,7 +11,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 45–51% <br> 11–13 | 14–18% <br> 3–4 | 15–19% <br> 3–4 | 4–6% <br> 0–1 | 0–1% <br> 0 | 1–3% <br> 0 | 6–9% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 48–55% <br> 11–13 | 14–18% <br> 3–4 | 12–16% <br> 2–3 | 5–8% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 | 5–9% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 54–60% <br> 13–14 | 14–19% <br> 3–4 | 9–13% <br> 2–3 | 4–7% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
-| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 46–52% <br> 11–13 | 18–23% <br> 4–5 | 6–10% <br> 1–2 | 5–9% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 5–9% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 |
+| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 46–52% <br> 11–13 | 18–23% <br> 4–6 | 6–10% <br> 1–2 | 5–9% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 5–9% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–1 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 57–62% <br> 13–15 | 13–17% <br> 3–4 | 8–12% <br> 2 | 6–9% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 4–6% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
