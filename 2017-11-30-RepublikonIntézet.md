@@ -48,9 +48,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% | Last Result |
-| 13 | 14% | 99.8% |  |
-| 14 | 83% | 86% | Median |
+| 12 | 0.3% | 100% | Last Result |
+| 13 | 16% | 99.7% |  |
+| 14 | 80% | 84% | Median |
 | 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
@@ -62,9 +62,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 10% | 100% |  |
-| 3 | 89% | 90% | Last Result, Median |
-| 4 | 0.6% | 0.6% |  |
+| 2 | 11% | 100% |  |
+| 3 | 89% | 89% | Last Result, Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 ### MSZP (S&D)
@@ -75,8 +75,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 89% | 100% | Last Result, Median |
-| 3 | 11% | 11% |  |
+| 2 | 88% | 100% | Last Result, Median |
+| 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -88,8 +88,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 99.3% | 99.9% | Last Result, Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 99.2% | 99.9% | Last Result, Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -100,8 +100,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.3% | 100% | Median |
-| 2 | 0.6% | 0.6% | Last Result |
+| 0 | 0.1% | 100% |  |
+| 1 | 98.8% | 99.9% | Median |
+| 2 | 1.1% | 1.1% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### MM (—)
@@ -164,9 +165,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% | Last Result |
-| 13 | 14% | 99.8% |  |
-| 14 | 83% | 86% | Median |
+| 12 | 0.3% | 100% | Last Result |
+| 13 | 16% | 99.7% |  |
+| 14 | 80% | 84% | Median |
 | 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
@@ -174,8 +175,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 89% | 100% | Median |
-| 4 | 11% | 11% | Last Result |
+| 2 | 0.1% | 100% |  |
+| 3 | 87% | 99.9% | Median |
+| 4 | 13% | 13% | Last Result |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -183,9 +185,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 10% | 100% |  |
-| 3 | 89% | 90% | Last Result, Median |
-| 4 | 0.6% | 0.6% |  |
+| 2 | 11% | 100% |  |
+| 3 | 89% | 89% | Last Result, Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 ### MLP (ALDE)
@@ -206,6 +208,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.93%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.85%
 
