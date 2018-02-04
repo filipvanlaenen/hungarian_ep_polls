@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 03 Feb 2018 20:09:43 +0100</pubDate>
+    <pubDate>Sat, 03 Feb 2018 20:23:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 17–24 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-01-24-SzázadvégAlapítvány.html</link>
@@ -98,6 +98,16 @@
         type="image/png"/>
       <pubDate>Fri, 02 Feb 2018 18:09:00 +0100</pubDate>
       <dc:date>2018-02-02T18:09:00.722246+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Iránytű Intézet, 5–9 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-01-09-IránytűIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP (EPP): 44.7–50.9%&lt;/li&gt;&lt;li&gt;MSZP (S&amp;amp;D): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Jobbik (AENM): 19.4–24.6%&lt;/li&gt;&lt;li&gt;LMP (Greens/EFA): 5.6–8.8%&lt;/li&gt;&lt;li&gt;DK (S&amp;amp;D): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Együtt (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;li&gt;MLP (ALDE): 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP (—): 1.3–3.1%&lt;/li&gt;&lt;li&gt;MM (—): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-01-09-IránytűIntézet.png"
+        length="223846"
+        type="image/png"/>
+      <pubDate>Sat, 03 Feb 2018 20:23:50 +0100</pubDate>
+      <dc:date>2018-02-03T20:23:50.679952+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 27 December 2017–2 January 2018 – Seat Projections</title>
@@ -359,6 +369,6 @@
       <pubDate>Thu, 01 Feb 2018 22:41:32 +0100</pubDate>
       <dc:date>2018-02-01T22:41:32.766087+01:00</dc:date>
     </item>
-    <dc:date>2018-02-03T20:09:43.425666+01:00</dc:date>
+    <dc:date>2018-02-03T20:23:50.679952+01:00</dc:date>
   </channel>
 </rss>
