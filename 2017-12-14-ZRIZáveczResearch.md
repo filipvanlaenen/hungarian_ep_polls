@@ -30,8 +30,8 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 13 | 12–13 |12–14 |12–14 |11–14 |
-| <a href="#jobbik-(aenm)">Jobbik (AENM)</a> | 3 | 3 | 3 |3–4 |2–4 |2–4 |
+| <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 13 | 12–13 |12–13 |12–14 |11–14 |
+| <a href="#jobbik-(aenm)">Jobbik (AENM)</a> | 3 | 3 | 3 |3–4 |3–4 |2–4 |
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
@@ -48,10 +48,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 2% | 100% | Majority |
-| 12 | 42% | 98% | Last Result |
-| 13 | 51% | 56% | Median |
-| 14 | 5% | 5% |  |
+| 11 | 1.4% | 100% | Majority |
+| 12 | 42% | 98.6% | Last Result |
+| 13 | 53% | 57% | Median |
+| 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 
 ### Jobbik (AENM)
@@ -62,8 +62,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 91% | 97% | Last Result, Median |
+| 2 | 2% | 100% |  |
+| 3 | 91% | 98% | Last Result, Median |
 | 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
@@ -75,8 +75,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 45% | 100% | Last Result |
-| 3 | 55% | 55% | Median |
+| 2 | 44% | 100% | Last Result |
+| 3 | 56% | 56% | Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -100,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 81% | 100% | Last Result, Median |
-| 2 | 19% | 19% |  |
+| 1 | 82% | 100% | Last Result, Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 ### Együtt (Greens/EFA)
@@ -155,36 +155,36 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 13 | 100% | 12–13 | 12–14 | 12–14 | 11–14 |
+| Fidesz–KDNP (EPP) | 12 | 13 | 100% | 12–13 | 12–13 | 12–14 | 11–14 |
 | MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
-| Jobbik (AENM) | 3 | 3 | 0% | 3 | 3–4 | 2–4 | 2–4 |
+| Jobbik (AENM) | 3 | 3 | 0% | 3 | 3–4 | 3–4 | 2–4 |
 | MLP (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Fidesz–KDNP (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 2% | 100% | Majority |
-| 12 | 42% | 98% | Last Result |
-| 13 | 51% | 56% | Median |
-| 14 | 5% | 5% |  |
+| 11 | 1.4% | 100% | Majority |
+| 12 | 42% | 98.6% | Last Result |
+| 13 | 53% | 57% | Median |
+| 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 
 ### MSZP (S&D) – DK (S&D)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 13% | 100% |  |
-| 4 | 64% | 87% | Last Result |
-| 5 | 23% | 23% | Median |
+| 3 | 12% | 100% |  |
+| 4 | 64% | 88% | Last Result |
+| 5 | 24% | 24% | Median |
 | 6 | 0% | 0% |  |
 
 ### Jobbik (AENM)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 91% | 97% | Last Result, Median |
+| 2 | 2% | 100% |  |
+| 3 | 91% | 98% | Last Result, Median |
 | 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
@@ -206,6 +206,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.74%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.14%
 
