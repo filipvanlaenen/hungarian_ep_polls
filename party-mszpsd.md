@@ -10,7 +10,8 @@ Last result: **10.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 7.4–15.8% | 6.8–17.1% | 6.4–17.7% | 5.8–18.9% |
+| N/A | [Poll Average](average.html) | 11.6% | 7.4–15.9% | 6.8–17.1% | 6.4–17.7% | 5.8–18.9% |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.4% |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
@@ -44,12 +45,12 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 9% | 97% |  |
 | 7.5–8.5% | 13% | 88% |  |
 | 8.5–9.5% | 11% | 75% |  |
-| 9.5–10.5% | 8% | 63% |  |
-| 10.5–11.5% | 12% | 55% | Last Result, Median |
-| 11.5–12.5% | 12% | 43% |  |
-| 12.5–13.5% | 11% | 31% |  |
-| 13.5–14.5% | 6% | 20% |  |
-| 14.5–15.5% | 3% | 14% |  |
+| 9.5–10.5% | 5% | 64% |  |
+| 10.5–11.5% | 8% | 59% | Last Result |
+| 11.5–12.5% | 12% | 51% | Median |
+| 12.5–13.5% | 14% | 38% |  |
+| 13.5–14.5% | 9% | 24% |  |
+| 14.5–15.5% | 4% | 15% |  |
 | 15.5–16.5% | 4% | 11% |  |
 | 16.5–17.5% | 4% | 7% |  |
 | 17.5–18.5% | 2% | 3% |  |
@@ -66,7 +67,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -97,8 +99,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 16% | 100% |  |
-| 2 | 52% | 84% | Last Result, Median |
-| 3 | 22% | 32% |  |
+| 2 | 43% | 84% | Last Result, Median |
+| 3 | 31% | 41% |  |
 | 4 | 10% | 10% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
