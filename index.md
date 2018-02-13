@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 46–64% <br> 11–15 | 12–23% <br> 3–5 | 6–18% <br> 1–4 | 4–10% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 | 3–9% <br> 0–2 | 0–2% <br> 0 | 0–3% <br> 0 | 0–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 46–64% <br> 11–15 | 12–23% <br> 3–6 | 6–18% <br> 1–4 | 4–10% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 | 3–9% <br> 0–2 | 0–2% <br> 0 | 0–3% <br> 0 | 0–4% <br> 0 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 50–56% <br> 12–14 | 16–21% <br> 3–5 | 11–15% <br> 2–3 | 4–7% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 1–2% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0–1 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 11–12 | 14–18% <br> 3–4 | 11–15% <br> 2–3 | 5–8% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 | 6–10% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 60–66% <br> 14–16 | 12–16% <br> 2–4 | 6–9% <br> 1–2 | 5–8% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
