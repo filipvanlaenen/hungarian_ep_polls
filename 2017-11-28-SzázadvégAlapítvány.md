@@ -31,10 +31,10 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 12 | 11–12 |11–12 |11–13 |11–13 |
-| <a href="#jobbik-(aenm)">Jobbik (AENM)</a> | 3 | 3 | 3 |3 |3–4 |2–4 |
+| <a href="#jobbik-(aenm)">Jobbik (AENM)</a> | 3 | 3 | 3 |3–4 |3–4 |2–4 |
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 3 | 3 |2–3 |2–3 |2–4 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mlp-(alde)">MLP (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mkkp-(—)">MKKP (—)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -48,8 +48,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 19% | 99.8% | Majority |
+| 10 | 0.1% | 100% |  |
+| 11 | 19% | 99.9% | Majority |
 | 12 | 78% | 81% | Last Result, Median |
 | 13 | 3% | 3% |  |
 | 14 | 0% | 0% |  |
@@ -63,8 +63,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 93% | 98% | Last Result, Median |
-| 4 | 5% | 5% |  |
+| 3 | 92% | 98% | Last Result, Median |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 ### MSZP (S&D)
@@ -75,9 +75,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 8% | 100% | Last Result |
-| 3 | 91% | 92% | Median |
-| 4 | 1.2% | 1.2% |  |
+| 2 | 6% | 100% | Last Result |
+| 3 | 92% | 94% | Median |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -88,8 +88,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 73% | 100% | Last Result, Median |
-| 2 | 27% | 27% |  |
+| 1 | 71% | 100% | Last Result, Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -100,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 92% | 92% | Median |
+| 0 | 12% | 100% |  |
+| 1 | 88% | 88% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### Együtt (Greens/EFA)
@@ -153,17 +153,17 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 12 | 99.8% | 11–12 | 11–12 | 11–13 | 11–13 |
+| Fidesz–KDNP (EPP) | 12 | 12 | 99.9% | 11–12 | 11–12 | 11–13 | 11–13 |
 | MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
-| Jobbik (AENM) | 3 | 3 | 0% | 3 | 3 | 3–4 | 2–4 |
+| Jobbik (AENM) | 3 | 3 | 0% | 3 | 3–4 | 3–4 | 2–4 |
 | MLP (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Fidesz–KDNP (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 19% | 99.8% | Majority |
+| 10 | 0.1% | 100% |  |
+| 11 | 19% | 99.9% | Majority |
 | 12 | 78% | 81% | Last Result, Median |
 | 13 | 3% | 3% |  |
 | 14 | 0% | 0% |  |
@@ -172,10 +172,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 15% | 99.9% |  |
-| 4 | 84% | 85% | Last Result, Median |
-| 5 | 0.9% | 0.9% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 18% | 99.8% |  |
+| 4 | 80% | 82% | Last Result, Median |
+| 5 | 1.3% | 1.3% |  |
 | 6 | 0% | 0% |  |
 
 ### Jobbik (AENM)
@@ -183,8 +183,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 93% | 98% | Last Result, Median |
-| 4 | 5% | 5% |  |
+| 3 | 92% | 98% | Last Result, Median |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 ### MLP (ALDE)
@@ -205,6 +205,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.54%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.52%
 
