@@ -78,7 +78,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3 | 2–4 |
+| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3 | 3–4 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
