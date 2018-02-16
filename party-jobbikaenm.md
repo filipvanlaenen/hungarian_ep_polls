@@ -11,27 +11,27 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.3% | 12.9–20.9% | 12.4–22.3% | 12.0–23.1% | 11.3–24.3% |
-| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
-| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
-| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.2% |
-| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 18.1% | 16.7–19.6% | 16.3–20.0% | 16.0–20.4% | 15.4–21.1% |
-| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
-| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 12.6% | 11.7–13.6% | 11.4–13.9% | 11.2–14.1% | 10.8–14.6% |
-| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 15.7% | 14.4–17.3% | 14.0–17.7% | 13.6–18.1% | 13.0–18.9% |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
-| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
-| [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
-| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 13.9% | 13.0–15.0% | 12.7–15.3% | 12.5–15.5% | 12.1–16.0% |
-| [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
-| [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 13.9% | 12.6–15.4% | 12.2–15.9% | 11.9–16.2% | 11.3–16.9% |
-| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
-| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
-| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 14.9% | 13.7–16.3% | 13.3–16.7% | 13.0–17.1% | 12.4–17.7% |
-| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
-| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
-| [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
-| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.5% |
-| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
+| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.0% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0.0% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.2% |
+| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 0.0% | 16.7–19.6% | 16.3–20.0% | 16.0–20.4% | 15.4–21.1% |
+| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
+| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | 11.7–13.6% | 11.4–13.9% | 11.2–14.1% | 10.8–14.6% |
+| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 0.0% | 14.4–17.3% | 14.0–17.7% | 13.6–18.1% | 13.0–18.9% |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 0.0% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
+| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.0% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0.0% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
+| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | 13.0–15.0% | 12.7–15.3% | 12.5–15.5% | 12.1–16.0% |
+| [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 0.0% | 12.6–15.4% | 12.2–15.9% | 11.9–16.2% | 11.3–16.9% |
+| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 0.0% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
+| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0.0% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
+| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 0.0% | 13.7–16.3% | 13.3–16.7% | 13.0–17.1% | 12.4–17.7% |
+| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 0.0% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
+| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.0% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
+| [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
+| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 0.0% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.5% |
+| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 
 ### Probability Mass Function
 

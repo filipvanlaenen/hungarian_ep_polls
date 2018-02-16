@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz–KDNP (EPP) | 51.5% | 48.0% | 46.6–49.4% |46.2–49.8% |45.8–50.2% |45.1–50.9% |
-| Jobbik (AENM) | 14.7% | 16.0% | 15.0–17.1% |14.7–17.4% |14.4–17.7% |14.0–18.2% |
+| Jobbik (—) | N/A | 16.0% | N/A |N/A |N/A |N/A |
 | MSZP (S&D) | 10.9% | 9.0% | 8.2–9.9% |8.0–10.1% |7.8–10.3% |7.5–10.8% |
 | LMP (Greens/EFA) | 5.0% | 8.0% | 7.3–8.8% |7.1–9.1% |6.9–9.3% |6.6–9.7% |
 | DK (S&D) | 9.8% | 8.0% | 7.3–8.8% |7.1–9.1% |6.9–9.3% |6.6–9.7% |
@@ -32,7 +32,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 11 | 11–12 |11–12 |11–12 |11–13 |
-| <a href="#jobbik-(aenm)">Jobbik (AENM)</a> | 3 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#jobbik-(—)">Jobbik (—)</a> | N/A | N/A | N/A |N/A |N/A |N/A |
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 2 |2 |1–2 |1–2 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–2 |
@@ -41,190 +41,4 @@
 | <a href="#mkkp-(—)">MKKP (—)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#mlp-(alde)">MLP (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
-
-### Fidesz–KDNP (EPP)
-
-*For a full overview of the results for this party, see the [Fidesz–KDNP (EPP)](party-fidesz–kdnpepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-fidesz–kdnpepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 50% | 99.7% | Median, Majority |
-| 12 | 48% | 50% | Last Result |
-| 13 | 2% | 2% |  |
-| 14 | 0% | 0% |  |
-
-### Jobbik (AENM)
-
-*For a full overview of the results for this party, see the [Jobbik (AENM)](party-jobbikaenm.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-jobbikaenm.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 28% | 100% | Last Result |
-| 4 | 72% | 72% | Median |
-| 5 | 0% | 0% |  |
-
-### MSZP (S&D)
-
-*For a full overview of the results for this party, see the [MSZP (S&D)](party-mszpsd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-mszpsd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Last Result, Median |
-| 3 | 0% | 0% |  |
-
-### LMP (Greens/EFA)
-
-*For a full overview of the results for this party, see the [LMP (Greens/EFA)](party-lmpgreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-lmpgreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 39% | 100% | Last Result |
-| 2 | 61% | 61% | Median |
-| 3 | 0% | 0% |  |
-
-### DK (S&D)
-
-*For a full overview of the results for this party, see the [DK (S&D)](party-dksd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-dksd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 42% | 100% |  |
-| 2 | 58% | 58% | Last Result, Median |
-| 3 | 0% | 0% |  |
-
-### MM (—)
-
-*For a full overview of the results for this party, see the [MM (—)](party-mm—.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-mm—.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% | Last Result |
-| 1 | 61% | 61% | Median |
-| 2 | 0% | 0% |  |
-
-### Együtt (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Együtt (Greens/EFA)](party-együttgreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-együttgreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### MKKP (—)
-
-*For a full overview of the results for this party, see the [MKKP (—)](party-mkkp—.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-mkkp—.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### Párbeszéd (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Párbeszéd (Greens/EFA)](party-párbeszédgreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-párbeszédgreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
-
-### MLP (ALDE)
-
-*For a full overview of the results for this party, see the [MLP (ALDE)](party-mlpalde.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-11-19-NézőpontIntézet-seats-pmf-mlpalde.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-
-## Coalitions
-
-![Graph with coalitions seats not yet produced](2017-11-19-NézőpontIntézet-coalitions-seats.png "Coalitions Seats")
-
-### Confidence Intervals
-
-| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 11 | 99.7% | 11–12 | 11–12 | 11–12 | 11–13 |
-| MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–4 | 3–4 | 3–4 | 2–4 |
-| Jobbik (AENM) | 3 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| LMP (Greens/EFA) – Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| MLP (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Fidesz–KDNP (EPP)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 50% | 99.7% | Median, Majority |
-| 12 | 48% | 50% | Last Result |
-| 13 | 2% | 2% |  |
-| 14 | 0% | 0% |  |
-
-### MSZP (S&D) – DK (S&D)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.1% | 100% |  |
-| 3 | 43% | 98.9% |  |
-| 4 | 56% | 56% | Last Result, Median |
-| 5 | 0% | 0% |  |
-
-### Jobbik (AENM)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 28% | 100% | Last Result |
-| 4 | 72% | 72% | Median |
-| 5 | 0% | 0% |  |
-
-### LMP (Greens/EFA) – Együtt (Greens/EFA) – Párbeszéd (Greens/EFA)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 39% | 100% |  |
-| 2 | 61% | 61% | Last Result, Median |
-| 3 | 0% | 0% |  |
-
-### MLP (ALDE)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-
-## Technical Information
-
-### Opinion Poll
-
-+ **Polling firm:** Nézőpont Intézet
-+ **Commissioner(s):** —
-+ **Fieldwork period:** 1–19 November 2017
-
-### Calculations
-
-+ **Sample size:** 2000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.76%
 

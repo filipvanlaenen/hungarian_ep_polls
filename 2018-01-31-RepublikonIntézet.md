@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz–KDNP (EPP) | 51.5% | 52.9% | 50.9–54.9% |50.3–55.5% |49.8–56.0% |48.8–56.9% |
-| Jobbik (AENM) | 14.7% | 18.0% | 16.5–19.6% |16.1–20.1% |15.7–20.5% |15.0–21.3% |
+| Jobbik (—) | N/A | 18.0% | N/A |N/A |N/A |N/A |
 | MSZP (S&D) | 10.9% | 13.0% | 11.7–14.5% |11.4–14.9% |11.1–15.2% |10.5–16.0% |
 | DK (S&D) | 9.8% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.5–7.1% |
 | LMP (Greens/EFA) | 5.0% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
@@ -31,7 +31,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 13 | 12–13 |12–14 |12–14 |11–14 |
-| <a href="#jobbik-(aenm)">Jobbik (AENM)</a> | 3 | 4 | 4 |3–5 |3–5 |3–5 |
+| <a href="#jobbik-(—)">Jobbik (—)</a> | N/A | N/A | N/A |N/A |N/A |N/A |
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -39,174 +39,4 @@
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mlp-(alde)">MLP (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mkkp-(—)">MKKP (—)</a> | 0 | 0 | 0 |0 |0 |0 |
-
-### Fidesz–KDNP (EPP)
-
-*For a full overview of the results for this party, see the [Fidesz–KDNP (EPP)](party-fidesz–kdnpepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-fidesz–kdnpepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.5% | 100% | Majority |
-| 12 | 42% | 99.5% | Last Result |
-| 13 | 52% | 57% | Median |
-| 14 | 5% | 5% |  |
-| 15 | 0% | 0% |  |
-
-### Jobbik (AENM)
-
-*For a full overview of the results for this party, see the [Jobbik (AENM)](party-jobbikaenm.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-jobbikaenm.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% | Last Result |
-| 4 | 87% | 94% | Median |
-| 5 | 7% | 7% |  |
-| 6 | 0% | 0% |  |
-
-### MSZP (S&D)
-
-*For a full overview of the results for this party, see the [MSZP (S&D)](party-mszpsd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-mszpsd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% | Last Result |
-| 3 | 83% | 83% | Median |
-| 4 | 0.5% | 0.5% |  |
-| 5 | 0% | 0% |  |
-
-### DK (S&D)
-
-*For a full overview of the results for this party, see the [DK (S&D)](party-dksd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-dksd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 95% | 95% | Median |
-| 2 | 0% | 0% | Last Result |
-
-### LMP (Greens/EFA)
-
-*For a full overview of the results for this party, see the [LMP (Greens/EFA)](party-lmpgreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-lmpgreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% |  |
-| 1 | 54% | 54% | Last Result, Median |
-| 2 | 0% | 0% |  |
-
-### MM (—)
-
-*For a full overview of the results for this party, see the [MM (—)](party-mm—.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-mm—.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
-| 2 | 0% | 0% |  |
-
-### Együtt (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Együtt (Greens/EFA)](party-együttgreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-együttgreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### MLP (ALDE)
-
-*For a full overview of the results for this party, see the [MLP (ALDE)](party-mlpalde.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-mlpalde.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### MKKP (—)
-
-*For a full overview of the results for this party, see the [MKKP (—)](party-mkkp—.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-31-RepublikonIntézet-seats-pmf-mkkp—.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-
-## Coalitions
-
-![Graph with coalitions seats not yet produced](2018-01-31-RepublikonIntézet-coalitions-seats.png "Coalitions Seats")
-
-### Confidence Intervals
-
-| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 13 | 100% | 12–13 | 12–14 | 12–14 | 11–14 |
-| Jobbik (AENM) | 3 | 4 | 0% | 4 | 3–5 | 3–5 | 3–5 |
-| MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| MLP (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Fidesz–KDNP (EPP)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.5% | 100% | Majority |
-| 12 | 42% | 99.5% | Last Result |
-| 13 | 52% | 57% | Median |
-| 14 | 5% | 5% |  |
-| 15 | 0% | 0% |  |
-
-### Jobbik (AENM)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% | Last Result |
-| 4 | 87% | 94% | Median |
-| 5 | 7% | 7% |  |
-| 6 | 0% | 0% |  |
-
-### MSZP (S&D) – DK (S&D)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% |  |
-| 3 | 21% | 99.6% |  |
-| 4 | 78% | 79% | Last Result, Median |
-| 5 | 0.4% | 0.4% |  |
-| 6 | 0% | 0% |  |
-
-### MLP (ALDE)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-
-## Technical Information
-
-### Opinion Poll
-
-+ **Polling firm:** Republikon Intézet
-+ **Commissioner(s):** 24.hu
-+ **Fieldwork period:** 1–31 January 2018
-
-### Calculations
-
-+ **Sample size:** 1000
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 1.72%
 
