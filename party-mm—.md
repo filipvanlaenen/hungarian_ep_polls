@@ -56,26 +56,26 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0 | 0 | 0 | 0–1 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0 | 0 | 0 | 0 | 0 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 0 | 0 | 0 | 0 | 0 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
-| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0–1 |
+| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0 | 0 | 0 | 0 |
-| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0–1 |
+| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
-| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0–1 | 0–1 |
-| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0–1 |
+| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0 | 0 | 0 | 0–1 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 0 | 0 | 0 | 0 | 0 |
-| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0–1 | 0–1 |
+| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0–1 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
-| [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
