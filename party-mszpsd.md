@@ -68,7 +68,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 2 | 2 | 2 | 1–2 | 1–3 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -89,7 +89,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 1–2 | 1–2 |
-| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 3 | 3 | 3 | 3–4 | 2–4 |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
@@ -101,9 +101,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 16% | 100% |  |
-| 2 | 51% | 84% | Last Result, Median |
+| 2 | 50% | 84% | Last Result, Median |
 | 3 | 24% | 34% |  |
-| 4 | 9% | 9% |  |
+| 4 | 10% | 10% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
