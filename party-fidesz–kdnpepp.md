@@ -107,7 +107,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 14 | 13–14 | 13–14 | 13–15 | 13–15 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
-| [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 11–13 | 11–13 |
 
