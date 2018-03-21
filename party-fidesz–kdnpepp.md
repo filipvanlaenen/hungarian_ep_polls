@@ -91,7 +91,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–15 | 10–15 | 10–15 | 9–16 |
-| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
+| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 11 | 11 | 11 | 11 | 11–12 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 12 | 12 | 12 | 12 | 12 |
 | [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
@@ -134,8 +134,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 1.0% | 100% |  |
 | 10 | 8% | 99.0% |  |
-| 11 | 34% | 91% | Majority |
-| 12 | 36% | 57% | Last Result, Median |
+| 11 | 35% | 91% | Majority |
+| 12 | 34% | 56% | Last Result, Median |
 | 13 | 9% | 21% |  |
 | 14 | 0.9% | 13% |  |
 | 15 | 10% | 12% |  |
