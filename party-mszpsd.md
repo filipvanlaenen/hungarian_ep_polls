@@ -83,15 +83,15 @@ Last result: **2** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 4 | 4 | 4 | 4 | 4 |
-| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 1–3 |
-| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 3 | 3 | 3 | 3 | 3 |
+| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2–3 |
+| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3 | 3 | 3 | 3 |
 | [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2–3 |
+| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 2 | 2 | 2 | 1–2 | 1–3 |
+| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 4 | 4 | 4 | 4 | 4 |
+| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 2 | 2 | 2 | 2 | 1–2 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -123,9 +123,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 11% | 100% |  |
-| 2 | 36% | 89% | Last Result |
-| 3 | 31% | 53% | Median |
-| 4 | 22% | 22% |  |
+| 2 | 30% | 89% | Last Result |
+| 3 | 35% | 59% | Median |
+| 4 | 24% | 24% |  |
 | 5 | 0% | 0% |  |
 
 

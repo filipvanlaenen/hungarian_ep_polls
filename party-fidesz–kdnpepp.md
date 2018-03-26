@@ -90,19 +90,19 @@ Last result: **12** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–15 | 10–15 | 10–15 | 9–16 |
-| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
+| N/A | [Poll Average](average.html) | 12 | 10–15 | 10–15 | 10–15 | 10–16 |
+| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 11 | 11 | 11 | 11 | 11–12 |
-| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
-| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
-| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13 | 12–13 | 12–13 | 11–13 | 11–14 |
-| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
-| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
-| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
-| [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
-| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
-| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
-| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
+| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 12 | 12 | 12 | 12 | 12 |
+| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12 | 12 | 12 | 11–12 |
+| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13 | 11–13 | 11–13 | 11–13 | 11–13 |
+| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
+| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 12 | 11–12 | 11–12 | 10–12 | 10–12 |
+| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13 | 13 | 12–13 |
+| [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 11 | 11 | 11 | 11 | 11 |
+| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 13 | 13 | 13 | 12–13 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 15 | 15–16 | 14–16 | 14–16 | 14–16 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
@@ -132,12 +132,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 1.0% | 100% |  |
-| 10 | 8% | 99.0% |  |
-| 11 | 35% | 91% | Majority |
-| 12 | 28% | 55% | Last Result, Median |
-| 13 | 14% | 27% |  |
-| 14 | 1.2% | 13% |  |
+| 10 | 11% | 100% |  |
+| 11 | 24% | 89% | Majority |
+| 12 | 43% | 65% | Last Result, Median |
+| 13 | 10% | 23% |  |
+| 14 | 0.8% | 12% |  |
 | 15 | 10% | 12% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0% | 0% |  |
