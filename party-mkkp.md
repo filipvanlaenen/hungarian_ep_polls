@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–2.2% | 0.1–2.5% | 0.1–2.7% | 0.1–3.2% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–2.2% | 0.1–2.5% | 0.1–2.7% | 0.1–3.1% |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
@@ -23,14 +23,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.2% | N/A | N/A | N/A | N/A |
-| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0.3% | N/A | N/A | N/A | N/A |
-| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 0.2% | N/A | N/A | N/A | N/A |
-| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
-| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 1.9% | N/A | N/A | N/A | N/A |
-| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 1.0% | N/A | N/A | N/A | N/A |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.2% | N/A | N/A | N/A | N/A |
+| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
+| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 1.9% | 1.6–2.4% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% |
+| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0.3% | N/A | N/A | N/A | N/A |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 2.0% | N/A | N/A | N/A | N/A |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.2% | N/A | N/A | N/A | N/A |
@@ -50,10 +50,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 51% | 100% | Last Result |
-| 0.5–1.5% | 23% | 49% | Median |
-| 1.5–2.5% | 22% | 27% |  |
-| 2.5–3.5% | 4% | 5% |  |
+| 0.0–0.5% | 54% | 100% | Last Result, Median |
+| 0.5–1.5% | 22% | 46% |  |
+| 1.5–2.5% | 19% | 23% |  |
+| 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -79,14 +79,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0 | 0 | 0 | 0 |
-| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
-| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI |  |  |  |  |  |
-| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu |  |  |  |  |  |
-| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
-| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
-| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
-| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
+| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
+| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0 | 0 | 0 | 0 | 0 |
+| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 0 | 0 | 0 | 0 | 0 |
+| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
+| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0–1 |
+| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
