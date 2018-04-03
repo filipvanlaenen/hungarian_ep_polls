@@ -98,7 +98,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 12 | 9–15 | 9–15 | 9–15 | 9–15 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12 | 12 | 12 | 12 |
-| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
+| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 11 | 11 | 11 | 11 | 11–12 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 12 | 12 | 12 | 12 | 12 |
 | [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12 | 12 | 12 | 11–12 |
@@ -141,8 +141,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 11% | 100% |  |
 | 10 | 3% | 89% |  |
-| 11 | 21% | 87% | Majority |
-| 12 | 43% | 65% | Last Result, Median |
+| 11 | 22% | 87% | Majority |
+| 12 | 42% | 65% | Last Result, Median |
 | 13 | 10% | 23% |  |
 | 14 | 0.4% | 12% |  |
 | 15 | 12% | 12% |  |
