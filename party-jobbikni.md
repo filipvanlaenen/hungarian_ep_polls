@@ -10,7 +10,9 @@ Last result: **14.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 11.8–23.8% | 10.7–25.3% | 10.1–26.1% | 9.3–27.4% |
+| N/A | [Poll Average](average.html) | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.5% | 16.0–22.4% |
+| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
+| [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
@@ -52,29 +54,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 0.8% | 99.9% |  |
-| 9.5–10.5% | 3% | 99.1% |  |
-| 10.5–11.5% | 5% | 96% |  |
-| 11.5–12.5% | 4% | 91% |  |
-| 12.5–13.5% | 5% | 87% |  |
-| 13.5–14.5% | 9% | 83% |  |
-| 14.5–15.5% | 12% | 74% | Last Result |
-| 15.5–16.5% | 12% | 62% |  |
-| 16.5–17.5% | 9% | 50% | Median |
-| 17.5–18.5% | 8% | 41% |  |
-| 18.5–19.5% | 8% | 33% |  |
-| 19.5–20.5% | 7% | 24% |  |
-| 20.5–21.5% | 4% | 18% |  |
-| 21.5–22.5% | 2% | 14% |  |
-| 22.5–23.5% | 2% | 12% |  |
-| 23.5–24.5% | 3% | 11% |  |
-| 24.5–25.5% | 4% | 8% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 1.1% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.4% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.1% | 100% | Last Result |
+| 15.5–16.5% | 2% | 99.9% |  |
+| 16.5–17.5% | 9% | 98% |  |
+| 17.5–18.5% | 24% | 89% |  |
+| 18.5–19.5% | 31% | 66% | Median |
+| 19.5–20.5% | 22% | 34% |  |
+| 20.5–21.5% | 9% | 12% |  |
+| 21.5–22.5% | 2% | 2% |  |
+| 22.5–23.5% | 0.3% | 0.3% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -85,7 +75,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–6 | 2–6 | 2–6 | 2–7 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 4 |
+| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 4 | 4 | 4 | 4 |
+| [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3 | 3 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -129,13 +121,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 13% | 99.9% |  |
-| 3 | 60% | 87% | Last Result, Median |
-| 4 | 11% | 27% |  |
-| 5 | 5% | 16% |  |
-| 6 | 10% | 11% |  |
-| 7 | 1.0% | 1.0% |  |
-| 8 | 0% | 0% |  |
+| 3 | 0% | 100% | Last Result |
+| 4 | 100% | 100% | Median |
 
 
