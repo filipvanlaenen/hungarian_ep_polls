@@ -12,7 +12,9 @@ Last result: **14.7%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.5% | 16.0–22.4% |
 | [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
+| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 19.9% | 18.3–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
+| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
@@ -77,7 +79,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 4 |
 | [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 4 | 4 | 4 | 4 |
+| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 4 | 4 | 4 | 4 | 4 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3 | 3 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
