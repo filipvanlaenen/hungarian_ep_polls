@@ -10,12 +10,12 @@ Last result: **51.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48.9% | 46.9–50.9% | 46.3–51.5% | 45.8–52.0% | 44.8–53.0% |
-| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 48.9% | 46.9–50.9% | 46.3–51.5% | 45.8–52.0% | 44.8–53.0% |
+| N/A | [Poll Average](average.html) | 49.7% | 41.9–61.4% | 40.4–63.1% | 39.5–64.0% | 38.1–65.4% |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 44.6% | 42.6–46.7% | 42.1–47.2% | 41.6–47.7% | 40.6–48.7% |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 51.0% | 49.0–53.0% | 48.4–53.6% | 47.9–54.1% | 46.9–55.1% |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 52.8% | 51.0–54.7% | 50.4–55.2% | 50.0–55.6% | 49.1–56.5% |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 40.8% | 38.8–42.8% | 38.3–43.4% | 37.8–43.9% | 36.9–44.9% |
+| [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 48.9% | 46.9–50.9% | 46.3–51.5% | 45.8–52.0% | 44.8–53.0% |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 51.7% | 49.7–53.7% | 49.1–54.3% | 48.6–54.8% | 47.6–55.8% |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 48.8% | 46.7–50.8% | 46.2–51.4% | 45.7–51.9% | 44.7–52.8% |
@@ -56,19 +56,39 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0.3% | 100% |  |
-| 44.5–45.5% | 1.4% | 99.7% |  |
-| 45.5–46.5% | 5% | 98% |  |
-| 46.5–47.5% | 13% | 93% |  |
-| 47.5–48.5% | 21% | 80% |  |
-| 48.5–49.5% | 25% | 59% | Median |
-| 49.5–50.5% | 19% | 34% |  |
-| 50.5–51.5% | 10% | 15% | Last Result |
-| 51.5–52.5% | 4% | 5% |  |
-| 52.5–53.5% | 0.9% | 1.0% |  |
-| 53.5–54.5% | 0.1% | 0.2% |  |
-| 54.5–55.5% | 0% | 0% |  |
+| 35.5–36.5% | 0% | 100% |  |
+| 36.5–37.5% | 0.2% | 100% |  |
+| 37.5–38.5% | 0.7% | 99.8% |  |
+| 38.5–39.5% | 2% | 99.1% |  |
+| 39.5–40.5% | 3% | 97% |  |
+| 40.5–41.5% | 3% | 95% |  |
+| 41.5–42.5% | 3% | 91% |  |
+| 42.5–43.5% | 3% | 88% |  |
+| 43.5–44.5% | 4% | 85% |  |
+| 44.5–45.5% | 5% | 81% |  |
+| 45.5–46.5% | 5% | 76% |  |
+| 46.5–47.5% | 6% | 71% |  |
+| 47.5–48.5% | 6% | 65% |  |
+| 48.5–49.5% | 7% | 58% |  |
+| 49.5–50.5% | 8% | 51% | Median |
+| 50.5–51.5% | 9% | 43% | Last Result |
+| 51.5–52.5% | 9% | 35% |  |
+| 52.5–53.5% | 7% | 26% |  |
+| 53.5–54.5% | 4% | 19% |  |
+| 54.5–55.5% | 2% | 15% |  |
+| 55.5–56.5% | 0.4% | 13% |  |
+| 56.5–57.5% | 0.1% | 13% |  |
+| 57.5–58.5% | 0% | 13% |  |
+| 58.5–59.5% | 0.2% | 12% |  |
+| 59.5–60.5% | 0.7% | 12% |  |
+| 60.5–61.5% | 2% | 12% |  |
+| 61.5–62.5% | 3% | 10% |  |
+| 62.5–63.5% | 3% | 7% |  |
+| 63.5–64.5% | 2% | 4% |  |
+| 64.5–65.5% | 1.0% | 1.4% |  |
+| 65.5–66.5% | 0.3% | 0.4% |  |
+| 66.5–67.5% | 0.1% | 0.1% |  |
+| 67.5–68.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,12 +99,12 @@ Last result: **12** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
-| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
+| N/A | [Poll Average](average.html) | 12 | 10–15 | 10–15 | 9–15 | 9–15 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 12 | 12 | 12 | 12 | 12–13 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12 | 12 | 12 | 12 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 11 | 11 | 11 | 11 | 11–12 |
@@ -103,7 +123,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 12 | 12 | 12 | 12 | 12 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13 | 13 | 13–14 |
-| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–12 | 11–12 | 10–13 |
+| [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 12 | 12 | 12 | 12 | 11–12 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
@@ -127,9 +147,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 70% | 100% | Median, Majority |
-| 12 | 29% | 30% | Last Result |
-| 13 | 0.9% | 0.9% |  |
-| 14 | 0% | 0% |  |
+| 9 | 3% | 100% |  |
+| 10 | 16% | 97% |  |
+| 11 | 19% | 81% | Majority |
+| 12 | 48% | 62% | Last Result, Median |
+| 13 | 0.8% | 13% |  |
+| 14 | 0.4% | 12% |  |
+| 15 | 12% | 12% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
 
 
