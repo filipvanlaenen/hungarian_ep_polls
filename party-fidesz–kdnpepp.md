@@ -106,16 +106,16 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–13 | 11–13 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 11 | 11 | 11 | 11 | 11–12 |
-| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 12 | 12 | 12 | 12 | 12 |
-| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12 | 12 | 12 | 11–12 |
-| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13 | 11–13 | 11–13 | 11–13 | 11–13 |
-| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
-| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 12 | 11–12 | 11–12 | 10–12 | 10–12 |
+| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
+| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12 | 12–13 | 11–13 | 11–13 |
+| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
+| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
+| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13 | 13 | 12–13 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 11 | 11 | 11 | 11 | 11 |
-| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
-| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 13 | 13 | 13 | 12–13 |
+| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 15 | 15 | 15 | 14–15 | 14–16 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 12 | 12 | 12 | 12 | 12 |
