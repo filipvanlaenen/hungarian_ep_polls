@@ -87,9 +87,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 2–6 | 2–6 | 2–7 |
+| N/A | [Poll Average](average.html) | 3 | 3–6 | 3–6 | 2–6 | 2–7 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 4 | 4 | 4 | 4 | 4 |
+| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3–4 | 3–4 |
@@ -109,7 +109,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 3 | 3 | 3 | 3 | 2–3 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 4 | 4 | 4 | 4 | 4 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2–3 | 2–3 |
+| [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 5 | 5 | 5 | 5 | 5 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -134,9 +134,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% |  |
-| 3 | 43% | 94% | Last Result |
-| 4 | 34% | 50% | Median |
+| 2 | 3% | 100% |  |
+| 3 | 52% | 97% | Last Result, Median |
+| 4 | 28% | 45% |  |
 | 5 | 6% | 16% |  |
 | 6 | 10% | 11% |  |
 | 7 | 1.0% | 1.0% |  |
