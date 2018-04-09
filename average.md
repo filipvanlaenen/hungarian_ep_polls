@@ -17,7 +17,7 @@ The table below lists the polls on which the average is based. They are the most
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 49–55% <br> 12–13 | 13–17% <br> 3–4 | 9–13% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | 0–1% <br> 0 | 6–10% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–1 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 44–50% <br> 10–12 | 17–22% <br> 4–5 | 11–15% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0–1 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 46–52% <br> 10–12 | 15–19% <br> 3–4 | 16–20% <br> 3–5 | 4–7% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 6–10% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 60–66% <br> 15–16 | 12–16% <br> 3 | 6–9% <br> 1–2 | 5–8% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 60–66% <br> 14–16 | 12–16% <br> 3–4 | 6–9% <br> 1–2 | 5–8% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -288,9 +288,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 23% | 87% | Majority |
 | 12 | 34% | 64% | Last Result, Median |
 | 13 | 17% | 30% |  |
-| 14 | 0.8% | 13% |  |
-| 15 | 12% | 12% |  |
-| 16 | 0.6% | 0.6% |  |
+| 14 | 1.3% | 13% |  |
+| 15 | 11% | 12% |  |
+| 16 | 0.7% | 0.7% |  |
 | 17 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -303,7 +303,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
 | 3 | 45% | 97% | Last Result |
-| 4 | 35% | 52% | Median |
+| 4 | 36% | 52% | Median |
 | 5 | 6% | 16% |  |
 | 6 | 10% | 11% |  |
 | 7 | 1.0% | 1.0% |  |
@@ -317,8 +317,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 12% | 100% |  |
-| 2 | 26% | 88% | Last Result |
+| 1 | 11% | 100% |  |
+| 2 | 26% | 89% | Last Result |
 | 3 | 41% | 62% | Median |
 | 4 | 21% | 22% |  |
 | 5 | 0.4% | 0.4% |  |
@@ -367,7 +367,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% |  |
-| 1 | 64% | 91% | Last Result, Median |
+| 1 | 63% | 91% | Last Result, Median |
 | 2 | 28% | 28% |  |
 | 3 | 0% | 0% |  |
 
@@ -427,9 +427,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 23% | 87% | Majority |
 | 12 | 34% | 64% | Last Result, Median |
 | 13 | 17% | 30% |  |
-| 14 | 0.8% | 13% |  |
-| 15 | 12% | 12% |  |
-| 16 | 0.6% | 0.6% |  |
+| 14 | 1.3% | 13% |  |
+| 15 | 11% | 12% |  |
+| 16 | 0.7% | 0.7% |  |
 | 17 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -438,7 +438,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
 | 3 | 45% | 97% | Last Result |
-| 4 | 35% | 52% | Median |
+| 4 | 36% | 52% | Median |
 | 5 | 6% | 16% |  |
 | 6 | 10% | 11% |  |
 | 7 | 1.0% | 1.0% |  |
@@ -448,8 +448,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% |  |
-| 3 | 20% | 88% |  |
+| 2 | 11% | 100% |  |
+| 3 | 21% | 89% |  |
 | 4 | 41% | 68% | Last Result, Median |
 | 5 | 26% | 27% |  |
 | 6 | 0.4% | 0.4% |  |
@@ -460,7 +460,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% |  |
-| 1 | 64% | 91% | Median |
+| 1 | 63% | 91% | Median |
 | 2 | 28% | 28% | Last Result |
 | 3 | 0% | 0% |  |
 
