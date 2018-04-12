@@ -104,7 +104,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 1–2 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
