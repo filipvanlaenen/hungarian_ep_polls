@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 48–54% <br> 11–13 | 11–15% <br> 2–3 | 13–17% <br> 3–4 | 5–8% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 50–56% <br> 12–14 | 14–18% <br> 3–4 | 10–14% <br> 2–3 | 5–7% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 38–44% <br> 9–11 | 22–28% <br> 5–7 | 10–14% <br> 2–3 | 6–9% <br> 1–2 | N/A <br> N/A | 0–1% <br> 0 | 6–10% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–1 |
@@ -23,7 +24,7 @@ The table below lists all polls registered and analyzed so far.
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 11–13 | 12–16% <br> 2–3 | 8–12% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 8–12% <br> 2 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 50–56% <br> 12–14 | 16–21% <br> 3–5 | 11–15% <br> 2–3 | 4–7% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 1–2% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0–1 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 11–13 | 14–18% <br> 3–4 | 11–15% <br> 2–3 | 5–8% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 | 6–10% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 60–66% <br> 14–16 | 12–16% <br> 3–4 | 6–9% <br> 1–2 | 5–8% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 60–66% <br> 14–16 | 12–16% <br> 2–4 | 6–9% <br> 1–2 | 5–8% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 50–56% <br> 12–13 | 16–20% <br> 3–5 | 9–13% <br> 2–3 | 7–11% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 5–7% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 47–53% <br> 11–13 | 14–18% <br> 3–4 | 11–15% <br> 2–3 | 6–10% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 50–55% <br> 12–14 | 11–14% <br> 2–3 | 8–10% <br> 2 | 7–9% <br> 1–2 | 1% <br> 0 | 1% <br> 0 | 7–9% <br> 1–2 | 1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 |
