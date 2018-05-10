@@ -10,7 +10,9 @@ Last result: **10.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 7.9–18.4% | 7.0–19.3% | 6.5–20.0% | 5.8–21.2% |
+| N/A | [Poll Average](average.html) | 13.3% | 10.2–16.8% | 9.7–17.6% | 9.4–18.2% | 8.8–19.3% |
+| [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 18.9% | 17.4–20.5% | 16.9–21.0% | 16.6–21.4% | 15.9–22.3% |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 12.0% | 10.9–13.3% | 10.5–13.7% | 10.3–14.0% | 9.8–14.6% |
@@ -56,26 +58,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 3% | 99.8% |  |
-| 6.5–7.5% | 6% | 97% |  |
-| 7.5–8.5% | 3% | 92% |  |
-| 8.5–9.5% | 2% | 88% |  |
-| 9.5–10.5% | 5% | 87% |  |
-| 10.5–11.5% | 12% | 82% | Last Result |
-| 11.5–12.5% | 15% | 69% |  |
-| 12.5–13.5% | 12% | 54% | Median |
-| 13.5–14.5% | 8% | 42% |  |
-| 14.5–15.5% | 6% | 34% |  |
-| 15.5–16.5% | 6% | 28% |  |
-| 16.5–17.5% | 6% | 22% |  |
-| 17.5–18.5% | 6% | 15% |  |
-| 18.5–19.5% | 5% | 9% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 1.0% | 1.3% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 3% | 99.8% |  |
+| 9.5–10.5% | 9% | 96% |  |
+| 10.5–11.5% | 11% | 87% | Last Result |
+| 11.5–12.5% | 15% | 76% |  |
+| 12.5–13.5% | 14% | 61% | Median |
+| 13.5–14.5% | 12% | 47% |  |
+| 14.5–15.5% | 12% | 34% |  |
+| 15.5–16.5% | 10% | 22% |  |
+| 16.5–17.5% | 7% | 12% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 1.3% | 2% |  |
+| 19.5–20.5% | 0.3% | 0.3% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -86,7 +83,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
+| [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -134,11 +133,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 11% | 100% |  |
-| 2 | 28% | 89% | Last Result |
-| 3 | 36% | 60% | Median |
-| 4 | 21% | 24% |  |
-| 5 | 3% | 3% |  |
+| 2 | 33% | 100% | Last Result |
+| 3 | 51% | 67% | Median |
+| 4 | 16% | 16% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 
