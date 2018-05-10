@@ -45,8 +45,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
-| 11 | 32% | 99.7% | Majority |
-| 12 | 65% | 68% | Last Result, Median |
+| 11 | 29% | 99.7% | Majority |
+| 12 | 68% | 71% | Last Result, Median |
 | 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
@@ -58,8 +58,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% | Last Result |
-| 4 | 89% | 94% | Median |
+| 3 | 5% | 100% | Last Result |
+| 4 | 89% | 95% | Median |
 | 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
@@ -96,8 +96,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 6% | 6% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
 ### MKKP (*)
@@ -137,8 +137,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
-| 11 | 32% | 99.7% | Majority |
-| 12 | 65% | 68% | Last Result, Median |
+| 11 | 29% | 99.7% | Majority |
+| 12 | 68% | 71% | Last Result, Median |
 | 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
@@ -146,8 +146,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% | Last Result |
-| 4 | 89% | 94% | Median |
+| 3 | 5% | 100% | Last Result |
+| 4 | 89% | 95% | Median |
 | 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
@@ -163,6 +163,6 @@
 ### Calculations
 
 + **Sample size:** 995
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.36%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.55%
 
