@@ -10,7 +10,8 @@ Last result: **14.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.4% | 13.6–24.2% | 12.6–25.5% | 12.1–26.2% | 11.2–27.5% |
+| N/A | [Poll Average](average.html) | 18.7% | 13.6–24.3% | 12.6–25.5% | 12.1–26.2% | 11.2–27.5% |
+| [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 19.9% | 18.3–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
@@ -26,7 +27,7 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
 | [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 23.9% | 22.2–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
-| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 12.9% | 12.0–14.0% | 11.8–14.3% | 11.5–14.5% | 11.1–15.0% |
+| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.5–14.5% | 11.1–15.0% |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 17.2% | 15.7–18.8% | 15.3–19.3% | 15.0–19.7% | 14.3–20.5% |
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 15.9% | 14.5–17.4% | 14.1–17.9% | 13.7–18.3% | 13.1–19.0% |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
@@ -40,7 +41,7 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 16.1% | N/A | N/A | N/A | N/A |
-| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 13.9% | N/A | N/A | N/A | N/A |
+| [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 14.0% | N/A | N/A | N/A | N/A |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 14.0% | N/A | N/A | N/A | N/A |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 13.9% | N/A | N/A | N/A | N/A |
 | [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 20.7% | N/A | N/A | N/A | N/A |
@@ -66,14 +67,14 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 4% | 90% |  |
 | 14.5–15.5% | 5% | 86% | Last Result |
 | 15.5–16.5% | 7% | 81% |  |
-| 16.5–17.5% | 10% | 74% |  |
-| 17.5–18.5% | 16% | 64% | Median |
-| 18.5–19.5% | 19% | 48% |  |
-| 19.5–20.5% | 11% | 29% |  |
-| 20.5–21.5% | 4% | 19% |  |
-| 21.5–22.5% | 1.2% | 15% |  |
-| 22.5–23.5% | 2% | 14% |  |
-| 23.5–24.5% | 3% | 12% |  |
+| 16.5–17.5% | 9% | 74% |  |
+| 17.5–18.5% | 13% | 66% |  |
+| 18.5–19.5% | 15% | 53% | Median |
+| 19.5–20.5% | 11% | 37% |  |
+| 20.5–21.5% | 7% | 26% |  |
+| 21.5–22.5% | 4% | 20% |  |
+| 22.5–23.5% | 3% | 16% |  |
+| 23.5–24.5% | 4% | 13% |  |
 | 24.5–25.5% | 4% | 9% |  |
 | 25.5–26.5% | 3% | 5% |  |
 | 26.5–27.5% | 1.3% | 2% |  |
@@ -91,6 +92,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
+| [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -142,9 +144,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
 | 3 | 18% | 97% | Last Result |
-| 4 | 57% | 79% | Median |
-| 5 | 10% | 22% |  |
-| 6 | 11% | 12% |  |
+| 4 | 49% | 79% | Median |
+| 5 | 17% | 30% |  |
+| 6 | 11% | 13% |  |
 | 7 | 1.2% | 1.2% |  |
 | 8 | 0% | 0% |  |
 
