@@ -28,12 +28,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 12 | 11–12 |11–13 |11–13 |11–13 |
+| <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 12 | 11–12 |11–12 |11–13 |11–13 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 5 | 4–5 |4–5 |4–5 |4–6 |
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 2 |2–3 |2–3 |2–3 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Fidesz–KDNP (EPP)
@@ -44,10 +44,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 32% | 99.7% | Majority |
-| 12 | 61% | 67% | Last Result, Median |
-| 13 | 6% | 6% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 30% | 99.6% | Majority |
+| 12 | 65% | 70% | Last Result, Median |
+| 13 | 4% | 4% |  |
 | 14 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -59,9 +59,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 20% | 100% |  |
-| 5 | 78% | 80% | Median |
-| 6 | 2% | 2% |  |
+| 4 | 33% | 100% |  |
+| 5 | 66% | 67% | Median |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 ### MSZP (S&D)
@@ -74,7 +74,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 91% | 99.9% | Last Result, Median |
-| 3 | 8% | 8% |  |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 64% | 100% | Median |
-| 2 | 36% | 36% | Last Result |
+| 1 | 54% | 100% | Median |
+| 2 | 46% | 46% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -97,9 +97,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 99.2% | 99.6% | Last Result, Median |
-| 2 | 0.4% | 0.4% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 99.5% | 99.8% | Last Result, Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 
 ### MKKP (*)
@@ -133,18 +133,18 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 12 | 99.7% | 11–12 | 11–13 | 11–13 | 11–13 |
+| Fidesz–KDNP (EPP) | 12 | 12 | 99.6% | 11–12 | 11–12 | 11–13 | 11–13 |
 | Jobbik (NI) | 3 | 5 | 0% | 4–5 | 4–5 | 4–5 | 4–6 |
-| MSZP (S&D) – DK (S&D) | 4 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
+| MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
 
 ### Fidesz–KDNP (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 32% | 99.7% | Majority |
-| 12 | 61% | 67% | Last Result, Median |
-| 13 | 6% | 6% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 30% | 99.6% | Majority |
+| 12 | 65% | 70% | Last Result, Median |
+| 13 | 4% | 4% |  |
 | 14 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -152,18 +152,18 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 20% | 100% |  |
-| 5 | 78% | 80% | Median |
-| 6 | 2% | 2% |  |
+| 4 | 33% | 100% |  |
+| 5 | 66% | 67% | Median |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 ### MSZP (S&D) – DK (S&D)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 58% | 100% | Median |
-| 4 | 40% | 42% | Last Result |
-| 5 | 2% | 2% |  |
+| 3 | 48% | 100% | Median |
+| 4 | 49% | 52% | Last Result |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 
@@ -178,6 +178,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
++ **Simulations done:** 1,048,576
 + **Error estimate:** 1.69%
 
