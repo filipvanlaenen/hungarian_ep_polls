@@ -12,6 +12,7 @@ Last result: **14.7%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.7% | 13.6–24.3% | 12.6–25.5% | 12.1–26.2% | 11.2–27.5% |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
+| [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 19.9% | 18.3–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
@@ -68,7 +69,7 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 5% | 86% | Last Result |
 | 15.5–16.5% | 7% | 81% |  |
 | 16.5–17.5% | 9% | 74% |  |
-| 17.5–18.5% | 13% | 66% |  |
+| 17.5–18.5% | 13% | 65% |  |
 | 18.5–19.5% | 15% | 53% | Median |
 | 19.5–20.5% | 11% | 37% |  |
 | 20.5–21.5% | 7% | 26% |  |
@@ -93,6 +94,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -144,8 +146,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
 | 3 | 18% | 97% | Last Result |
-| 4 | 51% | 79% | Median |
-| 5 | 16% | 28% |  |
+| 4 | 50% | 79% | Median |
+| 5 | 16% | 29% |  |
 | 6 | 11% | 12% |  |
 | 7 | 1.2% | 1.2% |  |
 | 8 | 0% | 0% |  |
