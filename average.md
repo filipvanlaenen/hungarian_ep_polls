@@ -245,7 +245,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1–2 |0–2 | 0–2 | 0–2 |
 | <a href="#mlp-(alde)">MLP (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
-| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
 
 ### Fidesz–KDNP (EPP)
 
@@ -287,8 +287,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 42% | 98% | Last Result |
+| 1 | 1.5% | 100% |  |
+| 2 | 43% | 98.5% | Last Result |
 | 3 | 38% | 56% | Median |
 | 4 | 18% | 18% |  |
 | 5 | 0.2% | 0.2% |  |
@@ -408,7 +408,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 38% | 98% |  |
+| 3 | 39% | 98% |  |
 | 4 | 44% | 60% | Last Result, Median |
 | 5 | 16% | 16% |  |
 | 6 | 0.1% | 0.1% |  |
