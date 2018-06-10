@@ -94,7 +94,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
-| [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 4 | 4 | 4–5 | 3–5 |
+| [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 4 | 4 | 4–5 | 4–5 |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
