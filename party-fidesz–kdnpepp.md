@@ -11,6 +11,8 @@ Last result: **51.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 50.1% | 41.6–54.1% | 40.2–54.8% | 39.4–55.3% | 38.0–56.2% |
+| [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.0% | 53.0–57.0% | 52.4–57.6% | 51.9–58.1% | 50.9–59.0% |
+| [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 59.0% | 57.2–60.8% | 56.6–61.3% | 56.2–61.8% | 55.3–62.6% |
 | [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 54.0% | 52.6–55.4% | 52.2–55.8% | 51.8–56.2% | 51.1–56.9% |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 44.0–52.1% |
@@ -95,6 +97,8 @@ Last result: **12** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
+| [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 13 | 12–14 | 12–14 | 12–14 |
+| [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 14 | 14 | 14–15 | 14–15 | 14–15 |
 | [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
