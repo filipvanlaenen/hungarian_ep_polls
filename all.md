@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 52–58% <br> 12–14 | 15–19% <br> 3–5 | 7–11% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
+| [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 56–62% <br> 14–15 | 14–18% <br> 3–4 | 9–13% <br> 2 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
 | [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 52–56% <br> 12–13 | 17–21% <br> 4–5 | 8–10% <br> 1–2 | 4–6% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 47–53% <br> 11–13 | 19–24% <br> 4–5 | 9–13% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0–1 |
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 45–51% <br> 11–13 | 16–20% <br> 3–5 | 13–17% <br> 3–4 | 3–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 4–6% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 2–4% <br> 0–1 |
