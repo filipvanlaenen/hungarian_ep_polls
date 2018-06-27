@@ -265,8 +265,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 10% | 97% |  |
 | 11 | 13% | 87% | Majority |
 | 12 | 34% | 74% | Last Result, Median |
-| 13 | 22% | 40% |  |
-| 14 | 15% | 19% |  |
+| 13 | 24% | 40% |  |
+| 14 | 14% | 17% |  |
 | 15 | 3% | 3% |  |
 | 16 | 0% | 0% |  |
 
@@ -279,8 +279,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 23% | 97% | Last Result |
-| 4 | 55% | 74% | Median |
+| 3 | 22% | 97% | Last Result |
+| 4 | 56% | 75% | Median |
 | 5 | 7% | 19% |  |
 | 6 | 11% | 12% |  |
 | 7 | 1.2% | 1.2% |  |
@@ -294,8 +294,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 46% | 96% | Last Result |
+| 1 | 3% | 100% |  |
+| 2 | 46% | 97% | Last Result |
 | 3 | 33% | 51% | Median |
 | 4 | 18% | 18% |  |
 | 5 | 0.2% | 0.2% |  |
@@ -394,8 +394,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 10% | 97% |  |
 | 11 | 13% | 87% | Majority |
 | 12 | 34% | 74% | Last Result, Median |
-| 13 | 22% | 40% |  |
-| 14 | 15% | 19% |  |
+| 13 | 24% | 40% |  |
+| 14 | 14% | 17% |  |
 | 15 | 3% | 3% |  |
 | 16 | 0% | 0% |  |
 
@@ -404,8 +404,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 23% | 97% | Last Result |
-| 4 | 55% | 74% | Median |
+| 3 | 22% | 97% | Last Result |
+| 4 | 56% | 75% | Median |
 | 5 | 7% | 19% |  |
 | 6 | 11% | 12% |  |
 | 7 | 1.2% | 1.2% |  |
@@ -415,8 +415,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 46% | 96% |  |
+| 2 | 3% | 100% |  |
+| 3 | 47% | 97% |  |
 | 4 | 35% | 50% | Last Result, Median |
 | 5 | 15% | 15% |  |
 | 6 | 0.1% | 0.1% |  |
