@@ -251,7 +251,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
 | <a href="#mlp-(alde)">MLP (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
-| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
 
 ### Fidesz–KDNP (EPP)
 
@@ -265,9 +265,9 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 10% | 97% |  |
 | 11 | 13% | 87% | Majority |
 | 12 | 34% | 74% | Last Result, Median |
-| 13 | 24% | 40% |  |
-| 14 | 14% | 17% |  |
-| 15 | 3% | 3% |  |
+| 13 | 23% | 40% |  |
+| 14 | 13% | 17% |  |
+| 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -279,8 +279,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 22% | 97% | Last Result |
-| 4 | 56% | 75% | Median |
+| 3 | 21% | 97% | Last Result |
+| 4 | 57% | 75% | Median |
 | 5 | 7% | 19% |  |
 | 6 | 11% | 12% |  |
 | 7 | 1.2% | 1.2% |  |
@@ -295,8 +295,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% |  |
-| 2 | 46% | 97% | Last Result |
-| 3 | 33% | 51% | Median |
+| 2 | 47% | 97% | Last Result |
+| 3 | 32% | 50% | Median |
 | 4 | 18% | 18% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
@@ -311,7 +311,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% |  |
 | 1 | 89% | 93% | Median |
-| 2 | 4% | 4% | Last Result |
+| 2 | 3% | 3% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Együtt (Greens/EFA)
@@ -382,7 +382,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz–KDNP (EPP) | 12 | 12 | 87% | 10–14 | 10–14 | 9–15 | 9–15 |
 | Jobbik (NI) | 3 | 4 | 0% | 3–6 | 3–6 | 2–6 | 2–7 |
-| MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–5 | 3–5 | 2–5 | 2–5 |
+| MSZP (S&D) – DK (S&D) | 4 | 3 | 0% | 3–5 | 3–5 | 2–5 | 2–5 |
 | Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) – LMP (Greens/EFA) | 2 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
 | MLP (ALDE) – MM (ALDE) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
 
@@ -394,9 +394,9 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 10% | 97% |  |
 | 11 | 13% | 87% | Majority |
 | 12 | 34% | 74% | Last Result, Median |
-| 13 | 24% | 40% |  |
-| 14 | 14% | 17% |  |
-| 15 | 3% | 3% |  |
+| 13 | 23% | 40% |  |
+| 14 | 13% | 17% |  |
+| 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -404,8 +404,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 22% | 97% | Last Result |
-| 4 | 56% | 75% | Median |
+| 3 | 21% | 97% | Last Result |
+| 4 | 57% | 75% | Median |
 | 5 | 7% | 19% |  |
 | 6 | 11% | 12% |  |
 | 7 | 1.2% | 1.2% |  |
@@ -416,8 +416,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 47% | 97% |  |
-| 4 | 35% | 50% | Last Result, Median |
+| 3 | 48% | 97% |  |
+| 4 | 34% | 49% | Last Result, Median |
 | 5 | 15% | 15% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -435,8 +435,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 9% | 9% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 
