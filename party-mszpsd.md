@@ -10,7 +10,8 @@ Last result: **10.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 8.7–17.1% | 8.3–17.8% | 8.0–18.3% | 7.4–19.3% |
+| N/A | [Poll Average](average.html) | 11.1% | 8.5–16.4% | 8.2–17.0% | 7.9–17.5% | 7.3–18.4% |
+| [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.2% |
 | [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
@@ -65,21 +66,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.6% | 100% |  |
-| 7.5–8.5% | 7% | 99.3% |  |
-| 8.5–9.5% | 15% | 93% |  |
-| 9.5–10.5% | 11% | 78% |  |
-| 10.5–11.5% | 11% | 67% | Last Result |
-| 11.5–12.5% | 9% | 56% | Median |
-| 12.5–13.5% | 5% | 48% |  |
-| 13.5–14.5% | 6% | 42% |  |
-| 14.5–15.5% | 10% | 37% |  |
-| 15.5–16.5% | 12% | 27% |  |
-| 16.5–17.5% | 9% | 15% |  |
-| 17.5–18.5% | 5% | 6% |  |
-| 18.5–19.5% | 1.5% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.3% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.9% | 100% |  |
+| 7.5–8.5% | 9% | 99.1% |  |
+| 8.5–9.5% | 21% | 90% |  |
+| 9.5–10.5% | 14% | 69% |  |
+| 10.5–11.5% | 10% | 56% | Last Result, Median |
+| 11.5–12.5% | 5% | 46% |  |
+| 12.5–13.5% | 3% | 41% |  |
+| 13.5–14.5% | 7% | 38% |  |
+| 14.5–15.5% | 12% | 31% |  |
+| 15.5–16.5% | 11% | 20% |  |
+| 16.5–17.5% | 6% | 8% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.3% | 0.4% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -90,7 +90,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
+| [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -146,11 +147,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 47% | 97% | Last Result |
-| 3 | 30% | 50% | Median |
-| 4 | 20% | 20% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 1 | 4% | 100% |  |
+| 2 | 53% | 96% | Last Result, Median |
+| 3 | 31% | 43% |  |
+| 4 | 12% | 12% |  |
+| 5 | 0% | 0% |  |
 
 
