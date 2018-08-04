@@ -45,9 +45,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 11% | 99.9% | Majority |
-| 12 | 78% | 89% | Last Result, Median |
-| 13 | 10% | 10% |  |
+| 11 | 13% | 99.9% | Majority |
+| 12 | 68% | 87% | Last Result, Median |
+| 13 | 18% | 18% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
@@ -73,8 +73,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% | Last Result |
-| 3 | 60% | 99.9% | Median |
-| 4 | 39% | 39% |  |
+| 3 | 69% | 99.9% | Median |
+| 4 | 30% | 31% |  |
 | 5 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 97% | 97% | Last Result, Median |
+| 0 | 4% | 100% |  |
+| 1 | 96% | 96% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -140,9 +140,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 11% | 99.9% | Majority |
-| 12 | 78% | 89% | Last Result, Median |
-| 13 | 10% | 10% |  |
+| 11 | 13% | 99.9% | Majority |
+| 12 | 68% | 87% | Last Result, Median |
+| 13 | 18% | 18% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
@@ -167,6 +167,6 @@
 ### Calculations
 
 + **Sample size:** 995
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.13%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.56%
 
