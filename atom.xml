@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-08-05T20:40:38.938025+02:00</updated>
+  <updated>2018-08-05T21:41:56.835816+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 53.6–59.7%, 13–14 seats</li><li>MSZP (S&amp;D): 8.6–12.3%, 2–3 seats</li><li>Jobbik (NI): 11.4–15.7%, 2–3 seats</li><li>LMP (Greens/EFA): 4.0–6.8%, 1 seats</li><li>DK (S&amp;D): 5.7–9.0%, 1–2 seats</li><li>MKKP (*): 2.2–4.4%, 0–1 seats</li><li>MM (ALDE): 0.5–1.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-07-18-ZRIZáveczResearch.html</id>
@@ -70,6 +70,14 @@
     <title>Opinion Poll by Medián for hvg.hu, 28 May–1 June 2018</title>
     <updated>2018-08-05T18:17:45.244945+02:00</updated>
     <dc:date>2018-08-05T18:17:45.244945+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 51.8–56.2%, 12–13 seats</li><li>MSZP (S&amp;D): 7.8–10.3%, 1–2 seats</li><li>Jobbik (NI): 17.3–20.8%, 4–5 seats</li><li>LMP (Greens/EFA): 5.0–7.1%, 1 seats</li><li>DK (S&amp;D): 4.1–6.1%, 1 seats</li><li>MKKP (*): 1.5–2.7%, 0 seats</li><li>MM (ALDE): 3.2–5.0%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-05-22-NézőpontIntézet.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-05-22-NézőpontIntézet.html"/>
+    <title>Opinion Poll by Nézőpont Intézet, 2–22 May 2018</title>
+    <updated>2018-08-05T21:41:56.835816+02:00</updated>
+    <dc:date>2018-08-05T21:41:56.835816+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 45.9–52.1%, 11–13 seats</li><li>MSZP (S&amp;D): 9.0–12.9%, 2–3 seats</li><li>Jobbik (NI): 18.2–23.2%, 4–5 seats</li><li>LMP (Greens/EFA): 4.6–7.5%, 1 seats</li><li>DK (S&amp;D): 6.3–9.6%, 1–2 seats</li><li>MKKP (*): 0.5–1.8%, 0 seats</li><li>MM (ALDE): 2.0–4.1%, 0–1 seats</li></ul></div></content>
@@ -407,5 +415,5 @@
     <updated>2018-02-22T22:03:28.850119+01:00</updated>
     <dc:date>2018-02-22T22:03:28.850119+01:00</dc:date>
   </entry>
-  <dc:date>2018-08-05T20:40:38.938025+02:00</dc:date>
+  <dc:date>2018-08-05T21:41:56.835816+02:00</dc:date>
 </feed>
