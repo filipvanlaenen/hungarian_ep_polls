@@ -174,6 +174,8 @@
 
 ### Fidesz–KDNP (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-01-20-ZRIZáveczResearch-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 18% | 100% | Majority |
@@ -183,6 +185,8 @@
 | 15 | 0% | 0% |  |
 
 ### MSZP (S&D) – DK (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-01-20-ZRIZáveczResearch-coalitions-seats-pmf-mszp–dk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -194,6 +198,8 @@
 
 ### Jobbik (NI)
 
+![Graph with seats probability mass function not yet produced](2018-01-20-ZRIZáveczResearch-coalitions-seats-pmf-jobbik.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 48% | 100% | Last Result |
@@ -203,6 +209,8 @@
 
 ### LMP (Greens/EFA) – Együtt (Greens/EFA) – Párbeszéd (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-01-20-ZRIZáveczResearch-coalitions-seats-pmf-lmp–együtt–párbeszéd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 71% | 100% | Median |
@@ -210,6 +218,8 @@
 | 3 | 0% | 0% |  |
 
 ### MM (ALDE) – MLP (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-01-20-ZRIZáveczResearch-coalitions-seats-pmf-mm–mlp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -133,6 +133,8 @@
 
 ### Fidesz–KDNP (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-07-17-NézőpontIntézet-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 16% | 100% | Last Result |
@@ -142,6 +144,8 @@
 
 ### Jobbik (NI)
 
+![Graph with seats probability mass function not yet produced](2018-07-17-NézőpontIntézet-coalitions-seats-pmf-jobbik.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 25% | 100% | Last Result |
@@ -149,6 +153,8 @@
 | 5 | 0% | 0% |  |
 
 ### MSZP (S&D) – DK (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-07-17-NézőpontIntézet-coalitions-seats-pmf-mszp–dk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

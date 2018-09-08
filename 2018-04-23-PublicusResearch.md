@@ -137,6 +137,8 @@
 
 ### Fidesz–KDNP (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-04-23-PublicusResearch-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
@@ -147,6 +149,8 @@
 | 15 | 0% | 0% |  |
 
 ### Jobbik (NI)
+
+![Graph with seats probability mass function not yet produced](2018-04-23-PublicusResearch-coalitions-seats-pmf-jobbik.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

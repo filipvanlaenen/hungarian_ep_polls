@@ -28,12 +28,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 13 | 11–13 |11–13 |11–13 |10–13 |
-| <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 4 | 3–4 |3–4 |3–5 |3–5 |
-| <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |0–1 |
-| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 12 | 11–12 |11–13 |11–13 |10–13 |
+| <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 4 | 3–4 |3–4 |3–4 |3–5 |
+| <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Fidesz–KDNP (EPP)
@@ -45,10 +45,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.7% | 100% |  |
-| 11 | 12% | 99.3% | Majority |
-| 12 | 33% | 88% | Last Result |
-| 13 | 54% | 54% | Median |
-| 14 | 0% | 0% |  |
+| 11 | 30% | 99.3% | Majority |
+| 12 | 64% | 69% | Last Result, Median |
+| 13 | 5% | 5% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 ### Jobbik (NI)
 
@@ -58,9 +59,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 38% | 100% | Last Result |
-| 4 | 58% | 62% | Median |
-| 5 | 3% | 3% |  |
+| 3 | 20% | 100% | Last Result |
+| 4 | 79% | 80% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 ### MSZP (S&D)
@@ -72,8 +73,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 81% | 100% | Median |
-| 4 | 19% | 19% |  |
+| 3 | 46% | 100% |  |
+| 4 | 54% | 54% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -85,10 +86,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% |  |
-| 1 | 99.3% | 99.4% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 5% | 100% |  |
+| 1 | 95% | 95% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 ### DK (S&D)
 
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Median |
-| 1 | 21% | 21% |  |
+| 0 | 46% | 100% |  |
+| 1 | 54% | 54% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### MKKP (*)
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -133,38 +133,44 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 13 | 99.3% | 11–13 | 11–13 | 11–13 | 10–13 |
-| Jobbik (NI) | 3 | 4 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
-| MSZP (S&D) – DK (S&D) | 4 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
+| Fidesz–KDNP (EPP) | 12 | 12 | 99.3% | 11–12 | 11–13 | 11–13 | 10–13 |
+| MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Jobbik (NI) | 3 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
 
 ### Fidesz–KDNP (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.7% | 100% |  |
-| 11 | 12% | 99.3% | Majority |
-| 12 | 33% | 88% | Last Result |
-| 13 | 54% | 54% | Median |
-| 14 | 0% | 0% |  |
-
-### Jobbik (NI)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 38% | 100% | Last Result |
-| 4 | 58% | 62% | Median |
-| 5 | 3% | 3% |  |
-| 6 | 0% | 0% |  |
+| 11 | 30% | 99.3% | Majority |
+| 12 | 64% | 69% | Last Result, Median |
+| 13 | 5% | 5% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 ### MSZP (S&D) – DK (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-coalitions-seats-pmf-mszp–dk.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 62% | 100% | Median |
-| 4 | 37% | 38% | Last Result |
-| 5 | 1.5% | 2% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 3 | 14% | 100% |  |
+| 4 | 65% | 86% | Last Result |
+| 5 | 21% | 21% | Median |
+| 6 | 0% | 0% |  |
+
+### Jobbik (NI)
+
+![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-coalitions-seats-pmf-jobbik.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 20% | 100% | Last Result |
+| 4 | 79% | 80% | Median |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -178,6 +184,6 @@
 ### Calculations
 
 + **Sample size:** 1010
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.55%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.01%
 

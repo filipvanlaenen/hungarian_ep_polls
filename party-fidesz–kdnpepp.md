@@ -102,10 +102,10 @@ Last result: **12** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
-| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
-| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 13 | 11–13 | 11–13 | 11–13 | 10–13 |
+| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–12 | 10–12 | 10–13 |
@@ -164,10 +164,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 3% | 100% | Majority |
-| 12 | 27% | 97% | Last Result |
-| 13 | 39% | 70% | Median |
-| 14 | 26% | 31% |  |
-| 15 | 5% | 5% |  |
+| 12 | 26% | 97% | Last Result |
+| 13 | 34% | 71% | Median |
+| 14 | 31% | 36% |  |
+| 15 | 6% | 6% |  |
 | 16 | 0% | 0% |  |
 
 
