@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 49–60% <br> 11–15 | 12–18% <br> 2–4 | 8–17% <br> 2–4 | 3–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 2–8% <br> 0–1 | N/A <br> N/A | 0–4% <br> 0 | 0–5% <br> 0–1 |
-| [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 53–59% <br> 13–14 | 12–16% <br> 3–4 | 8–12% <br> 2–3 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
+| [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 53–59% <br> 13–14 | 12–16% <br> 3–4 | 8–12% <br> 2–3 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 49–56% <br> 12–14 | 14–19% <br> 3–4 | 13–17% <br> 3–4 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 53–58% <br> 12–14 | 16–19% <br> 3–4 | 8–10% <br> 1–2 | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 48–54% <br> 11–13 | 11–15% <br> 2–3 | 13–17% <br> 3–4 | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
@@ -197,7 +197,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 13 | 12–14 |12–15 | 11–15 | 11–15 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 3 | 3–4 |3–4 | 2–4 | 2–4 |
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 2–3 |2–4 | 2–4 | 1–4 |
-| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |0–1 | 0–2 | 0–2 |
+| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |0–2 | 0–2 | 0–2 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
@@ -214,9 +214,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 3% | 100% | Majority |
-| 12 | 26% | 97% | Last Result |
-| 13 | 34% | 71% | Median |
-| 14 | 31% | 36% |  |
+| 12 | 25% | 97% | Last Result |
+| 13 | 36% | 72% | Median |
+| 14 | 30% | 36% |  |
 | 15 | 6% | 6% |  |
 | 16 | 0% | 0% |  |
 
@@ -229,8 +229,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 5% | 100% |  |
-| 3 | 57% | 95% | Last Result, Median |
-| 4 | 39% | 39% |  |
+| 3 | 56% | 95% | Last Result, Median |
+| 4 | 39% | 40% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -245,7 +245,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 2% | 100% |  |
 | 2 | 56% | 98% | Last Result, Median |
 | 3 | 34% | 42% |  |
-| 4 | 9% | 9% |  |
+| 4 | 8% | 8% |  |
 | 5 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -256,8 +256,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 87% | 92% | Median |
+| 0 | 9% | 100% |  |
+| 1 | 86% | 91% | Median |
 | 2 | 5% | 5% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -269,8 +269,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% |  |
-| 1 | 70% | 72% | Last Result, Median |
+| 0 | 29% | 100% |  |
+| 1 | 69% | 71% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -320,9 +320,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 3% | 100% | Majority |
-| 12 | 26% | 97% | Last Result |
-| 13 | 34% | 71% | Median |
-| 14 | 31% | 36% |  |
+| 12 | 25% | 97% | Last Result |
+| 13 | 36% | 72% | Median |
+| 14 | 30% | 36% |  |
 | 15 | 6% | 6% |  |
 | 16 | 0% | 0% |  |
 
@@ -333,7 +333,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 56% | 98% | Median |
+| 3 | 57% | 98% | Median |
 | 4 | 37% | 42% | Last Result |
 | 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
@@ -345,8 +345,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 5% | 100% |  |
-| 3 | 57% | 95% | Last Result, Median |
-| 4 | 39% | 39% |  |
+| 3 | 56% | 95% | Last Result, Median |
+| 4 | 39% | 40% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -356,8 +356,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% |  |
-| 1 | 70% | 72% | Median |
+| 0 | 29% | 100% |  |
+| 1 | 69% | 71% | Median |
 | 2 | 2% | 2% | Last Result |
 | 3 | 0% | 0% |  |
 
