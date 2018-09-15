@@ -101,7 +101,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
