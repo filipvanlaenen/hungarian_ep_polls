@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 49–58% <br> 11–14 | 12–18% <br> 2–4 | 8–17% <br> 2–4 | 3–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 3–8% <br> 0–1 | N/A <br> N/A | 0–4% <br> 0–1 | 0–5% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 50–58% <br> 11–14 | 12–18% <br> 2–4 | 8–17% <br> 2–4 | 3–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–5% <br> 0–1 |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 50–56% <br> 11–13 | 12–16% <br> 2–3 | 11–15% <br> 2–3 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 53–59% <br> 13–14 | 12–16% <br> 3–4 | 8–12% <br> 2–3 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 49–56% <br> 12–14 | 14–19% <br> 3–4 | 13–17% <br> 3–4 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
