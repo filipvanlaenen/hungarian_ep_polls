@@ -94,12 +94,12 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
-| [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 1 | 1 | 1 | 1 | 1 |
-| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 1 | 0–1 | 0–1 |
+| [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 1 | 1 | 1 | 0–1 | 0–1 |
+| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 0–1 | 0–1 |
+| [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 1 | 0–1 |
 | [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 1 | 1 | 0–1 |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 1 | 0–1 |
 | [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -160,8 +160,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Last Result, Median |
+| 0 | 5% | 100% |  |
+| 1 | 95% | 95% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
