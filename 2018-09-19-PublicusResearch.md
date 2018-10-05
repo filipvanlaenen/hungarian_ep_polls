@@ -32,8 +32,8 @@
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 3 | 3 |3 |2–4 |2–4 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
-| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |0–1 |0–1 |0–1 |
-| <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Fidesz–KDNP (EPP)
@@ -44,9 +44,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.3% | 100% | Majority |
-| 12 | 27% | 99.7% | Last Result |
-| 13 | 69% | 73% | Median |
+| 11 | 0.4% | 100% | Majority |
+| 12 | 25% | 99.6% | Last Result |
+| 13 | 71% | 75% | Median |
 | 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 
@@ -58,9 +58,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 78% | 99.8% | Median |
-| 4 | 22% | 22% |  |
+| 2 | 0.3% | 100% | Last Result |
+| 3 | 80% | 99.7% | Median |
+| 4 | 20% | 20% |  |
 | 5 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -141,9 +141,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.3% | 100% | Majority |
-| 12 | 27% | 99.7% | Last Result |
-| 13 | 69% | 73% | Median |
+| 11 | 0.4% | 100% | Majority |
+| 12 | 25% | 99.6% | Last Result |
+| 13 | 71% | 75% | Median |
 | 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 
@@ -154,8 +154,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 77% | 97% | Last Result, Median |
-| 5 | 20% | 20% |  |
+| 4 | 80% | 97% | Last Result, Median |
+| 5 | 18% | 18% |  |
 | 6 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -181,6 +181,6 @@
 ### Calculations
 
 + **Sample size:** 1001
-+ **Simulations done:** 524,288
-+ **Error estimate:** 2.00%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.36%
 
