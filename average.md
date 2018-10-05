@@ -187,7 +187,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 13 | 12–14 |12–14 | 11–14 | 11–15 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 3 | 3–4 |3–4 | 2–4 | 2–4 |
-| <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 2–3 |2–4 | 2–4 | 1–4 |
+| <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 2–3 |2–3 | 2–4 | 1–4 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |1 | 1–2 | 0–2 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -205,10 +205,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 3% | 100% | Majority |
-| 12 | 31% | 97% | Last Result |
+| 12 | 30% | 97% | Last Result |
 | 13 | 48% | 67% | Median |
 | 14 | 18% | 19% |  |
-| 15 | 0.5% | 0.5% |  |
+| 15 | 0.5% | 0.6% |  |
 | 16 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -221,7 +221,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
 | 3 | 73% | 96% | Last Result, Median |
-| 4 | 24% | 24% |  |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% |  |
 
 ### MSZP (S&D)
@@ -234,7 +234,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.0% | 100% |  |
 | 2 | 54% | 99.0% | Last Result, Median |
-| 3 | 40% | 45% |  |
+| 3 | 41% | 45% |  |
 | 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
@@ -246,8 +246,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% |  |
-| 1 | 94% | 98.7% | Median |
+| 0 | 1.2% | 100% |  |
+| 1 | 94% | 98.8% | Median |
 | 2 | 5% | 5% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -309,10 +309,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 3% | 100% | Majority |
-| 12 | 31% | 97% | Last Result |
+| 12 | 30% | 97% | Last Result |
 | 13 | 48% | 67% | Median |
 | 14 | 18% | 19% |  |
-| 15 | 0.5% | 0.5% |  |
+| 15 | 0.5% | 0.6% |  |
 | 16 | 0% | 0% |  |
 
 ### MSZP (S&D) – DK (S&D)
@@ -335,7 +335,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
 | 3 | 73% | 96% | Last Result, Median |
-| 4 | 24% | 24% |  |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% |  |
 
 ### Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) – LMP (Greens/EFA)
@@ -363,5 +363,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,572,864
-+ **Error estimate:** 1.25%
++ **Total number of simulations done in the polls included in this average:** 2,359,296
++ **Error estimate:** 1.36%
