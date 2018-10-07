@@ -215,11 +215,11 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 2% | 100% | Majority |
-| 12 | 26% | 98% | Last Result |
-| 13 | 37% | 72% | Median |
-| 14 | 25% | 35% |  |
+| 12 | 25% | 98% | Last Result |
+| 13 | 38% | 73% | Median |
+| 14 | 25% | 34% |  |
 | 15 | 9% | 9% |  |
-| 16 | 0.1% | 0.1% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -233,7 +233,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 20% | 100% |  |
 | 3 | 58% | 80% | Last Result, Median |
 | 4 | 21% | 22% |  |
-| 5 | 0.8% | 0.8% |  |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### MSZP (S&D)
@@ -244,9 +244,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 55% | 92% | Last Result, Median |
-| 3 | 32% | 36% |  |
+| 1 | 10% | 100% |  |
+| 2 | 54% | 90% | Last Result, Median |
+| 3 | 33% | 37% |  |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
@@ -261,7 +261,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 1.0% | 100% |  |
 | 1 | 63% | 99.0% | Median |
 | 2 | 36% | 36% | Last Result |
-| 3 | 0.3% | 0.3% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -272,8 +272,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 86% | 86% | Last Result, Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### MKKP (*)
@@ -322,11 +322,11 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 2% | 100% | Majority |
-| 12 | 26% | 98% | Last Result |
-| 13 | 37% | 72% | Median |
-| 14 | 25% | 35% |  |
+| 12 | 25% | 98% | Last Result |
+| 13 | 38% | 73% | Median |
+| 14 | 25% | 34% |  |
 | 15 | 9% | 9% |  |
-| 16 | 0.1% | 0.1% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 ### MSZP (S&D) – DK (S&D)
@@ -335,9 +335,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.1% | 100% |  |
-| 3 | 35% | 98.9% | Median |
-| 4 | 60% | 64% | Last Result |
+| 2 | 1.0% | 100% |  |
+| 3 | 37% | 99.0% | Median |
+| 4 | 58% | 62% | Last Result |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
@@ -350,7 +350,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 20% | 100% |  |
 | 3 | 58% | 80% | Last Result, Median |
 | 4 | 21% | 22% |  |
-| 5 | 0.8% | 0.8% |  |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) – LMP (Greens/EFA)
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 86% | 86% | Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### MLP (ALDE) – MM (ALDE)
@@ -369,14 +369,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 1.0% | 1.0% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,490,368
-+ **Error estimate:** 1.36%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.71%
