@@ -10,7 +10,9 @@ Last result: **51.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 54.0% | 51.5–61.2% | 50.9–62.2% | 50.4–62.8% | 49.4–64.0% |
+| N/A | [Poll Average](average.html) | 54.0% | 51.3–61.3% | 50.7–62.2% | 50.2–62.8% | 49.2–64.0% |
+| [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 57.6% | 55.6–59.6% | 55.0–60.1% | 54.5–60.6% | 53.5–61.6% |
+| [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 52.5% | 50.5–54.5% | 49.9–55.1% | 49.4–55.6% | 48.5–56.6% |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián | 61.2% | 59.4–63.0% | 58.9–63.5% | 58.5–64.0% | 57.6–64.8% |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 53.0% | 51.0–55.1% | 50.4–55.6% | 49.9–56.1% | 49.0–57.1% |
 | [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.9% | 53.9–57.9% | 53.3–58.5% | 52.8–59.0% | 51.8–59.9% |
@@ -79,19 +81,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 46.5–47.5% | 0% | 100% |  |
 | 47.5–48.5% | 0.1% | 100% |  |
-| 48.5–49.5% | 0.5% | 99.9% |  |
-| 49.5–50.5% | 2% | 99.4% |  |
-| 50.5–51.5% | 8% | 97% | Last Result |
-| 51.5–52.5% | 15% | 89% |  |
-| 52.5–53.5% | 17% | 74% |  |
-| 53.5–54.5% | 14% | 57% | Median |
-| 54.5–55.5% | 10% | 43% |  |
-| 55.5–56.5% | 7% | 34% |  |
-| 56.5–57.5% | 4% | 27% |  |
-| 57.5–58.5% | 3% | 23% |  |
-| 58.5–59.5% | 2% | 20% |  |
-| 59.5–60.5% | 4% | 18% |  |
-| 60.5–61.5% | 5% | 14% |  |
+| 48.5–49.5% | 0.8% | 99.8% |  |
+| 49.5–50.5% | 3% | 99.1% |  |
+| 50.5–51.5% | 9% | 96% | Last Result |
+| 51.5–52.5% | 15% | 87% |  |
+| 52.5–53.5% | 16% | 72% |  |
+| 53.5–54.5% | 11% | 56% | Median |
+| 54.5–55.5% | 6% | 45% |  |
+| 55.5–56.5% | 4% | 40% |  |
+| 56.5–57.5% | 5% | 35% |  |
+| 57.5–58.5% | 5% | 30% |  |
+| 58.5–59.5% | 5% | 25% |  |
+| 59.5–60.5% | 5% | 20% |  |
+| 60.5–61.5% | 6% | 14% |  |
 | 61.5–62.5% | 5% | 8% |  |
 | 62.5–63.5% | 3% | 3% |  |
 | 63.5–64.5% | 0.8% | 1.0% |  |
@@ -107,7 +109,9 @@ Last result: **12** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 12–15 | 12–15 | 11–15 |
+| [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián | 14 | 14–15 | 14–15 | 14–15 | 13–16 |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
 | [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
@@ -177,10 +181,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 2% | 100% | Majority |
-| 12 | 25% | 98% | Last Result |
-| 13 | 38% | 73% | Median |
-| 14 | 25% | 34% |  |
-| 15 | 9% | 9% |  |
+| 12 | 28% | 98% | Last Result |
+| 13 | 33% | 70% | Median |
+| 14 | 26% | 37% |  |
+| 15 | 11% | 11% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
