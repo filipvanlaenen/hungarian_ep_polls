@@ -108,7 +108,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [12–17 October 2018](2018-10-17-Medián.html) | Medián | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [12–17 October 2018](2018-10-17-Medián.html) | Medián | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -177,8 +177,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% |  |
-| 2 | 40% | 91% | Last Result |
+| 1 | 10% | 100% |  |
+| 2 | 40% | 90% | Last Result |
 | 3 | 46% | 50% | Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
