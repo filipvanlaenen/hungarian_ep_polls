@@ -10,7 +10,9 @@ Last result: **5.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.1–5.1% | 1.8–5.5% | 1.7–5.8% | 1.4–6.5% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.1–5.0% | 1.8–5.5% | 1.7–5.8% | 1.4–6.5% |
+| [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [18–22 October 2018](2018-10-22-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -85,9 +87,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 2% | 100% |  |
 | 1.5–2.5% | 17% | 98% |  |
-| 2.5–3.5% | 31% | 81% |  |
-| 3.5–4.5% | 31% | 50% | Median |
-| 4.5–5.5% | 15% | 19% | Last Result |
+| 2.5–3.5% | 32% | 81% |  |
+| 3.5–4.5% | 31% | 49% | Median |
+| 4.5–5.5% | 14% | 19% | Last Result |
 | 5.5–6.5% | 4% | 4% |  |
 | 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -102,6 +104,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0–1 |
+| [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 0–1 | 0–1 |
 | [18–22 October 2018](2018-10-22-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0–1 |
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -175,8 +179,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Median |
-| 1 | 42% | 42% | Last Result |
+| 0 | 62% | 100% | Median |
+| 1 | 38% | 38% | Last Result |
 | 2 | 0% | 0% |  |
 
 
