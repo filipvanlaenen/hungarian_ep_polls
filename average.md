@@ -221,8 +221,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 5% | 100% | Majority |
 | 12 | 29% | 95% | Last Result |
-| 13 | 37% | 66% | Median |
-| 14 | 13% | 29% |  |
+| 13 | 36% | 66% | Median |
+| 14 | 14% | 30% |  |
 | 15 | 14% | 16% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0% | 0% |  |
@@ -235,8 +235,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 28% | 100% |  |
-| 3 | 43% | 72% | Last Result, Median |
+| 2 | 27% | 100% |  |
+| 3 | 44% | 73% | Last Result, Median |
 | 4 | 29% | 29% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
@@ -251,7 +251,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
 | 2 | 61% | 98% | Last Result, Median |
-| 3 | 37% | 37% |  |
+| 3 | 36% | 36% |  |
 | 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
@@ -264,8 +264,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.9% | 100% |  |
-| 1 | 66% | 99.1% | Median |
-| 2 | 33% | 33% | Last Result |
+| 1 | 67% | 99.1% | Median |
+| 2 | 32% | 32% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -327,8 +327,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 5% | 100% | Majority |
 | 12 | 29% | 95% | Last Result |
-| 13 | 37% | 66% | Median |
-| 14 | 13% | 29% |  |
+| 13 | 36% | 66% | Median |
+| 14 | 14% | 30% |  |
 | 15 | 14% | 16% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0% | 0% |  |
@@ -341,8 +341,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.5% | 100% |  |
 | 3 | 39% | 99.5% | Median |
-| 4 | 54% | 61% | Last Result |
-| 5 | 7% | 7% |  |
+| 4 | 55% | 61% | Last Result |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -351,8 +351,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 28% | 100% |  |
-| 3 | 43% | 72% | Last Result, Median |
+| 2 | 27% | 100% |  |
+| 3 | 44% | 73% | Last Result, Median |
 | 4 | 29% | 29% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
@@ -382,5 +382,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,456,448
-+ **Error estimate:** 1.40%
++ **Total number of simulations done in the polls included in this average:** 5,373,952
++ **Error estimate:** 1.25%
