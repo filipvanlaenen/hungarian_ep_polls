@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-11-19T19:34:16.486506+01:00</updated>
+  <updated>2018-12-04T14:02:46.003548+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 52.5–58.7%, 12–14 seats</li><li>MSZP (S&amp;D): 10.2–14.3%, 2–3 seats</li><li>Jobbik (NI): 10.2–14.3%, 2–3 seats</li><li>LMP (Greens/EFA): 2.1–4.3%, 0 seats</li><li>DK (S&amp;D): 6.6–10.0%, 1–2 seats</li><li>MKKP (*): 2.1–4.3%, 0–1 seats</li><li>MM (ALDE): 3.9–6.6%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-11-22-ZRIZáveczResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-11-22-ZRIZáveczResearch.html"/>
+    <title>Opinion Poll by ZRI Závecz Research, 13–22 November 2018</title>
+    <updated>2018-12-04T14:02:46.003548+01:00</updated>
+    <dc:date>2018-12-04T14:02:46.003548+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 48.8–53.2%, 11–13 seats</li><li>MSZP (S&amp;D): 8.7–11.4%, 2 seats</li><li>Jobbik (NI): 15.4–18.7%, 3–4 seats</li><li>LMP (Greens/EFA): 3.2–5.0%, 0–1 seats</li><li>DK (S&amp;D): 6.9–9.3%, 1–2 seats</li><li>MKKP (*): 3.2–5.0%, 0–1 seats</li><li>MM (ALDE): 3.2–5.0%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-10-29-NézőpontIntézet.html</id>
@@ -519,5 +527,5 @@
     <updated>2018-02-22T22:03:28.850119+01:00</updated>
     <dc:date>2018-02-22T22:03:28.850119+01:00</dc:date>
   </entry>
-  <dc:date>2018-11-19T19:34:16.486506+01:00</dc:date>
+  <dc:date>2018-12-04T14:02:46.003548+01:00</dc:date>
 </feed>
