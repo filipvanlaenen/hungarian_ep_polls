@@ -202,7 +202,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 13 | 12–15 |12–15 | 11–15 | 11–16 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 3 | 2–4 |2–4 | 2–4 | 2–5 |
-| <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 2–3 |2–3 | 2–3 | 1–3 |
+| <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 2–3 |2–3 | 2–3 | 1–4 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -220,8 +220,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 5% | 100% | Majority |
-| 12 | 29% | 95% | Last Result |
-| 13 | 36% | 66% | Median |
+| 12 | 30% | 95% | Last Result |
+| 13 | 36% | 65% | Median |
 | 14 | 14% | 30% |  |
 | 15 | 14% | 16% |  |
 | 16 | 2% | 2% |  |
@@ -235,8 +235,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 27% | 100% |  |
-| 3 | 44% | 73% | Last Result, Median |
+| 2 | 28% | 100% |  |
+| 3 | 43% | 72% | Last Result, Median |
 | 4 | 29% | 29% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
@@ -252,7 +252,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 2% | 100% |  |
 | 2 | 61% | 98% | Last Result, Median |
 | 3 | 36% | 36% |  |
-| 4 | 0.5% | 0.5% |  |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -276,8 +276,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Median |
-| 1 | 38% | 38% | Last Result |
+| 0 | 60% | 100% | Median |
+| 1 | 40% | 40% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### MKKP (*)
@@ -326,8 +326,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 5% | 100% | Majority |
-| 12 | 29% | 95% | Last Result |
-| 13 | 36% | 66% | Median |
+| 12 | 30% | 95% | Last Result |
+| 13 | 36% | 65% | Median |
 | 14 | 14% | 30% |  |
 | 15 | 14% | 16% |  |
 | 16 | 2% | 2% |  |
@@ -351,8 +351,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 27% | 100% |  |
-| 3 | 44% | 73% | Last Result, Median |
+| 2 | 28% | 100% |  |
+| 3 | 43% | 72% | Last Result, Median |
 | 4 | 29% | 29% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
@@ -363,8 +363,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Median |
-| 1 | 38% | 38% |  |
+| 0 | 60% | 100% | Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### MLP (ALDE) – MM (ALDE)
@@ -381,6 +381,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,373,952
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.25%
