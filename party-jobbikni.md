@@ -10,7 +10,8 @@ Last result: **14.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.7% | 11.0–18.1% | 10.4–18.6% | 10.1–19.0% | 9.4–19.7% |
+| N/A | [Poll Average](average.html) | 13.6% | 11.0–17.8% | 10.4–18.5% | 10.1–18.9% | 9.4–19.7% |
+| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.2% |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
@@ -89,14 +90,14 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 5% | 99.2% |  |
 | 10.5–11.5% | 12% | 94% |  |
 | 11.5–12.5% | 15% | 82% |  |
-| 12.5–13.5% | 15% | 67% |  |
-| 13.5–14.5% | 11% | 52% | Median |
-| 14.5–15.5% | 6% | 40% | Last Result |
-| 15.5–16.5% | 6% | 34% |  |
-| 16.5–17.5% | 12% | 28% |  |
-| 17.5–18.5% | 11% | 16% |  |
+| 12.5–13.5% | 16% | 67% |  |
+| 13.5–14.5% | 15% | 51% | Median |
+| 14.5–15.5% | 13% | 36% | Last Result |
+| 15.5–16.5% | 6% | 23% |  |
+| 16.5–17.5% | 5% | 17% |  |
+| 17.5–18.5% | 7% | 12% |  |
 | 18.5–19.5% | 4% | 5% |  |
-| 19.5–20.5% | 0.7% | 0.7% |  |
+| 19.5–20.5% | 0.6% | 0.7% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -109,6 +110,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3–4 | 3–4 |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -185,8 +187,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 28% | 100% |  |
-| 3 | 43% | 72% | Last Result, Median |
-| 4 | 29% | 29% |  |
+| 3 | 55% | 72% | Last Result, Median |
+| 4 | 17% | 18% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 

@@ -11,6 +11,7 @@ Last result: **10.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.9% | 8.6–14.2% | 8.3–14.8% | 8.0–15.3% | 7.5–16.2% |
+| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
@@ -108,6 +109,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 3 | 3 | 3 | 2–4 | 2–4 |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
