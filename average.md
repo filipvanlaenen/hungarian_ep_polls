@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 51–64% <br> 12–15 | 10–19% <br> 2–4 | 8–15% <br> 2–3 | 4–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0–1 | N/A <br> N/A | 1–5% <br> 0–1 | 2–6% <br> 0–1 |
-| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 51–55% <br> 12–13 | 13–17% <br> 3–4 | 9–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | N/A <br> N/A | 3–5% <br> 0–1 | 3–5% <br> 0–1 |
+| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 51–55% <br> 12–13 | 13–17% <br> 3–4 | 9–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | 3–5% <br> 0–1 |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 52–59% <br> 12–14 | 10–14% <br> 2–3 | 10–14% <br> 2–3 | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 4–7% <br> 0–1 |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 51–57% <br> 12–14 | 11–15% <br> 2–3 | 12–16% <br> 2–4 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
 | [18–22 October 2018](2018-10-22-IDEAIntézet.html) | IDEA Intézet | 53–57% <br> 13–14 | 16–20% <br> 4–5 | 8–10% <br> 1–2 | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–5% <br> 0–1 | 1–3% <br> 0 |
@@ -219,8 +219,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 2% | 100% | Majority |
-| 12 | 24% | 98% | Last Result |
-| 13 | 44% | 75% | Median |
+| 12 | 25% | 98% | Last Result |
+| 13 | 43% | 74% | Median |
 | 14 | 14% | 30% |  |
 | 15 | 14% | 16% |  |
 | 16 | 2% | 2% |  |
@@ -235,7 +235,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 28% | 100% |  |
-| 3 | 55% | 72% | Last Result, Median |
+| 3 | 54% | 72% | Last Result, Median |
 | 4 | 17% | 18% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
@@ -325,8 +325,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 2% | 100% | Majority |
-| 12 | 24% | 98% | Last Result |
-| 13 | 44% | 75% | Median |
+| 12 | 25% | 98% | Last Result |
+| 13 | 43% | 74% | Median |
 | 14 | 14% | 30% |  |
 | 15 | 14% | 16% |  |
 | 16 | 2% | 2% |  |
@@ -351,7 +351,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 28% | 100% |  |
-| 3 | 55% | 72% | Last Result, Median |
+| 3 | 54% | 72% | Last Result, Median |
 | 4 | 17% | 18% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
@@ -372,14 +372,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 23% | 23% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,373,952
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.25%
