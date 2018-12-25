@@ -18,7 +18,7 @@
 | MM (ALDE) | 0.0% | 3.0% | N/A |N/A |N/A |N/A |
 | Együtt (Greens/EFA) | 7.2% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 | Párbeszéd (Greens/EFA) | 7.2% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
-| MKKP (*) | 0.0% | 1.0% | N/A |N/A |N/A |N/A |
+| MKKP (*) | N/A | 1.0% | N/A |N/A |N/A |N/A |
 | MLP (ALDE) | 0.0% | 0.2% | 0.1–0.5% |0.1–0.6% |0.1–0.7% |0.0–0.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -39,6 +39,6 @@
 | <a href="#mm-(alde)">MM (ALDE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
-| <a href="#mkkp-(*)">MKKP (*)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#mkkp-(*)">MKKP (*)</a> | N/A | N/A | N/A |N/A |N/A |N/A |
 | <a href="#mlp-(alde)">MLP (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 

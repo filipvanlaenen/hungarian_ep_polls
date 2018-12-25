@@ -17,7 +17,7 @@
 | MSZP (S&D) | 10.9% | 8.0% | 7.3–8.8% |7.1–9.1% |6.9–9.3% |6.6–9.7% |
 | MM (ALDE) | 0.0% | 3.0% | N/A |N/A |N/A |N/A |
 | Együtt (Greens/EFA) | 7.2% | 2.0% | 1.6–2.5% |1.6–2.6% |1.5–2.7% |1.3–3.0% |
-| MKKP (*) | 0.0% | 2.0% | N/A |N/A |N/A |N/A |
+| MKKP (*) | N/A | 2.0% | N/A |N/A |N/A |N/A |
 | Párbeszéd (Greens/EFA) | 7.2% | 1.0% | 0.8–1.4% |0.7–1.5% |0.6–1.5% |0.5–1.7% |
 | MLP (ALDE) | 0.0% | 1.0% | 0.8–1.4% |0.7–1.5% |0.6–1.5% |0.5–1.7% |
 
@@ -38,7 +38,7 @@
 | <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#mm-(alde)">MM (ALDE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#mkkp-(*)">MKKP (*)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#mkkp-(*)">MKKP (*)</a> | N/A | N/A | N/A |N/A |N/A |N/A |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#mlp-(alde)">MLP (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 

@@ -10,13 +10,14 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 51.5% | 49.0% | 47.0–51.0% |46.4–51.6% |45.9–52.1% |45.0–53.1% |
-| Jobbik (NI) | 14.7% | 17.0% | 15.6–18.6% |15.2–19.1% |14.8–19.5% |14.2–20.3% |
-| MSZP (S&D) | 10.9% | 16.0% | 14.6–17.6% |14.2–18.0% |13.9–18.4% |13.3–19.2% |
+| Fidesz–KDNP (EPP) | 51.5% | 48.9% | 47.0–51.0% |46.4–51.6% |45.9–52.1% |45.0–53.1% |
+| Jobbik (NI) | 14.7% | 16.9% | 15.6–18.6% |15.2–19.1% |14.8–19.5% |14.2–20.3% |
+| MSZP–Párbeszéd (S&D) | 18.2% | 15.9% | N/A |N/A |N/A |N/A |
 | LMP (Greens/EFA) | 5.0% | 5.0% | 4.3–6.1% |4.0–6.3% |3.9–6.6% |3.5–7.1% |
 | DK (S&D) | 9.8% | 4.0% | 3.3–4.9% |3.1–5.1% |2.9–5.3% |2.6–5.8% |
-| MKKP (*) | 0.0% | 3.0% | 2.4–3.8% |2.2–4.0% |2.1–4.2% |1.8–4.6% |
+| MKKP (NI) | 0.0% | 3.0% | N/A |N/A |N/A |N/A |
 | MM (ALDE) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.0% |1.1–3.4% |
+| Mi Hazánk Mozgalom (NI) | 0.0% | 0.3% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,158 +31,10 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 12 | 11–12 |11–13 |11–13 |10–13 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 4 | 3–4 |3–4 |3–4 |3–5 |
-| <a href="#mszp-(s&d)">MSZP (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#mszp–párbeszéd-(s&d)">MSZP–Párbeszéd (S&D)</a> | 3 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#mkkp-(*)">MKKP (*)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#mkkp-(ni)">MKKP (NI)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
-
-### Fidesz–KDNP (EPP)
-
-*For a full overview of the results for this party, see the [Fidesz–KDNP (EPP)](party-fidesz–kdnpepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-seats-pmf-fidesz–kdnpepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 1.4% | 100% |  |
-| 11 | 35% | 98.6% | Majority |
-| 12 | 57% | 63% | Last Result, Median |
-| 13 | 6% | 6% |  |
-| 14 | 0% | 0% |  |
-
-### Jobbik (NI)
-
-*For a full overview of the results for this party, see the [Jobbik (NI)](party-jobbikni.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-seats-pmf-jobbikni.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 22% | 100% | Last Result |
-| 4 | 77% | 78% | Median |
-| 5 | 1.3% | 1.3% |  |
-| 6 | 0% | 0% |  |
-
-### MSZP (S&D)
-
-*For a full overview of the results for this party, see the [MSZP (S&D)](party-mszpsd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-seats-pmf-mszpsd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% | Last Result |
-| 3 | 51% | 100% | Median |
-| 4 | 49% | 49% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
-
-### LMP (Greens/EFA)
-
-*For a full overview of the results for this party, see the [LMP (Greens/EFA)](party-lmpgreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-seats-pmf-lmpgreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 95% | 96% | Last Result, Median |
-| 2 | 0% | 0% |  |
-
-### DK (S&D)
-
-*For a full overview of the results for this party, see the [DK (S&D)](party-dksd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-seats-pmf-dksd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% |  |
-| 1 | 55% | 55% | Median |
-| 2 | 0% | 0% | Last Result |
-
-### MKKP (*)
-
-*For a full overview of the results for this party, see the [MKKP (*)](party-mkkp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-seats-pmf-mkkp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
-| 2 | 0% | 0% |  |
-
-### MM (ALDE)
-
-*For a full overview of the results for this party, see the [MM (ALDE)](party-mmalde.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-seats-pmf-mmalde.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-
-## Coalitions
-
-![Graph with coalitions seats not yet produced](2018-07-16-PublicusResearch-coalitions-seats.png "Coalitions Seats")
-
-### Confidence Intervals
-
-| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 12 | 98.6% | 11–12 | 11–13 | 11–13 | 10–13 |
-| MSZP (S&D) – DK (S&D) | 4 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
-| Jobbik (NI) | 3 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
-
-### Fidesz–KDNP (EPP)
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 1.4% | 100% |  |
-| 11 | 35% | 98.6% | Majority |
-| 12 | 57% | 63% | Last Result, Median |
-| 13 | 6% | 6% |  |
-| 14 | 0% | 0% |  |
-
-### MSZP (S&D) – DK (S&D)
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-coalitions-seats-pmf-mszp–dk.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 16% | 100% |  |
-| 4 | 62% | 84% | Last Result, Median |
-| 5 | 21% | 21% |  |
-| 6 | 0% | 0% |  |
-
-### Jobbik (NI)
-
-![Graph with seats probability mass function not yet produced](2018-07-16-PublicusResearch-coalitions-seats-pmf-jobbik.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 22% | 100% | Last Result |
-| 4 | 77% | 78% | Median |
-| 5 | 1.3% | 1.3% |  |
-| 6 | 0% | 0% |  |
-
-
-## Technical Information
-
-### Opinion Poll
-
-+ **Polling firm:** Publicus Research
-+ **Commissioner(s):** —
-+ **Fieldwork period:** 10–16 July 2018
-
-### Calculations
-
-+ **Sample size:** 1010
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.87%
+| <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 
