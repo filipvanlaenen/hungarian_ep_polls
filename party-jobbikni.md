@@ -110,14 +110,14 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [26 November–15 December 2018](2018-12-15-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3–4 | 3–4 |
 | [4–11 December 2018](2018-12-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [30 November–5 December 2018](2018-12-05-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [30 November–5 December 2018](2018-12-05-Medián.html) | Medián | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 November–3 December 2018](2018-12-03-IDEAIntézet.html) | IDEA Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–22 October 2018](2018-10-22-IDEAIntézet.html) | IDEA Intézet | 4 | 4 | 4 | 4–5 | 3–5 |
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -191,9 +191,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 21% | 100% |  |
-| 3 | 75% | 79% | Last Result, Median |
-| 4 | 4% | 4% |  |
+| 2 | 18% | 100% |  |
+| 3 | 76% | 82% | Last Result, Median |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 
