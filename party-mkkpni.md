@@ -110,7 +110,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26 November–15 December 2018](2018-12-15-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0–1 |
 | [4–11 December 2018](2018-12-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [30 November–5 December 2018](2018-12-05-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
-| [30 November–3 December 2018](2018-12-03-IDEAIntézet.html) | IDEA Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 November–3 December 2018](2018-12-03-IDEAIntézet.html) | IDEA Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -187,8 +187,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 10% | 10% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 
