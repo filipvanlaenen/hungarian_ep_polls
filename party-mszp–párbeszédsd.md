@@ -25,7 +25,7 @@ Last result: **18.2%** (General Election of 25 May 2014)
 | [12–17 October 2018](2018-10-17-Medián.html) | Medián | 9.0% | N/A | N/A | N/A | N/A |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián | 9.0% | N/A | N/A | N/A | N/A |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 15.0% | N/A | N/A | N/A | N/A |
-| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 11.8% | N/A | N/A | N/A | N/A |
+| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.6% |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 8.0% | N/A | N/A | N/A | N/A |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | N/A | N/A | N/A | N/A |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.0% | N/A | N/A | N/A | N/A |
@@ -59,8 +59,8 @@ Last result: **18.2%** (General Election of 25 May 2014)
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 17.7% | N/A | N/A | N/A | N/A |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | N/A | N/A | N/A | N/A |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.2% | N/A | N/A | N/A | N/A |
-| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 17.9% | N/A | N/A | N/A | N/A |
-| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 9.9% | N/A | N/A | N/A | N/A |
+| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 17.9% | 16.4–19.5% | 16.0–20.0% | 15.6–20.4% | 14.9–21.2% |
+| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13.0% | N/A | N/A | N/A | N/A |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.0% | N/A | N/A | N/A | N/A |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0.0% | N/A | N/A | N/A | N/A |
@@ -126,7 +126,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [12–17 October 2018](2018-10-17-Medián.html) | Medián |  |  |  |  |  |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián |  |  |  |  |  |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
-| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
@@ -160,8 +160,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
-| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
-| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
+| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 2 | 2 | 2 | 1–2 | 1–3 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI |  |  |  |  |  |

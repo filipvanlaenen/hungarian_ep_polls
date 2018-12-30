@@ -25,7 +25,7 @@ Last result: **51.5%** (General Election of 25 May 2014)
 | [12–17 October 2018](2018-10-17-Medián.html) | Medián | 63.0% | 61.2–64.8% | 60.7–65.3% | 60.2–65.7% | 59.4–66.5% |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián | 60.0% | 59.4–63.0% | 58.9–63.5% | 58.5–64.0% | 57.6–64.8% |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 52.8% | 51.0–55.1% | 50.4–55.6% | 49.9–56.1% | 49.0–57.1% |
-| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.7% | 53.9–57.9% | 53.3–58.5% | 52.8–59.0% | 51.8–59.9% |
+| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.7% | 53.7–57.7% | 53.1–58.3% | 52.6–58.8% | 51.6–59.7% |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 52.0% | 51.1–54.0% | 50.7–54.4% | 50.4–54.7% | 49.7–55.4% |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 53.0% | 51.0–55.0% | 50.4–55.6% | 49.9–56.1% | 48.9–57.0% |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.9% | 54.0–58.0% | 53.4–58.6% | 52.9–59.1% | 51.9–60.0% |
@@ -133,7 +133,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [12–17 October 2018](2018-10-17-Medián.html) | Medián | 15 | 15–16 | 14–16 | 14–16 | 14–16 |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián | 14 | 14–15 | 14–15 | 14–15 | 13–16 |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
-| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
+| [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 13–14 | 13–14 | 13–14 | 12–15 |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
@@ -173,7 +173,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 15 | 15–16 | 15–16 | 14–16 | 14–16 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
-| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
+| [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
