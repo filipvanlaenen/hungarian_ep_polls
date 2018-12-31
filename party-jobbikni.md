@@ -78,7 +78,7 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 12.8% | N/A | N/A | N/A | N/A |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 14.9% | N/A | N/A | N/A | N/A |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
-| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14.9% | N/A | N/A | N/A | N/A |
+| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 16.0% | N/A | N/A | N/A | N/A |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 17.3% | N/A | N/A | N/A | N/A |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 18.0% | N/A | N/A | N/A | N/A |
@@ -121,7 +121,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–22 October 2018](2018-10-22-IDEAIntézet.html) | IDEA Intézet | 4 | 4 | 4 | 4–5 | 3–5 |
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 3 | 3 | 3 | 2–4 | 2–4 |
+| [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [12–17 October 2018](2018-10-17-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–30 September 2018](2018-09-30-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 3 | 3 | 3 | 2–4 | 2–4 |
@@ -149,7 +149,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3–4 | 3–4 |
+| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -178,7 +178,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu |  |  |  |  |  |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
+| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3 | 3 | 3–4 | 2–4 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |

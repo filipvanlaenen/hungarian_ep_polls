@@ -146,7 +146,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 1 | 1 | 1–2 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 1 | 1 | 0–1 | 0–1 | 0–1 |
