@@ -31,7 +31,7 @@ Last result: **51.5%** (General Election of 25 May 2014)
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.9% | 54.0–58.0% | 53.4–58.6% | 52.9–59.1% | 51.9–60.0% |
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 51.9% | 50.5–54.5% | 49.9–55.1% | 49.4–55.6% | 48.4–56.6% |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 54.0% | 53.1–56.0% | 52.7–56.4% | 52.4–56.7% | 51.7–57.4% |
-| [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 54.9% | 54.7–58.7% | 54.1–59.3% | 53.6–59.7% | 52.6–60.7% |
+| [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 54.9% | 52.9–56.9% | 52.3–57.5% | 51.8–58.0% | 50.8–58.9% |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 55.0% | 54.1–57.0% | 53.7–57.4% | 53.4–57.7% | 52.7–58.4% |
 | [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 48.9% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 45.0–53.1% |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 53.0% | 51.0–55.0% | 50.4–55.6% | 49.9–56.1% | 48.9–57.0% |
@@ -139,7 +139,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
-| [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
+| [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
 | [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
