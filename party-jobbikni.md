@@ -75,7 +75,7 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 14.0% | N/A | N/A | N/A | N/A |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 13.9% | 12.6–15.4% | 12.2–15.9% | 11.9–16.2% | 11.3–16.9% |
 | [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
-| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 12.8% | N/A | N/A | N/A | N/A |
+| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 14.9% | 13.7–16.3% | 13.3–16.7% | 13.0–17.1% | 12.4–17.7% |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
@@ -175,7 +175,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
+| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3 | 3 | 3–4 | 2–4 |
