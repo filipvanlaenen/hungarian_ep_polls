@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-01-03T14:34:55.842729+01:00</updated>
+  <updated>2019-01-03T20:00:59.828906+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 51.7–56.0%, 12–14 seats</li><li>Jobbik (NI): 12.5–15.5%, 3–4 seats</li><li>MSZP–Párbeszéd (S&amp;D): 9.6–12.4%, 2–3 seats</li><li>DK (S&amp;D): 6.0–8.2%, 1–2 seats</li><li>LMP (Greens/EFA): 3.2–5.0%, 0–1 seats</li><li>MM (ALDE): 3.2–5.0%, 0–1 seats</li><li>MKKP (NI): 2.3–3.9%, 0 seats</li><li>Mi Hazánk Mozgalom (NI): 2.3–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-12-15-NézőpontIntézet.html</id>
@@ -144,6 +144,14 @@
     <dc:date>2018-12-26T13:55:31.60049+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 50.0–55.6%, 12–14 seats</li><li>Jobbik (NI): 14.0–18.2%, 3–4 seats</li><li>MSZP–Párbeszéd (S&amp;D): 10.3–14.0%, 2–3 seats</li><li>DK (S&amp;D): 4.8–7.5%, 1 seats</li><li>LMP (Greens/EFA): 5.7–8.6%, 1–2 seats</li><li>MM (ALDE): 1.3–3.0%, 0 seats</li><li>MKKP (NI): 1.3–3.0%, 0 seats</li><li>Együtt (Greens/EFA): 0.6–1.8%, 0 seats</li><li>MLP (ALDE): 0.1–0.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-27-Medián.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-27-Medián.html"/>
+    <title>Opinion Poll by Medián for hvg.hu, 23–27 March 2018</title>
+    <updated>2019-01-03T20:00:59.828906+01:00</updated>
+    <dc:date>2019-01-03T20:00:59.828906+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 37.8–43.9%, 9–11 seats</li><li>Jobbik (NI): 22.3–27.7%, 5–7 seats</li><li>MSZP–Párbeszéd (S&amp;D): 10.0–14.1%, 2–3 seats</li><li>DK (S&amp;D): 5.6–8.8%, 1–2 seats</li><li>LMP (Greens/EFA): 6.5–9.9%, 1–2 seats</li><li>MM (ALDE): 2.1–4.3%, 0–1 seats</li><li>MKKP (NI): 1.3–3.1%, 0 seats</li><li>Együtt (Greens/EFA): 0.1–0.7%, 0 seats</li><li>MLP (ALDE): 0.1–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-24-IránytűIntézet.html</id>
     <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-24-IránytűIntézet.html"/>
@@ -184,12 +192,28 @@
     <dc:date>2018-12-26T14:24:33.256702+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 50.9–56.6%, 12–13 seats</li><li>Jobbik (NI): 13.9–18.1%, 3–4 seats</li><li>MSZP–Párbeszéd (S&amp;D): 10.2–13.9%, 2–3 seats</li><li>DK (S&amp;D): 7.4–10.7%, 1–2 seats</li><li>LMP (Greens/EFA): 3.9–6.4%, 0–1 seats</li><li>MM (ALDE): 1.3–3.0%, 0 seats</li><li>MKKP (NI): 0.1–0.7%, 0 seats</li><li>Együtt (Greens/EFA): 1.3–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-07-Medián.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-07-Medián.html"/>
+    <title>Opinion Poll by Medián for hvg.hu, 2–7 March 2018</title>
+    <updated>2019-01-03T17:22:17.278574+01:00</updated>
+    <dc:date>2019-01-03T17:22:17.278574+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 48.6–54.8%, 11–13 seats</li><li>Jobbik (NI): 14.7–19.4%, 3–4 seats</li><li>MSZP–Párbeszéd (S&amp;D): 8.3–12.0%, 2 seats</li><li>DK (S&amp;D): 4.7–7.7%, 1 seats</li><li>LMP (Greens/EFA): 7.4–10.9%, 1–2 seats</li><li>MM (ALDE): 2.9–5.4%, 0–1 seats</li><li>MKKP (NI): 1.3–3.1%, 0 seats</li><li>Együtt (Greens/EFA): 0.1–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-05-NézőpontIntézet.html</id>
     <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-03-05-NézőpontIntézet.html"/>
     <title>Opinion Poll by Nézőpont Intézet, 1–5 March 2018</title>
     <updated>2019-01-01T20:52:45.220437+01:00</updated>
     <dc:date>2019-01-01T20:52:45.220437+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 49.6–55.8%, 11–13 seats</li><li>Jobbik (NI): 9.1–13.0%, 2–3 seats</li><li>MSZP–Párbeszéd (S&amp;D): 11.9–16.2%, 2–3 seats</li><li>DK (S&amp;D): 4.7–7.7%, 1 seats</li><li>LMP (Greens/EFA): 6.5–9.9%, 1–2 seats</li><li>MM (ALDE): 0.1–0.7%, 0 seats</li><li>MKKP (NI): 0.1–0.7%, 0 seats</li><li>Együtt (Greens/EFA): 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-02-28-SzázadvégAlapítvány.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-02-28-SzázadvégAlapítvány.html"/>
+    <title>Opinion Poll by Századvég Alapítvány, 26–28 February 2018</title>
+    <updated>2019-01-03T19:30:17.65954+01:00</updated>
+    <dc:date>2019-01-03T19:30:17.65954+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 40.8–47.0%, 9–11 seats</li><li>Jobbik (NI): 21.4–26.6%, 5–6 seats</li><li>MSZP–Párbeszéd (S&amp;D): 9.2–13.1%, 2–3 seats</li><li>DK (S&amp;D): 6.5–9.9%, 1–2 seats</li><li>LMP (Greens/EFA): 6.5–9.9%, 1–2 seats</li><li>MM (ALDE): 2.9–5.4%, 0–1 seats</li><li>MKKP (NI): 0.1–0.7%, 0 seats</li><li>Együtt (Greens/EFA): 0.1–0.7%, 0 seats</li><li>Párbeszéd (Greens/EFA): 0.1–0.7%, 0 seats</li><li>MLP (ALDE): 0.1–0.7%, 0 seats</li></ul></div></content>
@@ -304,6 +328,14 @@
     <dc:date>2018-12-30T14:30:03.568626+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 48.4–54.6%, 11–13 seats</li><li>MSZP (S&amp;D): 11.9–16.2%, 2–3 seats</li><li>Jobbik (NI): 13.7–18.2%, 3–4 seats</li><li>LMP (Greens/EFA): 5.5–8.7%, 1–2 seats</li><li>DK (S&amp;D): 4.6–7.5%, 1 seats</li><li>Együtt (Greens/EFA): 0.5–1.8%, 0 seats</li><li>Párbeszéd (Greens/EFA): 0.1–0.7%, 0 seats</li><li>MLP (ALDE): 0.1–0.7%, 0 seats</li><li>MKKP (*): 0.1–0.7%, 0 seats</li><li>MM (ALDE): 0.1–0.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2018-01-02-SzázadvégAlapítvány.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2018-01-02-SzázadvégAlapítvány.html"/>
+    <title>Opinion Poll by Századvég Alapítvány, 27 December 2017–2 January 2018</title>
+    <updated>2019-01-03T18:23:35.360178+01:00</updated>
+    <dc:date>2019-01-03T18:23:35.360178+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP (EPP): 54.2–60.3%, 13–14 seats</li><li>MSZP (S&amp;D): 9.3–13.2%, 2–3 seats</li><li>Jobbik (NI): 13.9–18.5%, 3–4 seats</li><li>LMP (Greens/EFA): 3.8–6.5%, 0–1 seats</li><li>DK (S&amp;D): 3.8–6.5%, 0–1 seats</li><li>Együtt (Greens/EFA): 1.3–3.1%, 0 seats</li><li>MLP (ALDE): 0.1–0.9%, 0 seats</li><li>MKKP (*): 0.1–0.9%, 0 seats</li><li>MM (ALDE): 1.3–3.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2017-12-20-RepublikonIntézet.html</id>
     <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2017-12-20-RepublikonIntézet.html"/>
@@ -399,5 +431,5 @@
     <updated>2019-01-03T11:52:33.799197+01:00</updated>
     <dc:date>2019-01-03T11:52:33.799197+01:00</dc:date>
   </entry>
-  <dc:date>2019-01-03T14:34:55.842729+01:00</dc:date>
+  <dc:date>2019-01-03T20:00:59.828906+01:00</dc:date>
 </feed>
