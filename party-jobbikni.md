@@ -32,7 +32,7 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 15.9% | 14.5–17.5% | 14.1–18.0% | 13.8–18.3% | 13.1–19.1% |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
-| [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 17.0% | 16.1–18.3% | 15.8–18.6% | 15.6–18.9% | 15.1–19.4% |
+| [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 16.9% | 15.5–18.5% | 15.1–19.0% | 14.7–19.4% | 14.1–20.2% |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |

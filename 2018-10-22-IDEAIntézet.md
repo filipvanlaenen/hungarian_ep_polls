@@ -46,9 +46,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.0% | 100% | Last Result |
-| 13 | 59% | 99.0% | Median |
-| 14 | 40% | 40% |  |
+| 12 | 0.9% | 100% | Last Result |
+| 13 | 63% | 99.1% | Median |
+| 14 | 36% | 36% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
@@ -60,8 +60,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% | Last Result |
-| 4 | 96% | 99.4% | Median |
+| 3 | 0.7% | 100% | Last Result |
+| 4 | 96% | 99.3% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -97,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% | Last Result |
-| 1 | 54% | 54% | Median |
+| 0 | 42% | 100% | Last Result |
+| 1 | 58% | 58% | Median |
 | 2 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -109,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Median |
-| 1 | 0.8% | 0.8% | Last Result |
+| 0 | 99.0% | 100% | Median |
+| 1 | 1.0% | 1.0% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -151,9 +151,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.0% | 100% | Last Result |
-| 13 | 59% | 99.0% | Median |
-| 14 | 40% | 40% |  |
+| 12 | 0.9% | 100% | Last Result |
+| 13 | 63% | 99.1% | Median |
+| 14 | 36% | 36% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
@@ -164,9 +164,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% | Last Result |
-| 4 | 44% | 99.9% |  |
-| 5 | 56% | 56% | Median |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 39% | 99.9% |  |
+| 5 | 60% | 61% | Median |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
@@ -181,6 +181,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.30%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.96%
 
