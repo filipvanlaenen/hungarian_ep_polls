@@ -23,17 +23,17 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [12–17 October 2018](2018-10-17-Medián.html) | Medián | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
-| [1–30 September 2018](2018-09-30-Medián.html) | Medián | 11.0% | 10.2–12.5% | 9.8–12.9% | 9.6–13.2% | 9.1–13.8% |
+| [1–30 September 2018](2018-09-30-Medián.html) | Medián | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.7% | 12.4–15.2% | 12.0–15.6% | 11.7–16.0% | 11.1–16.7% |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 18.0% | 17.1–19.4% | 16.8–19.7% | 16.6–20.0% | 16.1–20.5% |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
-| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 15.9% | 14.7–17.7% | 14.3–18.2% | 14.0–18.5% | 13.3–19.3% |
+| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 15.9% | 14.5–17.5% | 14.1–18.0% | 13.8–18.3% | 13.1–19.1% |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 17.0% | 16.1–18.3% | 15.8–18.6% | 15.6–18.9% | 15.1–19.4% |
 | [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 17.0% | 16.1–18.3% | 15.8–18.6% | 15.6–18.9% | 15.1–19.4% |
-| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 16.9% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
+| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 16.9% | 15.5–18.5% | 15.1–19.0% | 14.7–19.4% | 14.1–20.2% |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.2% |

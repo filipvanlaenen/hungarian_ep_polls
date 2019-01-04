@@ -23,17 +23,17 @@ Last result: **51.5%** (General Election of 25 May 2014)
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 57.4% | 55.4–59.4% | 54.8–59.9% | 54.3–60.4% | 53.3–61.4% |
 | [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 52.5% | 50.5–54.5% | 49.9–55.1% | 49.4–55.6% | 48.5–56.6% |
 | [12–17 October 2018](2018-10-17-Medián.html) | Medián | 63.0% | 61.2–64.8% | 60.7–65.3% | 60.2–65.7% | 59.4–66.5% |
-| [1–30 September 2018](2018-09-30-Medián.html) | Medián | 60.0% | 59.4–63.0% | 58.9–63.5% | 58.5–64.0% | 57.6–64.8% |
+| [1–30 September 2018](2018-09-30-Medián.html) | Medián | 60.0% | 58.2–61.8% | 57.6–62.3% | 57.2–62.7% | 56.3–63.6% |
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 52.8% | 50.8–54.9% | 50.2–55.4% | 49.7–55.9% | 48.8–56.9% |
 | [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.7% | 53.7–57.7% | 53.1–58.3% | 52.6–58.8% | 51.6–59.7% |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 52.0% | 51.1–54.0% | 50.7–54.4% | 50.4–54.7% | 49.7–55.4% |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 53.0% | 51.0–55.0% | 50.4–55.6% | 49.9–56.1% | 48.9–57.0% |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 55.9% | 53.9–57.9% | 53.3–58.5% | 52.8–59.0% | 51.8–59.9% |
-| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 51.9% | 50.5–54.5% | 49.9–55.1% | 49.4–55.6% | 48.4–56.6% |
+| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 51.9% | 49.9–53.9% | 49.3–54.5% | 48.8–55.0% | 47.8–56.0% |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 54.0% | 53.1–56.0% | 52.7–56.4% | 52.4–56.7% | 51.7–57.4% |
 | [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 54.9% | 52.9–56.9% | 52.3–57.5% | 51.8–58.0% | 50.8–58.9% |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 55.0% | 54.1–57.0% | 53.7–57.4% | 53.4–57.7% | 52.7–58.4% |
-| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 48.9% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 45.0–53.1% |
+| [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 48.9% | 46.9–50.9% | 46.3–51.5% | 45.8–52.0% | 44.9–53.0% |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány | 53.0% | 51.0–55.0% | 50.4–55.6% | 49.9–56.1% | 48.9–57.0% |
 | [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 55.0% | 53.6–56.4% | 53.2–56.8% | 52.8–57.2% | 52.1–57.9% |
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.1% |
@@ -126,7 +126,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
-| [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
+| [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [18–22 October 2018](2018-10-22-IDEAIntézet.html) | IDEA Intézet | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [12–21 October 2018](2018-10-21-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–15 | 13–15 | 13–15 |
 | [11–17 October 2018](2018-10-17-PublicusResearch.html) | Publicus Research | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
@@ -137,7 +137,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
 | [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
-| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
+| [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
 | [10–18 July 2018](2018-07-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [1–17 July 2018](2018-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
