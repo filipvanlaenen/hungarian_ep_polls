@@ -123,7 +123,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | [4–11 December 2018](2018-12-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [30 November–5 December 2018](2018-12-05-Medián.html) | Medián | 14 | 14–15 | 14–15 | 14–15 | 13–15 |
 | [30 November–3 December 2018](2018-12-03-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
-| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
+| [10–27 November 2018](2018-11-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [13–22 November 2018](2018-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [14–21 November 2018](2018-11-21-PublicusResearch.html) | Publicus Research | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [10–29 October 2018](2018-10-29-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
