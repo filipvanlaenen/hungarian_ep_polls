@@ -12,11 +12,11 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz–KDNP (EPP) | 51.5% | 49.0% | 47.0–51.0% |46.4–51.6% |45.9–52.1% |44.9–53.1% |
 | Jobbik (NI) | 14.7% | 20.6% | 19.0–22.3% |18.6–22.8% |18.2–23.2% |17.5–24.1% |
-| MSZP–Párbeszéd (S&D) | 18.2% | 10.8% | N/A |N/A |N/A |N/A |
+| MSZP–Párbeszéd (S&D) | 18.2% | 10.8% | 9.6–12.2% |9.3–12.5% |9.0–12.9% |8.5–13.6% |
 | DK (S&D) | 9.8% | 7.8% | 6.8–9.0% |6.5–9.3% |6.3–9.6% |5.8–10.2% |
 | LMP (Greens/EFA) | 5.0% | 5.9% | 5.0–7.0% |4.8–7.3% |4.6–7.5% |4.2–8.1% |
 | MM (ALDE) | 0.0% | 2.9% | 2.3–3.7% |2.2–3.9% |2.0–4.1% |1.8–4.6% |
-| MKKP (NI) | 0.0% | 1.0% | N/A |N/A |N/A |N/A |
+| MKKP (NI) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,9 +30,135 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp-(epp)">Fidesz–KDNP (EPP)</a> | 12 | 12 | 11–12 |11–13 |11–13 |11–13 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 5 | 4–5 |4–5 |4–5 |4–6 |
-| <a href="#mszp–párbeszéd-(s&d)">MSZP–Párbeszéd (S&D)</a> | 3 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#mszp–párbeszéd-(s&d)">MSZP–Párbeszéd (S&D)</a> | 3 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |1–2 |
 | <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
-| <a href="#mkkp-(ni)">MKKP (NI)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#mkkp-(ni)">MKKP (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
+
+### Fidesz–KDNP (EPP)
+
+*For a full overview of the results for this party, see the [Fidesz–KDNP (EPP)](party-fidesz–kdnpepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-seats-pmf-fidesz–kdnpepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 10 | 0.4% | 100% |  |
+| 11 | 28% | 99.6% | Majority |
+| 12 | 65% | 71% | Last Result, Median |
+| 13 | 6% | 6% |  |
+| 14 | 0% | 0% |  |
+
+### Jobbik (NI)
+
+*For a full overview of the results for this party, see the [Jobbik (NI)](party-jobbikni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-seats-pmf-jobbikni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 0% | 100% | Last Result |
+| 4 | 38% | 100% |  |
+| 5 | 61% | 62% | Median |
+| 6 | 1.0% | 1.0% |  |
+| 7 | 0% | 0% |  |
+
+### MSZP–Párbeszéd (S&D)
+
+*For a full overview of the results for this party, see the [MSZP–Párbeszéd (S&D)](party-mszp–párbeszédsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-seats-pmf-mszp–párbeszédsd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0.2% | 100% |  |
+| 2 | 86% | 99.8% | Median |
+| 3 | 14% | 14% | Last Result |
+| 4 | 0% | 0% |  |
+
+### DK (S&D)
+
+*For a full overview of the results for this party, see the [DK (S&D)](party-dksd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-seats-pmf-dksd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 57% | 100% | Median |
+| 2 | 43% | 43% | Last Result |
+| 3 | 0% | 0% |  |
+
+### LMP (Greens/EFA)
+
+*For a full overview of the results for this party, see the [LMP (Greens/EFA)](party-lmpgreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-seats-pmf-lmpgreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.3% | 100% |  |
+| 1 | 99.1% | 99.7% | Last Result, Median |
+| 2 | 0.6% | 0.6% |  |
+| 3 | 0% | 0% |  |
+
+### MM (ALDE)
+
+*For a full overview of the results for this party, see the [MM (ALDE)](party-mmalde.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-seats-pmf-mmalde.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
+| 2 | 0% | 0% |  |
+
+### MKKP (NI)
+
+*For a full overview of the results for this party, see the [MKKP (NI)](party-mkkpni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-seats-pmf-mkkpni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2018-05-13-ZRIZáveczResearch-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Fidesz–KDNP (EPP) | 12 | 12 | 99.6% | 11–12 | 11–13 | 11–13 | 11–13 |
+
+### Fidesz–KDNP (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-05-13-ZRIZáveczResearch-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 10 | 0.4% | 100% |  |
+| 11 | 28% | 99.6% | Majority |
+| 12 | 65% | 71% | Last Result, Median |
+| 13 | 6% | 6% |  |
+| 14 | 0% | 0% |  |
+
+
+## Technical Information
+
+### Opinion Poll
+
++ **Polling firm:** ZRI Závecz Research
++ **Commissioner(s):** —
++ **Fieldwork period:** 6–13 May 2018
+
+### Calculations
+
++ **Sample size:** 1000
++ **Simulations done:** 524,288
++ **Error estimate:** 1.11%
 

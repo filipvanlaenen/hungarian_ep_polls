@@ -134,7 +134,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–16 July 2018](2018-07-16-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [2–6 July 2018](2018-07-06-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
 | [3–22 June 2018](2018-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0–1 | 0–1 |
 | [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 0 | 0 | 0 | 0–1 | 0–1 |
 | [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
