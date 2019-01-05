@@ -44,10 +44,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.4% | 100% |  |
-| 11 | 28% | 99.6% | Majority |
-| 12 | 65% | 71% | Last Result, Median |
-| 13 | 6% | 6% |  |
+| 10 | 0.5% | 100% |  |
+| 11 | 30% | 99.5% | Majority |
+| 12 | 64% | 70% | Last Result, Median |
+| 13 | 5% | 5% |  |
 | 14 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -59,9 +59,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 38% | 100% |  |
-| 5 | 61% | 62% | Median |
-| 6 | 1.0% | 1.0% |  |
+| 4 | 37% | 100% |  |
+| 5 | 63% | 63% | Median |
+| 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 ### MSZP–Párbeszéd (S&D)
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 57% | 100% | Median |
-| 2 | 43% | 43% | Last Result |
+| 1 | 56% | 100% | Median |
+| 2 | 44% | 44% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -99,7 +99,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% |  |
 | 1 | 99.1% | 99.7% | Last Result, Median |
-| 2 | 0.6% | 0.6% |  |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -133,7 +133,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 12 | 99.6% | 11–12 | 11–13 | 11–13 | 11–13 |
+| Fidesz–KDNP (EPP) | 12 | 12 | 99.5% | 11–12 | 11–13 | 11–13 | 11–13 |
 
 ### Fidesz–KDNP (EPP)
 
@@ -141,10 +141,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.4% | 100% |  |
-| 11 | 28% | 99.6% | Majority |
-| 12 | 65% | 71% | Last Result, Median |
-| 13 | 6% | 6% |  |
+| 10 | 0.5% | 100% |  |
+| 11 | 30% | 99.5% | Majority |
+| 12 | 64% | 70% | Last Result, Median |
+| 13 | 5% | 5% |  |
 | 14 | 0% | 0% |  |
 
 
@@ -159,6 +159,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.11%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.47%
 

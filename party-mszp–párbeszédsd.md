@@ -27,7 +27,7 @@ Last result: **18.2%** (General Election of 25 May 2014)
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
 | [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.6% |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
-| [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | N/A | N/A | N/A | N/A |
+| [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 14.9% | 13.6–16.5% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -39,7 +39,7 @@ Last result: **18.2%** (General Election of 25 May 2014)
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.2% |
 | [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
-| [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 9.0% | N/A | N/A | N/A | N/A |
+| [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 14.7% | 13.3–16.2% | 13.0–16.6% | 12.6–17.0% | 12.0–17.8% |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
@@ -128,7 +128,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [12–19 September 2018](2018-09-19-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–18 September 2018](2018-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 August–18 September 2018](2018-09-18-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány |  |  |  |  |  |
+| [3–10 September 2018](2018-09-10-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–18 August 2018](2018-08-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2 | 2–3 | 1–3 |
 | [8–16 August 2018](2018-08-16-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [19 July–14 August 2018](2018-08-14-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -140,7 +140,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [7–13 June 2018](2018-06-13-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–11 June 2018](2018-06-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 May–1 June 2018](2018-06-01-Medián.html) | Medián <br> hvg.hu | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [2–22 May 2018](2018-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–13 May 2018](2018-05-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
