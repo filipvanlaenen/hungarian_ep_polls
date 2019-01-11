@@ -10,7 +10,9 @@ Last result: **18.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 9.9–14.4% | 9.4–15.0% | 9.1–15.4% | 8.4–16.3% |
+| N/A | [Poll Average](average.html) | 12.5% | 9.9–15.1% | 9.4–15.8% | 9.1–16.4% | 8.4–17.4% |
+| [17–20 December 2018](2018-12-20-IDEAIntézet.html) | IDEA Intézet | 13.2% | 12.2–14.2% | 12.0–14.5% | 11.7–14.7% | 11.3–15.2% |
+| [13–19 December 2018](2018-12-19-PublicusResearch.html) | Publicus Research | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [26 November–15 December 2018](2018-12-15-NézőpontIntézet.html) | Nézőpont Intézet | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.6–12.4% | 9.3–12.9% |
 | [4–11 December 2018](2018-12-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [30 November–5 December 2018](2018-12-05-Medián.html) | Medián | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.4–11.8% | 8.0–12.4% |
@@ -93,14 +95,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0.7% | 100% |  |
 | 8.5–9.5% | 5% | 99.3% |  |
 | 9.5–10.5% | 14% | 94% |  |
-| 10.5–11.5% | 21% | 80% |  |
-| 11.5–12.5% | 21% | 58% | Median |
-| 12.5–13.5% | 17% | 37% |  |
-| 13.5–14.5% | 12% | 20% |  |
-| 14.5–15.5% | 6% | 8% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
-| 17.5–18.5% | 0% | 0% | Last Result |
+| 10.5–11.5% | 17% | 80% |  |
+| 11.5–12.5% | 13% | 63% |  |
+| 12.5–13.5% | 19% | 50% | Median |
+| 13.5–14.5% | 15% | 31% |  |
+| 14.5–15.5% | 9% | 16% |  |
+| 15.5–16.5% | 5% | 7% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.3% | 0.3% | Last Result |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -111,7 +114,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [17–20 December 2018](2018-12-20-IDEAIntézet.html) | IDEA Intézet | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [13–19 December 2018](2018-12-19-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 November–15 December 2018](2018-12-15-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–11 December 2018](2018-12-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [30 November–5 December 2018](2018-12-05-Medián.html) | Medián | 2 | 2 | 2 | 2 | 1–3 |
@@ -193,9 +198,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 47% | 99.9% |  |
-| 3 | 50% | 53% | Last Result, Median |
-| 4 | 2% | 2% |  |
+| 2 | 40% | 99.9% |  |
+| 3 | 52% | 60% | Last Result, Median |
+| 4 | 9% | 9% |  |
 | 5 | 0% | 0% |  |
 
 
