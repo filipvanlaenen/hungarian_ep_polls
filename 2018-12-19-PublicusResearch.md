@@ -34,7 +34,7 @@
 | <a href="#mszp–párbeszéd-(s&d)">MSZP–Párbeszéd (S&D)</a> | 3 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#dk-(s&d)">DK (S&D)</a> | 2 | 1 | 1 |1 |1 |1–2 |
 | <a href="#lmp-(greens/efa)">LMP (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#mm-(alde)">MM (ALDE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#mkkp-(ni)">MKKP (NI)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -46,10 +46,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.8% | 100% |  |
-| 11 | 38% | 99.2% | Majority |
-| 12 | 54% | 61% | Last Result, Median |
-| 13 | 7% | 7% |  |
+| 10 | 0.7% | 100% |  |
+| 11 | 32% | 99.3% | Majority |
+| 12 | 62% | 67% | Last Result, Median |
+| 13 | 5% | 5% |  |
 | 14 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -60,9 +60,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 34% | 100% | Last Result |
-| 4 | 66% | 66% | Median |
-| 5 | 0.4% | 0.4% |  |
+| 3 | 36% | 100% | Last Result |
+| 4 | 63% | 64% | Median |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 ### MSZP–Párbeszéd (S&D)
@@ -73,9 +73,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% |  |
-| 3 | 59% | 99.8% | Last Result, Median |
-| 4 | 41% | 41% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 69% | 99.9% | Last Result, Median |
+| 4 | 31% | 31% |  |
 | 5 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -87,8 +87,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 99.0% | 99.9% | Median |
-| 2 | 0.9% | 0.9% | Last Result |
+| 1 | 98% | 99.9% | Median |
+| 2 | 1.5% | 1.5% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -99,8 +99,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 68% | 68% | Last Result, Median |
+| 0 | 33% | 100% |  |
+| 1 | 67% | 67% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -111,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Last Result, Median |
-| 1 | 46% | 46% |  |
+| 0 | 47% | 100% | Last Result |
+| 1 | 53% | 53% | Median |
 | 2 | 0% | 0% |  |
 
 ### MKKP (NI)
@@ -146,7 +146,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP (EPP) | 12 | 12 | 99.2% | 11–12 | 11–13 | 11–13 | 10–13 |
+| Fidesz–KDNP (EPP) | 12 | 12 | 99.3% | 11–12 | 11–13 | 11–13 | 10–13 |
 | Jobbik (NI) – MKKP (NI) – Mi Hazánk Mozgalom (NI) | 3 | 4 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
 
 ### Fidesz–KDNP (EPP)
@@ -155,10 +155,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.8% | 100% |  |
-| 11 | 38% | 99.2% | Majority |
-| 12 | 54% | 61% | Last Result, Median |
-| 13 | 7% | 7% |  |
+| 10 | 0.7% | 100% |  |
+| 11 | 32% | 99.3% | Majority |
+| 12 | 62% | 67% | Last Result, Median |
+| 13 | 5% | 5% |  |
 | 14 | 0% | 0% |  |
 
 ### Jobbik (NI) – MKKP (NI) – Mi Hazánk Mozgalom (NI)
@@ -167,8 +167,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 31% | 100% | Last Result |
-| 4 | 66% | 69% | Median |
+| 3 | 34% | 100% | Last Result |
+| 4 | 64% | 66% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -184,6 +184,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 262,144
-+ **Error estimate:** 1.69%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.55%
 
