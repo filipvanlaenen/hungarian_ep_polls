@@ -10,7 +10,8 @@ Last result: **18.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 9.9–15.4% | 9.4–16.0% | 9.1–16.5% | 8.4–17.4% |
+| N/A | [Poll Average](average.html) | 12.6% | 10.0–15.2% | 9.5–15.8% | 9.2–16.3% | 8.5–17.3% |
+| [7–13 January 2019](2019-01-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [17–20 December 2018](2018-12-20-IDEAIntézet.html) | IDEA Intézet | 13.2% | 12.2–14.2% | 12.0–14.5% | 11.7–14.7% | 11.3–15.2% |
 | [13–19 December 2018](2018-12-19-PublicusResearch.html) | Publicus Research | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
@@ -93,17 +94,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.7% | 100% |  |
-| 8.5–9.5% | 5% | 99.3% |  |
-| 9.5–10.5% | 14% | 94% |  |
-| 10.5–11.5% | 16% | 80% |  |
-| 11.5–12.5% | 10% | 65% |  |
-| 12.5–13.5% | 17% | 54% | Median |
-| 13.5–14.5% | 17% | 37% |  |
-| 14.5–15.5% | 12% | 20% |  |
-| 15.5–16.5% | 6% | 8% |  |
+| 7.5–8.5% | 0.6% | 100% |  |
+| 8.5–9.5% | 5% | 99.4% |  |
+| 9.5–10.5% | 12% | 95% |  |
+| 10.5–11.5% | 17% | 83% |  |
+| 11.5–12.5% | 15% | 65% |  |
+| 12.5–13.5% | 18% | 51% | Median |
+| 13.5–14.5% | 16% | 32% |  |
+| 14.5–15.5% | 10% | 17% |  |
+| 15.5–16.5% | 5% | 7% |  |
 | 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.3% | 0.4% | Last Result |
+| 17.5–18.5% | 0.3% | 0.3% | Last Result |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -116,6 +117,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [7–13 January 2019](2019-01-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 3 | 3 | 2–4 |
 | [17–20 December 2018](2018-12-20-IDEAIntézet.html) | IDEA Intézet | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [13–19 December 2018](2018-12-19-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -200,9 +202,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 38% | 99.9% |  |
-| 3 | 56% | 62% | Last Result, Median |
-| 4 | 7% | 7% |  |
+| 2 | 43% | 99.9% |  |
+| 3 | 51% | 57% | Last Result, Median |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 
