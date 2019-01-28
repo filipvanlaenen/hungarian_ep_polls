@@ -125,8 +125,8 @@ Last result: **12** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 10–15 | 10–15 |
-| [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
+| [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [17–20 December 2018](2018-12-20-IDEAIntézet.html) | IDEA Intézet | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [13–19 December 2018](2018-12-19-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [26 November–15 December 2018](2018-12-15-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
@@ -209,9 +209,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 17% | 100% |  |
-| 11 | 13% | 83% | Majority |
-| 12 | 27% | 70% | Last Result, Median |
+| 10 | 0.8% | 100% |  |
+| 11 | 24% | 99.2% | Majority |
+| 12 | 33% | 75% | Last Result, Median |
 | 13 | 14% | 43% |  |
 | 14 | 21% | 29% |  |
 | 15 | 8% | 8% |  |
