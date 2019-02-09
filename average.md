@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 25 May 2014 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 |
 | N/A | Poll Average | 45–60% <br> 11–15 | 11–19% <br> 2–4 | N/A <br> N/A | 5–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0–1 | N/A <br> N/A | 1–5% <br> 0–1 | 2–7% <br> 0–1 | 9–17% <br> 2–4 | 1–3% <br> 0 |
 | [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 45–49% <br> 11–12 | 14–18% <br> 3–4 | N/A <br> N/A | 8–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–5% <br> 0–1 | 5–7% <br> 1 | 11–14% <br> 2–3 | 1–2% <br> 0 |
-| [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 53–55% <br> 13–14 | 12–14% <br> 3 | N/A <br> N/A | 6–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | N/A <br> N/A | 3–4% <br> 0 | 3–5% <br> 0–1 | 9–11% <br> 2 | 3–4% <br> 0 |
+| [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 53–55% <br> 13–14 | 12–14% <br> 3 | N/A <br> N/A | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | N/A <br> N/A | 3–4% <br> 0 | 3–5% <br> 0–1 | 9–11% <br> 2 | 3–4% <br> 0 |
 | [9–16 January 2019](2019-01-16-PublicusResearch.html) | Publicus Research | 44–50% <br> 10–12 | 15–19% <br> 3–5 | N/A <br> N/A | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 3–5% <br> 0–1 | 14–18% <br> 3–4 | 1–2% <br> 0 |
 | [7–13 January 2019](2019-01-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 50–56% <br> 11–13 | 11–15% <br> 2–3 | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A |
 | [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 44–51% <br> 10–12 | 15–19% <br> 3–4 | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 4–7% <br> 0–1 | 12–16% <br> 2–4 | 1–2% <br> 0 |
@@ -243,8 +243,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 2% | 100% |  |
 | 11 | 32% | 98% | Majority |
 | 12 | 29% | 66% | Last Result, Median |
-| 13 | 17% | 37% |  |
-| 14 | 14% | 21% |  |
+| 13 | 16% | 37% |  |
+| 14 | 15% | 21% |  |
 | 15 | 6% | 6% |  |
 | 16 | 0% | 0% |  |
 
@@ -310,8 +310,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% | Last Result |
-| 1 | 65% | 65% | Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
 | 2 | 0% | 0% |  |
 
 ### MKKP (NI)
@@ -360,8 +360,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 2% | 100% |  |
 | 11 | 32% | 98% | Majority |
 | 12 | 29% | 66% | Last Result, Median |
-| 13 | 17% | 37% |  |
-| 14 | 14% | 21% |  |
+| 13 | 16% | 37% |  |
+| 14 | 15% | 21% |  |
 | 15 | 6% | 6% |  |
 | 16 | 0% | 0% |  |
 
@@ -405,14 +405,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% | Last Result |
-| 1 | 54% | 54% | Median |
+| 0 | 47% | 100% | Last Result |
+| 1 | 53% | 53% | Median |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 262,144
-+ **Total number of simulations done in the polls included in this average:** 5,505,024
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.71%
