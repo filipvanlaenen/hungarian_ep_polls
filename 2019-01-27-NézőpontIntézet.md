@@ -46,8 +46,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% | Last Result |
-| 13 | 74% | 99.8% | Median |
+| 12 | 0.1% | 100% | Last Result |
+| 13 | 74% | 99.9% | Median |
 | 14 | 26% | 26% |  |
 | 15 | 0% | 0% |  |
 
@@ -71,8 +71,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 99.8% | 100% | Median |
-| 3 | 0.2% | 0.2% | Last Result |
+| 2 | 99.9% | 100% | Median |
+| 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -83,8 +83,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.2% | 100% | Median |
-| 2 | 0.8% | 0.8% | Last Result |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### LMP (Greens/EFA)
@@ -105,8 +105,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
+| 0 | 28% | 100% | Last Result |
+| 1 | 72% | 72% | Median |
 | 2 | 0% | 0% |  |
 
 ### MKKP (NI)
@@ -147,8 +147,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% | Last Result |
-| 13 | 74% | 99.8% | Median |
+| 12 | 0.1% | 100% | Last Result |
+| 13 | 74% | 99.9% | Median |
 | 14 | 26% | 26% |  |
 | 15 | 0% | 0% |  |
 
@@ -175,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 5000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.13%
++ **Simulations done:** 262,144
++ **Error estimate:** 1.10%
 
