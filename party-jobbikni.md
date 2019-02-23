@@ -10,9 +10,11 @@ Last result: **14.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 11.9–17.6% | 11.4–18.2% | 11.0–18.7% | 10.3–19.7% |
+| N/A | [Poll Average](average.html) | 13.9% | 12.3–17.1% | 11.9–17.8% | 11.6–18.4% | 10.9–19.4% |
+| [3–10 February 2019](2019-02-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
 | [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 13.0% | 12.4–13.6% | 12.2–13.8% | 12.1–14.0% | 11.8–14.3% |
+| [18–27 January 2019](2019-01-27-Medián.html) | Medián | 12.9% | 11.7–14.2% | 11.4–14.6% | 11.1–14.9% | 10.6–15.6% |
 | [9–16 January 2019](2019-01-16-PublicusResearch.html) | Publicus Research | 17.0% | 15.6–18.7% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
 | [7–13 January 2019](2019-01-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
@@ -97,18 +99,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.9% | 100% |  |
-| 10.5–11.5% | 5% | 99.1% |  |
-| 11.5–12.5% | 13% | 94% |  |
-| 12.5–13.5% | 22% | 80% |  |
-| 13.5–14.5% | 8% | 58% |  |
-| 14.5–15.5% | 9% | 50% | Last Result, Median |
-| 15.5–16.5% | 16% | 42% |  |
-| 16.5–17.5% | 14% | 26% |  |
-| 17.5–18.5% | 8% | 11% |  |
-| 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.5% | 0.6% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 2% | 99.8% |  |
+| 11.5–12.5% | 12% | 98% |  |
+| 12.5–13.5% | 29% | 85% |  |
+| 13.5–14.5% | 16% | 57% | Median |
+| 14.5–15.5% | 11% | 40% | Last Result |
+| 15.5–16.5% | 13% | 29% |  |
+| 16.5–17.5% | 9% | 16% |  |
+| 17.5–18.5% | 5% | 6% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.3% | 0.4% |  |
+| 20.5–21.5% | 0% | 0% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -121,8 +123,10 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [3–10 February 2019](2019-02-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 3 | 3 | 3–4 |
 | [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3 | 3 |
+| [18–27 January 2019](2019-01-27-Medián.html) | Medián | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–16 January 2019](2019-01-16-PublicusResearch.html) | Publicus Research | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [7–13 January 2019](2019-01-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -208,10 +212,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 13% | 100% |  |
-| 3 | 50% | 87% | Last Result, Median |
-| 4 | 36% | 36% |  |
-| 5 | 0.9% | 0.9% |  |
+| 2 | 12% | 100% |  |
+| 3 | 65% | 88% | Last Result, Median |
+| 4 | 23% | 24% |  |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 
