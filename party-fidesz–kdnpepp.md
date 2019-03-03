@@ -11,6 +11,7 @@ Last result: **51.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 51.0% | 46.2–55.6% | 45.6–56.5% | 45.0–57.2% | 43.9–58.4% |
+| [31 January–22 February 2019](2019-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 54.0% | 53.1–54.9% | 52.8–55.2% | 52.6–55.4% | 52.2–55.8% |
 | [3–10 February 2019](2019-02-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 49.0% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 44.9–53.1% |
 | [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 47.0% | 45.6–48.4% | 45.2–48.8% | 44.8–49.2% | 44.1–49.9% |
 | [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 54.0% | 53.1–54.9% | 52.8–55.2% | 52.6–55.4% | 52.2–55.8% |
@@ -128,7 +129,8 @@ Last result: **12** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [31 January–22 February 2019](2019-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13 | 13 | 13–14 |
 | [3–10 February 2019](2019-02-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 13–14 | 13–14 | 13–14 |
@@ -221,8 +223,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 1.0% | 100% |  |
 | 11 | 30% | 99.0% | Majority |
 | 12 | 35% | 69% | Last Result, Median |
-| 13 | 27% | 34% |  |
-| 14 | 7% | 7% |  |
+| 13 | 32% | 34% |  |
+| 14 | 2% | 2% |  |
 | 15 | 0% | 0% |  |
 
 
