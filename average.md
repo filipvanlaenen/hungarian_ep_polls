@@ -237,7 +237,7 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 1.0% | 100% |  |
 | 11 | 30% | 99.0% | Majority |
 | 12 | 41% | 69% | Last Result, Median |
-| 13 | 22% | 28% |  |
+| 13 | 23% | 29% |  |
 | 14 | 6% | 6% |  |
 | 15 | 0% | 0% |  |
 
@@ -249,8 +249,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 38% | 100% |  |
-| 3 | 51% | 62% | Last Result, Median |
+| 2 | 41% | 100% |  |
+| 3 | 49% | 59% | Last Result, Median |
 | 4 | 10% | 10% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
@@ -263,8 +263,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% |  |
-| 3 | 63% | 88% | Last Result, Median |
+| 2 | 11% | 100% |  |
+| 3 | 64% | 89% | Last Result, Median |
 | 4 | 24% | 24% |  |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
@@ -289,8 +289,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% |  |
-| 1 | 67% | 67% | Last Result, Median |
+| 0 | 31% | 100% |  |
+| 1 | 69% | 69% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -351,7 +351,7 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 1.0% | 100% |  |
 | 11 | 30% | 99.0% | Majority |
 | 12 | 41% | 69% | Last Result, Median |
-| 13 | 22% | 28% |  |
+| 13 | 23% | 29% |  |
 | 14 | 6% | 6% |  |
 | 15 | 0% | 0% |  |
 
@@ -362,8 +362,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 25% | 100% |  |
-| 4 | 28% | 75% |  |
-| 5 | 46% | 47% | Median |
+| 4 | 31% | 75% |  |
+| 5 | 43% | 44% | Median |
 | 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% | Last Result |
 
@@ -373,8 +373,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% |  |
-| 3 | 49% | 88% | Last Result, Median |
+| 2 | 11% | 100% |  |
+| 3 | 50% | 89% | Last Result, Median |
 | 4 | 33% | 39% |  |
 | 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% |  |
-| 1 | 67% | 67% | Median |
+| 0 | 31% | 100% |  |
+| 1 | 69% | 69% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### MLP (ALDE) – MM (ALDE)
@@ -404,5 +404,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,538,944
-+ **Error estimate:** 1.81%
++ **Total number of simulations done in the polls included in this average:** 4,456,448
++ **Error estimate:** 1.71%
