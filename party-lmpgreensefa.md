@@ -122,7 +122,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [3–10 February 2019](2019-02-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0–1 |
 | [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 1 | 1 |
-| [18–27 January 2019](2019-01-27-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–27 January 2019](2019-01-27-Medián.html) | Medián | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [9–16 January 2019](2019-01-16-PublicusResearch.html) | Publicus Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 January 2019](2019-01-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4–11 January 2019](2019-01-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -208,8 +208,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% |  |
-| 1 | 67% | 67% | Last Result, Median |
+| 0 | 31% | 100% |  |
+| 1 | 69% | 69% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
