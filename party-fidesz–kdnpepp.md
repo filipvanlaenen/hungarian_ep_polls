@@ -130,12 +130,12 @@ Last result: **12** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
-| [28 February–4 March 2019](2019-03-04-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–13 | 11–13 |
-| [31 January–22 February 2019](2019-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13 | 12–13 | 12–13 |
-| [13–20 February 2019](2019-02-20-PublicusResearch.html) | Publicus Research | 12 | 12 | 12 | 11–12 | 11–12 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
+| [28 February–4 March 2019](2019-03-04-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [31 January–22 February 2019](2019-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
+| [13–20 February 2019](2019-02-20-PublicusResearch.html) | Publicus Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [3–10 February 2019](2019-02-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
-| [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 11 | 11 | 11–12 | 11–12 | 11–13 |
+| [26–28 January 2019](2019-01-28-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [1–27 January 2019](2019-01-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 13–14 | 13–14 | 13–14 |
 | [18–27 January 2019](2019-01-27-Medián.html) | Medián | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [9–16 January 2019](2019-01-16-PublicusResearch.html) | Publicus Research | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
@@ -223,10 +223,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 23% | 100% | Majority |
-| 12 | 44% | 77% | Last Result, Median |
-| 13 | 31% | 33% |  |
-| 14 | 2% | 2% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 21% | 99.6% | Majority |
+| 12 | 45% | 78% | Last Result, Median |
+| 13 | 30% | 33% |  |
+| 14 | 3% | 3% |  |
 | 15 | 0% | 0% |  |
 
 
