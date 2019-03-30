@@ -10,7 +10,7 @@ Last result: **51.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.6% | 46.9–55.6% | 46.3–56.5% | 45.7–57.2% | 44.8–58.4% |
+| N/A | [Poll Average](average.html) | 51.7% | 47.0–55.6% | 46.3–56.5% | 45.8–57.2% | 44.9–58.4% |
 | [8–19 March 2019](2019-03-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 49.5% | 47.5–51.5% | 46.9–52.1% | 46.4–52.6% | 45.4–53.6% |
 | [28 February–4 March 2019](2019-03-04-IDEAIntézet.html) | IDEA Intézet | 47.0% | 45.6–48.4% | 45.2–48.8% | 44.8–49.2% | 44.1–49.9% |
 | [31 January–22 February 2019](2019-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 53.9% | 52.9–54.8% | 52.7–55.0% | 52.5–55.3% | 52.0–55.7% |
@@ -103,15 +103,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0.3% | 100% |  |
-| 44.5–45.5% | 2% | 99.7% |  |
+| 43.5–44.5% | 0.2% | 100% |  |
+| 44.5–45.5% | 2% | 99.8% |  |
 | 45.5–46.5% | 5% | 98% |  |
-| 46.5–47.5% | 9% | 93% |  |
-| 47.5–48.5% | 9% | 84% |  |
-| 48.5–49.5% | 9% | 75% |  |
-| 49.5–50.5% | 8% | 66% |  |
-| 50.5–51.5% | 7% | 57% | Last Result |
-| 51.5–52.5% | 7% | 50% | Median |
+| 46.5–47.5% | 8% | 93% |  |
+| 47.5–48.5% | 9% | 85% |  |
+| 48.5–49.5% | 9% | 77% |  |
+| 49.5–50.5% | 9% | 68% |  |
+| 50.5–51.5% | 8% | 59% | Last Result |
+| 51.5–52.5% | 7% | 51% | Median |
 | 52.5–53.5% | 11% | 44% |  |
 | 53.5–54.5% | 14% | 33% |  |
 | 54.5–55.5% | 9% | 19% |  |
@@ -225,10 +225,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.4% | 100% |  |
-| 11 | 21% | 99.6% | Majority |
-| 12 | 45% | 78% | Last Result, Median |
-| 13 | 30% | 33% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 17% | 99.9% | Majority |
+| 12 | 51% | 83% | Last Result, Median |
+| 13 | 29% | 32% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0% | 0% |  |
 
