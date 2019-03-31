@@ -10,7 +10,7 @@ Last result: **18.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.6% | 10.9–15.1% | 10.6–15.8% | 10.4–16.3% | 10.0–17.2% |
+| N/A | [Poll Average](average.html) | 12.9% | 10.9–15.3% | 10.6–15.9% | 10.4–16.4% | 10.1–17.3% |
 | [8–19 March 2019](2019-03-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [28 February–4 March 2019](2019-03-04-IDEAIntézet.html) | IDEA Intézet | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [31 January–22 February 2019](2019-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 11.0% | 10.4–11.6% | 10.3–11.7% | 10.1–11.9% | 9.9–12.2% |
@@ -102,17 +102,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 4% | 99.9% |  |
-| 10.5–11.5% | 22% | 96% |  |
-| 11.5–12.5% | 22% | 74% |  |
-| 12.5–13.5% | 20% | 52% | Median |
-| 13.5–14.5% | 15% | 32% |  |
-| 14.5–15.5% | 10% | 17% |  |
-| 15.5–16.5% | 5% | 6% |  |
-| 16.5–17.5% | 1.4% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.3% | Last Result |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 4% | 100% |  |
+| 10.5–11.5% | 21% | 96% |  |
+| 11.5–12.5% | 19% | 75% |  |
+| 12.5–13.5% | 19% | 56% | Median |
+| 13.5–14.5% | 17% | 37% |  |
+| 14.5–15.5% | 12% | 20% |  |
+| 15.5–16.5% | 6% | 8% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.3% | 0.3% | Last Result |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -218,8 +217,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 39% | 100% |  |
-| 3 | 59% | 61% | Last Result, Median |
+| 2 | 32% | 100% |  |
+| 3 | 65% | 68% | Last Result, Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
