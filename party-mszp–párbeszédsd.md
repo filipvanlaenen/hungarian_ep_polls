@@ -59,6 +59,7 @@ Last result: **18.2%** (General Election of 25 May 2014)
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 14.7% | 13.3–16.2% | 13.0–16.6% | 12.6–17.0% | 12.0–17.8% |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 15.5% | 14.1–17.0% | 13.7–17.5% | 13.4–17.9% | 12.7–18.6% |
+| [1–5 April 2018](2018-04-05-NézőpontIntézet.html) | Nézőpont Intézet | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 18.9% | 17.4–20.5% | 16.9–21.0% | 16.6–21.4% | 15.9–22.3% |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 12.0% | 10.9–13.3% | 10.5–13.7% | 10.3–14.0% | 9.8–14.6% |
@@ -69,6 +70,7 @@ Last result: **18.2%** (General Election of 25 May 2014)
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 17.9% | 16.5–19.6% | 16.0–20.0% | 15.7–20.5% | 15.0–21.2% |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 11.9% | 10.8–13.2% | 10.5–13.6% | 10.2–13.9% | 9.7–14.5% |
 | [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [16–28 February 2018](2018-02-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.6% |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
@@ -174,6 +176,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
 | [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–5 April 2018](2018-04-05-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3 | 3 | 3 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -184,6 +187,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 1–3 |
+| [16–28 February 2018](2018-02-28-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
