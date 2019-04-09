@@ -177,7 +177,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [4–9 May 2018](2018-05-09-PublicusResearch.html) | Publicus Research | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [13–30 April 2018](2018-04-30-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–23 April 2018](2018-04-23-PublicusResearch.html) | Publicus Research <br> Vasárnapi Hírek | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [1–5 April 2018](2018-04-05-NézőpontIntézet.html) | Nézőpont Intézet | 5 | 5 | 5 | 5 | 5 |
+| [1–5 April 2018](2018-04-05-NézőpontIntézet.html) | Nézőpont Intézet | 5 | 5 | 5 | 4–6 | 4–6 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -188,7 +188,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [16–28 February 2018](2018-02-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2 | 2 | 2–3 |
+| [16–28 February 2018](2018-02-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
