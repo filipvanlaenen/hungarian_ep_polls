@@ -11,6 +11,7 @@ Last result: **9.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 5.7–9.8% | 5.4–10.1% | 5.2–10.5% | 4.7–11.1% |
+| [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [29 March–1 April 2019](2019-04-01-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -131,6 +132,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 2 | 2 | 2 | 2 | 1–3 |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 March–1 April 2019](2019-04-01-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 1–2 |
