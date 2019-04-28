@@ -134,7 +134,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 3 | 3 | 3 | 3–4 | 2–4 |
+| [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 3 | 3 | 3 | 2–4 | 2–4 |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 March–1 April 2019](2019-04-01-IDEAIntézet.html) | IDEA Intézet | 3 | 3 | 3 | 3 | 3–4 |
