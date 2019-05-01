@@ -47,9 +47,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.9% | 100% | Majority |
-| 12 | 40% | 99.1% | Last Result |
-| 13 | 52% | 59% | Median |
-| 14 | 7% | 7% |  |
+| 12 | 35% | 99.1% | Last Result |
+| 13 | 58% | 64% | Median |
+| 14 | 6% | 6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
@@ -61,9 +61,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 16% | 100% |  |
-| 3 | 83% | 84% | Last Result, Median |
-| 4 | 0.8% | 0.8% |  |
+| 2 | 18% | 100% |  |
+| 3 | 82% | 82% | Last Result, Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -74,8 +74,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 44% | 100% |  |
-| 3 | 56% | 56% | Last Result, Median |
+| 2 | 47% | 100% |  |
+| 3 | 53% | 53% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### DK (S&D)
@@ -99,8 +99,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% |  |
-| 1 | 54% | 54% | Last Result, Median |
+| 0 | 45% | 100% |  |
+| 1 | 55% | 55% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### MM (ALDE)
@@ -154,9 +154,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.9% | 100% | Majority |
-| 12 | 40% | 99.1% | Last Result |
-| 13 | 52% | 59% | Median |
-| 14 | 7% | 7% |  |
+| 12 | 35% | 99.1% | Last Result |
+| 13 | 58% | 64% | Median |
+| 14 | 6% | 6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
@@ -166,8 +166,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 44% | 100% |  |
-| 3 | 56% | 56% | Last Result, Median |
+| 2 | 47% | 100% |  |
+| 3 | 53% | 53% | Last Result, Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -183,6 +183,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.11%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.34%
 
