@@ -11,11 +11,13 @@ Last result: **14.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.1% | 11.5–16.1% | 11.2–16.8% | 10.8–17.4% | 10.1–18.4% |
+| [15–25 April 2019](2019-04-25-ZRIZáveczResearch.html) | ZRI Závecz Research | 6.0% | N/A | N/A | N/A | N/A |
 | [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [29 March–1 April 2019](2019-04-01-IDEAIntézet.html) | IDEA Intézet | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [1–28 March 2019](2019-03-28-NézőpontIntézet.html) | Nézőpont Intézet | 12.0% | 11.4–12.6% | 11.2–12.8% | 11.1–12.9% | 10.8–13.2% |
+| [1 April–26 March 2019](2019-03-26-NézőpontIntézet.html) | Nézőpont Intézet | 11.0% | N/A | N/A | N/A | N/A |
 | [13–20 March 2019](2019-03-20-PublicusResearch.html) | Publicus Research | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.8–18.4% | 13.2–19.2% |
 | [8–19 March 2019](2019-03-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [28 February–4 March 2019](2019-03-04-IDEAIntézet.html) | IDEA Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
@@ -134,11 +136,13 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [15–25 April 2019](2019-04-25-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 3 | 3 | 3 | 2–4 | 2–4 |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 March–1 April 2019](2019-04-01-IDEAIntézet.html) | IDEA Intézet | 3 | 3 | 3 | 3 | 3–4 |
 | [1–28 March 2019](2019-03-28-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1 April–26 March 2019](2019-03-26-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [13–20 March 2019](2019-03-20-PublicusResearch.html) | Publicus Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–19 March 2019](2019-03-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [28 February–4 March 2019](2019-03-04-IDEAIntézet.html) | IDEA Intézet | 4 | 4 | 3–4 | 3–4 | 3–4 |
