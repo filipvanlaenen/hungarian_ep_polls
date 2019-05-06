@@ -11,7 +11,7 @@ Last result: **51.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 53.5% | 48.0–56.5% | 47.2–57.0% | 46.7–57.5% | 45.8–58.6% |
-| [15–25 April 2019](2019-04-25-ZRIZáveczResearch.html) | ZRI Závecz Research | 57.0% | N/A | N/A | N/A | N/A |
+| [15–25 April 2019](2019-04-25-ZRIZáveczResearch.html) | ZRI Závecz Research | 57.0% | 55.0–59.0% | 54.4–59.6% | 53.9–60.0% | 52.9–61.0% |
 | [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 53.5% | 51.5–55.5% | 50.9–56.1% | 50.4–56.6% | 49.4–57.5% |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 55.9% | 53.9–57.9% | 53.3–58.5% | 52.8–59.0% | 51.8–59.9% |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 53.0% | 51.0–55.0% | 50.4–55.6% | 49.9–56.1% | 48.9–57.0% |
@@ -141,7 +141,7 @@ Last result: **12** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
-| [15–25 April 2019](2019-04-25-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [15–25 April 2019](2019-04-25-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–14 | 13–14 | 13–15 | 12–15 |
 | [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 13 | 13–14 | 13–14 | 12–14 | 12–14 |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
