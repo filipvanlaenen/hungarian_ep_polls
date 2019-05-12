@@ -138,7 +138,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [2–6 May 2019](2019-05-06-IDEAIntézet.html) | IDEA Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–26 April 2019](2019-04-26-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 0–1 | 0–1 |
 | [15–25 April 2019](2019-04-25-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [17–23 April 2019](2019-04-23-PublicusResearch.html) | Publicus Research | 1 | 1 | 1 | 1 | 1–2 |
+| [17–23 April 2019](2019-04-23-PublicusResearch.html) | Publicus Research | 1 | 1 | 1 | 1 | 1 |
 | [19–21 April 2019](2019-04-21-Századvég.html) | Századvég | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1 March–17 April 2019](2019-04-17-Medián.html) | Medián | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [5–15 April 2019](2019-04-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
