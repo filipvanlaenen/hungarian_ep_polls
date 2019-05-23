@@ -10,7 +10,7 @@ Last result: **9.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 6.9–11.3% | 6.5–11.9% | 6.2–12.3% | 5.6–13.1% |
+| N/A | [Poll Average](average.html) | 8.6% | 6.8–11.1% | 6.4–11.7% | 6.1–12.2% | 5.5–13.0% |
 | [4–14 May 2019](2019-05-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
 | [2–6 May 2019](2019-05-06-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [1–26 April 2019](2019-04-26-NézőpontIntézet.html) | Nézőpont Intézet | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -116,16 +116,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.4% | 100% |  |
-| 5.5–6.5% | 5% | 99.6% |  |
-| 6.5–7.5% | 15% | 94% |  |
-| 7.5–8.5% | 20% | 79% |  |
-| 8.5–9.5% | 20% | 59% | Median |
-| 9.5–10.5% | 18% | 39% | Last Result |
-| 10.5–11.5% | 13% | 21% |  |
-| 11.5–12.5% | 6% | 8% |  |
-| 12.5–13.5% | 1.4% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 7% | 99.5% |  |
+| 6.5–7.5% | 18% | 93% |  |
+| 7.5–8.5% | 23% | 75% |  |
+| 8.5–9.5% | 23% | 52% | Median |
+| 9.5–10.5% | 13% | 29% | Last Result |
+| 10.5–11.5% | 10% | 16% |  |
+| 11.5–12.5% | 5% | 6% |  |
+| 12.5–13.5% | 1.1% | 1.2% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -244,8 +244,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% |  |
-| 2 | 65% | 68% | Last Result, Median |
+| 1 | 38% | 100% |  |
+| 2 | 59% | 62% | Last Result, Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
