@@ -47,7 +47,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [4–14 June 2019](2019-06-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 12–13 | 12–13 | 12–14 | 11–14 |
-| [5–9 June 2019](2019-06-09-IDEAIntézet.html) | IDEA Intézet | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [5–9 June 2019](2019-06-09-IDEAIntézet.html) | IDEA Intézet | 12 | 12 | 11–12 | 11–12 | 11–13 |
 
 ### Probability Mass Function
 
@@ -59,7 +59,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 6% | 100% | Majority |
 | 12 | 63% | 94% | Last Result, Median |
-| 13 | 29% | 32% |  |
+| 13 | 30% | 32% |  |
 | 14 | 2% | 2% |  |
 | 15 | 0% | 0% |  |
 
