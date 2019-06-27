@@ -14,7 +14,7 @@
 | Demokratikus Koalíció (S&D) | 9.8% | 14.7% | 13.7–15.8% |13.4–16.1% |13.2–16.3% |12.8–16.8% |
 | Magyar Szocialista Párt–Párbeszéd (S&D) | 18.2% | 9.8% | 9.0–10.7% |8.8–11.0% |8.6–11.2% |8.2–11.6% |
 | Jobbik (NI) | 14.7% | 8.8% | 8.0–9.7% |7.8–9.9% |7.6–10.1% |7.3–10.6% |
-| Momentum Mozgalom (ALDE) | 0.0% | 8.8% | 8.0–9.7% |7.8–9.9% |7.6–10.1% |7.3–10.6% |
+| Momentum Mozgalom (RE) | 0.0% | 8.8% | 8.0–9.7% |7.8–9.9% |7.6–10.1% |7.3–10.6% |
 | Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 3.0% | 2.5–3.5% |2.4–3.7% |2.3–3.8% |2.1–4.1% |
 | Lehet Más a Politika (Greens/EFA) | 5.0% | 2.0% | 1.6–2.4% |1.5–2.5% |1.4–2.7% |1.3–2.9% |
 | Mi Hazánk Mozgalom (NI) | 0.0% | 2.0% | 1.6–2.4% |1.5–2.5% |1.4–2.7% |1.3–2.9% |
@@ -33,7 +33,7 @@
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 2 | 2 |2 |2 |2 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 2 | 2 |2 |1–2 |1–2 |
-| <a href="#momentum-mozgalom-(alde)">Momentum Mozgalom (ALDE)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
+| <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -89,11 +89,11 @@
 | 2 | 97% | 97% | Median |
 | 3 | 0% | 0% | Last Result |
 
-### Momentum Mozgalom (ALDE)
+### Momentum Mozgalom (RE)
 
-*For a full overview of the results for this party, see the [Momentum Mozgalom (ALDE)](party-momentummozgalomalde.html) page.*
+*For a full overview of the results for this party, see the [Momentum Mozgalom (RE)](party-momentummozgalomre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-09-IDEAIntézet-seats-pmf-momentummozgalomalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-09-IDEAIntézet-seats-pmf-momentummozgalomre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

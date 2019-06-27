@@ -12,7 +12,7 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz–Kereszténydemokrata Néppárt (EPP) | 51.5% | 52.3% | 50.3–54.3% |49.7–54.9% |49.2–55.4% |48.2–56.3% |
 | Demokratikus Koalíció (S&D) | 9.8% | 16.8% | 15.4–18.4% |15.0–18.9% |14.6–19.3% |13.9–20.0% |
-| Momentum Mozgalom (ALDE) | 0.0% | 8.9% | 7.8–10.2% |7.5–10.5% |7.3–10.8% |6.8–11.5% |
+| Momentum Mozgalom (RE) | 0.0% | 8.9% | 7.8–10.2% |7.5–10.5% |7.3–10.8% |6.8–11.5% |
 | Magyar Szocialista Párt–Párbeszéd (S&D) | 18.2% | 7.9% | 6.9–9.1% |6.6–9.4% |6.4–9.7% |5.9–10.3% |
 | Jobbik (NI) | 14.7% | 6.9% | 6.0–8.0% |5.7–8.4% |5.5–8.7% |5.1–9.2% |
 | Mi Hazánk Mozgalom (NI) | 0.0% | 3.0% | 2.4–3.8% |2.2–4.1% |2.1–4.3% |1.9–4.7% |
@@ -31,7 +31,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kereszténydemokrata-néppárt-(epp)">Fidesz–Kereszténydemokrata Néppárt (EPP)</a> | 12 | 13 | 12–13 |12–13 |12–14 |11–14 |
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 4 | 3–4 |3–4 |3–4 |3–5 |
-| <a href="#momentum-mozgalom-(alde)">Momentum Mozgalom (ALDE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
@@ -66,11 +66,11 @@
 | 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
-### Momentum Mozgalom (ALDE)
+### Momentum Mozgalom (RE)
 
-*For a full overview of the results for this party, see the [Momentum Mozgalom (ALDE)](party-momentummozgalomalde.html) page.*
+*For a full overview of the results for this party, see the [Momentum Mozgalom (RE)](party-momentummozgalomre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-14-ZRIZáveczResearch-seats-pmf-momentummozgalomalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-14-ZRIZáveczResearch-seats-pmf-momentummozgalomre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
