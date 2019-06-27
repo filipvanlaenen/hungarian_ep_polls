@@ -22,9 +22,9 @@ Only polls for which at least the sample size has been published are included in
 + **Párbeszéd:** Párbeszéd (Greens/EFA)
 + **Együtt:** Együtt (Greens/EFA)
 + **LMP:** Lehet Más a Politika (Greens/EFA)
-+ **MLP:** MLP (ALDE)
++ **MLP:** MLP (RE)
 + **MKKP:** Magyar Kétfarkú Kutya Párt (NI)
-+ **MM:** Momentum Mozgalom (ALDE)
++ **MM:** Momentum Mozgalom (RE)
 + **MSZP–Párbeszéd:** Magyar Szocialista Párt–Párbeszéd (S&D)
 + **Hazánk:** Mi Hazánk Mozgalom (NI)
 + **N/A (single party):** Party not included the published results
