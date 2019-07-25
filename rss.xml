@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
+    <pubDate>Thu, 25 Jul 2019 19:42:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Medián, 28 June–2 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 54.2–59.8%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 6.6–9.7%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 6.6–9.7%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 15.0–19.2%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 4.8–7.5%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0.6–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián.png"
+        length="224839"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jul 2019 19:26:38 +0200</pubDate>
+      <dc:date>2019-07-25T19:26:38.533966+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Publicus Research, 21–27 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-06-27-PublicusResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 48.9–55.1%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-06-27-PublicusResearch.png"
+        length="232421"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jul 2019 19:37:56 +0200</pubDate>
+      <dc:date>2019-07-25T19:37:56.029313+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 31 May–26 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-06-26-NézőpontIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 51.6–54.4%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 7.3–8.8%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 5.4–6.7%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 11.1–12.9%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 2.6–3.5%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 9.2–10.9%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 4.4–5.6%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 1.6–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-06-26-NézőpontIntézet.png"
+        length="210927"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jul 2019 19:42:10 +0200</pubDate>
+      <dc:date>2019-07-25T19:42:10.745268+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 4–14 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-06-14-ZRIZáveczResearch.html#seats</link>
@@ -69,6 +99,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
+    <dc:date>2019-07-25T19:42:10.745268+02:00</dc:date>
   </channel>
 </rss>
