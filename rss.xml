@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Jul 2019 20:27:59 +0200</pubDate>
+    <pubDate>Sat, 27 Jul 2019 20:57:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Medián, 28 June–2 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 1 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián-seats.png"
+        length="161281"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 20:57:00 +0200</pubDate>
+      <dc:date>2019-07-27T20:57:00.710442+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián, 28 June–2 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián-coalitions-seats.png"
+        length="123356"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 20:57:00 +0200</pubDate>
+      <dc:date>2019-07-27T20:57:00.710442+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Medián, 28 June–2 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-02-Medián.png"
         length="224839"
         type="image/png"/>
-      <pubDate>Sat, 27 Jul 2019 20:27:59 +0200</pubDate>
-      <dc:date>2019-07-27T20:27:59.15974+02:00</dc:date>
+      <pubDate>Sat, 27 Jul 2019 20:57:00 +0200</pubDate>
+      <dc:date>2019-07-27T20:57:00.710442+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 21–27 June 2019 – Seat Projections for the Parties</title>
@@ -119,6 +139,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-07-27T20:27:59.15974+02:00</dc:date>
+    <dc:date>2019-07-27T20:57:00.710442+02:00</dc:date>
   </channel>
 </rss>
