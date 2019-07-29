@@ -55,7 +55,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [28 June–2 July 2019](2019-07-02-Medián.html) | Medián | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [21–27 June 2019](2019-06-27-PublicusResearch.html) | Publicus Research | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
-| [31 May–26 June 2019](2019-06-26-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
+| [31 May–26 June 2019](2019-06-26-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
 | [4–14 June 2019](2019-06-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 12–13 | 12–13 | 12–14 | 11–14 |
 | [5–9 June 2019](2019-06-09-IDEAIntézet.html) | IDEA Intézet | 12 | 12 | 11–12 | 11–12 | 11–13 |
 
@@ -68,9 +68,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 3% | 100% | Majority |
-| 12 | 40% | 97% | Last Result |
-| 13 | 48% | 58% | Median |
-| 14 | 9% | 10% |  |
+| 12 | 39% | 97% | Last Result |
+| 13 | 49% | 58% | Median |
+| 14 | 9% | 9% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
