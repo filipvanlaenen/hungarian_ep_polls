@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 51.5% | 52.0% | 50.0–54.1% |49.4–54.6% |48.9–55.1% |48.0–56.1% |
+| Fidesz–Kereszténydemokrata Néppárt (EPP) | 51.5% | 51.8% | 49.8–53.9% |49.2–54.4% |48.7–54.9% |47.8–55.9% |
 | Demokratikus Koalíció (S&D) | 9.8% | 12.0% | 10.8–13.4% |10.4–13.8% |10.1–14.2% |9.6–14.9% |
 | Momentum Mozgalom (RE) | 0.0% | 11.0% | 9.8–12.4% |9.5–12.7% |9.2–13.1% |8.7–13.8% |
 | Jobbik (NI) | 14.7% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
@@ -32,11 +32,11 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kereszténydemokrata-néppárt-(epp)">Fidesz–Kereszténydemokrata Néppárt (EPP)</a> | 12 | 12 | 12–13 |12–13 |12–13 |11–13 |
-| <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
-| <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 2 | 2 |2–3 |2–3 |1–3 |
-| <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 2 | 2 |2 |2 |1–3 |
-| <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 2 | 2 |2 |2 |1–3 |
+| <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 2 | 2 |2 |2–3 |1–3 |
+| <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -49,9 +49,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 2% | 100% | Majority |
-| 12 | 53% | 98% | Last Result, Median |
-| 13 | 46% | 46% |  |
-| 14 | 0.2% | 0.2% |  |
+| 12 | 76% | 98% | Last Result, Median |
+| 13 | 22% | 22% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
@@ -62,8 +62,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 60% | 100% | Last Result, Median |
-| 3 | 40% | 40% |  |
+| 2 | 42% | 100% | Last Result |
+| 3 | 58% | 58% | Median |
 | 4 | 0% | 0% |  |
 
 ### Momentum Mozgalom (RE)
@@ -75,8 +75,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 92% | 99.8% | Median |
+| 1 | 0.1% | 100% |  |
+| 2 | 92% | 99.9% | Median |
 | 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
@@ -88,9 +88,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.8% | 100% |  |
-| 2 | 94% | 99.2% | Median |
-| 3 | 5% | 5% | Last Result |
+| 1 | 1.3% | 100% |  |
+| 2 | 96% | 98.7% | Median |
+| 3 | 2% | 2% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Magyar Szocialista Párt–Párbeszéd (S&D)
@@ -101,9 +101,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 96% | 98% | Median |
-| 3 | 2% | 2% | Last Result |
+| 1 | 1.1% | 100% |  |
+| 2 | 95% | 98.9% | Median |
+| 3 | 4% | 4% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Lehet Más a Politika (Greens/EFA)
@@ -114,8 +114,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Median |
-| 1 | 3% | 3% | Last Result |
+| 0 | 90% | 100% | Median |
+| 1 | 10% | 10% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
@@ -148,7 +148,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz–Kereszténydemokrata Néppárt (EPP) | 12 | 12 | 100% | 12–13 | 12–13 | 12–13 | 11–13 |
-| Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI) | 3 | 2 | 0% | 2 | 2–3 | 2–3 | 1–3 |
+| Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI) | 3 | 2 | 0% | 2 | 2 | 2 | 1–3 |
 
 ### Fidesz–Kereszténydemokrata Néppárt (EPP)
 
@@ -157,9 +157,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 2% | 100% | Majority |
-| 12 | 53% | 98% | Last Result, Median |
-| 13 | 46% | 46% |  |
-| 14 | 0.2% | 0.2% |  |
+| 12 | 76% | 98% | Last Result, Median |
+| 13 | 22% | 22% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 ### Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI)
@@ -168,9 +168,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.8% | 100% |  |
-| 2 | 94% | 99.2% | Median |
-| 3 | 5% | 5% | Last Result |
+| 1 | 1.3% | 100% |  |
+| 2 | 96% | 98.7% | Median |
+| 3 | 2% | 2% | Last Result |
 | 4 | 0% | 0% |  |
 
 
@@ -185,6 +185,6 @@
 ### Calculations
 
 + **Sample size:** 1001
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.57%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.14%
 
