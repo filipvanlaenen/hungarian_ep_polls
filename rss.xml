@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 22 Aug 2019 19:48:07 +0200</pubDate>
+    <pubDate>Sat, 24 Aug 2019 09:40:51 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by ZRI Závecz Research, 4–14 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-08-14-ZRIZáveczResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-08-14-ZRIZáveczResearch-seats.png"
+        length="159826"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2019 09:40:51 +0200</pubDate>
+      <dc:date>2019-08-24T09:40:51.529291+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ZRI Závecz Research, 4–14 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-08-14-ZRIZáveczResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-08-14-ZRIZáveczResearch-coalitions-seats.png"
+        length="125685"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2019 09:40:51 +0200</pubDate>
+      <dc:date>2019-08-24T09:40:51.529291+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 4–14 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-08-14-ZRIZáveczResearch.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-08-14-ZRIZáveczResearch.png"
         length="235287"
         type="image/png"/>
-      <pubDate>Thu, 22 Aug 2019 18:50:48 +0200</pubDate>
-      <dc:date>2019-08-22T18:50:48.401023+02:00</dc:date>
+      <pubDate>Sat, 24 Aug 2019 09:40:51 +0200</pubDate>
+      <dc:date>2019-08-24T09:40:51.529291+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 2–28 July 2019 – Voting Intentions</title>
@@ -189,6 +209,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-08-22T19:48:07.589139+02:00</dc:date>
+    <dc:date>2019-08-24T09:40:51.529291+02:00</dc:date>
   </channel>
 </rss>
