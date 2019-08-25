@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 24 Aug 2019 09:40:51 +0200</pubDate>
+    <pubDate>Sun, 25 Aug 2019 12:17:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 4–14 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-08-14-ZRIZáveczResearch.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2019-08-24T09:40:51.529291+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Nézőpont Intézet, 2–28 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-28-NézőpontIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 2 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-28-NézőpontIntézet-seats.png"
+        length="154078"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 08:38:59 +0200</pubDate>
+      <dc:date>2019-08-25T08:38:59.724797+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 2–28 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-28-NézőpontIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-28-NézőpontIntézet-coalitions-seats.png"
+        length="119747"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 08:38:59 +0200</pubDate>
+      <dc:date>2019-08-25T08:38:59.724797+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Nézőpont Intézet, 2–28 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-28-NézőpontIntézet.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 50.5–53.3%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 8.2–9.8%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 6.3–7.7%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 10.1–11.9%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 2.6–3.5%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 10.1–11.9%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 3.5–4.6%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 2.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-28-NézőpontIntézet.png"
         length="214013"
         type="image/png"/>
-      <pubDate>Thu, 22 Aug 2019 19:03:08 +0200</pubDate>
-      <dc:date>2019-08-22T19:03:08.539477+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 08:38:59 +0200</pubDate>
+      <dc:date>2019-08-25T08:38:59.724797+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 23–26 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-26-IDEAIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 11–13 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-26-IDEAIntézet-seats.png"
+        length="176746"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 12:17:10 +0200</pubDate>
+      <dc:date>2019-08-25T12:17:10.625882+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 23–26 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-26-IDEAIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-26-IDEAIntézet-coalitions-seats.png"
+        length="128490"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 12:17:10 +0200</pubDate>
+      <dc:date>2019-08-25T12:17:10.625882+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IDEA Intézet, 23–26 July 2019 – Voting Intentions</title>
@@ -56,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-07-26-IDEAIntézet.png"
         length="228351"
         type="image/png"/>
-      <pubDate>Thu, 22 Aug 2019 18:48:38 +0200</pubDate>
-      <dc:date>2019-08-22T18:48:38.124653+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 12:17:10 +0200</pubDate>
+      <dc:date>2019-08-25T12:17:10.625882+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 16–23 July 2019 – Seat Projections for the Parties</title>
@@ -209,6 +249,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-08-24T09:40:51.529291+02:00</dc:date>
+    <dc:date>2019-08-25T12:17:10.625882+02:00</dc:date>
   </channel>
 </rss>
