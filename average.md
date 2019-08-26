@@ -13,7 +13,7 @@ The table below lists the polls on which the average is based. They are the most
 | [2–28 July 2019](2019-07-28-NézőpontIntézet.html) | Nézőpont Intézet | 50–53% <br> 12–14 | 8–10% <br> 2 | N/A <br> N/A | 10–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A | 3–5% <br> 0–1 | 10–12% <br> 2–3 | 6–8% <br> 1 | 3–4% <br> 0 |
 | [23–26 July 2019](2019-07-26-IDEAIntézet.html) | IDEA Intézet | 46–50% <br> 11–13 | 8–10% <br> 1–2 | N/A <br> N/A | 16–20% <br> 4–5 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–5% <br> 0–1 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 1–3% <br> 0 |
 | [16–23 July 2019](2019-07-23-PublicusResearch.html) | Publicus Research | 48–55% <br> 12–13 | 8–12% <br> 2–3 | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 8–12% <br> 2–3 | 8–12% <br> 2–3 | 1–3% <br> 0 |
-| [4–14 July 2019](2019-07-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 48–54% <br> 11–14 | 6–10% <br> 1–2 | N/A <br> N/A | 15–19% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 6–9% <br> 1–2 | 6–10% <br> 1–2 | 2–4% <br> 0–1 |
+| [4–14 July 2019](2019-07-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 48–54% <br> 12–14 | 6–10% <br> 1–2 | N/A <br> N/A | 15–19% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 6–9% <br> 1–2 | 6–10% <br> 1–2 | 2–4% <br> 0–1 |
 | [28 June–2 July 2019](2019-07-02-Medián.html) | Medián | 54–60% <br> 12–14 | 7–10% <br> 1–2 | N/A <br> N/A | 15–19% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 5–7% <br> 1 | 7–10% <br> 1–2 | 1–2% <br> 0 |
 | 26 May 2019 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 |
 
@@ -241,9 +241,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 7% | 100% | Majority |
-| 12 | 31% | 93% | Last Result |
-| 13 | 49% | 62% | Median |
-| 14 | 13% | 13% |  |
+| 12 | 33% | 93% | Last Result |
+| 13 | 48% | 60% | Median |
+| 14 | 11% | 11% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 
@@ -255,8 +255,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 61% | 100% | Median |
-| 2 | 38% | 39% |  |
+| 1 | 59% | 100% | Median |
+| 2 | 40% | 41% |  |
 | 3 | 0.8% | 0.8% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -268,8 +268,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% |  |
-| 2 | 79% | 80% | Median |
+| 1 | 19% | 100% |  |
+| 2 | 80% | 81% | Median |
 | 3 | 1.0% | 1.0% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -282,9 +282,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 28% | 100% | Last Result |
-| 3 | 18% | 72% |  |
-| 4 | 53% | 54% | Median |
-| 5 | 1.2% | 1.2% |  |
+| 3 | 20% | 72% |  |
+| 4 | 51% | 52% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 ### Lehet Más a Politika (Greens/EFA)
@@ -308,8 +308,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 52% | 55% | Median |
+| 1 | 44% | 100% |  |
+| 2 | 53% | 56% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -333,8 +333,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.2% |  |
+| 0 | 98.6% | 100% | Last Result, Median |
+| 1 | 1.4% | 1.4% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -359,9 +359,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 7% | 100% | Majority |
-| 12 | 31% | 93% | Last Result |
-| 13 | 49% | 62% | Median |
-| 14 | 13% | 13% |  |
+| 12 | 33% | 93% | Last Result |
+| 13 | 48% | 60% | Median |
+| 14 | 11% | 11% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 
@@ -373,9 +373,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 16% | 100% |  |
 | 4 | 19% | 84% |  |
-| 5 | 49% | 66% | Median |
-| 6 | 16% | 16% |  |
-| 7 | 0.1% | 0.1% | Last Result |
+| 5 | 48% | 66% | Median |
+| 6 | 18% | 18% |  |
+| 7 | 0.2% | 0.2% | Last Result |
 | 8 | 0% | 0% |  |
 
 ### Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI)
@@ -384,8 +384,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% |  |
-| 2 | 54% | 81% | Median |
+| 1 | 18% | 100% |  |
+| 2 | 56% | 82% | Median |
 | 3 | 27% | 27% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -396,8 +396,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 52% | 55% | Median |
+| 1 | 44% | 100% |  |
+| 2 | 53% | 56% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -415,6 +415,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,407,872
-+ **Error estimate:** 1.98%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.30%
