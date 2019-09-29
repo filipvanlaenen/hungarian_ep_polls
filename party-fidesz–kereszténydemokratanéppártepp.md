@@ -10,10 +10,10 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.9% | 47.1–58.0% | 46.6–58.7% | 46.2–59.2% | 45.4–60.1% |
-| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 58.1% | N/A | N/A | N/A | N/A |
-| [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 53.0% | N/A | N/A | N/A | N/A |
-| [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 51.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 53.2% | 48.0–58.5% | 47.2–59.3% | 46.7–60.0% | 45.8–61.2% |
+| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 58.1% | 56.1–60.1% | 55.5–60.6% | 55.0–61.1% | 54.0–62.1% |
+| [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 53.0% | 52.1–53.9% | 51.8–54.2% | 51.6–54.4% | 51.2–54.8% |
+| [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 51.4% | 49.4–53.5% | 48.8–54.0% | 48.3–54.5% | 47.4–55.5% |
 | [4–14 August 2019](2019-08-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 53.0% | 51.0–55.0% | 50.4–55.6% | 49.9–56.1% | 48.9–57.0% |
 | [2–28 July 2019](2019-07-28-NézőpontIntézet.html) | Nézőpont Intézet | 51.9% | 51.0–52.8% | 50.7–53.0% | 50.5–53.3% | 50.1–53.7% |
 | [23–26 July 2019](2019-07-26-IDEAIntézet.html) | IDEA Intézet | 48.0% | 46.6–49.4% | 46.2–49.8% | 45.8–50.2% | 45.1–50.9% |
@@ -32,24 +32,25 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 43.5–44.5% | 0% | 100% |  |
-| 44.5–45.5% | 0.7% | 100% |  |
-| 45.5–46.5% | 4% | 99.3% |  |
-| 46.5–47.5% | 12% | 95% |  |
-| 47.5–48.5% | 17% | 83% |  |
-| 48.5–49.5% | 12% | 66% |  |
-| 49.5–50.5% | 4% | 54% |  |
-| 50.5–51.5% | 0.5% | 51% | Last Result |
-| 51.5–52.5% | 0.1% | 50% | Median |
-| 52.5–53.5% | 0.5% | 50% |  |
-| 53.5–54.5% | 2% | 49% |  |
-| 54.5–55.5% | 7% | 47% |  |
-| 55.5–56.5% | 12% | 41% |  |
-| 56.5–57.5% | 14% | 29% |  |
-| 57.5–58.5% | 10% | 15% |  |
-| 58.5–59.5% | 4% | 6% |  |
-| 59.5–60.5% | 1.2% | 1.4% |  |
-| 60.5–61.5% | 0.2% | 0.2% |  |
-| 61.5–62.5% | 0% | 0% |  |
+| 44.5–45.5% | 0.3% | 100% |  |
+| 45.5–46.5% | 2% | 99.7% |  |
+| 46.5–47.5% | 5% | 98% |  |
+| 47.5–48.5% | 7% | 93% |  |
+| 48.5–49.5% | 6% | 86% |  |
+| 49.5–50.5% | 5% | 79% |  |
+| 50.5–51.5% | 5% | 74% | Last Result |
+| 51.5–52.5% | 10% | 69% |  |
+| 52.5–53.5% | 14% | 60% | Median |
+| 53.5–54.5% | 7% | 46% |  |
+| 54.5–55.5% | 4% | 39% |  |
+| 55.5–56.5% | 7% | 35% |  |
+| 56.5–57.5% | 10% | 28% |  |
+| 57.5–58.5% | 9% | 19% |  |
+| 58.5–59.5% | 6% | 10% |  |
+| 59.5–60.5% | 3% | 4% |  |
+| 60.5–61.5% | 0.9% | 1.2% |  |
+| 61.5–62.5% | 0.2% | 0.3% |  |
+| 62.5–63.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -60,10 +61,10 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
-| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
-| [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
-| [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
+| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 14–15 | 13–15 | 13–15 | 13–15 |
+| [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
+| [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
 | [4–14 August 2019](2019-08-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [2–28 July 2019](2019-07-28-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13–14 | 12–14 | 12–14 |
 | [23–26 July 2019](2019-07-26-IDEAIntézet.html) | IDEA Intézet | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
@@ -83,12 +84,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 16% | 99.9% | Majority |
-| 12 | 35% | 84% | Last Result, Median |
-| 13 | 27% | 49% |  |
-| 14 | 22% | 22% |  |
-| 15 | 0.4% | 0.4% |  |
-| 16 | 0% | 0% |  |
+| 11 | 7% | 100% | Majority |
+| 12 | 25% | 93% | Last Result |
+| 13 | 36% | 68% | Median |
+| 14 | 27% | 31% |  |
+| 15 | 5% | 5% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
