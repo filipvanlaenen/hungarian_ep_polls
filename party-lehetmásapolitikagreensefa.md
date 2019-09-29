@@ -10,7 +10,10 @@ Last result: **5.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.7–3.2% | 1.5–3.4% | 1.4–3.5% | 1.2–3.9% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.4% | 1.6–3.5% | 1.5–3.7% | 1.2–4.0% |
+| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.2% | N/A | N/A | N/A | N/A |
+| [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | N/A | N/A | N/A | N/A |
+| [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 2.0% | N/A | N/A | N/A | N/A |
 | [4–14 August 2019](2019-08-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [2–28 July 2019](2019-07-28-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | 2.7–3.3% | 2.6–3.4% | 2.6–3.5% | 2.4–3.7% |
 | [23–26 July 2019](2019-07-26-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -29,10 +32,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 47% | 94% | Median |
-| 2.5–3.5% | 44% | 47% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 43% | 95% |  |
+| 2.5–3.5% | 47% | 52% | Median |
+| 3.5–4.5% | 5% | 5% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
 
@@ -44,7 +47,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [4–14 August 2019](2019-08-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [2–28 July 2019](2019-07-28-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [23–26 July 2019](2019-07-26-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0–1 |
@@ -64,8 +70,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Median |
-| 1 | 0.3% | 0.3% | Last Result |
+| 0 | 99.2% | 100% | Median |
+| 1 | 0.8% | 0.8% | Last Result |
 | 2 | 0% | 0% |  |
 
 
