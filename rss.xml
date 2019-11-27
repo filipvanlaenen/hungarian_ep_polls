@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 29 Sep 2019 20:43:47 +0200</pubDate>
+    <pubDate>Wed, 27 Nov 2019 19:33:04 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 29–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-31-IDEAIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 48.8–53.2%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 12.5–15.6%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-31-IDEAIntézet.png"
+        length="224722"
+        type="image/png"/>
+      <pubDate>Wed, 27 Nov 2019 14:37:55 +0100</pubDate>
+      <dc:date>2019-11-27T14:37:55.26849+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 14–27 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-27-NézőpontIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 49.9–54.0%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 7.9–10.2%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 5.1–7.1%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 9.8–12.3%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 2.4–3.8%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 11.7–14.4%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 2.4–3.8%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 1.5–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-27-NézőpontIntézet.png"
+        length="219651"
+        type="image/png"/>
+      <pubDate>Wed, 27 Nov 2019 19:33:04 +0100</pubDate>
+      <dc:date>2019-11-27T19:33:04.707269+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–15 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-15-ZRIZáveczResearch.html#seats</link>
@@ -379,6 +399,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-09-29T20:43:47.104528+02:00</dc:date>
+    <dc:date>2019-11-27T19:33:04.707269+01:00</dc:date>
   </channel>
 </rss>
