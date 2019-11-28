@@ -10,14 +10,15 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.4% | 10.5–14.7% | 10.2–15.0% | 10.0–15.3% | 9.6–15.9% |
+| N/A | [Poll Average](average.html) | 13.5% | 10.8–15.4% | 10.5–16.0% | 10.2–16.5% | 9.7–17.4% |
+| [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 11.0% | 10.2–11.9% | 10.0–12.1% | 9.8–12.3% | 9.4–12.8% |
-| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 14.1% | N/A | N/A | N/A | N/A |
-| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 12.0% | N/A | N/A | N/A | N/A |
-| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 13.0% | N/A | N/A | N/A | N/A |
-| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 11.0% | N/A | N/A | N/A | N/A |
-| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 16.0% | N/A | N/A | N/A | N/A |
+| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 14.1% | 12.9–15.5% | 12.5–15.8% | 12.2–16.2% | 11.7–16.8% |
+| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
+| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.7% |
+| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
 | [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 11.0% | 10.4–11.6% | 10.3–11.8% | 10.2–11.9% | 9.9–12.2% |
 | [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.5–14.8% |
@@ -39,16 +40,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.5% | 100% |  |
-| 9.5–10.5% | 11% | 99.5% | Last Result |
-| 10.5–11.5% | 28% | 88% |  |
-| 11.5–12.5% | 11% | 61% | Median |
-| 12.5–13.5% | 13% | 49% |  |
-| 13.5–14.5% | 24% | 37% |  |
-| 14.5–15.5% | 11% | 12% |  |
-| 15.5–16.5% | 1.4% | 1.4% |  |
-| 16.5–17.5% | 0% | 0% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.3% | 100% |  |
+| 9.5–10.5% | 6% | 99.7% | Last Result |
+| 10.5–11.5% | 16% | 94% |  |
+| 11.5–12.5% | 13% | 78% |  |
+| 12.5–13.5% | 16% | 65% | Median |
+| 13.5–14.5% | 24% | 49% |  |
+| 14.5–15.5% | 16% | 25% |  |
+| 15.5–16.5% | 7% | 9% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.3% | 0.4% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -59,14 +61,15 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 3 | 3 | 3 | 3 | 2–3 |
-| [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2–3 |
-| [18–23 October 2019](2019-10-23-Medián.html) | Medián |  |  |  |  |  |
-| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
-| [20–26 September 2019](2019-09-26-Medián.html) | Medián |  |  |  |  |  |
-| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég |  |  |  |  |  |
-| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 3 | 3 | 3 | 3 | 3–4 |
+| [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 3 | 3 | 3 | 3 | 2–4 |
+| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -89,8 +92,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 50% | 100% | Last Result |
-| 3 | 50% | 50% | Median |
-| 4 | 0% | 0% |  |
+| 2 | 30% | 100% | Last Result |
+| 3 | 59% | 70% | Median |
+| 4 | 11% | 11% |  |
+| 5 | 0% | 0% |  |
 
 

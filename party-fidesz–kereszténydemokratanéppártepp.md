@@ -10,14 +10,15 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.5% | 50.0–53.0% | 49.5–53.4% | 49.1–53.8% | 48.4–54.5% |
+| N/A | [Poll Average](average.html) | 51.2% | 48.2–59.4% | 47.5–60.4% | 46.8–61.0% | 45.7–62.2% |
+| [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 48.9% | 46.9–50.9% | 46.3–51.5% | 45.8–52.0% | 44.8–53.0% |
 | [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 51.0% | 49.6–52.4% | 49.2–52.8% | 48.8–53.2% | 48.1–53.9% |
 | [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 52.0% | 50.7–53.3% | 50.3–53.7% | 49.9–54.0% | 49.3–54.7% |
-| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 59.4% | N/A | N/A | N/A | N/A |
-| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 49.9% | N/A | N/A | N/A | N/A |
-| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 61.8% | N/A | N/A | N/A | N/A |
-| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 54.0% | N/A | N/A | N/A | N/A |
-| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 50.0% | N/A | N/A | N/A | N/A |
+| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 59.4% | 57.6–61.2% | 57.0–61.7% | 56.6–62.2% | 55.7–63.0% |
+| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 49.9% | 47.8–51.9% | 47.2–52.4% | 46.7–52.9% | 45.8–53.9% |
+| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 61.8% | 60.0–63.6% | 59.5–64.1% | 59.0–64.5% | 58.2–65.4% |
+| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 54.0% | 52.0–56.0% | 51.4–56.6% | 50.9–57.1% | 49.9–58.0% |
+| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 50.0% | 48.6–51.4% | 48.1–51.9% | 47.8–52.2% | 47.1–52.9% |
 | [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 58.1% | 56.1–60.1% | 55.5–60.6% | 55.0–61.1% | 54.0–62.1% |
 | [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 53.0% | 52.1–53.9% | 51.8–54.2% | 51.6–54.4% | 51.2–54.8% |
 | [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 51.4% | 49.4–53.5% | 48.8–54.0% | 48.3–54.5% | 47.4–55.5% |
@@ -38,16 +39,28 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 46.5–47.5% | 0% | 100% |  |
-| 47.5–48.5% | 0.7% | 99.9% |  |
-| 48.5–49.5% | 5% | 99.3% |  |
-| 49.5–50.5% | 16% | 95% |  |
-| 50.5–51.5% | 30% | 79% | Last Result |
-| 51.5–52.5% | 30% | 49% | Median |
-| 52.5–53.5% | 15% | 19% |  |
-| 53.5–54.5% | 4% | 4% |  |
-| 54.5–55.5% | 0.4% | 0.4% |  |
-| 55.5–56.5% | 0% | 0% |  |
+| 42.5–43.5% | 0% | 100% |  |
+| 43.5–44.5% | 0.1% | 100% |  |
+| 44.5–45.5% | 0.3% | 99.9% |  |
+| 45.5–46.5% | 1.3% | 99.6% |  |
+| 46.5–47.5% | 4% | 98% |  |
+| 47.5–48.5% | 7% | 95% |  |
+| 48.5–49.5% | 11% | 87% |  |
+| 49.5–50.5% | 15% | 76% |  |
+| 50.5–51.5% | 18% | 61% | Last Result, Median |
+| 51.5–52.5% | 15% | 43% |  |
+| 52.5–53.5% | 7% | 29% |  |
+| 53.5–54.5% | 2% | 22% |  |
+| 54.5–55.5% | 0.2% | 20% |  |
+| 55.5–56.5% | 0.4% | 20% |  |
+| 56.5–57.5% | 1.5% | 20% |  |
+| 57.5–58.5% | 4% | 18% |  |
+| 58.5–59.5% | 5% | 15% |  |
+| 59.5–60.5% | 5% | 9% |  |
+| 60.5–61.5% | 3% | 4% |  |
+| 61.5–62.5% | 1.0% | 1.3% |  |
+| 62.5–63.5% | 0.2% | 0.3% |  |
+| 63.5–64.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,14 +71,15 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
-| [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 12 | 12 | 12–13 | 12–13 | 12–13 |
-| [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13 | 13 | 12–13 |
-| [18–23 October 2019](2019-10-23-Medián.html) | Medián |  |  |  |  |  |
-| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
-| [20–26 September 2019](2019-09-26-Medián.html) | Medián |  |  |  |  |  |
-| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég |  |  |  |  |  |
-| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
+| [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–13 | 11–13 | 11–13 |
+| [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 12–13 | 12–13 | 12–14 |
+| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 14 | 14 | 14–15 | 14–15 | 13–15 |
+| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
+| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 14 | 14–15 | 14–15 | 13–15 | 13–15 |
+| [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
+| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 12 | 12 | 12 | 12 | 12–13 |
 | [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 14–15 | 13–15 | 13–15 | 13–15 |
 | [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
@@ -88,8 +102,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 46% | 100% | Last Result |
-| 13 | 54% | 54% | Median |
-| 14 | 0% | 0% |  |
+| 11 | 19% | 100% | Majority |
+| 12 | 36% | 81% | Last Result, Median |
+| 13 | 24% | 44% |  |
+| 14 | 18% | 20% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0% | 0% |  |
 
 
