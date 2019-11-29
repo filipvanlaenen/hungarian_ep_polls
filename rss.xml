@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Nov 2019 20:06:01 +0100</pubDate>
+    <pubDate>Fri, 29 Nov 2019 17:25:12 +0100</pubDate>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 8–16 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-16-ZRIZáveczResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-16-ZRIZáveczResearch.png"
         length="239582"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 06:49:33 +0100</pubDate>
-      <dc:date>2019-11-28T06:49:33.512296+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 17:25:12 +0100</pubDate>
+      <dc:date>2019-11-29T17:25:12.766379+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IDEA Intézet, 29–31 October 2019 – Voting Intentions</title>
@@ -459,6 +459,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-11-28T20:06:01.742779+01:00</dc:date>
+    <dc:date>2019-11-29T17:25:12.766379+01:00</dc:date>
   </channel>
 </rss>
