@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 17:25:12 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 12:36:03 +0100</pubDate>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 8–16 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-16-ZRIZáveczResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-16-ZRIZáveczResearch.png"
         length="239582"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 17:25:12 +0100</pubDate>
-      <dc:date>2019-11-29T17:25:12.766379+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 22:01:36 +0100</pubDate>
+      <dc:date>2019-11-29T22:01:36.511798+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IDEA Intézet, 29–31 October 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-31-IDEAIntézet.png"
         length="224722"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 23:04:14 +0100</pubDate>
-      <dc:date>2019-11-27T23:04:14.579786+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 22:11:34 +0100</pubDate>
+      <dc:date>2019-11-29T22:11:34.412701+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 14–27 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-27-NézőpontIntézet.png"
         length="219651"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 23:08:13 +0100</pubDate>
-      <dc:date>2019-11-27T23:08:13.769796+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 22:21:59 +0100</pubDate>
+      <dc:date>2019-11-29T22:21:59.118132+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián, 18–23 October 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-23-Medián.png"
         length="224620"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 23:11:51 +0100</pubDate>
-      <dc:date>2019-11-27T23:11:51.691343+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 23:18:38 +0100</pubDate>
+      <dc:date>2019-11-29T23:18:38.692338+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 17–22 October 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-10-22-PublicusResearch.png"
         length="235996"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 18:44:36 +0100</pubDate>
-      <dc:date>2019-11-28T18:44:36.114197+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 23:25:59 +0100</pubDate>
+      <dc:date>2019-11-29T23:25:59.284507+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián, 20–26 September 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-26-Medián.png"
         length="221018"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:59:21 +0100</pubDate>
-      <dc:date>2019-11-28T19:59:21.399749+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 23:39:21 +0100</pubDate>
+      <dc:date>2019-11-29T23:39:21.606033+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Századvég, 23–25 September 2019 – Voting Intentions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-24-IDEAIntézet.png"
         length="226057"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 20:06:01 +0100</pubDate>
-      <dc:date>2019-11-28T20:06:01.742779+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 12:36:03 +0100</pubDate>
+      <dc:date>2019-11-30T12:36:03.729337+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–15 September 2019 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T17:25:12.766379+01:00</dc:date>
+    <dc:date>2019-11-30T12:36:03.729337+01:00</dc:date>
   </channel>
 </rss>
