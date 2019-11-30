@@ -69,10 +69,10 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 1 | 1 |
 | [18–23 October 2019](2019-10-23-Medián.html) | Medián | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 2 | 2 | 2 | 2 | 1–3 |
+| [20–26 September 2019](2019-09-26-Medián.html) | Medián | 2 | 2 | 2 | 2 | 1–2 |
 | [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 2 |
+| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 1–2 |
 | [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 1 | 1 |
 | [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 2 | 2 | 2 | 2 | 1–3 |
@@ -95,9 +95,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 26% | 100% |  |
-| 2 | 73% | 74% | Median |
-| 3 | 1.2% | 1.2% | Last Result |
+| 1 | 25% | 100% |  |
+| 2 | 74% | 75% | Median |
+| 3 | 0.5% | 0.5% | Last Result |
 | 4 | 0% | 0% |  |
 
 

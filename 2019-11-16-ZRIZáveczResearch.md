@@ -48,10 +48,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 45% | 99.9% | Majority |
-| 12 | 49% | 55% | Last Result, Median |
-| 13 | 5% | 5% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 31% | 99.8% | Majority |
+| 12 | 59% | 68% | Last Result, Median |
+| 13 | 9% | 9% |  |
 | 14 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
@@ -63,8 +63,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
-| 3 | 63% | 99.8% | Median |
-| 4 | 36% | 36% |  |
+| 3 | 80% | 99.8% | Median |
+| 4 | 20% | 20% |  |
 | 5 | 0% | 0% |  |
 
 ### Momentum Mozgalom (RE)
@@ -76,9 +76,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 80% | 99.9% | Median |
-| 3 | 19% | 19% |  |
+| 1 | 0% | 100% |  |
+| 2 | 80% | 100% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -90,7 +90,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 9% | 100% |  |
-| 2 | 91% | 91% | Median |
+| 2 | 90% | 91% | Median |
 | 3 | 0.2% | 0.2% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -104,7 +104,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 12% | 100% |  |
 | 2 | 88% | 88% | Median |
-| 3 | 0.2% | 0.2% | Last Result |
+| 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (NI)
@@ -115,8 +115,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
 ### Lehet Más a Politika (Greens/EFA)
@@ -127,8 +127,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% | Last Result |
+| 2 | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
 
@@ -138,9 +139,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Coalitions
@@ -151,7 +150,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 12 | 12 | 99.9% | 11–12 | 11–13 | 11–13 | 11–13 |
+| Fidesz–Kereszténydemokrata Néppárt (EPP) | 12 | 12 | 99.8% | 11–12 | 11–13 | 11–13 | 11–13 |
 | Jobbik (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) | 3 | 2 | 0% | 2 | 1–2 | 1–3 | 1–3 |
 
 ### Fidesz–Kereszténydemokrata Néppárt (EPP)
@@ -160,10 +159,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 45% | 99.9% | Majority |
-| 12 | 49% | 55% | Last Result, Median |
-| 13 | 5% | 5% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 31% | 99.8% | Majority |
+| 12 | 59% | 68% | Last Result, Median |
+| 13 | 9% | 9% |  |
 | 14 | 0% | 0% |  |
 
 ### Jobbik (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI)
@@ -173,8 +172,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 8% | 100% |  |
-| 2 | 89% | 92% | Median |
-| 3 | 3% | 3% | Last Result |
+| 2 | 88% | 92% | Median |
+| 3 | 4% | 4% | Last Result |
 | 4 | 0% | 0% |  |
 
 
@@ -189,6 +188,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.18%
++ **Simulations done:** 524,288
++ **Error estimate:** 2.65%
 

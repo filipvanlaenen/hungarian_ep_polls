@@ -48,9 +48,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 7% | 100% | Last Result |
-| 13 | 92% | 93% | Median |
-| 14 | 0.6% | 0.6% |  |
+| 12 | 9% | 100% | Last Result |
+| 13 | 90% | 91% | Median |
+| 14 | 0.8% | 0.8% |  |
 | 15 | 0% | 0% |  |
 
 ### Momentum Mozgalom (RE)
@@ -65,7 +65,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
 | 3 | 98% | 98% | Median |
-| 4 | 0% | 0% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
 
@@ -75,8 +76,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 93% | 100% | Last Result, Median |
-| 3 | 7% | 7% |  |
+| 2 | 91% | 100% | Last Result, Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -87,8 +88,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% |  |
-| 2 | 99.0% | 99.0% | Median |
+| 1 | 1.3% | 100% |  |
+| 2 | 98.7% | 98.7% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Magyar Szocialista Párt–Párbeszéd (S&D)
@@ -111,8 +112,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Median |
-| 1 | 2% | 2% | Last Result |
+| 0 | 98.6% | 100% | Median |
+| 1 | 1.4% | 1.4% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
@@ -155,9 +156,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 7% | 100% | Last Result |
-| 13 | 92% | 93% | Median |
-| 14 | 0.6% | 0.6% |  |
+| 12 | 9% | 100% | Last Result |
+| 13 | 90% | 91% | Median |
+| 14 | 0.8% | 0.8% |  |
 | 15 | 0% | 0% |  |
 
 ### Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI)
@@ -166,9 +167,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.8% | 100% |  |
-| 2 | 98.7% | 99.2% | Median |
-| 3 | 0.5% | 0.5% | Last Result |
+| 1 | 1.2% | 100% |  |
+| 2 | 98% | 98.8% | Median |
+| 3 | 0.6% | 0.6% | Last Result |
 | 4 | 0% | 0% |  |
 
 
@@ -183,6 +184,6 @@
 ### Calculations
 
 + **Sample size:** 2300
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.75%
++ **Simulations done:** 524,288
++ **Error estimate:** 1.16%
 
