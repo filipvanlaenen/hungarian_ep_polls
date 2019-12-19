@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 10 Dec 2019 20:26:28 +0100</pubDate>
+    <pubDate>Thu, 19 Dec 2019 08:37:05 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 1–30 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-30-NézőpontIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 2 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-30-NézőpontIntézet-seats.png"
+        length="154576"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 08:37:05 +0100</pubDate>
+      <dc:date>2019-12-19T08:37:05.926756+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 1–30 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-30-NézőpontIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-30-NézőpontIntézet-coalitions-seats.png"
+        length="120154"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 08:37:05 +0100</pubDate>
+      <dc:date>2019-12-19T08:37:05.926756+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 1–30 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-30-NézőpontIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 50.5–53.3%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 8.2–9.8%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 6.5–8.0%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 9.2–10.9%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 2.6–3.5%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 10.1–11.9%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 3.5–4.6%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 2.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-30-NézőpontIntézet.png"
+        length="213499"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 08:37:05 +0100</pubDate>
+      <dc:date>2019-12-19T08:37:05.926756+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 8–16 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-11-16-ZRIZáveczResearch.html#seats</link>
@@ -479,6 +509,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2019-12-10T20:26:28.322814+01:00</dc:date>
+    <dc:date>2019-12-19T08:37:05.926756+01:00</dc:date>
   </channel>
 </rss>
