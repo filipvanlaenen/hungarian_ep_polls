@@ -10,7 +10,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 46–52% <br> 11–13 | 7–11% <br> 1–2 | N/A <br> N/A | 13–17% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 9–13% <br> 2–3 | 7–11% <br> 1–2 | 2–4% <br> 0–1 |
 | [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 49–53% <br> 12–13 | 8–10% <br> 2 | N/A <br> N/A | 13–16% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 8–10% <br> 1–2 | 8–10% <br> 1–2 | 2–4% <br> 0 |
 | [18–23 October 2019](2019-10-23-Medián.html) | Medián | 57–62% <br> 14–15 | 5–8% <br> 1 | N/A <br> N/A | 12–16% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1 | 8–11% <br> 1–2 | 1–2% <br> 0 |
-| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 47–53% <br> 11–13 | 8–12% <br> 2 | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 10–14% <br> 2–3 | 8–12% <br> 2 | 1–3% <br> 0 |
+| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 47–53% <br> 11–13 | 8–12% <br> 2 | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 10–14% <br> 2–3 | 8–12% <br> 2–3 | 1–3% <br> 0 |
 | 26 May 2019 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
