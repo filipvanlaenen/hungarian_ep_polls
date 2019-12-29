@@ -14,7 +14,7 @@ The table below lists the polls on which the average is based. They are the most
 | [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 46–52% <br> 11–13 | 7–11% <br> 1–2 | N/A <br> N/A | 13–17% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 9–13% <br> 2–3 | 7–11% <br> 1–2 | 2–4% <br> 0–1 |
 | [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 49–53% <br> 12–13 | 8–10% <br> 2 | N/A <br> N/A | 13–16% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 8–10% <br> 1–2 | 8–10% <br> 1–2 | 2–4% <br> 0 |
 | [18–23 October 2019](2019-10-23-Medián.html) | Medián | 57–62% <br> 14–15 | 5–8% <br> 1 | N/A <br> N/A | 12–16% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1 | 8–11% <br> 1–2 | 1–2% <br> 0 |
-| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 47–53% <br> 11–13 | 8–12% <br> 2 | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 10–14% <br> 2–3 | 8–12% <br> 2 | 1–3% <br> 0 |
+| [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 47–53% <br> 11–13 | 8–12% <br> 2 | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 10–14% <br> 2–3 | 8–12% <br> 2–3 | 1–3% <br> 0 |
 | 26 May 2019 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -246,8 +246,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
 | 11 | 11% | 99.9% | Majority |
-| 12 | 44% | 89% | Last Result, Median |
-| 13 | 23% | 44% |  |
+| 12 | 43% | 89% | Last Result, Median |
+| 13 | 24% | 45% |  |
 | 14 | 20% | 21% |  |
 | 15 | 1.3% | 1.3% |  |
 | 16 | 0% | 0% |  |
@@ -262,7 +262,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 23% | 100% |  |
 | 2 | 76% | 77% | Median |
-| 3 | 0.5% | 0.5% | Last Result |
+| 3 | 0.6% | 0.6% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -275,7 +275,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 22% | 100% |  |
 | 2 | 77% | 78% | Median |
-| 3 | 0.5% | 0.5% | Last Result |
+| 3 | 0.4% | 0.4% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
@@ -286,8 +286,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 27% | 100% | Last Result |
-| 3 | 69% | 73% | Median |
+| 2 | 28% | 100% | Last Result |
+| 3 | 68% | 72% | Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
@@ -363,8 +363,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
 | 11 | 11% | 99.9% | Majority |
-| 12 | 44% | 89% | Last Result, Median |
-| 13 | 23% | 44% |  |
+| 12 | 43% | 89% | Last Result, Median |
+| 13 | 24% | 45% |  |
 | 14 | 20% | 21% |  |
 | 15 | 1.3% | 1.3% |  |
 | 16 | 0% | 0% |  |
@@ -376,8 +376,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 18% | 100% |  |
-| 4 | 12% | 82% |  |
-| 5 | 66% | 69% | Median |
+| 4 | 13% | 82% |  |
+| 5 | 65% | 68% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% | Last Result |
 
@@ -389,7 +389,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 22% | 100% |  |
 | 2 | 61% | 78% | Median |
-| 3 | 17% | 17% | Last Result |
+| 3 | 16% | 16% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### MLP (RE) – Momentum Mozgalom (RE)
@@ -418,6 +418,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 3,670,016
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 2.13%
