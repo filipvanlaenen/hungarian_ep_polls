@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Jan 2020 15:24:30 +0100</pubDate>
+    <pubDate>Mon, 06 Jan 2020 17:35:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Publicus Research, 14–20 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-12-20-PublicusResearch.html#seats</link>
@@ -320,14 +320,34 @@
       <dc:date>2019-12-31T13:52:44.199213+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Századvég, 23–25 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-25-Századvég.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-25-Századvég-seats.png"
+        length="150244"
+        type="image/png"/>
+      <pubDate>Mon, 06 Jan 2020 17:35:37 +0100</pubDate>
+      <dc:date>2020-01-06T17:35:37.100637+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Századvég, 23–25 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-25-Századvég.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-25-Századvég-coalitions-seats.png"
+        length="137360"
+        type="image/png"/>
+      <pubDate>Mon, 06 Jan 2020 17:35:37 +0100</pubDate>
+      <dc:date>2020-01-06T17:35:37.100637+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Századvég, 23–25 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-25-Századvég.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 50.9–57.1%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2019-09-25-Századvég.png"
-        length="214781"
+        length="214838"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 18:51:06 +0100</pubDate>
-      <dc:date>2019-11-28T18:51:06.905178+01:00</dc:date>
+      <pubDate>Mon, 06 Jan 2020 17:35:37 +0100</pubDate>
+      <dc:date>2020-01-06T17:35:37.100637+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IDEA Intézet, 20–24 September 2019 – Voting Intentions</title>
@@ -709,6 +729,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2020-01-03T15:24:30.119162+01:00</dc:date>
+    <dc:date>2020-01-06T17:35:37.100637+01:00</dc:date>
   </channel>
 </rss>
