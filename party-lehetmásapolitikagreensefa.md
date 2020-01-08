@@ -84,7 +84,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [16–23 July 2019](2019-07-23-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [4–14 July 2019](2019-07-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [28 June–2 July 2019](2019-07-02-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
-| [21–27 June 2019](2019-06-27-PublicusResearch.html) | Publicus Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–27 June 2019](2019-06-27-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0–1 | 0–1 |
 | [31 May–26 June 2019](2019-06-26-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [4–14 June 2019](2019-06-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [5–9 June 2019](2019-06-09-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
