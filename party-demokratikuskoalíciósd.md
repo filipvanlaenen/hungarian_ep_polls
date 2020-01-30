@@ -10,9 +10,10 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.3% | 9.9–17.1% | 9.6–17.6% | 9.4–18.0% | 9.1–18.7% |
+| N/A | [Poll Average](average.html) | 12.1% | 9.9–17.1% | 9.6–17.6% | 9.4–18.0% | 9.1–18.7% |
+| [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 14.0% | 12.3–15.9% | 11.9–16.4% | 11.5–16.9% | 10.7–17.9% |
 | [14–20 December 2019](2019-12-20-PublicusResearch.html) | Publicus Research | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.5–14.8% |
-| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 15.0% | 13.3–16.9% | 12.9–17.5% | 12.5–17.9% | 11.7–18.9% |
 | [28 November–5 December 2019](2019-12-05-Medián.html) | Medián | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
 | [29 November–3 December 2019](2019-12-03-IDEAIntézet.html) | IDEA Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [1–30 November 2019](2019-11-30-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 9.4–10.5% | 9.3–10.7% | 9.2–10.9% | 8.9–11.1% |
@@ -47,15 +48,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 4% | 100% |  |
 | 9.5–10.5% | 21% | 96% | Last Result |
-| 10.5–11.5% | 15% | 75% |  |
-| 11.5–12.5% | 12% | 59% | Median |
-| 12.5–13.5% | 7% | 47% |  |
-| 13.5–14.5% | 6% | 40% |  |
-| 14.5–15.5% | 8% | 34% |  |
-| 15.5–16.5% | 10% | 26% |  |
-| 16.5–17.5% | 10% | 16% |  |
+| 10.5–11.5% | 16% | 75% |  |
+| 11.5–12.5% | 14% | 59% | Median |
+| 12.5–13.5% | 10% | 45% |  |
+| 13.5–14.5% | 7% | 34% |  |
+| 14.5–15.5% | 5% | 27% |  |
+| 15.5–16.5% | 7% | 22% |  |
+| 16.5–17.5% | 10% | 15% |  |
 | 17.5–18.5% | 5% | 6% |  |
-| 18.5–19.5% | 0.8% | 0.8% |  |
+| 18.5–19.5% | 0.7% | 0.8% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -68,8 +69,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [14–20 December 2019](2019-12-20-PublicusResearch.html) | Publicus Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [28 November–5 December 2019](2019-12-05-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 November–3 December 2019](2019-12-03-IDEAIntézet.html) | IDEA Intézet | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [1–30 November 2019](2019-11-30-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
@@ -103,9 +105,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 44% | 100% | Last Result |
-| 3 | 33% | 56% | Median |
-| 4 | 23% | 23% |  |
+| 2 | 45% | 100% | Last Result |
+| 3 | 34% | 55% | Median |
+| 4 | 21% | 21% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

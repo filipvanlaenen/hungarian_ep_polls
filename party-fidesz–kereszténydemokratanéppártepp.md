@@ -10,9 +10,10 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50.4% | 46.8–53.9% | 45.9–54.8% | 45.2–55.5% | 43.9–56.6% |
+| N/A | [Poll Average](average.html) | 51.2% | 46.9–54.3% | 45.9–55.1% | 45.2–55.7% | 43.9–56.9% |
+| [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 52.1% | 49.5–54.6% | 48.8–55.3% | 48.1–56.0% | 46.9–57.2% |
 | [14–20 December 2019](2019-12-20-PublicusResearch.html) | Publicus Research | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
-| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
+| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 47.5–52.5% | 46.8–53.2% | 46.2–53.8% | 45.0–55.0% |
 | [28 November–5 December 2019](2019-12-05-Medián.html) | Medián | 53.8% | 52.0–55.7% | 51.5–56.2% | 51.0–56.6% | 50.1–57.5% |
 | [29 November–3 December 2019](2019-12-03-IDEAIntézet.html) | IDEA Intézet | 49.0% | 47.6–50.4% | 47.2–50.8% | 46.8–51.2% | 46.1–51.9% |
 | [1–30 November 2019](2019-11-30-NézőpontIntézet.html) | Nézőpont Intézet | 51.9% | 51.0–52.8% | 50.7–53.0% | 50.5–53.3% | 50.1–53.7% |
@@ -48,18 +49,18 @@ The following table shows the probability mass function per percentage block of 
 | 42.5–43.5% | 0.2% | 100% |  |
 | 43.5–44.5% | 0.9% | 99.7% |  |
 | 44.5–45.5% | 2% | 98.8% |  |
-| 45.5–46.5% | 5% | 96% |  |
-| 46.5–47.5% | 8% | 92% |  |
-| 47.5–48.5% | 11% | 84% |  |
-| 48.5–49.5% | 13% | 73% |  |
-| 49.5–50.5% | 11% | 60% | Median |
-| 50.5–51.5% | 12% | 48% | Last Result |
-| 51.5–52.5% | 15% | 36% |  |
-| 52.5–53.5% | 9% | 21% |  |
-| 53.5–54.5% | 6% | 12% |  |
-| 54.5–55.5% | 4% | 6% |  |
-| 55.5–56.5% | 2% | 2% |  |
-| 56.5–57.5% | 0.5% | 0.6% |  |
+| 45.5–46.5% | 4% | 96% |  |
+| 46.5–47.5% | 7% | 92% |  |
+| 47.5–48.5% | 9% | 85% |  |
+| 48.5–49.5% | 11% | 76% |  |
+| 49.5–50.5% | 9% | 65% |  |
+| 50.5–51.5% | 12% | 57% | Last Result, Median |
+| 51.5–52.5% | 17% | 45% |  |
+| 52.5–53.5% | 11% | 28% |  |
+| 53.5–54.5% | 8% | 16% |  |
+| 54.5–55.5% | 5% | 8% |  |
+| 55.5–56.5% | 2% | 3% |  |
+| 56.5–57.5% | 0.7% | 0.8% |  |
 | 57.5–58.5% | 0.1% | 0.1% |  |
 | 58.5–59.5% | 0% | 0% |  |
 
@@ -72,7 +73,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
+| [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 12–13 | 11–14 | 11–14 |
 | [14–20 December 2019](2019-12-20-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [28 November–5 December 2019](2019-12-05-Medián.html) | Medián | 13 | 13–14 | 13–14 | 12–14 | 12–14 |
@@ -109,10 +111,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.6% | 100% |  |
-| 11 | 13% | 99.4% | Majority |
-| 12 | 42% | 86% | Last Result, Median |
-| 13 | 34% | 44% |  |
-| 14 | 10% | 10% |  |
+| 11 | 11% | 99.4% | Majority |
+| 12 | 37% | 89% | Last Result |
+| 13 | 41% | 52% | Median |
+| 14 | 11% | 11% |  |
 | 15 | 0% | 0% |  |
 
 
