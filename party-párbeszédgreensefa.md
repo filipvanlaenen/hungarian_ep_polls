@@ -12,6 +12,7 @@ Last result: **7.2%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.5–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
+| [20 February 2020](2020-02-20-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 January 2020](2020-01-16-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -68,6 +69,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| [20 February 2020](2020-02-20-Medián.html) | Medián |  |  |  |  |  |
 | [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [10–16 January 2020](2020-01-16-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
