@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Feb 2020 22:30:42 +0100</pubDate>
+    <pubDate>Wed, 11 Mar 2020 22:24:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 13–20 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-02-20-ZRIZáveczResearch.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Wed, 26 Feb 2020 22:30:42 +0100</pubDate>
       <dc:date>2020-02-26T22:30:42.122079+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián, 20 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-02-20-Medián.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-02-20-Medián-seats.png"
+        length="164878"
+        type="image/png"/>
+      <pubDate>Wed, 11 Mar 2020 22:24:50 +0100</pubDate>
+      <dc:date>2020-03-11T22:24:50.804424+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián, 20 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-02-20-Medián.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-02-20-Medián-coalitions-seats.png"
+        length="134037"
+        type="image/png"/>
+      <pubDate>Wed, 11 Mar 2020 22:24:50 +0100</pubDate>
+      <dc:date>2020-03-11T22:24:50.804424+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián, 20 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-02-20-Medián.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (EPP): 52.2–57.8%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt–Párbeszéd (S&amp;amp;D): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 11.2–15.0%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (NI): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (NI): 0.6–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-02-20-Medián.png"
+        length="224508"
+        type="image/png"/>
+      <pubDate>Wed, 11 Mar 2020 22:24:50 +0100</pubDate>
+      <dc:date>2020-03-11T22:24:50.804424+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IDEA Intézet, 31 January–12 February 2020 – Seat Projections for the Parties</title>
@@ -889,6 +919,6 @@
       <pubDate>Sun, 23 Jun 2019 10:22:11 +0200</pubDate>
       <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
     </item>
-    <dc:date>2020-02-26T22:30:42.122079+01:00</dc:date>
+    <dc:date>2020-03-11T22:24:50.804424+01:00</dc:date>
   </channel>
 </rss>
