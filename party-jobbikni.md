@@ -11,7 +11,7 @@ Last result: **14.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.9% | 8.6–11.5% | 8.3–11.9% | 8.0–12.3% | 7.6–13.0% |
-| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 9.8% | N/A | N/A | N/A | N/A |
+| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 9.4% | 8.4–10.7% | 8.1–11.0% | 7.8–11.4% | 7.3–12.0% |
 | [20 February 2020](2020-02-20-Medián.html) | Medián | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
 | [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -71,7 +71,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus |  |  |  |  |  |
+| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 2 | 2 | 2 | 1–2 | 1–3 |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [20 February 2020](2020-02-20-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 1–2 |

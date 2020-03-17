@@ -11,7 +11,7 @@ Last result: **51.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 48.5% | 45.9–55.0% | 45.4–56.0% | 44.8–56.6% | 43.8–57.8% |
-| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 47.1% | N/A | N/A | N/A | N/A |
+| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 47.1% | 45.1–49.1% | 44.5–49.7% | 44.0–50.2% | 43.0–51.1% |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 48.1% | 46.2–50.1% | 45.6–50.6% | 45.1–51.1% | 44.2–52.1% |
 | [20 February 2020](2020-02-20-Medián.html) | Medián | 55.0% | 53.1–56.8% | 52.6–57.4% | 52.2–57.8% | 51.3–58.7% |
 | [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 47.0% | 45.6–48.4% | 45.2–48.8% | 44.8–49.2% | 44.1–49.9% |
@@ -80,7 +80,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus |  |  |  |  |  |
+| [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [20 February 2020](2020-02-20-Medián.html) | Medián | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
