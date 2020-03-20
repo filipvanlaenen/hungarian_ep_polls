@@ -10,7 +10,7 @@ Last result: **14.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.6–11.5% | 8.3–11.9% | 8.0–12.3% | 7.6–13.0% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.6–11.4% | 8.3–11.9% | 8.0–12.2% | 7.6–13.0% |
 | [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 9.4% | 8.4–10.7% | 8.1–11.0% | 7.8–11.4% | 7.3–12.0% |
 | [20 February 2020](2020-02-20-Medián.html) | Medián | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
@@ -51,13 +51,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 9% | 99.6% |  |
-| 8.5–9.5% | 30% | 91% |  |
-| 9.5–10.5% | 32% | 61% | Median |
-| 10.5–11.5% | 20% | 29% |  |
-| 11.5–12.5% | 7% | 9% |  |
-| 12.5–13.5% | 1.3% | 1.4% |  |
+| 6.5–7.5% | 0.5% | 100% |  |
+| 7.5–8.5% | 9% | 99.5% |  |
+| 8.5–9.5% | 31% | 90% |  |
+| 9.5–10.5% | 31% | 59% | Median |
+| 10.5–11.5% | 20% | 28% |  |
+| 11.5–12.5% | 7% | 8% |  |
+| 12.5–13.5% | 1.2% | 1.3% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% | Last Result |
 
@@ -70,7 +70,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
 | [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 2 | 2 | 2 | 1–2 | 1–3 |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [20 February 2020](2020-02-20-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -112,8 +112,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 93% | 98% | Median |
+| 1 | 3% | 100% |  |
+| 2 | 92% | 97% | Median |
 | 3 | 5% | 5% | Last Result |
 | 4 | 0% | 0% |  |
 

@@ -10,7 +10,7 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48.5% | 45.9–55.0% | 45.4–56.0% | 44.8–56.6% | 43.8–57.8% |
+| N/A | [Poll Average](average.html) | 48.5% | 46.0–55.0% | 45.4–56.0% | 44.9–56.6% | 43.9–57.8% |
 | [20–10 March 2020](2020-03-10-Publicus.html) | Publicus | 47.1% | 45.1–49.1% | 44.5–49.7% | 44.0–50.2% | 43.0–51.1% |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 48.1% | 46.2–50.1% | 45.6–50.6% | 45.1–51.1% | 44.2–52.1% |
 | [20 February 2020](2020-02-20-Medián.html) | Medián | 55.0% | 53.1–56.8% | 52.6–57.4% | 52.2–57.8% | 51.3–58.7% |
@@ -51,13 +51,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 41.5–42.5% | 0% | 100% |  |
-| 42.5–43.5% | 0.3% | 100% |  |
+| 42.5–43.5% | 0.2% | 100% |  |
 | 43.5–44.5% | 1.3% | 99.7% |  |
 | 44.5–45.5% | 5% | 98% |  |
 | 45.5–46.5% | 11% | 94% |  |
 | 46.5–47.5% | 17% | 82% |  |
-| 47.5–48.5% | 16% | 65% | Median |
-| 48.5–49.5% | 12% | 49% |  |
+| 47.5–48.5% | 16% | 65% |  |
+| 48.5–49.5% | 12% | 49% | Median |
 | 49.5–50.5% | 8% | 37% |  |
 | 50.5–51.5% | 5% | 29% | Last Result |
 | 51.5–52.5% | 3% | 23% |  |
@@ -121,10 +121,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.6% | 100% |  |
-| 11 | 24% | 99.4% | Majority |
-| 12 | 50% | 75% | Last Result, Median |
-| 13 | 20% | 25% |  |
+| 10 | 2% | 100% |  |
+| 11 | 29% | 98% | Majority |
+| 12 | 44% | 69% | Last Result, Median |
+| 13 | 19% | 25% |  |
 | 14 | 6% | 6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
