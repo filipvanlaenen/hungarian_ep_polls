@@ -10,10 +10,10 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 51.5% | 50.0% | 48.0–52.0% |47.4–52.6% |46.9–53.1% |45.9–54.1% |
-| Momentum Mozgalom (RE) | 0.0% | 13.0% | 11.7–14.5% |11.4–14.9% |11.1–15.2% |10.5–16.0% |
-| Jobbik (NI) | 14.7% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
-| Demokratikus Koalíció (S&D) | 9.8% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
+| Fidesz–Kereszténydemokrata Néppárt (EPP) | 51.5% | 50.4% | 48.4–52.4% |47.8–53.0% |47.3–53.5% |46.3–54.5% |
+| Momentum Mozgalom (RE) | 0.0% | 13.1% | 11.8–14.6% |11.4–15.0% |11.1–15.3% |10.6–16.1% |
+| Jobbik (NI) | 14.7% | 10.1% | 9.0–11.4% |8.6–11.8% |8.4–12.1% |7.9–12.8% |
+| Demokratikus Koalíció (S&D) | 9.8% | 10.1% | 9.0–11.4% |8.6–11.8% |8.4–12.1% |7.9–12.8% |
 | Magyar Szocialista Párt–Párbeszéd (S&D) | 18.2% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.5–7.1% |
 | Lehet Más a Politika (Greens/EFA) | 5.0% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
 | Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
@@ -35,10 +35,10 @@
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–4 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 2 | 2 |2 |2–3 |1–3 |
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 2 | 2 |2 |2–3 |1–3 |
-| <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 
 ### Fidesz–Kereszténydemokrata Néppárt (EPP)
 
@@ -49,10 +49,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 15% | 99.9% | Majority |
-| 12 | 67% | 84% | Last Result, Median |
-| 13 | 17% | 17% |  |
-| 14 | 0.2% | 0.2% |  |
+| 11 | 17% | 99.9% | Majority |
+| 12 | 63% | 83% | Last Result, Median |
+| 13 | 20% | 20% |  |
+| 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
 ### Momentum Mozgalom (RE)
@@ -65,9 +65,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 18% | 100% |  |
-| 3 | 81% | 82% | Median |
-| 4 | 1.1% | 1.1% |  |
+| 2 | 17% | 100% |  |
+| 3 | 82% | 83% | Median |
+| 4 | 0.9% | 0.9% |  |
 | 5 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -78,8 +78,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.2% | 100% |  |
-| 2 | 95% | 98.8% | Median |
+| 1 | 0.8% | 100% |  |
+| 2 | 95% | 99.2% | Median |
 | 3 | 4% | 4% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -91,8 +91,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% |  |
-| 2 | 96% | 98.9% | Last Result, Median |
+| 1 | 2% | 100% |  |
+| 2 | 95% | 98% | Last Result, Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -104,8 +104,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Median |
+| 0 | 6% | 100% |  |
+| 1 | 94% | 94% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -117,8 +117,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 53% | 53% | Last Result, Median |
+| 0 | 41% | 100% |  |
+| 1 | 59% | 59% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
@@ -129,8 +129,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 56% | 56% | Median |
+| 0 | 50% | 100% | Last Result |
+| 1 | 50% | 50% | Median |
 | 2 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (NI)
@@ -164,10 +164,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 15% | 99.9% | Majority |
-| 12 | 67% | 84% | Last Result, Median |
-| 13 | 17% | 17% |  |
-| 14 | 0.2% | 0.2% |  |
+| 11 | 17% | 99.9% | Majority |
+| 12 | 63% | 83% | Last Result, Median |
+| 13 | 20% | 20% |  |
+| 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
 ### Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI)
@@ -176,10 +176,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% |  |
-| 2 | 38% | 99.6% |  |
-| 3 | 58% | 62% | Last Result, Median |
-| 4 | 4% | 4% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 45% | 99.8% |  |
+| 3 | 53% | 55% | Last Result, Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
@@ -195,5 +195,5 @@
 
 + **Sample size:** 1000
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 1.97%
++ **Error estimate:** 1.19%
 
