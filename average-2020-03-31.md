@@ -280,8 +280,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 12% | 100% | Majority |
-| 12 | 46% | 88% | Last Result, Median |
+| 11 | 13% | 100% | Majority |
+| 12 | 46% | 87% | Last Result, Median |
 | 13 | 33% | 41% |  |
 | 14 | 8% | 8% |  |
 | 15 | 0.1% | 0.1% |  |
@@ -309,8 +309,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 91% | 97% | Median |
+| 1 | 4% | 100% |  |
+| 2 | 91% | 96% | Median |
 | 3 | 6% | 6% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -337,7 +337,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.5% | 100% |  |
 | 2 | 23% | 99.5% | Last Result |
 | 3 | 58% | 76% | Median |
-| 4 | 18% | 18% |  |
+| 4 | 18% | 19% |  |
 | 5 | 0% | 0% |  |
 
 ### Párbeszéd (Greens/EFA)
@@ -435,8 +435,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 12% | 100% | Majority |
-| 12 | 46% | 88% | Last Result, Median |
+| 11 | 13% | 100% | Majority |
+| 12 | 46% | 87% | Last Result, Median |
 | 13 | 33% | 41% |  |
 | 14 | 8% | 8% |  |
 | 15 | 0.1% | 0.1% |  |
@@ -495,6 +495,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 4,718,592
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.91%
