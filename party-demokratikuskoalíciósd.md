@@ -85,7 +85,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 1–3 |
 | [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–10 March 2020](2020-03-10-Publicus.html) | Publicus | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 3 | 3–4 | 2–4 |
+| [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 3 | 2–4 | 2–4 |
 | [1–20 February 2020](2020-02-20-Medián.html) | Medián | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3 | 2–4 | 2–4 | 2–4 |
