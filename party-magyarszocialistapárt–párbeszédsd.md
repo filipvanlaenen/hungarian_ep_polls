@@ -10,9 +10,9 @@ Last result: **18.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 6.7–11.7% | 6.3–12.2% | 6.0–12.6% | 5.6–13.4% |
-| [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.9% | N/A | N/A | N/A | N/A |
-| [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 3.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 9.0% | 3.2–11.6% | 2.8–12.1% | 2.6–12.5% | 2.2–13.2% |
+| [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.9% | 9.9–12.0% | 9.6–12.3% | 9.4–12.5% | 8.9–13.1% |
+| [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [17–21 March 2020](2020-03-21-Publicus.html) | Publicus | 11.1% | 9.9–12.4% | 9.6–12.8% | 9.3–13.2% | 8.7–13.9% |
 | [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
@@ -56,17 +56,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.5% | 100% |  |
-| 5.5–6.5% | 8% | 99.5% |  |
-| 6.5–7.5% | 17% | 92% |  |
-| 7.5–8.5% | 15% | 75% |  |
-| 8.5–9.5% | 21% | 60% | Median |
-| 9.5–10.5% | 14% | 39% |  |
-| 10.5–11.5% | 13% | 24% |  |
-| 11.5–12.5% | 8% | 11% |  |
-| 12.5–13.5% | 2% | 3% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 13% | 98% |  |
+| 3.5–4.5% | 5% | 85% |  |
+| 4.5–5.5% | 0.5% | 80% |  |
+| 5.5–6.5% | 5% | 80% |  |
+| 6.5–7.5% | 10% | 75% |  |
+| 7.5–8.5% | 9% | 65% |  |
+| 8.5–9.5% | 14% | 56% | Median |
+| 9.5–10.5% | 14% | 42% |  |
+| 10.5–11.5% | 17% | 28% |  |
+| 11.5–12.5% | 9% | 11% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.2% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
@@ -81,9 +84,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
-| [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [17–21 March 2020](2020-03-21-Publicus.html) | Publicus | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -129,9 +132,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% |  |
-| 2 | 58% | 68% | Median |
-| 3 | 9% | 9% | Last Result |
+| 0 | 19% | 100% |  |
+| 1 | 20% | 81% |  |
+| 2 | 53% | 61% | Median |
+| 3 | 7% | 7% | Last Result |
 | 4 | 0% | 0% |  |
 
 
