@@ -16,7 +16,7 @@ Last result: **14.7%** (General Election of 26 May 2019)
 | [17–21 March 2020](2020-03-21-Publicus.html) | Publicus | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.8% |
 | [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
-| [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 9.0% | N/A | N/A | N/A | N/A |
+| [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [5–10 March 2020](2020-03-10-Publicus.html) | Publicus | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [1–20 February 2020](2020-02-20-Medián.html) | Medián | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
@@ -82,7 +82,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [17–21 March 2020](2020-03-21-Publicus.html) | Publicus | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 1–2 |
 | [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–10 March 2020](2020-03-10-Publicus.html) | Publicus | 2 | 2 | 2 | 1–2 | 1–3 |
 | [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2 | 2–3 | 1–3 |
 | [1–20 February 2020](2020-02-20-Medián.html) | Medián | 2 | 2–3 | 2–3 | 2–3 | 2–3 |

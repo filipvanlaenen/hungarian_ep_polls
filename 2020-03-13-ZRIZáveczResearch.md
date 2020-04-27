@@ -48,9 +48,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 24% | 100% | Majority |
-| 12 | 68% | 76% | Last Result, Median |
-| 13 | 9% | 9% |  |
+| 11 | 18% | 100% | Majority |
+| 12 | 75% | 82% | Last Result, Median |
+| 13 | 7% | 8% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
@@ -63,10 +63,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 54% | 100% | Median |
-| 4 | 46% | 46% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 3 | 56% | 100% | Median |
+| 4 | 44% | 44% |  |
+| 5 | 0% | 0% |  |
 
 ### Jobbik (NI)
 
@@ -76,8 +75,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 86% | 86% | Median |
+| 1 | 18% | 100% |  |
+| 2 | 82% | 82% | Median |
 | 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -89,9 +88,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 96% | 96% | Median |
-| 3 | 0.2% | 0.2% | Last Result |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
+| 3 | 0.3% | 0.3% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Momentum Mozgalom (RE)
@@ -159,9 +158,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 24% | 100% | Majority |
-| 12 | 68% | 76% | Last Result, Median |
-| 13 | 9% | 9% |  |
+| 11 | 18% | 100% | Majority |
+| 12 | 75% | 82% | Last Result, Median |
+| 13 | 7% | 8% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
@@ -171,8 +170,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 86% | 86% | Median |
+| 1 | 18% | 100% |  |
+| 2 | 82% | 82% | Median |
 | 3 | 0.2% | 0.2% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -188,6 +187,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.67%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.43%
 
