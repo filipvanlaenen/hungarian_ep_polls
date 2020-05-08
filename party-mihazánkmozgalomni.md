@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–3.1% | 0.7–3.4% | 0.6–3.5% | 0.5–3.9% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–3.0% | 0.7–3.3% | 0.6–3.5% | 0.5–3.8% |
 | [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
-| [14–18 April 2020](2020-04-18-PublicusResearch.html) | Publicus Research | 1.0% | N/A | N/A | N/A | N/A |
+| [14–18 April 2020](2020-04-18-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [17–21 March 2020](2020-03-21-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -58,9 +58,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 1.3% | 100% | Last Result |
-| 0.5–1.5% | 69% | 98.7% | Median |
-| 1.5–2.5% | 7% | 30% |  |
-| 2.5–3.5% | 20% | 23% |  |
+| 0.5–1.5% | 74% | 98.7% | Median |
+| 1.5–2.5% | 7% | 25% |  |
+| 2.5–3.5% | 16% | 18% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -75,7 +75,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
-| [14–18 April 2020](2020-04-18-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [14–18 April 2020](2020-04-18-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [17–21 March 2020](2020-03-21-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0–1 |
