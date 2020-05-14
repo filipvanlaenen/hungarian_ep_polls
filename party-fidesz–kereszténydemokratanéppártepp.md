@@ -10,8 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 52.2% | 48.6–55.7% | 48.0–56.4% | 47.5–57.0% | 46.7–58.1% |
+| N/A | [Poll Average](average.html) | 53.1% | 49.6–56.0% | 48.9–56.6% | 48.3–57.2% | 47.3–58.2% |
 | [7–8 May 2020](2020-05-08-NézőpontIntézet.html) | Nézőpont Intézet | 54.4% | 52.4–56.4% | 51.8–57.0% | 51.3–57.5% | 50.3–58.4% |
+| [20–26 April 2020](2020-04-26-IDEAIntézet.html) | IDEA Intézet | 50.0% | N/A | N/A | N/A | N/A |
 | [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 52.3% | 50.7–54.0% | 50.2–54.5% | 49.8–54.9% | 49.0–55.6% |
 | [14–18 April 2020](2020-04-18-PublicusResearch.html) | Publicus Research | 50.0% | 48.3–51.7% | 47.9–52.1% | 47.5–52.5% | 46.7–53.3% |
 | [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 56.6% | 54.6–58.6% | 54.0–59.2% | 53.5–59.7% | 52.5–60.6% |
@@ -59,20 +60,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 44.5–45.5% | 0% | 100% |  |
-| 45.5–46.5% | 0.3% | 100% |  |
-| 46.5–47.5% | 2% | 99.6% |  |
-| 47.5–48.5% | 7% | 97% |  |
-| 48.5–49.5% | 12% | 91% |  |
-| 49.5–50.5% | 12% | 79% |  |
-| 50.5–51.5% | 10% | 66% | Last Result |
-| 51.5–52.5% | 10% | 56% | Median |
-| 52.5–53.5% | 11% | 46% |  |
-| 53.5–54.5% | 12% | 35% |  |
-| 54.5–55.5% | 11% | 22% |  |
-| 55.5–56.5% | 7% | 12% |  |
-| 56.5–57.5% | 3% | 4% |  |
-| 57.5–58.5% | 1.0% | 1.2% |  |
-| 58.5–59.5% | 0.2% | 0.2% |  |
+| 45.5–46.5% | 0.1% | 100% |  |
+| 46.5–47.5% | 0.6% | 99.9% |  |
+| 47.5–48.5% | 3% | 99.3% |  |
+| 48.5–49.5% | 6% | 97% |  |
+| 49.5–50.5% | 9% | 90% |  |
+| 50.5–51.5% | 11% | 81% | Last Result |
+| 51.5–52.5% | 13% | 70% |  |
+| 52.5–53.5% | 14% | 57% | Median |
+| 53.5–54.5% | 15% | 43% |  |
+| 54.5–55.5% | 14% | 28% |  |
+| 55.5–56.5% | 9% | 15% |  |
+| 56.5–57.5% | 4% | 6% |  |
+| 57.5–58.5% | 1.2% | 1.5% |  |
+| 58.5–59.5% | 0.2% | 0.3% |  |
 | 59.5–60.5% | 0% | 0% |  |
 
 
@@ -84,8 +85,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
+| N/A | [Poll Average](average.html) | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [7–8 May 2020](2020-05-08-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
+| [20–26 April 2020](2020-04-26-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 12–13 | 12–13 | 12–13 | 11–13 |
 | [14–18 April 2020](2020-04-18-PublicusResearch.html) | Publicus Research | 12 | 12 | 12–13 | 11–13 | 11–13 |
 | [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
@@ -134,10 +136,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 7% | 100% | Majority |
-| 12 | 44% | 93% | Last Result, Median |
-| 13 | 40% | 49% |  |
-| 14 | 9% | 9% |  |
+| 11 | 1.1% | 100% | Majority |
+| 12 | 38% | 98.9% | Last Result |
+| 13 | 50% | 61% | Median |
+| 14 | 11% | 11% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
