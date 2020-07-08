@@ -35,8 +35,8 @@
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 3 | 3 |2–3 |2–4 |2–4 |
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
-| <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -48,10 +48,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 7% | 100% | Majority |
-| 12 | 60% | 93% | Last Result, Median |
-| 13 | 32% | 33% |  |
-| 14 | 1.1% | 1.1% |  |
+| 11 | 5% | 100% | Majority |
+| 12 | 57% | 95% | Last Result, Median |
+| 13 | 37% | 38% |  |
+| 14 | 0.7% | 0.7% |  |
 | 15 | 0% | 0% |  |
 
 ### Momentum Mozgalom (RE)
@@ -65,8 +65,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 5% | 100% |  |
-| 3 | 92% | 95% | Median |
-| 4 | 3% | 3% |  |
+| 3 | 91% | 95% | Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
@@ -77,8 +77,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 61% | 100% | Last Result, Median |
-| 3 | 39% | 39% |  |
+| 2 | 58% | 100% | Last Result, Median |
+| 3 | 42% | 42% |  |
 | 4 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -102,8 +102,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 96% | 96% | Median |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
 | 2 | 0% | 0% |  |
 
 ### Magyar Szocialista Párt–Párbeszéd (S&D)
@@ -114,8 +114,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% |  |
-| 1 | 54% | 54% | Median |
+| 0 | 55% | 100% | Median |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -158,10 +158,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 7% | 100% | Majority |
-| 12 | 60% | 93% | Last Result, Median |
-| 13 | 32% | 33% |  |
-| 14 | 1.1% | 1.1% |  |
+| 11 | 5% | 100% | Majority |
+| 12 | 57% | 95% | Last Result, Median |
+| 13 | 37% | 38% |  |
+| 14 | 0.7% | 0.7% |  |
 | 15 | 0% | 0% |  |
 
 ### Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI)
@@ -171,9 +171,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.4% | 100% |  |
-| 2 | 17% | 99.6% |  |
-| 3 | 82% | 82% | Last Result, Median |
-| 4 | 0.1% | 0.1% |  |
+| 2 | 19% | 99.6% |  |
+| 3 | 80% | 81% | Last Result, Median |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
@@ -188,6 +188,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.30%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.79%
 
