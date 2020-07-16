@@ -10,7 +10,10 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50.7% | 48.3–53.2% | 47.7–53.9% | 47.2–54.4% | 46.2–55.4% |
+| N/A | [Poll Average](average.html) | 50.8% | 48.8–53.0% | 48.2–53.6% | 47.7–54.1% | 46.8–55.1% |
+| [30 June–2 July 2020](2020-07-02-NézőpontIntézet.html) | Nézőpont Intézet | 51.0% | 49.0–53.0% | 48.4–53.6% | 47.9–54.1% | 46.9–55.1% |
+| [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 50.0% | 48.6–51.4% | 48.1–51.9% | 47.8–52.2% | 47.1–52.9% |
+| [5–10 June 2020](2020-06-10-PublicusResearch.html) | Publicus Research | 50.4% | 48.4–52.5% | 47.8–53.0% | 47.4–53.5% | 46.4–54.5% |
 | [3–5 June 2020](2020-06-05-NézőpontIntézet.html) | Nézőpont Intézet | 52.0% | 50.0–54.0% | 49.4–54.6% | 48.9–55.1% | 47.9–56.1% |
 | [28 May–5 June 2020](2020-06-05-Medián.html) | Medián | 50.5% | 48.5–52.5% | 47.9–53.1% | 47.4–53.6% | 46.4–54.6% |
 | [27–31 May 2020](2020-05-31-IDEAIntézet.html) | IDEA Intézet | 49.5% | 48.1–50.9% | 47.7–51.3% | 47.3–51.7% | 46.6–52.4% |
@@ -63,21 +66,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 43.5–44.5% | 0% | 100% |  |
-| 44.5–45.5% | 0.1% | 100% |  |
-| 45.5–46.5% | 0.7% | 99.8% |  |
-| 46.5–47.5% | 3% | 99.1% |  |
-| 47.5–48.5% | 8% | 96% |  |
-| 48.5–49.5% | 16% | 88% |  |
-| 49.5–50.5% | 19% | 72% |  |
-| 50.5–51.5% | 18% | 53% | Last Result, Median |
-| 51.5–52.5% | 16% | 34% |  |
-| 52.5–53.5% | 11% | 18% |  |
-| 53.5–54.5% | 5% | 7% |  |
-| 54.5–55.5% | 2% | 2% |  |
-| 55.5–56.5% | 0.3% | 0.4% |  |
+| 44.5–45.5% | 0% | 100% |  |
+| 45.5–46.5% | 0.3% | 100% |  |
+| 46.5–47.5% | 2% | 99.7% |  |
+| 47.5–48.5% | 6% | 98% |  |
+| 48.5–49.5% | 14% | 92% |  |
+| 49.5–50.5% | 22% | 78% |  |
+| 50.5–51.5% | 22% | 56% | Last Result, Median |
+| 51.5–52.5% | 18% | 33% |  |
+| 52.5–53.5% | 10% | 16% |  |
+| 53.5–54.5% | 4% | 6% |  |
+| 54.5–55.5% | 1.1% | 1.3% |  |
+| 55.5–56.5% | 0.2% | 0.2% |  |
 | 56.5–57.5% | 0% | 0% |  |
-| 57.5–58.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -88,7 +89,10 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
+| N/A | [Poll Average](average.html) | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
+| [30 June–2 July 2020](2020-07-02-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
+| [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [5–10 June 2020](2020-06-10-PublicusResearch.html) | Publicus Research | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [3–5 June 2020](2020-06-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [28 May–5 June 2020](2020-06-05-Medián.html) | Medián | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [27–31 May 2020](2020-05-31-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
@@ -143,11 +147,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 11% | 99.9% | Majority |
-| 12 | 61% | 89% | Last Result, Median |
-| 13 | 27% | 27% |  |
-| 14 | 0.4% | 0.4% |  |
+| 11 | 5% | 100% | Majority |
+| 12 | 60% | 95% | Last Result, Median |
+| 13 | 35% | 35% |  |
+| 14 | 0.6% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
 
