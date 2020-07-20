@@ -91,8 +91,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [30 June–2 July 2020](2020-07-02-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
-| [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
-| [5–10 June 2020](2020-06-10-PublicusResearch.html) | Publicus Research | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
+| [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
+| [5–10 June 2020](2020-06-10-PublicusResearch.html) | Publicus Research | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [3–5 June 2020](2020-06-05-NézőpontIntézet.html) | Nézőpont Intézet | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [28 May–5 June 2020](2020-06-05-Medián.html) | Medián | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [27–31 May 2020](2020-05-31-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
@@ -119,7 +119,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | [1–30 November 2019](2019-11-30-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 13–14 | 12–14 | 12–14 |
 | [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
-| [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13 | 12–13 | 12–13 | 12–14 |
+| [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
 | [18–23 October 2019](2019-10-23-Medián.html) | Medián | 14 | 14 | 14–15 | 14–15 | 13–15 |
 | [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [20–26 September 2019](2019-09-26-Medián.html) | Medián | 14 | 14–15 | 14–15 | 14–15 | 13–15 |
@@ -147,10 +147,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 5% | 100% | Majority |
-| 12 | 60% | 95% | Last Result, Median |
-| 13 | 35% | 35% |  |
-| 14 | 0.6% | 0.6% |  |
+| 11 | 4% | 100% | Majority |
+| 12 | 57% | 96% | Last Result, Median |
+| 13 | 38% | 39% |  |
+| 14 | 0.7% | 0.7% |  |
 | 15 | 0% | 0% |  |
 
 
