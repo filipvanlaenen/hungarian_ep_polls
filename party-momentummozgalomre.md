@@ -99,7 +99,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
-| [13–15 July 2020](2020-07-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [13–15 July 2020](2020-07-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 June–2 July 2020](2020-07-02-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 2–3 |
 | [5–10 June 2020](2020-06-10-PublicusResearch.html) | Publicus Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -160,7 +160,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
 | 2 | 47% | 98% |  |
-| 3 | 36% | 51% | Median |
+| 3 | 37% | 51% | Median |
 | 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
 
