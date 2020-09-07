@@ -102,7 +102,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2 | 2–3 | 1–3 |
-| [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 2 |
+| [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 2–3 |
 | [13–15 July 2020](2020-07-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 June–2 July 2020](2020-07-02-NézőpontIntézet.html) | Nézőpont Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 2–3 |
