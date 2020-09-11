@@ -10,7 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.1% | 49.0–53.1% | 48.3–53.6% | 47.8–54.1% | 46.8–55.0% |
+| N/A | [Poll Average](average.html) | 51.5% | 47.8–54.2% | 46.9–55.0% | 46.2–55.7% | 44.9–57.0% |
+| [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.0% |
+| [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 53.9% | 51.9–55.9% | 51.3–56.5% | 50.8–57.0% | 49.8–57.9% |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 51.4% | 49.4–53.4% | 48.8–54.0% | 48.3–54.5% | 47.3–55.5% |
 | [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 52.0% | 50.6–53.4% | 50.2–53.8% | 49.8–54.2% | 49.1–54.9% |
 | [13–15 July 2020](2020-07-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.4% | 48.4–52.4% | 47.8–53.0% | 47.3–53.5% | 46.3–54.5% |
@@ -69,19 +71,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 44.5–45.5% | 0% | 100% |  |
-| 45.5–46.5% | 0.3% | 100% |  |
-| 46.5–47.5% | 1.4% | 99.7% |  |
-| 47.5–48.5% | 5% | 98% |  |
-| 48.5–49.5% | 11% | 94% |  |
-| 49.5–50.5% | 19% | 83% |  |
-| 50.5–51.5% | 24% | 63% | Last Result, Median |
-| 51.5–52.5% | 22% | 40% |  |
-| 52.5–53.5% | 12% | 18% |  |
-| 53.5–54.5% | 4% | 5% |  |
-| 54.5–55.5% | 1.0% | 1.1% |  |
-| 55.5–56.5% | 0.1% | 0.2% |  |
-| 56.5–57.5% | 0% | 0% |  |
+| 42.5–43.5% | 0% | 100% |  |
+| 43.5–44.5% | 0.2% | 100% |  |
+| 44.5–45.5% | 1.0% | 99.7% |  |
+| 45.5–46.5% | 2% | 98.8% |  |
+| 46.5–47.5% | 5% | 96% |  |
+| 47.5–48.5% | 6% | 92% |  |
+| 48.5–49.5% | 8% | 85% |  |
+| 49.5–50.5% | 12% | 77% |  |
+| 50.5–51.5% | 16% | 65% | Last Result, Median |
+| 51.5–52.5% | 18% | 49% |  |
+| 52.5–53.5% | 14% | 30% |  |
+| 53.5–54.5% | 9% | 16% |  |
+| 54.5–55.5% | 5% | 8% |  |
+| 55.5–56.5% | 2% | 3% |  |
+| 56.5–57.5% | 0.7% | 0.9% |  |
+| 57.5–58.5% | 0.2% | 0.2% |  |
+| 58.5–59.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -92,7 +98,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
+| N/A | [Poll Average](average.html) | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
+| [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
+| [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
 | [13–15 July 2020](2020-07-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 12–13 | 12–13 | 11–13 | 11–14 |
@@ -153,10 +161,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 4% | 100% | Majority |
-| 12 | 49% | 96% | Last Result, Median |
-| 13 | 45% | 47% |  |
-| 14 | 2% | 2% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 8% | 99.9% | Majority |
+| 12 | 46% | 92% | Last Result, Median |
+| 13 | 42% | 46% |  |
+| 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 
 
