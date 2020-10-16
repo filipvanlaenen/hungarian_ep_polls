@@ -10,8 +10,11 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.5% | 47.8–54.2% | 46.9–55.0% | 46.2–55.7% | 44.9–57.0% |
+| N/A | [Poll Average](average.html) | 51.3% | 48.7–54.1% | 48.0–55.0% | 47.5–55.7% | 46.4–57.0% |
+| [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 50.0% | 48.0–52.1% | 47.4–52.6% | 47.0–53.1% | 46.0–54.1% |
+| [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 49.9% | 47.9–51.9% | 47.3–52.5% | 46.8–53.0% | 45.8–54.0% |
 | [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.0% |
+| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 52.0% | 50.6–53.4% | 50.2–53.8% | 49.8–54.2% | 49.1–54.9% |
 | [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 53.9% | 51.9–55.9% | 51.3–56.5% | 50.8–57.0% | 49.8–57.9% |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 51.4% | 49.4–53.4% | 48.8–54.0% | 48.3–54.5% | 47.3–55.5% |
 | [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 52.0% | 50.6–53.4% | 50.2–53.8% | 49.8–54.2% | 49.1–54.9% |
@@ -71,19 +74,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0.2% | 100% |  |
-| 44.5–45.5% | 1.0% | 99.7% |  |
-| 45.5–46.5% | 2% | 98.8% |  |
-| 46.5–47.5% | 5% | 96% |  |
-| 47.5–48.5% | 6% | 92% |  |
-| 48.5–49.5% | 8% | 85% |  |
-| 49.5–50.5% | 12% | 77% |  |
-| 50.5–51.5% | 16% | 65% | Last Result, Median |
-| 51.5–52.5% | 18% | 49% |  |
-| 52.5–53.5% | 14% | 30% |  |
-| 53.5–54.5% | 9% | 16% |  |
-| 54.5–55.5% | 5% | 8% |  |
+| 43.5–44.5% | 0% | 100% |  |
+| 44.5–45.5% | 0.1% | 100% |  |
+| 45.5–46.5% | 0.5% | 99.9% |  |
+| 46.5–47.5% | 2% | 99.4% |  |
+| 47.5–48.5% | 6% | 97% |  |
+| 48.5–49.5% | 11% | 91% |  |
+| 49.5–50.5% | 16% | 80% |  |
+| 50.5–51.5% | 19% | 64% | Last Result, Median |
+| 51.5–52.5% | 18% | 45% |  |
+| 52.5–53.5% | 13% | 28% |  |
+| 53.5–54.5% | 8% | 15% |  |
+| 54.5–55.5% | 4% | 7% |  |
 | 55.5–56.5% | 2% | 3% |  |
 | 56.5–57.5% | 0.7% | 0.9% |  |
 | 57.5–58.5% | 0.2% | 0.2% |  |
@@ -98,8 +100,11 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
+| [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
+| [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
+| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
 | [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 13 | 12–13 | 12–13 | 12–14 | 12–14 |
@@ -161,10 +166,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 9% | 99.9% | Majority |
-| 12 | 44% | 91% | Last Result, Median |
-| 13 | 43% | 46% |  |
+| 11 | 12% | 100% | Majority |
+| 12 | 47% | 88% | Last Result, Median |
+| 13 | 38% | 41% |  |
 | 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 

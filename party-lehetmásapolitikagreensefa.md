@@ -10,8 +10,11 @@ Last result: **5.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.5% | 1.5–3.7% | 1.4–4.0% | 1.2–4.4% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.1–3.5% | 0.9–3.7% | 0.7–4.0% | 0.5–4.4% |
+| [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
@@ -71,10 +74,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 53% | 95% | Median |
-| 2.5–3.5% | 33% | 41% |  |
+| 0.0–0.5% | 0.5% | 100% |  |
+| 0.5–1.5% | 21% | 99.5% |  |
+| 1.5–2.5% | 40% | 79% | Median |
+| 2.5–3.5% | 30% | 38% |  |
 | 3.5–4.5% | 8% | 8% |  |
 | 4.5–5.5% | 0.3% | 0.3% | Last Result |
 | 5.5–6.5% | 0% | 0% |  |
@@ -89,7 +92,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
