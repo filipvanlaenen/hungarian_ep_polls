@@ -99,7 +99,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 1 | 1 | 1 | 1–2 | 1–2 |
+| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 1 | 1 | 1 | 1 | 1 |
@@ -161,8 +161,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 39% | 100% |  |
-| 2 | 61% | 61% | Median |
+| 1 | 38% | 100% |  |
+| 2 | 62% | 62% | Median |
 | 3 | 0.2% | 0.2% | Last Result |
 | 4 | 0% | 0% |  |
 
