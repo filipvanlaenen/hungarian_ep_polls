@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 48–56% <br> 11–14 | 6–11% <br> 1–2 | N/A <br> N/A | 10–20% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | 1–5% <br> 0–1 | 8–17% <br> 1–4 | 3–11% <br> 0–2 | 1–3% <br> 0 |
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 47–53% <br> 11–13 | 8–11% <br> 1–2 | N/A <br> N/A | 11–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 9–13% <br> 2–3 | 8–12% <br> 2–3 | 1–2% <br> 0 |
 | [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 47–53% <br> 11–13 | 7–11% <br> 1–2 | N/A <br> N/A | 16–21% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 8–12% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 |
-| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 50–54% <br> 12–14 | 6–8% <br> 1–2 | N/A <br> N/A | 14–18% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 9–11% <br> 2 | 7–9% <br> 1–2 | 1–3% <br> 0 |
+| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 50–54% <br> 12–13 | 6–8% <br> 1–2 | N/A <br> N/A | 14–18% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 9–11% <br> 2 | 7–9% <br> 1–2 | 1–3% <br> 0 |
 | [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 51–57% <br> 12–14 | 6–10% <br> 1–2 | N/A <br> N/A | 12–16% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | 7–11% <br> 1–2 | 6–9% <br> 1–2 | 1–2% <br> 0 |
 | [30 June–2 July 2020](2020-07-02-NézőpontIntézet.html) | Nézőpont Intézet | 48–54% <br> 11–13 | 7–11% <br> 1–2 | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | 14–18% <br> 3–4 | 3–5% <br> 0–1 | 1–2% <br> 0 |
 | 26 May 2019 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 |
@@ -249,9 +249,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 12% | 100% | Majority |
-| 12 | 47% | 88% | Last Result, Median |
-| 13 | 38% | 41% |  |
-| 14 | 4% | 4% |  |
+| 12 | 50% | 88% | Last Result, Median |
+| 13 | 35% | 38% |  |
+| 14 | 3% | 3% |  |
 | 15 | 0% | 0% |  |
 
 ### Magyar Szocialista Párt–Párbeszéd (S&D)
@@ -276,8 +276,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 39% | 100% |  |
-| 2 | 61% | 61% | Median |
+| 1 | 38% | 100% |  |
+| 2 | 62% | 62% | Median |
 | 3 | 0.2% | 0.2% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -296,8 +296,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 19% | 100% | Last Result |
-| 3 | 51% | 81% | Median |
-| 4 | 29% | 30% |  |
+| 3 | 49% | 81% | Median |
+| 4 | 32% | 32% |  |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
@@ -354,7 +354,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 3% | 100% |  |
 | 2 | 69% | 97% | Median |
-| 3 | 16% | 27% |  |
+| 3 | 16% | 28% |  |
 | 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
@@ -390,9 +390,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 12% | 100% | Majority |
-| 12 | 47% | 88% | Last Result, Median |
-| 13 | 38% | 41% |  |
-| 14 | 4% | 4% |  |
+| 12 | 50% | 88% | Last Result, Median |
+| 13 | 35% | 38% |  |
+| 14 | 3% | 3% |  |
 | 15 | 0% | 0% |  |
 
 ### Magyar Szocialista Párt–Párbeszéd (S&D) – Magyar Szocialista Párt (S&D) – Demokratikus Koalíció (S&D)
@@ -403,9 +403,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 6% | 100% |  |
 | 3 | 13% | 94% |  |
-| 4 | 21% | 81% | Median |
-| 5 | 46% | 59% |  |
-| 6 | 14% | 14% |  |
+| 4 | 22% | 81% | Median |
+| 5 | 43% | 59% |  |
+| 6 | 16% | 16% |  |
 | 7 | 0.1% | 0.1% | Last Result |
 | 8 | 0% | 0% |  |
 
@@ -418,7 +418,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 3% | 100% |  |
 | 2 | 69% | 97% | Median |
-| 3 | 16% | 27% |  |
+| 3 | 16% | 28% |  |
 | 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
@@ -428,8 +428,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% |  |
-| 2 | 55% | 68% | Median |
+| 1 | 31% | 100% |  |
+| 2 | 56% | 69% | Median |
 | 3 | 13% | 13% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -447,6 +447,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 2.74%
