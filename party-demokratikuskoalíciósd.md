@@ -10,7 +10,9 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 11.0–18.1% | 10.4–18.9% | 9.9–19.5% | 9.2–20.5% |
+| N/A | [Poll Average](average.html) | 15.5% | 12.7–18.0% | 12.2–18.4% | 11.9–18.8% | 11.1–19.6% |
+| [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
+| [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 17.2% | 16.1–18.3% | 15.8–18.6% | 15.6–18.9% | 15.1–19.4% |
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.3–15.5% | 10.7–16.2% |
 | [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
@@ -74,22 +76,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 1.1% | 99.9% |  |
-| 9.5–10.5% | 5% | 98.8% | Last Result |
-| 10.5–11.5% | 9% | 94% |  |
-| 11.5–12.5% | 10% | 85% |  |
-| 12.5–13.5% | 13% | 75% |  |
-| 13.5–14.5% | 13% | 62% | Median |
-| 14.5–15.5% | 12% | 48% |  |
-| 15.5–16.5% | 13% | 36% |  |
-| 16.5–17.5% | 10% | 23% |  |
-| 17.5–18.5% | 7% | 14% |  |
-| 18.5–19.5% | 5% | 7% |  |
-| 19.5–20.5% | 2% | 2% |  |
-| 20.5–21.5% | 0.4% | 0.5% |  |
-| 21.5–22.5% | 0.1% | 0.1% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.1% | 100% | Last Result |
+| 10.5–11.5% | 1.3% | 99.9% |  |
+| 11.5–12.5% | 7% | 98.6% |  |
+| 12.5–13.5% | 15% | 92% |  |
+| 13.5–14.5% | 16% | 77% |  |
+| 14.5–15.5% | 11% | 61% |  |
+| 15.5–16.5% | 14% | 50% | Median |
+| 16.5–17.5% | 19% | 36% |  |
+| 17.5–18.5% | 13% | 17% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 0.5% | 0.6% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,7 +100,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -166,10 +168,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 19% | 100% | Last Result |
-| 3 | 49% | 81% | Median |
-| 4 | 32% | 32% |  |
-| 5 | 0.7% | 0.7% |  |
+| 2 | 3% | 100% | Last Result |
+| 3 | 53% | 97% | Median |
+| 4 | 43% | 43% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 
