@@ -10,7 +10,10 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.5% | 12.7–18.0% | 12.2–18.4% | 11.9–18.8% | 11.1–19.6% |
+| N/A | [Poll Average](average.html) | 15.1% | 11.8–17.7% | 11.3–18.2% | 10.9–18.6% | 10.1–19.5% |
+| [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
+| [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 17.2% | 16.1–18.3% | 15.8–18.6% | 15.6–18.9% | 15.1–19.4% |
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.3–15.5% | 10.7–16.2% |
@@ -76,19 +79,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% | Last Result |
-| 10.5–11.5% | 1.3% | 99.9% |  |
-| 11.5–12.5% | 7% | 98.6% |  |
-| 12.5–13.5% | 15% | 92% |  |
-| 13.5–14.5% | 16% | 77% |  |
-| 14.5–15.5% | 11% | 61% |  |
-| 15.5–16.5% | 14% | 50% | Median |
-| 16.5–17.5% | 19% | 36% |  |
-| 17.5–18.5% | 13% | 17% |  |
-| 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.5% | 0.6% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 1.3% | 99.9% | Last Result |
+| 10.5–11.5% | 6% | 98.6% |  |
+| 11.5–12.5% | 11% | 93% |  |
+| 12.5–13.5% | 13% | 81% |  |
+| 13.5–14.5% | 12% | 68% |  |
+| 14.5–15.5% | 11% | 56% | Median |
+| 15.5–16.5% | 15% | 44% |  |
+| 16.5–17.5% | 17% | 29% |  |
+| 17.5–18.5% | 10% | 12% |  |
+| 18.5–19.5% | 2% | 3% |  |
+| 19.5–20.5% | 0.4% | 0.5% |  |
+| 20.5–21.5% | 0% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -100,7 +104,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -168,10 +175,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% | Last Result |
-| 3 | 53% | 97% | Median |
-| 4 | 43% | 43% |  |
-| 5 | 0.3% | 0.3% |  |
+| 2 | 11% | 100% | Last Result |
+| 3 | 50% | 89% | Median |
+| 4 | 39% | 39% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 

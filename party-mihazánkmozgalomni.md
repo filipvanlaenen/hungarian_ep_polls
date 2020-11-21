@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.5–3.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.1–2.6% | 0.9–2.8% | 0.7–2.9% | 0.5–3.3% |
+| [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -76,11 +79,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.3% | 100% | Last Result |
-| 0.5–1.5% | 48% | 98.7% |  |
-| 1.5–2.5% | 45% | 51% | Median |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 25% | 99.5% |  |
+| 1.5–2.5% | 64% | 74% | Median |
+| 2.5–3.5% | 11% | 11% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -93,6 +96,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
+| [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
+| [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
 | [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
