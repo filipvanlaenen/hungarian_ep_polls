@@ -10,7 +10,9 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.1% | 11.8–17.7% | 11.3–18.2% | 10.9–18.6% | 10.1–19.5% |
+| N/A | [Poll Average](average.html) | 16.2% | 12.0–18.1% | 11.4–18.6% | 10.9–19.0% | 10.1–19.8% |
+| [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
@@ -81,18 +83,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 1.3% | 99.9% | Last Result |
-| 10.5–11.5% | 6% | 98.6% |  |
-| 11.5–12.5% | 11% | 93% |  |
-| 12.5–13.5% | 13% | 81% |  |
-| 13.5–14.5% | 12% | 68% |  |
-| 14.5–15.5% | 11% | 56% | Median |
-| 15.5–16.5% | 15% | 44% |  |
-| 16.5–17.5% | 17% | 29% |  |
-| 17.5–18.5% | 10% | 12% |  |
-| 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.5% |  |
-| 20.5–21.5% | 0% | 0.1% |  |
+| 9.5–10.5% | 1.2% | 99.9% | Last Result |
+| 10.5–11.5% | 5% | 98.7% |  |
+| 11.5–12.5% | 8% | 94% |  |
+| 12.5–13.5% | 6% | 86% |  |
+| 13.5–14.5% | 7% | 80% |  |
+| 14.5–15.5% | 11% | 73% |  |
+| 15.5–16.5% | 19% | 62% | Median |
+| 16.5–17.5% | 23% | 43% |  |
+| 17.5–18.5% | 14% | 19% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.8% | 0.9% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -104,7 +106,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -175,10 +179,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 10% | 100% | Last Result |
-| 3 | 51% | 90% | Median |
-| 4 | 39% | 39% |  |
-| 5 | 0.2% | 0.2% |  |
+| 2 | 8% | 100% | Last Result |
+| 3 | 39% | 92% |  |
+| 4 | 53% | 53% | Median |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 

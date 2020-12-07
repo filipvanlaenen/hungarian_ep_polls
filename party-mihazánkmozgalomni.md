@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.1–2.6% | 0.9–2.8% | 0.7–2.9% | 0.5–3.3% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
+| [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -79,10 +81,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 25% | 99.5% |  |
-| 1.5–2.5% | 64% | 74% | Median |
-| 2.5–3.5% | 11% | 11% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 10% | 100% |  |
+| 1.5–2.5% | 76% | 90% | Median |
+| 2.5–3.5% | 14% | 14% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -96,6 +98,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
+| [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 0 | 0 | 0 | 0 | 0 |
 | [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
 | [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
