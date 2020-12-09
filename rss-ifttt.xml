@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:37:38 +0200</pubDate>
     <item>
+      <title>Opinion Poll by IDEA Intézet, 30 November–4 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-04-IDEAIntézet.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IDEA Intézet, 30 November–4 December 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-04-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-04-IDEAIntézet.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-04-IDEAIntézet.png" length="266374" type="image/png"/>
+      <pubDate>Wed, 9 Dec 2020 17:14:06 +0100</pubDate>
+      <dc:date>2020-12-09T17:14:06.528747+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Republikon, 16–23 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-11-23-Republikon.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon, 16–23 November 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-11-23-Republikon.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-11-23-Republikon-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-09-18-ZRIZáveczResearch.png" length="275358" type="image/png"/>
       <pubDate>Fri, 16 Oct 2020 19:15:59 +0200</pubDate>
       <dc:date>2020-10-16T19:15:59.439595+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IDEA Intézet, 27–31 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 27–31 August 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet-seating-plan.png" length="377102" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 20:41:07 +0200</pubDate>
-      <dc:date>2020-10-18T20:41:07.30696+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IDEA Intézet, 27–31 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 27–31 August 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet-seats.png" length="224465" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 20:41:07 +0200</pubDate>
-      <dc:date>2020-10-18T20:41:07.30696+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IDEA Intézet, 27–31 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IDEA Intézet, 27–31 August 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-08-31-IDEAIntézet.png" length="263115" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 20:41:07 +0200</pubDate>
-      <dc:date>2020-10-18T20:41:07.30696+02:00</dc:date>
     </item>
   </channel>
 </rss>
