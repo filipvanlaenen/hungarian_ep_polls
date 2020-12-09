@@ -10,7 +10,8 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 12.0–18.1% | 11.4–18.6% | 10.9–19.0% | 10.1–19.8% |
+| N/A | [Poll Average](average.html) | 16.2% | 12.0–18.0% | 11.4–18.5% | 10.9–19.0% | 10.1–19.8% |
+| [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 16.8% | 15.8–18.0% | 15.5–18.3% | 15.3–18.6% | 14.8–19.1% |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
@@ -89,9 +90,9 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 6% | 86% |  |
 | 13.5–14.5% | 7% | 80% |  |
 | 14.5–15.5% | 11% | 73% |  |
-| 15.5–16.5% | 19% | 62% | Median |
-| 16.5–17.5% | 23% | 43% |  |
-| 17.5–18.5% | 14% | 19% |  |
+| 15.5–16.5% | 20% | 62% | Median |
+| 16.5–17.5% | 23% | 41% |  |
+| 17.5–18.5% | 13% | 18% |  |
 | 18.5–19.5% | 4% | 5% |  |
 | 19.5–20.5% | 0.8% | 0.9% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
@@ -107,6 +108,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
