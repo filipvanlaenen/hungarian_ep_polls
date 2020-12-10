@@ -108,7 +108,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
