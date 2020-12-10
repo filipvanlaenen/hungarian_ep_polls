@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-12-06T21:23:16.538717+01:00</updated>
+  <updated>2020-12-10T08:21:03.583239+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–Kereszténydemokrata Néppárt (EPP): 44.4–48.7%, 11–12 seats</li><li>Jobbik (NI): 7.7–10.2%, 1–2 seats</li><li>Magyar Szocialista Párt–Párbeszéd (S&amp;D): 7.8–10.3%, 1–2 seats</li><li>Demokratikus Koalíció (S&amp;D): 15.3–18.6%, 3–4 seats</li><li>Lehet Más a Politika (Greens/EFA): 2.3–3.8%, 0 seats</li><li>Momentum Mozgalom (RE): 8.7–11.3%, 2 seats</li><li>Magyar Kétfarkú Kutya Párt (NI): 1.5–2.7%, 0 seats</li><li>Mi Hazánk Mozgalom (NI): 1.5–2.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-04-IDEAIntézet.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-04-IDEAIntézet.html"/>
+    <title>Opinion Poll by IDEA Intézet, 30 November–4 December 2020</title>
+    <updated>2020-12-10T08:21:03.583239+01:00</updated>
+    <dc:date>2020-12-10T08:21:03.583239+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–Kereszténydemokrata Néppárt (EPP): 44.8–51.0%, 11–12 seats</li><li>Jobbik (NI): 5.6–8.8%, 1–2 seats</li><li>Magyar Szocialista Párt–Párbeszéd (S&amp;D): 8.3–12.0%, 2–3 seats</li><li>Demokratikus Koalíció (S&amp;D): 12.9–17.4%, 3–4 seats</li><li>Lehet Más a Politika (Greens/EFA): 1.3–3.1%, 0 seats</li><li>Momentum Mozgalom (RE): 11.1–15.2%, 2–3 seats</li><li>Magyar Kétfarkú Kutya Párt (NI): 2.1–4.3%, 0–1 seats</li><li>Mi Hazánk Mozgalom (NI): 1.3–3.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-11-23-Republikon.html</id>
@@ -511,5 +519,5 @@
     <updated>2019-06-23T10:22:11.119068+02:00</updated>
     <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
   </entry>
-  <dc:date>2020-12-06T21:23:16.538717+01:00</dc:date>
+  <dc:date>2020-12-10T08:21:03.583239+01:00</dc:date>
 </feed>
