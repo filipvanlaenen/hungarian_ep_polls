@@ -5,12 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM | MSZP–Párbeszéd | Hazánk |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 45–53% <br> 11–13 | 6–13% <br> 1–3 | N/A <br> N/A | 11–19% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | 1–4% <br> 0–1 | 9–14% <br> 2–3 | 6–11% <br> 1–2 | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 43–53% <br> 10–13 | 6–13% <br> 1–3 | N/A <br> N/A | 11–21% <br> 2–5 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 8–14% <br> 2–3 | 6–11% <br> 1–2 | 1–3% <br> 0 |
+| [1–31 December 2020](2020-12-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 42–48% <br> 10–12 | 8–12% <br> 2–3 | N/A <br> N/A | 17–22% <br> 4–5 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 8–12% <br> 2–3 | 7–11% <br> 1–2 | 1–3% <br> 0 |
 | [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 44–49% <br> 11–12 | 8–10% <br> 1–2 | N/A <br> N/A | 15–19% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 9–11% <br> 2 | 8–10% <br> 1–2 | 1–3% <br> 0 |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 45–51% <br> 11–12 | 6–9% <br> 1–2 | N/A <br> N/A | 13–17% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 11–15% <br> 2–3 | 8–12% <br> 2–3 | 1–3% <br> 0 |
-| [3–17 November 2020](2020-11-17-ZáveczResearc.html) | Závecz Researc | 44–50% <br> 10–12 | 8–12% <br> 2–3 | N/A <br> N/A | 15–19% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 9–13% <br> 2–3 | 7–11% <br> 1–2 | 1–3% <br> 0 |
 | [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 48–54% <br> 12–13 | 10–14% <br> 2–3 | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 8–12% <br> 2–3 | 6–9% <br> 1–2 | 1–3% <br> 0 |
-| [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 46–52% <br> 11–13 | 8–12% <br> 2–3 | N/A <br> N/A | 15–19% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 8–12% <br> 2–3 | 6–10% <br> 1–2 | 1–3% <br> 0 |
 | 26 May 2019 | General Election | 51.5% <br> 12 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
