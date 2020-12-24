@@ -10,7 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48.0% | 44.7–51.8% | 43.8–52.6% | 43.1–53.2% | 41.8–54.3% |
+| N/A | [Poll Average](average.html) | 46.9% | 44.2–50.8% | 43.5–51.7% | 42.9–52.4% | 41.7–53.6% |
+| [1–31 December 2020](2020-12-31-Medián.html) | Medián | 48.3% | 45.7–51.0% | 45.0–51.7% | 44.4–52.3% | 43.1–53.6% |
+| [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 45.9% | 43.9–47.9% | 43.3–48.5% | 42.8–49.0% | 41.9–50.0% |
 | [1–8 December 2020](2020-12-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 44.9% | 42.9–46.9% | 42.3–47.5% | 41.8–48.0% | 40.9–49.0% |
 | [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 46.6% | 45.1–48.0% | 44.7–48.4% | 44.4–48.7% | 43.7–49.4% |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 47.9% | 45.9–49.9% | 45.3–50.5% | 44.8–51.0% | 43.9–52.0% |
@@ -84,24 +86,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 39.5–40.5% | 0% | 100% |  |
+| 39.5–40.5% | 0.1% | 100% |  |
 | 40.5–41.5% | 0.3% | 99.9% |  |
-| 41.5–42.5% | 1.0% | 99.7% |  |
-| 42.5–43.5% | 3% | 98.7% |  |
-| 43.5–44.5% | 5% | 96% |  |
-| 44.5–45.5% | 9% | 91% |  |
-| 45.5–46.5% | 13% | 82% |  |
-| 46.5–47.5% | 14% | 69% |  |
-| 47.5–48.5% | 11% | 55% | Median |
-| 48.5–49.5% | 11% | 44% |  |
-| 49.5–50.5% | 11% | 34% |  |
-| 50.5–51.5% | 10% | 22% | Last Result |
-| 51.5–52.5% | 7% | 12% |  |
-| 52.5–53.5% | 3% | 5% |  |
-| 53.5–54.5% | 1.2% | 2% |  |
-| 54.5–55.5% | 0.3% | 0.3% |  |
+| 41.5–42.5% | 1.3% | 99.6% |  |
+| 42.5–43.5% | 4% | 98% |  |
+| 43.5–44.5% | 8% | 95% |  |
+| 44.5–45.5% | 13% | 87% |  |
+| 45.5–46.5% | 17% | 73% |  |
+| 46.5–47.5% | 16% | 56% | Median |
+| 47.5–48.5% | 11% | 40% |  |
+| 48.5–49.5% | 9% | 29% |  |
+| 49.5–50.5% | 8% | 20% |  |
+| 50.5–51.5% | 6% | 12% | Last Result |
+| 51.5–52.5% | 4% | 6% |  |
+| 52.5–53.5% | 2% | 2% |  |
+| 53.5–54.5% | 0.5% | 0.6% |  |
+| 54.5–55.5% | 0.1% | 0.1% |  |
 | 55.5–56.5% | 0% | 0% |  |
-| 56.5–57.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -112,7 +113,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11–13 | 10–13 | 10–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
+| [1–31 December 2020](2020-12-31-Medián.html) | Medián | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [1–8 December 2020](2020-12-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 12 | 11–12 | 11–12 | 11–12 | 10–13 |
@@ -188,11 +191,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 5% | 100% |  |
-| 11 | 45% | 95% | Median, Majority |
-| 12 | 38% | 49% | Last Result |
-| 13 | 11% | 11% |  |
-| 14 | 0.5% | 0.5% |  |
-| 15 | 0% | 0% |  |
+| 10 | 9% | 100% |  |
+| 11 | 60% | 91% | Median, Majority |
+| 12 | 28% | 31% | Last Result |
+| 13 | 3% | 3% |  |
+| 14 | 0% | 0% |  |
 
 
