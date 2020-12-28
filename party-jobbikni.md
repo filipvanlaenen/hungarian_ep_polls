@@ -13,6 +13,7 @@ Last result: **14.7%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 9.2% | 7.6–15.2% | 7.3–16.3% | 7.0–17.0% | 6.4–18.3% |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 15.2% | 13.4–17.2% | 12.9–17.8% | 12.5–18.3% | 11.7–19.3% |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [1–8 December 2020](2020-12-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 8.9% | 8.1–9.8% | 7.9–10.0% | 7.7–10.2% | 7.4–10.7% |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -89,9 +90,9 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.8% | 100% |  |
 | 6.5–7.5% | 8% | 99.2% |  |
-| 7.5–8.5% | 23% | 91% |  |
-| 8.5–9.5% | 28% | 68% | Median |
-| 9.5–10.5% | 14% | 41% |  |
+| 7.5–8.5% | 22% | 92% |  |
+| 8.5–9.5% | 28% | 69% | Median |
+| 9.5–10.5% | 15% | 41% |  |
 | 10.5–11.5% | 5% | 27% |  |
 | 11.5–12.5% | 2% | 21% |  |
 | 12.5–13.5% | 2% | 20% |  |
@@ -116,6 +117,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–8 December 2020](2020-12-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2 | 2–3 | 1–3 |
 | [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 1–2 | 1–2 |
 | [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -191,8 +193,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% |  |
-| 2 | 61% | 81% | Median |
+| 1 | 20% | 100% |  |
+| 2 | 60% | 80% | Median |
 | 3 | 15% | 20% | Last Result |
 | 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
