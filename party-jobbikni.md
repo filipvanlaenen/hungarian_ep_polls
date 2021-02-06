@@ -11,6 +11,7 @@ Last result: **14.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.2% | 7.6–15.2% | 7.3–16.3% | 7.0–17.0% | 6.4–18.3% |
+| [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 15.2% | 13.4–17.2% | 12.9–17.8% | 12.5–18.3% | 11.7–19.3% |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -115,6 +116,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -193,8 +195,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% |  |
-| 2 | 60% | 80% | Median |
+| 1 | 19% | 100% |  |
+| 2 | 61% | 81% | Median |
 | 3 | 15% | 20% | Last Result |
 | 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |

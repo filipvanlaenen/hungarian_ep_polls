@@ -10,7 +10,8 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 9.1–19.1% | 8.3–19.9% | 7.8–20.5% | 7.0–21.5% |
+| N/A | [Poll Average](average.html) | 15.9% | 9.1–19.1% | 8.3–19.9% | 7.8–20.5% | 7.0–21.5% |
+| [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 9.0% | 7.7–10.7% | 7.3–11.1% | 7.0–11.6% | 6.4–12.4% |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
@@ -95,12 +96,12 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 5% | 87% | Last Result |
 | 10.5–11.5% | 2% | 82% |  |
 | 11.5–12.5% | 3% | 80% |  |
-| 12.5–13.5% | 8% | 77% |  |
-| 13.5–14.5% | 12% | 69% |  |
-| 14.5–15.5% | 11% | 57% | Median |
-| 15.5–16.5% | 11% | 47% |  |
-| 16.5–17.5% | 12% | 36% |  |
-| 17.5–18.5% | 10% | 24% |  |
+| 12.5–13.5% | 7% | 77% |  |
+| 13.5–14.5% | 8% | 70% |  |
+| 14.5–15.5% | 9% | 62% |  |
+| 15.5–16.5% | 13% | 54% | Median |
+| 16.5–17.5% | 15% | 41% |  |
+| 17.5–18.5% | 11% | 25% |  |
 | 18.5–19.5% | 7% | 14% |  |
 | 19.5–20.5% | 5% | 7% |  |
 | 20.5–21.5% | 2% | 2% |  |
@@ -118,6 +119,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
+| [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -198,8 +200,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
 | 2 | 18% | 96% | Last Result |
-| 3 | 34% | 78% | Median |
-| 4 | 39% | 44% |  |
+| 3 | 30% | 78% | Median |
+| 4 | 43% | 48% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 

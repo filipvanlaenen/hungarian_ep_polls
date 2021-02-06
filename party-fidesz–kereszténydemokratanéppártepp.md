@@ -11,6 +11,7 @@ Last result: **51.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 47.1% | 44.2–50.8% | 43.5–51.7% | 42.9–52.4% | 41.7–53.6% |
+| [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 45.9% | 43.9–47.9% | 43.3–48.5% | 42.8–49.0% | 41.9–50.0% |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 48.3% | 45.7–51.0% | 45.0–51.7% | 44.4–52.3% | 43.1–53.6% |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 45.9% | 43.9–47.9% | 43.3–48.5% | 42.8–49.0% | 41.9–50.0% |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 47.0% | 45.6–48.4% | 45.2–48.8% | 44.8–49.2% | 44.1–49.9% |
@@ -114,7 +115,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
+| [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
@@ -193,9 +195,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 9% | 100% |  |
-| 11 | 55% | 91% | Median, Majority |
-| 12 | 33% | 36% | Last Result |
+| 10 | 11% | 100% |  |
+| 11 | 55% | 89% | Median, Majority |
+| 12 | 31% | 34% | Last Result |
 | 13 | 3% | 3% |  |
 | 14 | 0% | 0% |  |
 
