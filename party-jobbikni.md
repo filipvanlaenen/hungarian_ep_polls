@@ -10,7 +10,8 @@ Last result: **14.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.6–15.2% | 7.3–16.3% | 7.0–17.0% | 6.4–18.3% |
+| N/A | [Poll Average](average.html) | 10.3% | 7.8–15.6% | 7.3–16.5% | 7.0–17.2% | 6.4–18.4% |
+| [14–19 February 2021](2021-02-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 15.2% | 13.4–17.2% | 12.9–17.8% | 12.5–18.3% | 11.7–19.3% |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -90,19 +91,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.8% | 100% |  |
-| 6.5–7.5% | 8% | 99.2% |  |
-| 7.5–8.5% | 22% | 92% |  |
-| 8.5–9.5% | 28% | 69% | Median |
-| 9.5–10.5% | 15% | 41% |  |
-| 10.5–11.5% | 5% | 27% |  |
-| 11.5–12.5% | 2% | 21% |  |
-| 12.5–13.5% | 2% | 20% |  |
-| 13.5–14.5% | 4% | 18% |  |
-| 14.5–15.5% | 5% | 14% | Last Result |
-| 15.5–16.5% | 5% | 8% |  |
-| 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 1.0% | 1.3% |  |
-| 18.5–19.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 6% | 99.2% |  |
+| 7.5–8.5% | 16% | 93% |  |
+| 8.5–9.5% | 20% | 77% |  |
+| 9.5–10.5% | 8% | 56% | Median |
+| 10.5–11.5% | 7% | 49% |  |
+| 11.5–12.5% | 10% | 42% |  |
+| 12.5–13.5% | 8% | 32% |  |
+| 13.5–14.5% | 7% | 24% |  |
+| 14.5–15.5% | 7% | 17% | Last Result |
+| 15.5–16.5% | 6% | 10% |  |
+| 16.5–17.5% | 3% | 5% |  |
+| 17.5–18.5% | 1.2% | 2% |  |
+| 18.5–19.5% | 0.3% | 0.4% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
@@ -116,6 +117,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| [14–19 February 2021](2021-02-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -195,10 +197,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% |  |
-| 2 | 60% | 81% | Median |
-| 3 | 15% | 20% | Last Result |
-| 4 | 6% | 6% |  |
+| 1 | 14% | 100% |  |
+| 2 | 53% | 86% | Median |
+| 3 | 26% | 33% | Last Result |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 
