@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.9–7.1% | 0.7–7.8% | 0.6–8.4% | 0.5–9.3% |
-| [5–13 February 2021](2021-02-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| N/A | [Poll Average](average.html) | 3.2% | 1.0–7.4% | 0.8–8.0% | 0.7–8.5% | 0.5–9.4% |
+| [22 January–26 February 2021](2021-02-26-IDEAIntézet.html) | IDEA Intézet | 4.0% | 3.5–4.7% | 3.4–4.9% | 3.3–5.0% | 3.0–5.3% |
+| [5–13 February 2021](2021-02-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [18–20 January 2021](2021-01-20-NézőpontIntézet.html) | Nézőpont Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 7.0% | 5.8–8.5% | 5.5–8.9% | 5.2–9.3% | 4.7–10.1% |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
@@ -89,17 +91,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% | Last Result |
-| 0.5–1.5% | 38% | 99.0% |  |
-| 1.5–2.5% | 36% | 61% | Median |
-| 2.5–3.5% | 4% | 24% |  |
-| 3.5–4.5% | 0.1% | 20% |  |
-| 4.5–5.5% | 1.1% | 20% |  |
-| 5.5–6.5% | 5% | 19% |  |
-| 6.5–7.5% | 7% | 14% |  |
-| 7.5–8.5% | 5% | 7% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 25% | 99.4% |  |
+| 1.5–2.5% | 21% | 75% |  |
+| 2.5–3.5% | 7% | 54% | Median |
+| 3.5–4.5% | 19% | 47% |  |
+| 4.5–5.5% | 5% | 29% |  |
+| 5.5–6.5% | 6% | 24% |  |
+| 6.5–7.5% | 9% | 18% |  |
+| 7.5–8.5% | 6% | 8% |  |
 | 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -111,9 +113,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [5–13 February 2021](2021-02-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [22 January–26 February 2021](2021-02-26-IDEAIntézet.html) | IDEA Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–13 February 2021](2021-02-13-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
+| [18–20 January 2021](2021-01-20-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
@@ -192,9 +196,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 16% | 20% |  |
-| 2 | 4% | 4% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 28% | 33% |  |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 
