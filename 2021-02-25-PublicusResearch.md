@@ -25,8 +25,8 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 11 | 11 |11–12 |11–12 |11–12 |
-| <a href="#fidesz–kereszténydemokrata-néppárt-(epp)">Fidesz–Kereszténydemokrata Néppárt (EPP)</a> | 12 | 10 | 10 |9–10 |9–10 |9–10 |
+| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 11 | 11–12 |11–12 |11–12 |11–12 |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(epp)">Fidesz–Kereszténydemokrata Néppárt (EPP)</a> | 12 | 10 | 9–10 |9–10 |9–10 |9–10 |
 
 ### United Opposition (S&D)
 
@@ -46,10 +46,11 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 93% | 100% | Median, Majority |
-| 12 | 7% | 7% |  |
-| 13 | 0% | 0% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 66% | 99.7% | Median, Majority |
+| 12 | 34% | 34% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 ### Fidesz–Kereszténydemokrata Néppárt (EPP)
 
@@ -59,9 +60,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 7% | 100% |  |
-| 10 | 93% | 93% | Median |
-| 11 | 0% | 0% | Majority |
+| 8 | 0.1% | 100% |  |
+| 9 | 34% | 99.9% |  |
+| 10 | 66% | 66% | Median |
+| 11 | 0.3% | 0.3% | Majority |
 | 12 | 0% | 0% | Last Result |
 
 
@@ -73,7 +75,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 12 | 10 | 0% | 10 | 9–10 | 9–10 | 9–10 |
+| Fidesz–Kereszténydemokrata Néppárt (EPP) | 12 | 10 | 0.3% | 9–10 | 9–10 | 9–10 | 9–10 |
 
 ### Fidesz–Kereszténydemokrata Néppárt (EPP)
 
@@ -81,9 +83,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 7% | 100% |  |
-| 10 | 93% | 93% | Median |
-| 11 | 0% | 0% | Majority |
+| 8 | 0.1% | 100% |  |
+| 9 | 34% | 99.9% |  |
+| 10 | 66% | 66% | Median |
+| 11 | 0.3% | 0.3% | Majority |
 | 12 | 0% | 0% | Last Result |
 
 
@@ -98,6 +101,6 @@
 ### Calculations
 
 + **Sample size:** 1001
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.17%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.79%
 

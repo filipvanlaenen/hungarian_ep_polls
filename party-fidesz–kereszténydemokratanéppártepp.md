@@ -123,8 +123,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10–11 | 10–12 | 9–12 | 9–12 |
-| [20–25 February 2021](2021-02-25-PublicusResearch.html) | Publicus Research | 10 | 10 | 9–10 | 9–10 | 9–10 |
+| N/A | [Poll Average](average.html) | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [20–25 February 2021](2021-02-25-PublicusResearch.html) | Publicus Research | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [22–25 February 2021](2021-02-25-IDEAIntézet.html) | IDEA Intézet | 10 | 10 | 10–11 | 10–11 | 9–11 |
 | [15–22 February 2021](2021-02-22-Republikon.html) | Republikon | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [5–13 February 2021](2021-02-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
@@ -209,8 +209,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 5% | 100% |  |
-| 10 | 69% | 95% | Median |
+| 9 | 10% | 100% |  |
+| 10 | 64% | 90% | Median |
 | 11 | 20% | 26% | Majority |
 | 12 | 6% | 6% | Last Result |
 | 13 | 0% | 0% |  |
