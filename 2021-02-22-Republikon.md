@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | United Opposition (S&D) | 0.0% | 50.9% | 48.9–52.9% |48.3–53.5% |47.8–54.0% |46.8–55.0% |
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 51.5% | 45.9% | 43.9–47.9% |43.3–48.5% |42.8–49.0% |41.9–50.0% |
+| Fidesz–Kereszténydemokrata Néppárt (NI) | 51.5% | 45.9% | 43.9–47.9% |43.3–48.5% |42.8–49.0% |41.9–50.0% |
 | Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 | Mi Hazánk Mozgalom (NI) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
@@ -27,8 +27,8 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 11 | 11–12 |11–12 |10–12 |10–12 |
-| <a href="#fidesz–kereszténydemokrata-néppárt-(epp)">Fidesz–Kereszténydemokrata Néppárt (EPP)</a> | 12 | 10 | 9–10 |9–10 |9–11 |9–11 |
+| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 9 | 9 |9 |9 |9 |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 12 | 8 | 8 |8 |8 |8 |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -49,23 +49,20 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 5% | 100% |  |
-| 11 | 84% | 95% | Median, Majority |
-| 12 | 11% | 11% |  |
-| 13 | 0% | 0% |  |
+| 9 | 100% | 100% | Median |
 
-### Fidesz–Kereszténydemokrata Néppárt (EPP)
+### Fidesz–Kereszténydemokrata Néppárt (NI)
 
-*For a full overview of the results for this party, see the [Fidesz–Kereszténydemokrata Néppárt (EPP)](party-fidesz–kereszténydemokratanéppártepp.html) page.*
+*For a full overview of the results for this party, see the [Fidesz–Kereszténydemokrata Néppárt (NI)](party-fidesz–kereszténydemokratanéppártni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-02-22-Republikon-seats-pmf-fidesz–kereszténydemokratanéppártepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-02-22-Republikon-seats-pmf-fidesz–kereszténydemokratanéppártni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 11% | 100% |  |
-| 10 | 84% | 89% | Median |
-| 11 | 5% | 5% | Majority |
+| 8 | 100% | 100% | Median |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% | Majority |
 | 12 | 0% | 0% | Last Result |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
@@ -97,18 +94,6 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 12 | 10 | 5% | 9–10 | 9–10 | 9–11 | 9–11 |
-
-### Fidesz–Kereszténydemokrata Néppárt (EPP)
-
-![Graph with seats probability mass function not yet produced](2021-02-22-Republikon-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 11% | 100% |  |
-| 10 | 84% | 89% | Median |
-| 11 | 5% | 5% | Majority |
-| 12 | 0% | 0% | Last Result |
 
 
 ## Technical Information
@@ -122,6 +107,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.32%
++ **Simulations done:** 1
++ **Error estimate:** 100.00%
 

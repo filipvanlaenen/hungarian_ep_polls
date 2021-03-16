@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | United Opposition (S&D) | 0.0% | 48.4% | 47.0–49.9% |46.6–50.3% |46.3–50.6% |45.6–51.3% |
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 51.5% | 45.4% | 44.0–46.9% |43.6–47.3% |43.3–47.6% |42.6–48.3% |
+| Fidesz–Kereszténydemokrata Néppárt (NI) | 51.5% | 45.4% | 44.0–46.9% |43.6–47.3% |43.3–47.6% |42.6–48.3% |
 | Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 3.0% | 2.6–3.6% |2.5–3.8% |2.4–3.9% |2.2–4.2% |
 | Mi Hazánk Mozgalom (NI) | 0.0% | 3.0% | 2.6–3.6% |2.5–3.8% |2.4–3.9% |2.2–4.2% |
 
@@ -27,8 +27,8 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 11 | 11 |10–11 |10–11 |10–12 |
-| <a href="#fidesz–kereszténydemokrata-néppárt-(epp)">Fidesz–Kereszténydemokrata Néppárt (EPP)</a> | 12 | 10 | 10 |10–11 |10–11 |9–11 |
+| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 9 | 9 |9 |9 |9 |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 12 | 9 | 9 |9 |9 |9 |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -49,23 +49,19 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 9% | 100% |  |
-| 11 | 91% | 91% | Median, Majority |
-| 12 | 0.5% | 0.5% |  |
-| 13 | 0% | 0% |  |
+| 9 | 100% | 100% | Median |
 
-### Fidesz–Kereszténydemokrata Néppárt (EPP)
+### Fidesz–Kereszténydemokrata Néppárt (NI)
 
-*For a full overview of the results for this party, see the [Fidesz–Kereszténydemokrata Néppárt (EPP)](party-fidesz–kereszténydemokratanéppártepp.html) page.*
+*For a full overview of the results for this party, see the [Fidesz–Kereszténydemokrata Néppárt (NI)](party-fidesz–kereszténydemokratanéppártni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-02-25-IDEAIntézet-seats-pmf-fidesz–kereszténydemokratanéppártepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-02-25-IDEAIntézet-seats-pmf-fidesz–kereszténydemokratanéppártni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.6% | 100% |  |
-| 10 | 91% | 99.4% | Median |
-| 11 | 9% | 9% | Majority |
+| 9 | 100% | 100% | Median |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% | Majority |
 | 12 | 0% | 0% | Last Result |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
@@ -76,9 +72,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Mi Hazánk Mozgalom (NI)
 
@@ -88,9 +82,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Coalitions
@@ -101,18 +93,6 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (EPP) | 12 | 10 | 9% | 10 | 10–11 | 10–11 | 9–11 |
-
-### Fidesz–Kereszténydemokrata Néppárt (EPP)
-
-![Graph with seats probability mass function not yet produced](2021-02-25-IDEAIntézet-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.6% | 100% |  |
-| 10 | 91% | 99.4% | Median |
-| 11 | 9% | 9% | Majority |
-| 12 | 0% | 0% | Last Result |
 
 
 ## Technical Information
@@ -126,6 +106,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.47%
++ **Simulations done:** 1
++ **Error estimate:** 100.00%
 
