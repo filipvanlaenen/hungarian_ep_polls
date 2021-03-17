@@ -123,14 +123,14 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [20–25 February 2021](2021-02-25-PublicusResearch.html) | Publicus Research | 8 | 8 | 8 | 8 | 8 |
-| [22–25 February 2021](2021-02-25-IDEAIntézet.html) | IDEA Intézet | 9 | 9 | 9 | 9 | 9 |
-| [15–22 February 2021](2021-02-22-Republikon.html) | Republikon | 8 | 8 | 8 | 8 | 8 |
-| [5–13 February 2021](2021-02-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 8 | 8 | 8 | 8 | 8 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [20–25 February 2021](2021-02-25-PublicusResearch.html) | Publicus Research | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [22–25 February 2021](2021-02-25-IDEAIntézet.html) | IDEA Intézet | 10 | 10 | 10–11 | 10–11 | 9–11 |
+| [15–22 February 2021](2021-02-22-Republikon.html) | Republikon | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
+| [5–13 February 2021](2021-02-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [22–26 January 2021](2021-01-26-IDEAIntézet.html) | IDEA Intézet | 10 | 10 | 9–11 | 9–11 | 9–11 |
 | [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 10 | 10 | 9–11 | 9–11 | 9–11 |
-| [18–20 January 2021](2021-01-20-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10 | 10 | 10 | 10 |
+| [18–20 January 2021](2021-01-20-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
@@ -209,10 +209,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 60% | 100% | Median |
-| 9 | 20% | 40% |  |
-| 10 | 20% | 20% |  |
-| 11 | 0% | 0% | Majority |
-| 12 | 0% | 0% | Last Result |
+| 9 | 10% | 100% |  |
+| 10 | 64% | 90% | Median |
+| 11 | 20% | 26% | Majority |
+| 12 | 6% | 6% | Last Result |
+| 13 | 0% | 0% |  |
 
 

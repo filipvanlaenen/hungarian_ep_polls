@@ -27,8 +27,8 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 9 | 9 |9 |9 |9 |
-| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 12 | 9 | 9 |9 |9 |9 |
+| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 11 | 11 |10–11 |10–11 |10–12 |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 12 | 10 | 10 |10–11 |10–11 |9–11 |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -49,7 +49,11 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 100% | 100% | Median |
+| 9 | 0% | 100% |  |
+| 10 | 9% | 100% |  |
+| 11 | 91% | 91% | Median, Majority |
+| 12 | 0.5% | 0.5% |  |
+| 13 | 0% | 0% |  |
 
 ### Fidesz–Kereszténydemokrata Néppárt (NI)
 
@@ -59,9 +63,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 100% | 100% | Median |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% | Majority |
+| 9 | 0.6% | 100% |  |
+| 10 | 91% | 99.4% | Median |
+| 11 | 9% | 9% | Majority |
 | 12 | 0% | 0% | Last Result |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
@@ -72,7 +76,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
+| 2 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (NI)
 
@@ -82,7 +88,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -106,6 +114,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 1
-+ **Error estimate:** 100.00%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.47%
 
