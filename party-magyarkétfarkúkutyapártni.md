@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 0.9–3.3% | 0.8–3.5% | 0.7–3.7% | 0.5–4.0% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.8–3.2% | 0.7–3.4% | 0.6–3.6% | 0.5–3.9% |
+| [2–11 March 2021](2021-03-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [8–9 March 2021](2021-03-09-NézőpontIntézet.html) | Nézőpont Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [20–25 February 2021](2021-02-25-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 February 2021](2021-02-25-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.6–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
 | [15–22 February 2021](2021-02-22-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -94,11 +96,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 33% | 99.2% |  |
-| 1.5–2.5% | 30% | 66% | Median |
-| 2.5–3.5% | 32% | 36% |  |
-| 3.5–4.5% | 4% | 4% |  |
+| 0.0–0.5% | 1.2% | 100% | Last Result |
+| 0.5–1.5% | 47% | 98.8% |  |
+| 1.5–2.5% | 25% | 52% | Median |
+| 2.5–3.5% | 24% | 27% |  |
+| 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -111,6 +113,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–11 March 2021](2021-03-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| [8–9 March 2021](2021-03-09-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [20–25 February 2021](2021-02-25-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [22–25 February 2021](2021-02-25-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [15–22 February 2021](2021-02-22-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
