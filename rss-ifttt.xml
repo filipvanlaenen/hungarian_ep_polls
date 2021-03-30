@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 27 Mar 2021 15:18:54 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Civitas Intézet, 5–11 March 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Civitas Intézet, 5–11 March 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet-seating-plan.png" length="312907" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 14:03:33 +0200</pubDate>
+      <dc:date>2021-03-30T14:03:33.066673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Civitas Intézet, 5–11 March 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Civitas Intézet, 5–11 March 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet-seats.png" length="145383" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 14:03:33 +0200</pubDate>
+      <dc:date>2021-03-30T14:03:33.066673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Civitas Intézet, 5–11 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Civitas Intézet, 5–11 March 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-CivitasIntézet.png" length="176947" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 14:03:33 +0200</pubDate>
+      <dc:date>2021-03-30T14:03:33.066673+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ZRI Závecz Research, 2–11 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-ZRIZáveczResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ZRI Závecz Research, 2–11 March 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-03-11-ZRIZáveczResearch-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-01-20-NézőpontIntézet.png" length="178274" type="image/png"/>
       <pubDate>Wed, 17 Mar 2021 19:53:42 +0100</pubDate>
       <dc:date>2021-03-17T19:53:42.567276+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Medián, 1–31 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Medián, 1–31 December 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián-seating-plan.png" length="375018" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 13:34:13 +0100</pubDate>
-      <dc:date>2020-12-24T13:34:13.162563+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Medián, 1–31 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Medián, 1–31 December 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián-seats.png" length="239663" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 13:34:13 +0100</pubDate>
-      <dc:date>2020-12-24T13:34:13.162563+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Medián, 1–31 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Medián, 1–31 December 2020<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2020-12-31-Medián.png" length="286634" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 13:34:13 +0100</pubDate>
-      <dc:date>2020-12-24T13:34:13.162563+01:00</dc:date>
     </item>
   </channel>
 </rss>
