@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48.9% | 40.4–54.1% | 39.2–55.3% | 38.4–56.1% | 37.2–57.4% |
+| N/A | [Poll Average](average.html) | 49.1% | 40.4–54.6% | 39.2–55.5% | 38.4–56.2% | 37.2–57.4% |
+| [18–25 March 2021](2021-03-25-Republikon.html) | Republikon | 53.0% | 51.0–55.0% | 50.4–55.6% | 49.9–56.1% | 48.9–57.0% |
 | [2–11 March 2021](2021-03-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
 | [5–11 March 2021](2021-03-11-CivitasIntézet.html) | Civitas Intézet | 40.0% | 38.1–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
 | [8–9 March 2021](2021-03-09-NézőpontIntézet.html) | Nézőpont Intézet | 44.3% | 42.3–46.3% | 41.7–46.9% | 41.2–47.4% | 40.3–48.4% |
@@ -146,15 +147,15 @@ The following table shows the probability mass function per percentage block of 
 | 45.5–46.5% | 3% | 70% |  |
 | 46.5–47.5% | 5% | 67% |  |
 | 47.5–48.5% | 8% | 62% |  |
-| 48.5–49.5% | 11% | 54% | Median |
-| 49.5–50.5% | 10% | 43% |  |
-| 50.5–51.5% | 8% | 33% |  |
-| 51.5–52.5% | 6% | 25% |  |
-| 52.5–53.5% | 5% | 18% |  |
-| 53.5–54.5% | 5% | 13% |  |
-| 54.5–55.5% | 4% | 8% |  |
-| 55.5–56.5% | 3% | 4% |  |
-| 56.5–57.5% | 1.1% | 1.5% |  |
+| 48.5–49.5% | 9% | 55% | Median |
+| 49.5–50.5% | 7% | 46% |  |
+| 50.5–51.5% | 6% | 39% |  |
+| 51.5–52.5% | 7% | 33% |  |
+| 52.5–53.5% | 8% | 26% |  |
+| 53.5–54.5% | 8% | 18% |  |
+| 54.5–55.5% | 6% | 11% |  |
+| 55.5–56.5% | 3% | 5% |  |
+| 56.5–57.5% | 1.3% | 2% |  |
 | 57.5–58.5% | 0.3% | 0.4% |  |
 | 58.5–59.5% | 0.1% | 0.1% |  |
 | 59.5–60.5% | 0% | 0% |  |
@@ -168,7 +169,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–11 | 9–12 | 8–12 | 8–12 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 8–12 | 8–12 |
+| [18–25 March 2021](2021-03-25-Republikon.html) | Republikon | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [2–11 March 2021](2021-03-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | [5–11 March 2021](2021-03-11-CivitasIntézet.html) | Civitas Intézet | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [8–9 March 2021](2021-03-09-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -267,9 +269,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 3% | 100% |  |
 | 9 | 22% | 97% |  |
-| 10 | 13% | 75% |  |
-| 11 | 54% | 63% | Median, Majority |
-| 12 | 9% | 9% |  |
+| 10 | 12% | 75% |  |
+| 11 | 50% | 63% | Median, Majority |
+| 12 | 13% | 13% |  |
 | 13 | 0% | 0% |  |
 
 
