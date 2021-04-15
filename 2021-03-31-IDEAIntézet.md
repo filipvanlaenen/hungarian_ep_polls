@@ -51,8 +51,8 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 18% | 100% |  |
-| 11 | 81% | 82% | Median, Majority |
-| 12 | 2% | 2% |  |
+| 11 | 80% | 82% | Median, Majority |
+| 12 | 1.4% | 1.4% |  |
 | 13 | 0% | 0% |  |
 
 ### Fidesz–Kereszténydemokrata Néppárt (NI)
@@ -114,6 +114,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.17%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.24%
 
