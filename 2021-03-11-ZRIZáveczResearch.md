@@ -10,8 +10,8 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| United Opposition (S&D) | 0.0% | 50.0% | 48.0–52.0% |47.4–52.6% |46.9–53.1% |45.9–54.1% |
-| Fidesz–Kereszténydemokrata Néppárt (NI) | 51.5% | 46.0% | 44.0–48.0% |43.4–48.6% |42.9–49.1% |42.0–50.1% |
+| United Opposition (S&D) | 0.0% | 49.9% | 47.9–51.9% |47.3–52.5% |46.8–53.0% |45.8–54.0% |
+| Fidesz–Kereszténydemokrata Néppárt (NI) | 51.5% | 45.9% | 43.9–47.9% |43.3–48.5% |42.8–49.0% |41.9–50.0% |
 | Mi Hazánk Mozgalom (NI) | 0.0% | 3.0% | 2.4–3.8% |2.2–4.1% |2.1–4.3% |1.9–4.7% |
 | Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
@@ -51,7 +51,7 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 10% | 100% |  |
-| 11 | 83% | 90% | Median, Majority |
+| 11 | 84% | 90% | Median, Majority |
 | 12 | 6% | 6% |  |
 | 13 | 0% | 0% |  |
 
@@ -65,7 +65,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 7% | 100% |  |
 | 10 | 84% | 93% | Median |
-| 11 | 10% | 10% | Majority |
+| 11 | 9% | 9% | Majority |
 | 12 | 0% | 0% | Last Result |
 
 ### Mi Hazánk Mozgalom (NI)
@@ -112,6 +112,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.53%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.54%
 
