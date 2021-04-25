@@ -217,8 +217,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 10% | 100% |  |
-| 10 | 41% | 90% | Median |
-| 11 | 19% | 48% | Majority |
+| 10 | 42% | 90% | Median |
+| 11 | 18% | 48% | Majority |
 | 12 | 27% | 30% | Last Result |
 | 13 | 3% | 3% |  |
 | 14 | 0% | 0% |  |
@@ -319,8 +319,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 3% | 100% |  |
 | 9 | 27% | 97% |  |
-| 10 | 22% | 70% | Median |
-| 11 | 41% | 48% | Majority |
+| 10 | 21% | 70% | Median |
+| 11 | 41% | 49% | Majority |
 | 12 | 8% | 8% |  |
 | 13 | 0% | 0% |  |
 
@@ -333,8 +333,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (NI) – Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI) | 15 | 11 | 52% | 10–12 | 9–12 | 9–13 | 9–13 |
-| Magyar Szocialista Párt–Párbeszéd (S&D) – Magyar Szocialista Párt (S&D) – Demokratikus Koalíció (S&D) – United Opposition (S&D) | 7 | 10 | 48% | 9–11 | 9–12 | 8–12 | 8–12 |
+| Fidesz–Kereszténydemokrata Néppárt (NI) – Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI) | 15 | 11 | 51% | 10–12 | 9–12 | 9–13 | 9–13 |
+| Magyar Szocialista Párt–Párbeszéd (S&D) – Magyar Szocialista Párt (S&D) – Demokratikus Koalíció (S&D) – United Opposition (S&D) | 7 | 10 | 49% | 9–11 | 9–12 | 8–12 | 8–12 |
 | Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) – Lehet Más a Politika (Greens/EFA) | 2 | 0 | 0% | 0 | 0 | 0 | 0 |
 | MLP (RE) – Momentum Mozgalom (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -346,7 +346,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 8% | 100% |  |
 | 10 | 41% | 92% | Median |
-| 11 | 22% | 52% | Majority |
+| 11 | 21% | 51% | Majority |
 | 12 | 27% | 30% |  |
 | 13 | 3% | 3% |  |
 | 14 | 0% | 0% |  |
@@ -361,8 +361,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% | Last Result |
 | 8 | 3% | 100% |  |
 | 9 | 27% | 97% |  |
-| 10 | 22% | 70% | Median |
-| 11 | 41% | 48% | Majority |
+| 10 | 21% | 70% | Median |
+| 11 | 41% | 49% | Majority |
 | 12 | 8% | 8% |  |
 | 13 | 0% | 0% |  |
 
@@ -388,6 +388,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,407,872
-+ **Error estimate:** 1.33%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 0.82%
