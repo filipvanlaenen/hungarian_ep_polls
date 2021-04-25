@@ -50,8 +50,8 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 10% | 100% |  |
-| 11 | 84% | 90% | Median, Majority |
+| 10 | 11% | 100% |  |
+| 11 | 83% | 89% | Median, Majority |
 | 12 | 6% | 6% |  |
 | 13 | 0% | 0% |  |
 
@@ -65,7 +65,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 7% | 100% |  |
 | 10 | 84% | 93% | Median |
-| 11 | 9% | 9% | Majority |
+| 11 | 10% | 10% | Majority |
 | 12 | 0% | 0% | Last Result |
 
 ### Mi Hazánk Mozgalom (NI)
@@ -76,8 +76,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 1.4% | 1.4% |  |
+| 0 | 98.5% | 100% | Last Result, Median |
+| 1 | 1.5% | 1.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
@@ -112,6 +112,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.54%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.61%
 
