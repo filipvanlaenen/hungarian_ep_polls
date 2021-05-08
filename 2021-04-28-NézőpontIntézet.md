@@ -40,8 +40,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.6% | 100% |  |
-| 11 | 58% | 99.4% | Median, Majority |
+| 10 | 0.7% | 100% |  |
+| 11 | 57% | 99.3% | Median, Majority |
 | 12 | 42% | 42% | Last Result |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
@@ -112,6 +112,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.27%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.50%
 

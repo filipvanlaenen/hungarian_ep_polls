@@ -51,8 +51,8 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 3% | 100% |  |
-| 11 | 81% | 97% | Median, Majority |
-| 12 | 16% | 16% |  |
+| 11 | 80% | 97% | Median, Majority |
+| 12 | 18% | 18% |  |
 | 13 | 0% | 0% |  |
 
 ### Fidesz–Kereszténydemokrata Néppárt (NI)
@@ -63,8 +63,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 16% | 100% |  |
-| 10 | 81% | 84% | Median |
+| 9 | 18% | 100% |  |
+| 10 | 80% | 82% | Median |
 | 11 | 3% | 3% | Majority |
 | 12 | 0% | 0% | Last Result |
 
@@ -110,6 +110,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.30%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.12%
 
