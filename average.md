@@ -313,7 +313,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 9% | 100% |  |
 | 10 | 26% | 91% |  |
-| 11 | 61% | 65% | Median, Majority |
+| 11 | 60% | 65% | Median, Majority |
 | 12 | 4% | 4% |  |
 | 13 | 0% | 0% |  |
 
@@ -341,7 +341,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 9% | 100% |  |
 | 10 | 26% | 91% |  |
-| 11 | 61% | 65% | Median, Majority |
+| 11 | 60% | 65% | Median, Majority |
 | 12 | 4% | 4% |  |
 | 13 | 0% | 0% |  |
 
@@ -352,7 +352,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 4% | 100% |  |
-| 10 | 61% | 96% | Median |
+| 10 | 60% | 96% | Median |
 | 11 | 26% | 35% | Majority |
 | 12 | 9% | 9% |  |
 | 13 | 0% | 0% |  |
@@ -381,6 +381,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
-+ **Error estimate:** 0.67%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 0.50%
