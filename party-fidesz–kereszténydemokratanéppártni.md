@@ -10,7 +10,8 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47.1% | 43.7–51.1% | 43.1–52.1% | 42.6–52.8% | 41.8–54.1% |
+| N/A | [Poll Average](average.html) | 47.9% | 45.2–51.2% | 44.5–52.1% | 43.9–52.8% | 42.8–54.1% |
+| [8–17 May 2021](2021-05-17-ZávecResearch.html) | Závec Research | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 44.0–52.1% |
 | [1–30 April 2021](2021-04-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.1% |
 | [24–28 April 2021](2021-04-28-PublicusResearch.html) | Publicus Research | 47.4% | 45.4–49.5% | 44.9–50.0% | 44.4–50.5% | 43.4–51.5% |
 | [27–28 April 2021](2021-04-28-NézőpontIntézet.html) | Nézőpont Intézet | 51.0% | 49.0–53.0% | 48.4–53.6% | 47.9–54.1% | 46.9–55.1% |
@@ -103,19 +104,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 39.5–40.5% | 0% | 100% |  |
-| 40.5–41.5% | 0.3% | 100% |  |
-| 41.5–42.5% | 2% | 99.7% |  |
-| 42.5–43.5% | 6% | 98% |  |
-| 43.5–44.5% | 10% | 92% |  |
-| 44.5–45.5% | 12% | 81% |  |
-| 45.5–46.5% | 12% | 70% |  |
-| 46.5–47.5% | 13% | 58% | Median |
-| 47.5–48.5% | 12% | 44% |  |
-| 48.5–49.5% | 10% | 32% |  |
-| 49.5–50.5% | 8% | 22% |  |
-| 50.5–51.5% | 6% | 14% | Last Result |
-| 51.5–52.5% | 4% | 8% |  |
+| 40.5–41.5% | 0% | 100% |  |
+| 41.5–42.5% | 0.3% | 99.9% |  |
+| 42.5–43.5% | 1.2% | 99.6% |  |
+| 43.5–44.5% | 4% | 98% |  |
+| 44.5–45.5% | 8% | 95% |  |
+| 45.5–46.5% | 13% | 87% |  |
+| 46.5–47.5% | 17% | 74% |  |
+| 47.5–48.5% | 17% | 57% | Median |
+| 48.5–49.5% | 14% | 39% |  |
+| 49.5–50.5% | 10% | 25% |  |
+| 50.5–51.5% | 7% | 15% | Last Result |
+| 51.5–52.5% | 5% | 8% |  |
 | 52.5–53.5% | 2% | 3% |  |
 | 53.5–54.5% | 0.8% | 1.1% |  |
 | 54.5–55.5% | 0.2% | 0.2% |  |
@@ -130,7 +130,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 10–11 | 10–12 | 9–12 | 9–12 |
+| [8–17 May 2021](2021-05-17-ZávecResearch.html) | Závec Research | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [1–30 April 2021](2021-04-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [24–28 April 2021](2021-04-28-PublicusResearch.html) | Publicus Research | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [27–28 April 2021](2021-04-28-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
@@ -225,9 +226,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 7% | 100% |  |
-| 10 | 61% | 93% | Median |
-| 11 | 23% | 32% | Majority |
+| 9 | 4% | 100% |  |
+| 10 | 62% | 96% | Median |
+| 11 | 25% | 34% | Majority |
 | 12 | 8% | 8% | Last Result |
 | 13 | 0% | 0% |  |
 
