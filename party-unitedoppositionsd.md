@@ -11,7 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 47.7% | 42.5–53.6% | 41.7–54.6% | 41.0–55.3% | 39.9–56.6% |
-| [1–31 May 2021](2021-05-31-PublicusResearch.html) | Publicus Research | 53.5% | 51.5–55.5% | 50.9–56.1% | 50.4–56.6% | 49.5–57.5% |
+| [27 May–8 June 2021](2021-06-08-IDEAIntézet.html) | IDEA Intézet | 47.9% | 46.5–49.3% | 46.1–49.7% | 45.7–50.1% | 45.0–50.8% |
+| [18–21 May 2021](2021-05-21-PublicusResearch.html) | Publicus Research | 53.5% | 51.5–55.5% | 50.9–56.1% | 50.4–56.6% | 49.5–57.5% |
 | [8–17 May 2021](2021-05-17-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
 | [6–11 May 2021](2021-05-11-CivitasIntézet.html) | Civitas Intézet | 44.2% | 42.2–46.2% | 41.6–46.8% | 41.1–47.3% | 40.2–48.2% |
 | [27 April–4 May 2021](2021-05-04-IDEAIntézet.html) | IDEA Intézet | 47.9% | 46.5–49.3% | 46.1–49.7% | 45.7–50.1% | 45.0–50.8% |
@@ -178,7 +179,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
-| [1–31 May 2021](2021-05-31-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [27 May–8 June 2021](2021-06-08-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
+| [18–21 May 2021](2021-05-21-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [8–17 May 2021](2021-05-17-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [6–11 May 2021](2021-05-11-CivitasIntézet.html) | Civitas Intézet | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [27 April–4 May 2021](2021-05-04-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–11 |

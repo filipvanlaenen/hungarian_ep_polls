@@ -10,8 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48.0% | 43.5–52.6% | 42.5–53.4% | 41.7–54.0% | 40.5–55.2% |
-| [1–31 May 2021](2021-05-31-PublicusResearch.html) | Publicus Research | 43.5% | 41.5–45.5% | 41.0–46.1% | 40.5–46.6% | 39.5–47.6% |
+| N/A | [Poll Average](average.html) | 48.3% | 43.5–52.6% | 42.5–53.4% | 41.7–54.0% | 40.5–55.2% |
+| [27 May–8 June 2021](2021-06-08-IDEAIntézet.html) | IDEA Intézet | 46.9% | 45.5–48.3% | 45.1–48.7% | 44.7–49.1% | 44.0–49.8% |
+| [18–21 May 2021](2021-05-21-PublicusResearch.html) | Publicus Research | 43.5% | 41.5–45.5% | 41.0–46.1% | 40.5–46.6% | 39.5–47.6% |
 | [8–17 May 2021](2021-05-17-ZRIZáveczResearch.html) | ZRI Závecz Research | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 44.0–52.1% |
 | [6–11 May 2021](2021-05-11-CivitasIntézet.html) | Civitas Intézet | 51.9% | 49.9–54.0% | 49.3–54.5% | 48.8–55.0% | 47.9–56.0% |
 | [27 April–4 May 2021](2021-05-04-IDEAIntézet.html) | IDEA Intézet | 45.9% | 44.5–47.3% | 44.1–47.8% | 43.7–48.1% | 43.0–48.8% |
@@ -113,13 +114,13 @@ The following table shows the probability mass function per percentage block of 
 | 40.5–41.5% | 1.5% | 99.5% |  |
 | 41.5–42.5% | 3% | 98% |  |
 | 42.5–43.5% | 5% | 95% |  |
-| 43.5–44.5% | 7% | 90% |  |
-| 44.5–45.5% | 9% | 83% |  |
-| 45.5–46.5% | 11% | 73% |  |
-| 46.5–47.5% | 9% | 63% |  |
-| 47.5–48.5% | 7% | 53% | Median |
-| 48.5–49.5% | 8% | 46% |  |
-| 49.5–50.5% | 9% | 38% |  |
+| 43.5–44.5% | 5% | 90% |  |
+| 44.5–45.5% | 6% | 84% |  |
+| 45.5–46.5% | 9% | 78% |  |
+| 46.5–47.5% | 12% | 69% |  |
+| 47.5–48.5% | 10% | 58% | Median |
+| 48.5–49.5% | 9% | 47% |  |
+| 49.5–50.5% | 9% | 39% |  |
 | 50.5–51.5% | 10% | 29% | Last Result |
 | 51.5–52.5% | 9% | 20% |  |
 | 52.5–53.5% | 6% | 10% |  |
@@ -138,7 +139,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
-| [1–31 May 2021](2021-05-31-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
+| [27 May–8 June 2021](2021-06-08-IDEAIntézet.html) | IDEA Intézet | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
+| [18–21 May 2021](2021-05-21-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [8–17 May 2021](2021-05-17-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [6–11 May 2021](2021-05-11-CivitasIntézet.html) | Civitas Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [27 April–4 May 2021](2021-05-04-IDEAIntézet.html) | IDEA Intézet | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
@@ -237,9 +239,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
-| 9 | 14% | 99.9% |  |
-| 10 | 41% | 86% | Median |
-| 11 | 29% | 45% | Majority |
+| 9 | 13% | 99.9% |  |
+| 10 | 38% | 87% | Median |
+| 11 | 33% | 49% | Majority |
 | 12 | 16% | 16% | Last Result |
 | 13 | 0% | 0% |  |
 
