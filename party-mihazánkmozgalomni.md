@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.8–3.4% | 0.7–3.7% | 0.6–3.9% | 0.5–4.3% |
+| N/A | [Poll Average](average.html) | 2.1% | 0.8–3.4% | 0.7–3.5% | 0.6–3.7% | 0.5–4.0% |
+| [8–16 June 2021](2021-06-16-ZávecResearch.html) | Závec Research | 0.0% | N/A | N/A | N/A | N/A |
+| [7–9 June 2021](2021-06-09-Medián.html) | Medián | 3.0% | N/A | N/A | N/A | N/A |
+| [3–8 June 2021](2021-06-08-NézőpontIntézet.html) | Nézőpont Intézet | 4.0% | N/A | N/A | N/A | N/A |
 | [27 May–8 June 2021](2021-06-08-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [18–21 May 2021](2021-05-21-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [8–17 May 2021](2021-05-17-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -110,11 +113,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 1.3% | 100% | Last Result |
 | 0.5–1.5% | 44% | 98.7% |  |
-| 1.5–2.5% | 11% | 54% | Median |
-| 2.5–3.5% | 36% | 44% |  |
-| 3.5–4.5% | 7% | 7% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 9% | 54% | Median |
+| 2.5–3.5% | 41% | 46% |  |
+| 3.5–4.5% | 5% | 5% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -125,7 +127,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–16 June 2021](2021-06-16-ZávecResearch.html) | Závec Research |  |  |  |  |  |
+| [7–9 June 2021](2021-06-09-Medián.html) | Medián |  |  |  |  |  |
+| [3–8 June 2021](2021-06-08-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [27 May–8 June 2021](2021-06-08-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [18–21 May 2021](2021-05-21-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [8–17 May 2021](2021-05-17-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
@@ -225,8 +230,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
