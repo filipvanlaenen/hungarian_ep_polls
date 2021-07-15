@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 27 Apr 2021 20:51:58 +0200</pubDate>
     <item>
+      <title>Opinion Poll by IDEA Intézet, 30 June–4 July 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 30 June–4 July 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet-seating-plan.png" length="313901" type="image/png"/>
+      <pubDate>Wed, 14 Jul 2021 13:26:49 +0200</pubDate>
+      <dc:date>2021-07-14T13:26:49.85402+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 30 June–4 July 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 30 June–4 July 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet-seats.png" length="147512" type="image/png"/>
+      <pubDate>Wed, 14 Jul 2021 13:26:49 +0200</pubDate>
+      <dc:date>2021-07-14T13:26:49.85402+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 30 June–4 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IDEA Intézet, 30 June–4 July 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-07-04-IDEAIntézet.png" length="173634" type="image/png"/>
+      <pubDate>Wed, 14 Jul 2021 13:26:49 +0200</pubDate>
+      <dc:date>2021-07-14T13:26:49.85402+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Závec Research, 8–16 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-16-ZávecResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Závec Research, 8–16 June 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-16-ZávecResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-16-ZávecResearch-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-30-ZRIZáveczResearch.png" length="178691" type="image/png"/>
       <pubDate>Sun, 25 Apr 2021 10:57:20 +0200</pubDate>
       <dc:date>2021-04-25T10:57:20.26067+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Nézőpont Intézet, 27–28 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Nézőpont Intézet, 27–28 April 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet-seating-plan.png" length="312484" type="image/png"/>
-      <pubDate>Fri, 7 May 2021 21:16:08 +0200</pubDate>
-      <dc:date>2021-05-07T21:16:08.491267+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Nézőpont Intézet, 27–28 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Nézőpont Intézet, 27–28 April 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet-seats.png" length="139686" type="image/png"/>
-      <pubDate>Fri, 7 May 2021 21:16:08 +0200</pubDate>
-      <dc:date>2021-05-07T21:16:08.491267+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Nézőpont Intézet, 27–28 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Nézőpont Intézet, 27–28 April 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-04-28-NézőpontIntézet.png" length="178578" type="image/png"/>
-      <pubDate>Fri, 7 May 2021 21:16:08 +0200</pubDate>
-      <dc:date>2021-05-07T21:16:08.491267+02:00</dc:date>
     </item>
   </channel>
 </rss>
