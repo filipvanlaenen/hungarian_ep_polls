@@ -10,7 +10,8 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47.7% | 43.5–52.2% | 42.5–53.1% | 41.7–53.8% | 40.5–55.0% |
+| N/A | [Poll Average](average.html) | 48.2% | 43.5–52.2% | 42.5–53.1% | 41.7–53.8% | 40.5–55.0% |
+| [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 47.9% | 46.5–49.3% | 46.1–49.7% | 45.7–50.1% | 45.0–50.8% |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 47.0% | 45.6–48.4% | 45.2–48.8% | 44.8–49.2% | 44.1–49.9% |
 | [8–16 June 2021](2021-06-16-ZávecResearch.html) | Závec Research | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
 | [7–9 June 2021](2021-06-09-Medián.html) | Medián | 51.9% | 49.9–53.9% | 49.3–54.5% | 48.8–55.0% | 47.8–56.0% |
@@ -119,12 +120,12 @@ The following table shows the probability mass function per percentage block of 
 | 41.5–42.5% | 3% | 98% |  |
 | 42.5–43.5% | 5% | 95% |  |
 | 43.5–44.5% | 6% | 90% |  |
-| 44.5–45.5% | 7% | 84% |  |
-| 45.5–46.5% | 11% | 76% |  |
-| 46.5–47.5% | 13% | 66% |  |
-| 47.5–48.5% | 11% | 52% | Median |
-| 48.5–49.5% | 9% | 41% |  |
-| 49.5–50.5% | 9% | 32% |  |
+| 44.5–45.5% | 6% | 84% |  |
+| 45.5–46.5% | 8% | 78% |  |
+| 46.5–47.5% | 12% | 70% |  |
+| 47.5–48.5% | 14% | 58% | Median |
+| 48.5–49.5% | 12% | 45% |  |
+| 49.5–50.5% | 10% | 33% |  |
 | 50.5–51.5% | 8% | 23% | Last Result |
 | 51.5–52.5% | 7% | 15% |  |
 | 52.5–53.5% | 5% | 8% |  |
@@ -143,6 +144,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
+| [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [8–16 June 2021](2021-06-16-ZávecResearch.html) | Závec Research | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [7–9 June 2021](2021-06-09-Medián.html) | Medián | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
@@ -249,7 +251,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.1% | 100% |  |
 | 9 | 14% | 99.9% |  |
 | 10 | 33% | 86% |  |
-| 11 | 39% | 53% | Median, Majority |
+| 11 | 40% | 53% | Median, Majority |
 | 12 | 14% | 14% | Last Result |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
