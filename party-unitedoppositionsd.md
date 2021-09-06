@@ -179,7 +179,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
+| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
