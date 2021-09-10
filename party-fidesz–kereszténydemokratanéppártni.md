@@ -10,8 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50.5% | 47.5–53.3% | 46.9–54.0% | 46.4–54.6% | 45.5–55.6% |
+| N/A | [Poll Average](average.html) | 49.6% | 45.3–53.1% | 44.2–53.8% | 43.5–54.4% | 42.2–55.5% |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
+| [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 45.3% | 43.3–47.3% | 42.7–47.9% | 42.2–48.4% | 41.3–49.4% |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 52.0% | 50.0–54.0% | 49.4–54.6% | 48.9–55.1% | 47.9–56.1% |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 47.9% | 46.5–49.3% | 46.1–49.7% | 45.7–50.1% | 45.0–50.8% |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 47.0% | 45.6–48.4% | 45.2–48.8% | 44.8–49.2% | 44.1–49.9% |
@@ -115,19 +116,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 43.5–44.5% | 0% | 100% |  |
-| 44.5–45.5% | 0.5% | 100% |  |
-| 45.5–46.5% | 3% | 99.5% |  |
-| 46.5–47.5% | 8% | 97% |  |
-| 47.5–48.5% | 12% | 89% |  |
-| 48.5–49.5% | 13% | 77% |  |
-| 49.5–50.5% | 14% | 64% |  |
-| 50.5–51.5% | 16% | 50% | Last Result, Median |
-| 51.5–52.5% | 15% | 34% |  |
-| 52.5–53.5% | 11% | 19% |  |
-| 53.5–54.5% | 6% | 8% |  |
-| 54.5–55.5% | 2% | 3% |  |
-| 55.5–56.5% | 0.5% | 0.6% |  |
+| 39.5–40.5% | 0% | 100% |  |
+| 40.5–41.5% | 0.1% | 100% |  |
+| 41.5–42.5% | 0.6% | 99.8% |  |
+| 42.5–43.5% | 2% | 99.2% |  |
+| 43.5–44.5% | 4% | 97% |  |
+| 44.5–45.5% | 5% | 94% |  |
+| 45.5–46.5% | 7% | 88% |  |
+| 46.5–47.5% | 9% | 82% |  |
+| 47.5–48.5% | 11% | 73% |  |
+| 48.5–49.5% | 11% | 62% |  |
+| 49.5–50.5% | 11% | 51% | Median |
+| 50.5–51.5% | 13% | 40% | Last Result |
+| 51.5–52.5% | 12% | 27% |  |
+| 52.5–53.5% | 9% | 15% |  |
+| 53.5–54.5% | 4% | 6% |  |
+| 54.5–55.5% | 2% | 2% |  |
+| 55.5–56.5% | 0.4% | 0.4% |  |
 | 56.5–57.5% | 0.1% | 0.1% |  |
 | 57.5–58.5% | 0% | 0% |  |
 
@@ -140,8 +145,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| N/A | [Poll Average](average.html) | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
+| [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
@@ -247,9 +253,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 11% | 100% |  |
-| 11 | 68% | 89% | Median, Majority |
-| 12 | 21% | 21% | Last Result |
+| 9 | 6% | 100% |  |
+| 10 | 23% | 94% |  |
+| 11 | 55% | 71% | Median, Majority |
+| 12 | 17% | 17% | Last Result |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
