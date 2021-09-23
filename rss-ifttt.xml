@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 27 Apr 2021 20:51:58 +0200</pubDate>
     <item>
+      <title>Opinion Poll by IDEA Intézet, 31 August–7 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-07-IDEAIntézet.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IDEA Intézet, 31 August–7 September 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-07-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-07-IDEAIntézet.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-07-IDEAIntézet.png" length="175348" type="image/png"/>
+      <pubDate>Thu, 23 Sep 2021 08:37:11 +0200</pubDate>
+      <dc:date>2021-09-23T08:37:11.267732+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ZRI Závecz Research, 1–31 August 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-08-31-ZRIZáveczResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ZRI Závecz Research, 1–31 August 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-08-31-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-08-31-ZRIZáveczResearch-seating-plan.png"/>]]></description>
@@ -188,30 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-IDEAIntézet.png" length="174010" type="image/png"/>
       <pubDate>Sat, 19 Jun 2021 11:58:35 +0200</pubDate>
       <dc:date>2021-06-19T11:58:35.749802+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Publicus Research, 18–21 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Publicus Research, 18–21 May 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch-seating-plan.png" length="316418" type="image/png"/>
-      <pubDate>Sat, 19 Jun 2021 12:06:34 +0200</pubDate>
-      <dc:date>2021-06-19T12:06:34.999464+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Publicus Research, 18–21 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Publicus Research, 18–21 May 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch-seats.png" length="138859" type="image/png"/>
-      <pubDate>Sat, 19 Jun 2021 12:06:34 +0200</pubDate>
-      <dc:date>2021-06-19T12:06:34.999464+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Publicus Research, 18–21 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Publicus Research, 18–21 May 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-05-21-PublicusResearch.png" length="178072" type="image/png"/>
-      <pubDate>Sat, 19 Jun 2021 12:06:34 +0200</pubDate>
-      <dc:date>2021-06-19T12:06:34.999464+02:00</dc:date>
     </item>
   </channel>
 </rss>
