@@ -10,7 +10,8 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49.3% | 44.9–52.6% | 44.0–53.4% | 43.3–54.1% | 42.1–55.2% |
+| N/A | [Poll Average](average.html) | 48.5% | 43.5–52.3% | 42.7–53.2% | 42.1–53.9% | 40.9–55.1% |
+| [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 48.9% | 47.5–50.3% | 47.1–50.7% | 46.7–51.1% | 46.0–51.8% |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 45.3% | 43.3–47.3% | 42.7–47.9% | 42.2–48.4% | 41.3–49.4% |
@@ -117,25 +118,25 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 39.5–40.5% | 0% | 100% |  |
-| 40.5–41.5% | 0.2% | 100% |  |
-| 41.5–42.5% | 0.8% | 99.8% |  |
-| 42.5–43.5% | 2% | 99.0% |  |
-| 43.5–44.5% | 5% | 97% |  |
-| 44.5–45.5% | 6% | 92% |  |
-| 45.5–46.5% | 6% | 86% |  |
-| 46.5–47.5% | 7% | 80% |  |
-| 47.5–48.5% | 11% | 73% |  |
-| 48.5–49.5% | 15% | 61% | Median |
-| 49.5–50.5% | 15% | 46% |  |
-| 50.5–51.5% | 12% | 31% | Last Result |
-| 51.5–52.5% | 9% | 20% |  |
-| 52.5–53.5% | 6% | 10% |  |
-| 53.5–54.5% | 3% | 4% |  |
-| 54.5–55.5% | 1.1% | 1.4% |  |
-| 55.5–56.5% | 0.3% | 0.3% |  |
+| 38.5–39.5% | 0% | 100% |  |
+| 39.5–40.5% | 0.2% | 100% |  |
+| 40.5–41.5% | 1.0% | 99.7% |  |
+| 41.5–42.5% | 3% | 98.7% |  |
+| 42.5–43.5% | 6% | 96% |  |
+| 43.5–44.5% | 9% | 90% |  |
+| 44.5–45.5% | 9% | 81% |  |
+| 45.5–46.5% | 7% | 72% |  |
+| 46.5–47.5% | 6% | 65% |  |
+| 47.5–48.5% | 9% | 58% | Median |
+| 48.5–49.5% | 12% | 49% |  |
+| 49.5–50.5% | 12% | 37% |  |
+| 50.5–51.5% | 9% | 25% | Last Result |
+| 51.5–52.5% | 7% | 16% |  |
+| 52.5–53.5% | 5% | 8% |  |
+| 53.5–54.5% | 2% | 4% |  |
+| 54.5–55.5% | 0.8% | 1.1% |  |
+| 55.5–56.5% | 0.2% | 0.2% |  |
 | 56.5–57.5% | 0% | 0% |  |
-| 57.5–58.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -146,9 +147,10 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 11 | 11 | 11 | 10–11 | 10–12 |
-| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
+| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
@@ -255,10 +257,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 7% | 100% |  |
-| 10 | 21% | 93% |  |
-| 11 | 65% | 72% | Median, Majority |
-| 12 | 8% | 8% | Last Result |
+| 8 | 0.1% | 100% |  |
+| 9 | 19% | 99.9% |  |
+| 10 | 23% | 81% |  |
+| 11 | 52% | 58% | Median, Majority |
+| 12 | 6% | 6% | Last Result |
 | 13 | 0% | 0% |  |
 
 
