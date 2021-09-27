@@ -150,7 +150,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 11 | 11 | 11 | 10–11 | 10–12 |
-| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
+| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–12 |

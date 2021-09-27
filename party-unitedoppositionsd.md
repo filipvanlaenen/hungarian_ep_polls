@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 45.3% | 41.0–52.4% | 40.0–53.5% | 39.2–54.2% | 38.0–55.5% |
-| [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
+| [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.0% |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 44.9% | 43.5–46.3% | 43.1–46.7% | 42.7–47.1% | 42.1–47.8% |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 45.0% | 43.0–47.0% | 42.4–47.6% | 41.9–48.1% | 41.0–49.1% |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 52.4% | 50.4–54.4% | 49.8–55.0% | 49.3–55.5% | 48.3–56.5% |
@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
 | [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 10 | 10 | 10 | 10–11 | 9–11 |
-| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
+| [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
