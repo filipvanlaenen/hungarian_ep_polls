@@ -15,7 +15,7 @@ Last result: **51.5%** (General Election of 26 May 2019)
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 48.9% | 47.5–50.3% | 47.1–50.7% | 46.7–51.1% | 46.0–51.8% |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 45.3% | 43.3–47.3% | 42.7–47.9% | 42.2–48.4% | 41.3–49.4% |
-| [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 52.0% | 50.0–54.0% | 49.4–54.6% | 48.9–55.1% | 47.9–56.1% |
+| [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 52.0% | 50.0–54.0% | 49.4–54.6% | 48.9–55.1% | 47.9–56.0% |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 47.9% | 46.5–49.3% | 46.1–49.7% | 45.7–50.1% | 45.0–50.8% |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 47.0% | 45.6–48.4% | 45.2–48.8% | 44.8–49.2% | 44.1–49.9% |
 | [8–16 June 2021](2021-06-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
@@ -133,7 +133,7 @@ The following table shows the probability mass function per percentage block of 
 | 50.5–51.5% | 9% | 25% | Last Result |
 | 51.5–52.5% | 7% | 16% |  |
 | 52.5–53.5% | 5% | 8% |  |
-| 53.5–54.5% | 2% | 4% |  |
+| 53.5–54.5% | 2% | 3% |  |
 | 54.5–55.5% | 0.8% | 1.1% |  |
 | 55.5–56.5% | 0.2% | 0.2% |  |
 | 56.5–57.5% | 0% | 0% |  |
