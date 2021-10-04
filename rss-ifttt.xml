@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 27 Apr 2021 20:51:58 +0200</pubDate>
     <item>
+      <title>Opinion Poll by ZRI Závecz Research, 13–20 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-20-ZRIZáveczResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by ZRI Závecz Research, 13–20 September 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-20-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-20-ZRIZáveczResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-20-ZRIZáveczResearch.png" length="137691" type="image/png"/>
+      <pubDate>Mon, 4 Oct 2021 19:25:07 +0200</pubDate>
+      <dc:date>2021-10-04T19:25:07.441484+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by e-benchmark, 10–18 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-18-e-benchmark.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by e-benchmark, 10–18 September 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-18-e-benchmark.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-09-18-e-benchmark-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-09-Medián.png" length="173098" type="image/png"/>
       <pubDate>Wed, 30 Jun 2021 12:57:32 +0200</pubDate>
       <dc:date>2021-06-30T12:57:32.594903+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Nézőpont Intézet, 3–8 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Nézőpont Intézet, 3–8 June 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet-seating-plan.png" length="330247" type="image/png"/>
-      <pubDate>Wed, 30 Jun 2021 13:06:35 +0200</pubDate>
-      <dc:date>2021-06-30T13:06:35.119524+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Nézőpont Intézet, 3–8 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Nézőpont Intézet, 3–8 June 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet-seats.png" length="151616" type="image/png"/>
-      <pubDate>Wed, 30 Jun 2021 13:06:35 +0200</pubDate>
-      <dc:date>2021-06-30T13:06:35.119524+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Nézőpont Intézet, 3–8 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Nézőpont Intézet, 3–8 June 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-06-08-NézőpontIntézet.png" length="175844" type="image/png"/>
-      <pubDate>Wed, 30 Jun 2021 13:06:35 +0200</pubDate>
-      <dc:date>2021-06-30T13:06:35.119524+02:00</dc:date>
     </item>
   </channel>
 </rss>
