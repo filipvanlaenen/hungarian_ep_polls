@@ -189,7 +189,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
-| [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 11 | 11 | 11 | 11 |
+| [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 10 | 10 | 10 | 10–11 | 9–11 |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
@@ -309,8 +309,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 6% | 100% |  |
 | 9 | 18% | 94% |  |
-| 10 | 35% | 76% | Median |
-| 11 | 35% | 41% | Majority |
+| 10 | 46% | 76% | Median |
+| 11 | 25% | 31% | Majority |
 | 12 | 6% | 6% |  |
 | 13 | 0% | 0% |  |
 
