@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.8–7.5% |
+| N/A | [Poll Average](average.html) | 3.5% | 1.7–5.9% | 1.5–6.2% | 1.4–6.5% | 1.2–7.1% |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
-| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 5.0% | N/A | N/A | N/A | N/A |
-| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 2.0% | N/A | N/A | N/A | N/A |
-| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 2.0% | N/A | N/A | N/A | N/A |
+| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 0.0% | N/A | N/A | N/A | N/A |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -124,14 +124,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 9% | 99.9% |  |
-| 4.5–5.5% | 46% | 91% | Median |
-| 5.5–6.5% | 38% | 45% |  |
-| 6.5–7.5% | 7% | 8% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 37% | 95% |  |
+| 2.5–3.5% | 8% | 58% |  |
+| 3.5–4.5% | 8% | 50% | Median |
+| 4.5–5.5% | 25% | 42% |  |
+| 5.5–6.5% | 15% | 17% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -143,11 +143,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 1 | 1 | 1 | 0–1 | 0–1 |
-| [4–6 October 2021](2021-10-06-Medián.html) | Medián |  |  |  |  |  |
-| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon |  |  |  |  |  |
-| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
+| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark |  |  |  |  |  |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
@@ -258,8 +258,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 96% | 96% | Median |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% |  |
 
 
