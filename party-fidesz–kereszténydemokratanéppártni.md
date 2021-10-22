@@ -10,8 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45.4% | 42.5–49.8% | 41.8–50.6% | 41.3–51.2% | 40.3–52.4% |
+| N/A | [Poll Average](average.html) | 44.3% | 41.9–48.4% | 41.3–49.5% | 40.7–50.2% | 39.7–51.5% |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 48.4% | 46.4–50.4% | 45.8–51.0% | 45.3–51.5% | 44.3–52.5% |
+| [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
@@ -124,23 +125,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 37.5–38.5% | 0% | 100% |  |
-| 38.5–39.5% | 0.1% | 100% |  |
-| 39.5–40.5% | 0.7% | 99.9% |  |
-| 40.5–41.5% | 3% | 99.2% |  |
-| 41.5–42.5% | 7% | 97% |  |
-| 42.5–43.5% | 12% | 89% |  |
-| 43.5–44.5% | 15% | 77% |  |
-| 44.5–45.5% | 13% | 62% | Median |
-| 45.5–46.5% | 9% | 49% |  |
-| 46.5–47.5% | 8% | 40% |  |
-| 47.5–48.5% | 9% | 32% |  |
-| 48.5–49.5% | 10% | 22% |  |
-| 49.5–50.5% | 7% | 12% |  |
-| 50.5–51.5% | 4% | 5% | Last Result |
-| 51.5–52.5% | 1.3% | 2% |  |
-| 52.5–53.5% | 0.3% | 0.4% |  |
-| 53.5–54.5% | 0.1% | 0.1% |  |
-| 54.5–55.5% | 0% | 0% |  |
+| 38.5–39.5% | 0.3% | 99.9% |  |
+| 39.5–40.5% | 2% | 99.6% |  |
+| 40.5–41.5% | 5% | 98% |  |
+| 41.5–42.5% | 11% | 93% |  |
+| 42.5–43.5% | 17% | 82% |  |
+| 43.5–44.5% | 19% | 64% | Median |
+| 44.5–45.5% | 15% | 45% |  |
+| 45.5–46.5% | 9% | 30% |  |
+| 46.5–47.5% | 6% | 21% |  |
+| 47.5–48.5% | 5% | 15% |  |
+| 48.5–49.5% | 5% | 9% |  |
+| 49.5–50.5% | 3% | 5% |  |
+| 50.5–51.5% | 1.3% | 2% | Last Result |
+| 51.5–52.5% | 0.4% | 0.5% |  |
+| 52.5–53.5% | 0.1% | 0.1% |  |
+| 53.5–54.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -151,8 +151,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
+| [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -266,11 +267,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.2% | 100% |  |
-| 9 | 24% | 99.8% |  |
-| 10 | 49% | 75% | Median |
-| 11 | 25% | 26% | Majority |
-| 12 | 2% | 2% | Last Result |
+| 8 | 0.8% | 100% |  |
+| 9 | 41% | 99.2% |  |
+| 10 | 42% | 58% | Median |
+| 11 | 15% | 16% | Majority |
+| 12 | 1.5% | 1.5% | Last Result |
 | 13 | 0% | 0% |  |
 
 
