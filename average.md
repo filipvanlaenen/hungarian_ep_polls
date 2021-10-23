@@ -219,7 +219,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 41% | 99.2% |  |
 | 10 | 42% | 58% | Median |
 | 11 | 15% | 16% | Majority |
-| 12 | 1.5% | 1.5% | Last Result |
+| 12 | 2% | 2% | Last Result |
 | 13 | 0% | 0% |  |
 
 ### Magyar Szocialista Párt–Párbeszéd (S&D)
@@ -389,5 +389,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,572,864
++ **Total number of simulations done in the polls included in this average:** 4,325,376
 + **Error estimate:** 0.75%
