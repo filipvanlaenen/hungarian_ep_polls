@@ -6,12 +6,28 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 27 Apr 2021 20:51:58 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Századvég, 1–31 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Századvég, 1–31 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég-seating-plan.png" length="330876" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 12:52:59 +0200</pubDate>
+      <dc:date>2021-10-23T12:52:59.101687+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Századvég, 1–31 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Századvég, 1–31 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég-seats.png" length="158778" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 12:52:59 +0200</pubDate>
+      <dc:date>2021-10-23T12:52:59.101687+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Századvég, 1–31 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Századvég, 1–31 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.png" length="181514" type="image/png"/>
-      <pubDate>Mon, 18 Oct 2021 17:38:00 +0200</pubDate>
-      <dc:date>2021-10-18T17:38:00.48928+02:00</dc:date>
+      <pubDate>Sat, 23 Oct 2021 12:52:59 +0200</pubDate>
+      <dc:date>2021-10-23T12:52:59.101687+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by e-benchmark, 7–16 October 2021 – Voting Intentions</title>
@@ -46,20 +62,52 @@
       <dc:date>2021-10-21T20:59:44.392508+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Publicus Research, 2–4 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Publicus Research, 2–4 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch-seating-plan.png" length="312323" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 14:29:52 +0200</pubDate>
+      <dc:date>2021-10-23T14:29:52.433623+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Publicus Research, 2–4 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Publicus Research, 2–4 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch-seats.png" length="139076" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 14:29:52 +0200</pubDate>
+      <dc:date>2021-10-23T14:29:52.433623+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Publicus Research, 2–4 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Publicus Research, 2–4 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-PublicusResearch.png" length="177234" type="image/png"/>
-      <pubDate>Tue, 19 Oct 2021 07:38:55 +0200</pubDate>
-      <dc:date>2021-10-19T07:38:55.060776+02:00</dc:date>
+      <pubDate>Sat, 23 Oct 2021 14:29:52 +0200</pubDate>
+      <dc:date>2021-10-23T14:29:52.433623+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon, 1–4 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon, 1–4 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon-seating-plan.png" length="309475" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 14:22:31 +0200</pubDate>
+      <dc:date>2021-10-23T14:22:31.549432+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon, 1–4 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon, 1–4 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon-seats.png" length="137141" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 14:22:31 +0200</pubDate>
+      <dc:date>2021-10-23T14:22:31.549432+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon, 1–4 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Republikon, 1–4 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-04-Republikon.png" length="175278" type="image/png"/>
-      <pubDate>Tue, 19 Oct 2021 07:35:20 +0200</pubDate>
-      <dc:date>2021-10-19T07:35:20.853306+02:00</dc:date>
+      <pubDate>Sat, 23 Oct 2021 14:22:31 +0200</pubDate>
+      <dc:date>2021-10-23T14:22:31.549432+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 13–20 September 2021 – Seating Plan Projection</title>
