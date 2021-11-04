@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-10-23T14:29:52.433623+02:00</updated>
+  <updated>2021-11-04T16:21:30.324279+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–Kereszténydemokrata Néppárt (NI): 45.3–51.5%, 10–12 seats</li><li>Magyar Kétfarkú Kutya Párt (NI): 4.2–7.0%, 0–1 seats</li><li>Mi Hazánk Mozgalom (NI): 2.3–4.5%, 0–1 seats</li><li>United Opposition (S&amp;D): 35.7–41.8%, 8–9 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-31-Századvég.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Századvég, 1–31 October 2021</title>
     <updated>2021-10-23T12:52:59.101687+02:00</updated>
     <dc:date>2021-10-23T12:52:59.101687+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–Kereszténydemokrata Néppárt (NI): 44.8–49.2%, 10–11 seats</li><li>Magyar Kétfarkú Kutya Párt (NI): 2.3–3.9%, 0 seats</li><li>Mi Hazánk Mozgalom (NI): 2.3–3.8%, 0 seats</li><li>United Opposition (S&amp;D): 44.9–49.2%, 10–11 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-09-IDEAIntézet.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-09-IDEAIntézet.html"/>
+    <title>Opinion Poll by IDEA Intézet, 30 September–9 October 2021</title>
+    <updated>2021-11-04T16:21:30.324279+01:00</updated>
+    <dc:date>2021-11-04T16:21:30.324279+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–Kereszténydemokrata Néppárt (NI): 40.9–47.1%, 9–10 seats</li><li>Magyar Kétfarkú Kutya Párt (NI): 3.8–6.5%, 0–1 seats</li><li>Mi Hazánk Mozgalom (NI): 2.9–5.4%, 0–1 seats</li><li>United Opposition (S&amp;D): 43.9–50.1%, 9–11 seats</li></ul></div></content>
@@ -847,5 +855,5 @@
     <updated>2019-06-23T10:22:11.119068+02:00</updated>
     <dc:date>2019-06-23T10:22:11.119068+02:00</dc:date>
   </entry>
-  <dc:date>2021-10-23T14:29:52.433623+02:00</dc:date>
+  <dc:date>2021-11-04T16:21:30.324279+01:00</dc:date>
 </feed>
