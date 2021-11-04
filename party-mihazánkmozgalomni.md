@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 0.8–4.3% | 0.7–4.6% | 0.6–4.9% | 0.5–5.5% |
+| N/A | [Poll Average](average.html) | 2.8% | 0.9–4.2% | 0.7–4.5% | 0.6–4.8% | 0.5–5.4% |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 0.0% | N/A | N/A | N/A | N/A |
+| [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -124,13 +126,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.2% | 100% | Last Result |
-| 0.5–1.5% | 44% | 98.8% |  |
-| 1.5–2.5% | 7% | 55% | Median |
-| 2.5–3.5% | 20% | 48% |  |
-| 3.5–4.5% | 22% | 28% |  |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 1.0% | 100% | Last Result |
+| 0.5–1.5% | 35% | 99.0% |  |
+| 1.5–2.5% | 8% | 64% |  |
+| 2.5–3.5% | 32% | 56% | Median |
+| 3.5–4.5% | 19% | 24% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -144,7 +146,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 0 | 0 | 0 | 0–1 | 0–1 |
+| [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark |  |  |  |  |  |
+| [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
@@ -258,8 +262,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 9% | 9% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 7% | 7% |  |
 | 2 | 0% | 0% |  |
 
 
