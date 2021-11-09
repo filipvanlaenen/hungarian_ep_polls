@@ -155,7 +155,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
-| [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
+| [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
@@ -272,8 +272,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.5% | 100% |  |
-| 9 | 33% | 99.5% |  |
-| 10 | 47% | 66% | Median |
+| 9 | 32% | 99.5% |  |
+| 10 | 48% | 67% | Median |
 | 11 | 18% | 19% | Majority |
 | 12 | 1.1% | 1.1% | Last Result |
 | 13 | 0% | 0% |  |
