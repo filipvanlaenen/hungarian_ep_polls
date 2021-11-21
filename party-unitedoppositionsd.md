@@ -10,20 +10,33 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.7% | 36.8–40.7% | 36.2–41.3% | 35.7–41.8% | 34.8–42.7% |
+| N/A | [Poll Average](average.html) | 43.8% | 38.7–47.3% | 37.7–48.2% | 37.0–48.9% | 35.7–50.2% |
+| [2–12 November 2021](2021-11-12-ZRIZáveczResearch.html) | ZRI Závecz Research | 47.1% | 45.1–49.1% | 44.5–49.7% | 44.0–50.2% | 43.1–51.2% |
+| [9–11 November 2021](2021-11-11-Real-PR93.html) | Real-PR 93 | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
+| [26 October–5 November 2021](2021-11-05-IDEAIntézet.html) | IDEA Intézet | 45.0% | 43.6–46.4% | 43.2–46.8% | 42.8–47.2% | 42.1–47.9% |
+| [2–3 November 2021](2021-11-03-NézőpontIntézet.html) | Nézőpont Intézet | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 38.7% | 36.7–40.7% | 36.2–41.3% | 35.7–41.8% | 34.8–42.7% |
+| [25–27 October 2021](2021-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 42.0% | N/A | N/A | N/A | N/A |
+| [19–21 October 2021](2021-10-21-Real-PR93.html) | Real-PR 93 | 44.0% | N/A | N/A | N/A | N/A |
+| [18–20 October 2021](2021-10-20-NézőpontIntézet.html) | Nézőpont Intézet | 42.6% | N/A | N/A | N/A | N/A |
 | [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.6% | N/A | N/A | N/A | N/A |
 | [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 42.0% | N/A | N/A | N/A | N/A |
+| [11–13 October 2021](2021-10-13-NézőpontIntézet.html) | Nézőpont Intézet | 42.4% | N/A | N/A | N/A | N/A |
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet | 47.0% | N/A | N/A | N/A | N/A |
+| [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 43.5% | N/A | N/A | N/A | N/A |
+| [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet | 43.4% | N/A | N/A | N/A | N/A |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 47.0% | N/A | N/A | N/A | N/A |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 52.0% | N/A | N/A | N/A | N/A |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 52.0% | N/A | N/A | N/A | N/A |
+| [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet | 44.0% | N/A | N/A | N/A | N/A |
+| [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet | 45.0% | N/A | N/A | N/A | N/A |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 49.0% | N/A | N/A | N/A | N/A |
 | [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark | 41.0% | N/A | N/A | N/A | N/A |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet | 44.9% | N/A | N/A | N/A | N/A |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 45.0% | N/A | N/A | N/A | N/A |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon | 52.4% | N/A | N/A | N/A | N/A |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | N/A | N/A | N/A | N/A |
+| [16–18 August 2021](2021-08-18-Társadalomkutató.html) | Társadalomkutató | 48.3% | N/A | N/A | N/A | N/A |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet | 43.9% | N/A | N/A | N/A | N/A |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 45.0% | 43.6–46.4% | 43.2–46.8% | 42.8–47.2% | 42.1–47.9% |
 | [8–16 June 2021](2021-06-16-ZávecResearch.html) | Závec Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
@@ -161,18 +174,26 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.3% | 100% |  |
-| 34.5–35.5% | 2% | 99.7% |  |
-| 35.5–36.5% | 6% | 98% |  |
-| 36.5–37.5% | 15% | 92% |  |
-| 37.5–38.5% | 23% | 78% |  |
-| 38.5–39.5% | 25% | 54% | Median |
-| 39.5–40.5% | 18% | 29% |  |
-| 40.5–41.5% | 8% | 12% |  |
-| 41.5–42.5% | 3% | 3% |  |
-| 42.5–43.5% | 0.6% | 0.7% |  |
-| 43.5–44.5% | 0.1% | 0.1% |  |
-| 44.5–45.5% | 0% | 0% |  |
+| 33.5–34.5% | 0.1% | 100% |  |
+| 34.5–35.5% | 0.3% | 99.9% |  |
+| 35.5–36.5% | 1.2% | 99.6% |  |
+| 36.5–37.5% | 3% | 98% |  |
+| 37.5–38.5% | 5% | 95% |  |
+| 38.5–39.5% | 6% | 91% |  |
+| 39.5–40.5% | 6% | 85% |  |
+| 40.5–41.5% | 7% | 79% |  |
+| 41.5–42.5% | 8% | 72% |  |
+| 42.5–43.5% | 10% | 64% |  |
+| 43.5–44.5% | 13% | 53% | Median |
+| 44.5–45.5% | 14% | 40% |  |
+| 45.5–46.5% | 11% | 26% |  |
+| 46.5–47.5% | 7% | 16% |  |
+| 47.5–48.5% | 5% | 8% |  |
+| 48.5–49.5% | 2% | 4% |  |
+| 49.5–50.5% | 0.9% | 1.2% |  |
+| 50.5–51.5% | 0.2% | 0.3% |  |
+| 51.5–52.5% | 0% | 0% |  |
+| 52.5–53.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -183,20 +204,33 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
+| [2–12 November 2021](2021-11-12-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
+| [9–11 November 2021](2021-11-11-Real-PR93.html) | Real-PR 93 | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
+| [26 October–5 November 2021](2021-11-05-IDEAIntézet.html) | IDEA Intézet | 10 | 10 | 10–11 | 10–11 | 9–11 |
+| [2–3 November 2021](2021-11-03-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [25–27 October 2021](2021-10-27-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [19–21 October 2021](2021-10-21-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
+| [18–20 October 2021](2021-10-20-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark |  |  |  |  |  |
+| [11–13 October 2021](2021-10-13-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
+| [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
+| [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián |  |  |  |  |  |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon |  |  |  |  |  |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [10–18 September 2021](2021-09-18-e-benchmark.html) | e-benchmark |  |  |  |  |  |
 | [31 August–7 September 2021](2021-09-07-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [1–31 August 2021](2021-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [23–28 August 2021](2021-08-28-Republikon.html) | Republikon |  |  |  |  |  |
 | [20–25 August 2021](2021-08-25-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [16–18 August 2021](2021-08-18-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
 | [22 July–1 August 2021](2021-08-01-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [30 June–4 July 2021](2021-07-04-IDEAIntézet.html) | IDEA Intézet | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [8–16 June 2021](2021-06-16-ZávecResearch.html) | Závec Research | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
@@ -309,10 +343,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.3% | 100% |  |
-| 8 | 43% | 99.7% |  |
-| 9 | 55% | 57% | Median |
-| 10 | 1.4% | 1.4% |  |
-| 11 | 0% | 0% | Majority |
+| 7 | 0.1% | 100% |  |
+| 8 | 11% | 99.9% |  |
+| 9 | 43% | 89% | Median |
+| 10 | 29% | 46% |  |
+| 11 | 16% | 18% | Majority |
+| 12 | 1.5% | 1.5% |  |
+| 13 | 0% | 0% |  |
 
 
