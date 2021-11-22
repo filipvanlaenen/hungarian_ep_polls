@@ -10,7 +10,7 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49.1% | 42.5–56.6% | 41.5–57.4% | 40.7–58.0% | 39.5–59.2% |
+| N/A | [Poll Average](average.html) | 48.2% | 41.9–56.4% | 41.1–57.2% | 40.5–57.9% | 39.3–59.0% |
 | [2–12 November 2021](2021-11-12-ZRIZáveczResearch.html) | ZRI Závecz Research | 42.5% | 40.5–44.5% | 39.9–45.1% | 39.5–45.6% | 38.5–46.6% |
 | [9–11 November 2021](2021-11-11-Real-PR93.html) | Real-PR 93 | 55.0% | 53.0–57.0% | 52.4–57.6% | 51.9–58.1% | 50.9–59.0% |
 | [26 October–5 November 2021](2021-11-05-IDEAIntézet.html) | IDEA Intézet | 48.0% | 46.6–49.4% | 46.2–49.8% | 45.8–50.2% | 45.1–50.9% |
@@ -20,10 +20,10 @@ Last result: **51.5%** (General Election of 26 May 2019)
 | [19–21 October 2021](2021-10-21-Real-PR93.html) | Real-PR 93 | 55.0% | N/A | N/A | N/A | N/A |
 | [18–20 October 2021](2021-10-20-NézőpontIntézet.html) | Nézőpont Intézet | 55.4% | N/A | N/A | N/A | N/A |
 | [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 45.5% | N/A | N/A | N/A | N/A |
-| [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 43.0% | N/A | N/A | N/A | N/A |
+| [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [11–13 October 2021](2021-10-13-NézőpontIntézet.html) | Nézőpont Intézet | 56.6% | N/A | N/A | N/A | N/A |
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet | 47.0% | N/A | N/A | N/A | N/A |
-| [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 52.9% | N/A | N/A | N/A | N/A |
+| [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 52.9% | 50.9–54.9% | 50.3–55.5% | 49.8–56.0% | 48.8–56.9% |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet | 54.5% | N/A | N/A | N/A | N/A |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 44.0% | N/A | N/A | N/A | N/A |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 44.0% | N/A | N/A | N/A | N/A |
@@ -142,28 +142,28 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 36.5–37.5% | 0% | 100% |  |
 | 37.5–38.5% | 0.1% | 100% |  |
-| 38.5–39.5% | 0.5% | 99.9% |  |
-| 39.5–40.5% | 1.5% | 99.4% |  |
-| 40.5–41.5% | 3% | 98% |  |
-| 41.5–42.5% | 5% | 95% |  |
-| 42.5–43.5% | 5% | 90% |  |
-| 43.5–44.5% | 3% | 85% |  |
-| 44.5–45.5% | 2% | 82% |  |
-| 45.5–46.5% | 4% | 80% |  |
-| 46.5–47.5% | 9% | 76% |  |
-| 47.5–48.5% | 12% | 67% |  |
-| 48.5–49.5% | 9% | 56% | Median |
-| 49.5–50.5% | 4% | 46% |  |
-| 50.5–51.5% | 2% | 42% | Last Result |
-| 51.5–52.5% | 2% | 40% |  |
-| 52.5–53.5% | 3% | 39% |  |
-| 53.5–54.5% | 7% | 35% |  |
-| 54.5–55.5% | 9% | 29% |  |
-| 55.5–56.5% | 9% | 19% |  |
-| 56.5–57.5% | 6% | 10% |  |
-| 57.5–58.5% | 3% | 4% |  |
-| 58.5–59.5% | 1.0% | 1.2% |  |
-| 59.5–60.5% | 0.2% | 0.3% |  |
+| 38.5–39.5% | 0.6% | 99.9% |  |
+| 39.5–40.5% | 2% | 99.3% |  |
+| 40.5–41.5% | 5% | 97% |  |
+| 41.5–42.5% | 8% | 93% |  |
+| 42.5–43.5% | 8% | 85% |  |
+| 43.5–44.5% | 6% | 77% |  |
+| 44.5–45.5% | 4% | 71% |  |
+| 45.5–46.5% | 4% | 67% |  |
+| 46.5–47.5% | 7% | 63% |  |
+| 47.5–48.5% | 10% | 56% | Median |
+| 48.5–49.5% | 8% | 46% |  |
+| 49.5–50.5% | 4% | 39% |  |
+| 50.5–51.5% | 1.5% | 35% | Last Result |
+| 51.5–52.5% | 1.3% | 33% |  |
+| 52.5–53.5% | 3% | 32% |  |
+| 53.5–54.5% | 5% | 29% |  |
+| 54.5–55.5% | 8% | 24% |  |
+| 55.5–56.5% | 8% | 16% |  |
+| 56.5–57.5% | 5% | 9% |  |
+| 57.5–58.5% | 2% | 4% |  |
+| 58.5–59.5% | 0.8% | 1.0% |  |
+| 59.5–60.5% | 0.2% | 0.2% |  |
 | 60.5–61.5% | 0% | 0% |  |
 
 
@@ -175,7 +175,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [2–12 November 2021](2021-11-12-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [9–11 November 2021](2021-11-11-Real-PR93.html) | Real-PR 93 | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [26 October–5 November 2021](2021-11-05-IDEAIntézet.html) | IDEA Intézet | 11 | 11 | 10–11 | 10–11 | 10–12 |
@@ -185,10 +185,10 @@ Last result: **12** seats (General Election of 26 May 2019)
 | [19–21 October 2021](2021-10-21-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
 | [18–20 October 2021](2021-10-20-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [11–19 October 2021](2021-10-19-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
-| [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark |  |  |  |  |  |
+| [7–16 October 2021](2021-10-16-e-benchmark.html) | e-benchmark | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [11–13 October 2021](2021-10-13-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
+| [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 12 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián |  |  |  |  |  |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon |  |  |  |  |  |
@@ -307,10 +307,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 5% | 100% |  |
-| 10 | 20% | 95% |  |
-| 11 | 39% | 75% | Median, Majority |
-| 12 | 33% | 36% | Last Result |
+| 8 | 0.6% | 100% |  |
+| 9 | 18% | 99.4% |  |
+| 10 | 19% | 81% |  |
+| 11 | 33% | 62% | Median, Majority |
+| 12 | 28% | 30% | Last Result |
 | 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
