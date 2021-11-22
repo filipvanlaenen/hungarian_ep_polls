@@ -126,12 +126,28 @@
       <dc:date>2021-11-21T10:52:42.544222+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by e-benchmark, 7–16 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by e-benchmark, 7–16 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark-seating-plan.png" length="306225" type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 21:07:08 +0100</pubDate>
+      <dc:date>2021-11-22T21:07:08.498447+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by e-benchmark, 7–16 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by e-benchmark, 7–16 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark-seats.png" length="116992" type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 21:07:08 +0100</pubDate>
+      <dc:date>2021-11-22T21:07:08.498447+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by e-benchmark, 7–16 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by e-benchmark, 7–16 October 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.png" length="132790" type="image/png"/>
-      <pubDate>Mon, 22 Nov 2021 19:58:37 +0100</pubDate>
-      <dc:date>2021-11-22T19:58:37.217986+01:00</dc:date>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-10-16-e-benchmark.png" length="132718" type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 21:07:08 +0100</pubDate>
+      <dc:date>2021-11-22T21:07:08.498447+01:00</dc:date>
     </item>
   </channel>
 </rss>
