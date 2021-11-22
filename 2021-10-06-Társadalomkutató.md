@@ -38,7 +38,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.7% | 100% |  |
 | 11 | 47% | 99.3% | Majority |
-| 12 | 52% | 53% | Last Result, Median |
+| 12 | 52% | 52% | Last Result, Median |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
@@ -86,6 +86,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.94%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.29%
 

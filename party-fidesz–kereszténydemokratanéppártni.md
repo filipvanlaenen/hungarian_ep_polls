@@ -25,9 +25,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet | 47.0% | N/A | N/A | N/A | N/A |
 | [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 52.9% | 50.9–54.9% | 50.3–55.5% | 49.8–56.0% | 48.8–56.9% |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet | 54.5% | N/A | N/A | N/A | N/A |
-| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 44.0% | N/A | N/A | N/A | N/A |
+| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 44.0% | N/A | N/A | N/A | N/A |
-| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 44.0% | N/A | N/A | N/A | N/A |
+| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
 | [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet | 54.0% | N/A | N/A | N/A | N/A |
 | [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet | 53.0% | N/A | N/A | N/A | N/A |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 49.0% | N/A | N/A | N/A | N/A |
@@ -190,9 +190,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 12 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
-| [4–6 October 2021](2021-10-06-Medián.html) | Medián |  |  |  |  |  |
+| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon |  |  |  |  |  |
-| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
@@ -307,8 +307,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.6% | 100% |  |
-| 9 | 18% | 99.4% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 18% | 99.5% |  |
 | 10 | 19% | 81% |  |
 | 11 | 33% | 62% | Median, Majority |
 | 12 | 28% | 30% | Last Result |

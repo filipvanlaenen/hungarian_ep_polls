@@ -25,9 +25,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet | 47.0% | N/A | N/A | N/A | N/A |
 | [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 43.5% | 41.5–45.5% | 40.9–46.1% | 40.5–46.6% | 39.5–47.6% |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet | 43.4% | N/A | N/A | N/A | N/A |
-| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 47.0% | N/A | N/A | N/A | N/A |
+| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 52.0% | N/A | N/A | N/A | N/A |
-| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 52.0% | N/A | N/A | N/A | N/A |
+| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 52.0% | 50.0–54.0% | 49.4–54.6% | 48.9–55.1% | 47.9–56.1% |
 | [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet | 44.0% | N/A | N/A | N/A | N/A |
 | [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet | 45.0% | N/A | N/A | N/A | N/A |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 49.0% | N/A | N/A | N/A | N/A |
@@ -218,9 +218,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–9 October 2021](2021-10-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
-| [4–6 October 2021](2021-10-06-Medián.html) | Medián |  |  |  |  |  |
+| [4–6 October 2021](2021-10-06-Medián.html) | Medián | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [1–4 October 2021](2021-10-04-Republikon.html) | Republikon |  |  |  |  |  |
-| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [13–20 September 2021](2021-09-20-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
