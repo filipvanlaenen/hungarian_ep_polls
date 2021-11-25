@@ -26,7 +26,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
-| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 1.0% | N/A | N/A | N/A | N/A |
+| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -174,7 +174,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–6 October 2021](2021-10-06-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
 | [4–6 October 2021](2021-10-06-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [4–6 October 2021](2021-10-06-Medián.html) | Medián | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon |  |  |  |  |  |
+| [1–4 October 2021](2021-10-04-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
 | [2–4 October 2021](2021-10-04-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [27–29 September 2021](2021-09-29-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–21 September 2021](2021-09-21-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
