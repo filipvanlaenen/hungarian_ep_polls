@@ -10,12 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.7–5.8% | 2.6–6.2% | 2.4–6.6% | 2.2–7.2% |
+| N/A | [Poll Average](average.html) | 3.2% | 1.9–5.6% | 1.7–6.1% | 1.5–6.4% | 1.3–7.1% |
 | [2–12 November 2021](2021-11-12-ZRIZáveczResearch.html) | ZRI Závecz Research | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [9–11 November 2021](2021-11-11-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
 | [26 October–5 November 2021](2021-11-05-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [2–3 November 2021](2021-11-03-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
+| [25–29 October 2021](2021-10-29-Republikon.html) | Republikon | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [25–27 October 2021](2021-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 October 2021](2021-10-21-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 October 2021](2021-10-20-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -141,13 +142,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 44% | 96% |  |
-| 3.5–4.5% | 20% | 51% | Median |
-| 4.5–5.5% | 17% | 32% |  |
-| 5.5–6.5% | 13% | 15% |  |
-| 6.5–7.5% | 2% | 3% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 22% | 97% |  |
+| 2.5–3.5% | 37% | 76% | Median |
+| 3.5–4.5% | 15% | 38% |  |
+| 4.5–5.5% | 12% | 24% |  |
+| 5.5–6.5% | 9% | 11% |  |
+| 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -166,6 +167,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26 October–5 November 2021](2021-11-05-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [2–3 November 2021](2021-11-03-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [1–31 October 2021](2021-10-31-Századvég.html) | Századvég | 1 | 1 | 1 | 0–1 | 0–1 |
+| [25–29 October 2021](2021-10-29-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
 | [25–27 October 2021](2021-10-27-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [19–21 October 2021](2021-10-21-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
 | [18–20 October 2021](2021-10-20-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
@@ -292,8 +294,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 35% | 35% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 
 
