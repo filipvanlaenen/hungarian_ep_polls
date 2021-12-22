@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 0.9–3.6% | 0.8–3.9% | 0.7–4.1% | 0.5–4.5% |
+| N/A | [Poll Average](average.html) | 3.8% | 1.1–5.8% | 0.9–6.1% | 0.7–6.4% | 0.5–6.9% |
+| [13–15 December 2021](2021-12-15-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [9–14 December 2021](2021-12-14-Republikon.html) | Republikon | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [29 November–13 December 2021](2021-12-13-IDEAIntézet.html) | IDEA Intézet | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [6–11 December 2021](2021-12-11-IránytűIntézet.html) | Iránytű Intézet | 5.8% | 5.1–6.5% | 5.0–6.7% | 4.8–6.9% | 4.5–7.2% |
 | [4–7 December 2021](2021-12-07-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [28–30 November 2021](2021-11-30-Társadalomkutató.html) | Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
 | [25–30 November 2021](2021-11-30-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -147,13 +151,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 30% | 99.2% |  |
-| 1.5–2.5% | 15% | 70% |  |
-| 2.5–3.5% | 43% | 55% | Median |
-| 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 18% | 99.5% |  |
+| 1.5–2.5% | 6% | 82% |  |
+| 2.5–3.5% | 19% | 76% |  |
+| 3.5–4.5% | 30% | 57% | Median |
+| 4.5–5.5% | 13% | 27% |  |
+| 5.5–6.5% | 12% | 14% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -164,7 +170,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–15 December 2021](2021-12-15-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [9–14 December 2021](2021-12-14-Republikon.html) | Republikon | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 November–13 December 2021](2021-12-13-IDEAIntézet.html) | IDEA Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–11 December 2021](2021-12-11-IránytűIntézet.html) | Iránytű Intézet | 1 | 1 | 1 | 1 | 1 |
 | [4–7 December 2021](2021-12-07-Medián.html) | Medián |  |  |  |  |  |
 | [28–30 November 2021](2021-11-30-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
 | [25–30 November 2021](2021-11-30-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
@@ -303,8 +313,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 1.4% | 1.4% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 34% | 34% |  |
 | 2 | 0% | 0% |  |
 
 
