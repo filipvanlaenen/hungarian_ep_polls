@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 27 Apr 2021 20:51:58 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Nézőpont Intézet, 2–5 January 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Nézőpont Intézet, 2–5 January 2022<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet-seating-plan.png" length="298429" type="image/png"/>
+      <pubDate>Sat, 15 Jan 2022 19:53:16 +0100</pubDate>
+      <dc:date>2022-01-15T19:53:16.716183+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 2–5 January 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Nézőpont Intézet, 2–5 January 2022<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet-seats.png" length="151873" type="image/png"/>
+      <pubDate>Sat, 15 Jan 2022 19:53:16 +0100</pubDate>
+      <dc:date>2022-01-15T19:53:16.716183+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 2–5 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Nézőpont Intézet, 2–5 January 2022<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2022-01-05-NézőpontIntézet.png" length="180924" type="image/png"/>
+      <pubDate>Sat, 15 Jan 2022 19:53:16 +0100</pubDate>
+      <dc:date>2022-01-15T19:53:16.716183+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Real-PR 93, 21–23 December 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-12-23-Real-PR93.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Real-PR 93, 21–23 December 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-12-23-Real-PR93.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-12-23-Real-PR93-seating-plan.png"/>]]></description>
@@ -196,54 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-30-PublicusResearch.png" length="177954" type="image/png"/>
       <pubDate>Sun, 19 Dec 2021 11:29:57 +0100</pubDate>
       <dc:date>2021-12-19T11:29:57.996209+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ZRI Závecz Research, 15–24 November 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ZRI Závecz Research, 15–24 November 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch-seating-plan.png" length="297260" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 11:40:31 +0100</pubDate>
-      <dc:date>2021-12-12T11:40:31.735499+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ZRI Závecz Research, 15–24 November 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ZRI Závecz Research, 15–24 November 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch-seats.png" length="141913" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 11:40:31 +0100</pubDate>
-      <dc:date>2021-12-12T11:40:31.735499+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ZRI Závecz Research, 15–24 November 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by ZRI Závecz Research, 15–24 November 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-24-ZRIZáveczResearch.png" length="183354" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 11:40:31 +0100</pubDate>
-      <dc:date>2021-12-12T11:40:31.735499+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon, 17–23 November 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon, 17–23 November 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon-seating-plan.png" length="315892" type="image/png"/>
-      <pubDate>Sun, 19 Dec 2021 11:36:44 +0100</pubDate>
-      <dc:date>2021-12-19T11:36:44.241834+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon, 17–23 November 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon, 17–23 November 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon-seats.png" length="151956" type="image/png"/>
-      <pubDate>Sun, 19 Dec 2021 11:36:44 +0100</pubDate>
-      <dc:date>2021-12-19T11:36:44.241834+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon, 17–23 November 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Republikon, 17–23 November 2021<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2021-11-23-Republikon.png" length="183980" type="image/png"/>
-      <pubDate>Sun, 19 Dec 2021 11:36:44 +0100</pubDate>
-      <dc:date>2021-12-19T11:36:44.241834+01:00</dc:date>
     </item>
   </channel>
 </rss>
