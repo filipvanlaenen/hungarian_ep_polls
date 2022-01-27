@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.0–4.6% | 1.8–5.0% | 1.6–5.2% | 1.3–5.6% |
+| N/A | [Poll Average](average.html) | 3.1% | 1.9–4.2% | 1.7–4.5% | 1.5–4.7% | 1.3–5.0% |
+| [4–14 January 2022](2022-01-14-IDEAIntézet.html) | IDEA Intézet | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [2–5 January 2022](2022-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [21–23 December 2021](2021-12-23-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 December 2021](2021-12-15-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -155,13 +156,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 23% | 98% |  |
-| 2.5–3.5% | 45% | 75% | Median |
-| 3.5–4.5% | 18% | 30% |  |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 26% | 97% |  |
+| 2.5–3.5% | 39% | 71% | Median |
+| 3.5–4.5% | 28% | 32% |  |
+| 4.5–5.5% | 3% | 4% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -173,6 +173,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–14 January 2022](2022-01-14-IDEAIntézet.html) | IDEA Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–5 January 2022](2022-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–23 December 2021](2021-12-23-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
 | [13–15 December 2021](2021-12-15-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
@@ -318,8 +319,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 16% | 16% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
 | 2 | 0% | 0% |  |
 
 
