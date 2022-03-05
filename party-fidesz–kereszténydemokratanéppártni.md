@@ -10,7 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49.2% | 45.8–53.4% | 44.9–54.6% | 44.2–55.4% | 43.0–56.7% |
+| N/A | [Poll Average](average.html) | 49.0% | 46.0–53.2% | 45.2–54.5% | 44.4–55.4% | 43.1–56.7% |
+| [22–26 February 2022](2022-02-26-Medián.html) | Medián | 49.0% | 47.1–50.9% | 46.5–51.5% | 46.0–52.0% | 45.1–52.9% |
+| [18–24 February 2022](2022-02-24-Republikon.html) | Republikon | 47.9% | 45.9–49.9% | 45.3–50.5% | 44.8–51.0% | 43.9–52.0% |
 | [14–16 February 2022](2022-02-16-NézőpontIntézet.html) | Nézőpont Intézet | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
 | [10–14 February 2022](2022-02-14-PublicusResearch.html) | Publicus Research | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
 | [9–11 February 2022](2022-02-11-Real-PR93.html) | Real-PR 93 | 53.9% | 51.9–55.9% | 51.3–56.5% | 50.8–57.0% | 49.8–57.9% |
@@ -164,17 +166,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 40.5–41.5% | 0% | 100% |  |
 | 41.5–42.5% | 0.2% | 100% |  |
-| 42.5–43.5% | 0.8% | 99.8% |  |
-| 43.5–44.5% | 2% | 98.9% |  |
-| 44.5–45.5% | 5% | 97% |  |
-| 45.5–46.5% | 8% | 91% |  |
-| 46.5–47.5% | 11% | 84% |  |
-| 47.5–48.5% | 14% | 73% |  |
-| 48.5–49.5% | 15% | 60% | Median |
-| 49.5–50.5% | 13% | 44% |  |
-| 50.5–51.5% | 10% | 31% | Last Result |
-| 51.5–52.5% | 7% | 21% |  |
-| 52.5–53.5% | 5% | 14% |  |
+| 42.5–43.5% | 0.7% | 99.8% |  |
+| 43.5–44.5% | 2% | 99.1% |  |
+| 44.5–45.5% | 4% | 97% |  |
+| 45.5–46.5% | 7% | 93% |  |
+| 46.5–47.5% | 12% | 86% |  |
+| 47.5–48.5% | 17% | 74% |  |
+| 48.5–49.5% | 19% | 58% | Median |
+| 49.5–50.5% | 14% | 39% |  |
+| 50.5–51.5% | 8% | 25% | Last Result |
+| 51.5–52.5% | 5% | 17% |  |
+| 52.5–53.5% | 4% | 13% |  |
 | 53.5–54.5% | 4% | 9% |  |
 | 54.5–55.5% | 3% | 5% |  |
 | 55.5–56.5% | 1.4% | 2% |  |
@@ -192,6 +194,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| [22–26 February 2022](2022-02-26-Medián.html) | Medián | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [18–24 February 2022](2022-02-24-Republikon.html) | Republikon | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [14–16 February 2022](2022-02-16-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [10–14 February 2022](2022-02-14-PublicusResearch.html) | Publicus Research | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [9–11 February 2022](2022-02-11-Real-PR93.html) | Real-PR 93 | 12 | 12 | 11–13 | 11–13 | 11–13 |
@@ -346,9 +350,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.6% | 100% |  |
-| 10 | 23% | 99.4% |  |
-| 11 | 53% | 76% | Median, Majority |
-| 12 | 22% | 23% | Last Result |
+| 10 | 22% | 99.4% |  |
+| 11 | 58% | 78% | Median, Majority |
+| 12 | 19% | 20% | Last Result |
 | 13 | 1.2% | 1.2% |  |
 | 14 | 0% | 0% |  |
 
