@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.3% | 2.5–4.3% | 2.3–4.6% | 2.2–4.8% | 1.9–5.3% |
+| [2–11 March 2022](2022-03-11-IDEAIntézet.html) | IDEA Intézet | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [26 February–5 March 2022](2022-03-05-e-benchmark.html) | e-benchmark | 0.0% | N/A | N/A | N/A | N/A |
 | [22–26 February 2022](2022-02-26-Medián.html) | Medián | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [18–24 February 2022](2022-02-24-Republikon.html) | Republikon | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [14–16 February 2022](2022-02-16-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -183,6 +185,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–11 March 2022](2022-03-11-IDEAIntézet.html) | IDEA Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 February–5 March 2022](2022-03-05-e-benchmark.html) | e-benchmark |  |  |  |  |  |
 | [22–26 February 2022](2022-02-26-Medián.html) | Medián | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 February 2022](2022-02-24-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0–1 |
 | [14–16 February 2022](2022-02-16-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
