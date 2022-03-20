@@ -49,7 +49,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 51.5% | 49.6% | 46.3–54.3% |45.3–55.3% | 44.6–56.0% | 43.2–57.2% |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 51.5% | 49.6% | 46.3–54.4% |45.3–55.4% | 44.6–56.1% | 43.2–57.3% |
 | <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 18.2% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 14.7% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 10.9% | N/A | N/A |N/A | N/A | N/A |
@@ -61,7 +61,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0.0% | 2.6% | 1.2–3.5% |0.9–3.8% | 0.8–4.0% | 0.6–4.4% |
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0.0% | 3.3% | 2.5–4.3% |2.3–4.6% | 2.2–4.8% | 1.9–5.3% |
-| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0.0% | 44.4% | 41.1–48.5% |40.2–49.5% | 39.5–50.4% | 38.2–51.8% |
+| <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0.0% | 44.3% | 41.1–48.4% |40.2–49.5% | 39.5–50.4% | 38.2–51.8% |
 
 ### Fidesz–Kereszténydemokrata Néppárt (NI)
 
@@ -81,13 +81,14 @@ Only polls for which at least the sample size has been published are included in
 | 49.5–50.5% | 14% | 51% | Median |
 | 50.5–51.5% | 9% | 37% | Last Result |
 | 51.5–52.5% | 6% | 28% |  |
-| 52.5–53.5% | 6% | 21% |  |
-| 53.5–54.5% | 6% | 15% |  |
+| 52.5–53.5% | 6% | 22% |  |
+| 53.5–54.5% | 6% | 16% |  |
 | 54.5–55.5% | 5% | 9% |  |
 | 55.5–56.5% | 3% | 4% |  |
-| 56.5–57.5% | 1.0% | 1.2% |  |
-| 57.5–58.5% | 0.2% | 0.3% |  |
+| 56.5–57.5% | 1.1% | 1.4% |  |
+| 57.5–58.5% | 0.3% | 0.3% |  |
 | 58.5–59.5% | 0% | 0% |  |
+| 59.5–60.5% | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (NI)
 
@@ -169,11 +170,11 @@ Only polls for which at least the sample size has been published are included in
 | 41.5–42.5% | 12% | 86% |  |
 | 42.5–43.5% | 14% | 74% |  |
 | 43.5–44.5% | 13% | 61% | Median |
-| 44.5–45.5% | 12% | 48% |  |
+| 44.5–45.5% | 12% | 47% |  |
 | 45.5–46.5% | 11% | 36% |  |
 | 46.5–47.5% | 9% | 25% |  |
-| 47.5–48.5% | 7% | 16% |  |
-| 48.5–49.5% | 5% | 10% |  |
+| 47.5–48.5% | 6% | 16% |  |
+| 48.5–49.5% | 4% | 9% |  |
 | 49.5–50.5% | 3% | 5% |  |
 | 50.5–51.5% | 1.4% | 2% |  |
 | 51.5–52.5% | 0.5% | 0.7% |  |
@@ -385,6 +386,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 256
-+ **Total number of simulations done in the polls included in this average:** 7,340,288
-+ **Error estimate:** 3.90%
++ **Lowest number of simulations done in a poll included in this average:** 1,024
++ **Total number of simulations done in the polls included in this average:** 7,341,056
++ **Error estimate:** 5.03%

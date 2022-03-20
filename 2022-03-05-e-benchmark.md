@@ -10,8 +10,8 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (NI) | 51.5% | 54.0% | 52.0–56.0% |51.4–56.6% |50.9–57.1% |49.9–58.0% |
-| United Opposition (S&D) | 0.0% | 46.0% | 44.0–48.0% |43.4–48.6% |42.9–49.1% |42.0–50.1% |
+| Fidesz–Kereszténydemokrata Néppárt (NI) | 51.5% | 54.2% | 52.1–56.2% |51.6–56.7% |51.1–57.2% |50.1–58.2% |
+| United Opposition (S&D) | 0.0% | 45.8% | 43.8–47.9% |43.3–48.4% |42.8–48.9% |41.8–49.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -80,7 +80,7 @@
 
 ### Calculations
 
-+ **Sample size:** 1000
-+ **Simulations done:** 256
-+ **Error estimate:** 3.90%
++ **Sample size:** 997
++ **Simulations done:** 1,024
++ **Error estimate:** 5.03%
 
