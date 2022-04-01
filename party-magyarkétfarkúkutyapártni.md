@@ -208,7 +208,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–27 March 2022](2022-03-27-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0–1 |
 | [23–25 March 2022](2022-03-25-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [21–25 March 2022](2022-03-25-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
-| [23–25 March 2022](2022-03-25-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0–1 | 0–1 |
+| [23–25 March 2022](2022-03-25-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0–1 |
 | [21–23 March 2022](2022-03-23-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
 | [16–21 March 2022](2022-03-21-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0–1 |
 | [16–18 March 2022](2022-03-18-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |

@@ -25,7 +25,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 12 | 11 | 10–11 |10–11 |10–12 |9–12 |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 12 | 11 | 10–11 |10–11 |10–11 |9–12 |
 | <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | 10 | 9–11 |9–11 |9–11 |9–11 |
 
 ### Fidesz–Kereszténydemokrata Néppárt (NI)
@@ -36,10 +36,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.6% | 100% |  |
-| 10 | 43% | 99.4% |  |
-| 11 | 54% | 57% | Median, Majority |
-| 12 | 3% | 3% | Last Result |
+| 9 | 0.7% | 100% |  |
+| 10 | 42% | 99.3% |  |
+| 11 | 55% | 58% | Median, Majority |
+| 12 | 2% | 2% | Last Result |
 | 13 | 0% | 0% |  |
 
 ### United Opposition (S&D)
@@ -60,8 +60,8 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 15% | 100% |  |
-| 10 | 72% | 84% | Median |
-| 11 | 13% | 13% | Majority |
+| 10 | 73% | 85% | Median |
+| 11 | 12% | 12% | Majority |
 | 12 | 0% | 0% |  |
 
 
@@ -86,6 +86,6 @@
 ### Calculations
 
 + **Sample size:** 800
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.61%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.38%
 
