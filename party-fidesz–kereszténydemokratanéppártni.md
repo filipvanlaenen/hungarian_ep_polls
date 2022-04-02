@@ -10,7 +10,8 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49.8% | 47.3–53.2% | 46.6–54.3% | 46.1–55.2% | 45.0–56.6% |
+| N/A | [Poll Average](average.html) | 49.7% | 47.0–53.2% | 46.2–54.3% | 45.5–55.2% | 44.3–56.6% |
+| [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 47.0% | 45.0–49.0% | 44.5–49.6% | 44.0–50.1% | 43.0–51.1% |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 50.0% | 47.4–52.6% | 46.6–53.4% | 46.0–54.0% | 44.7–55.3% |
 | [26–29 March 2022](2022-03-29-Republikon.html) | Republikon | 49.2% | 47.0–51.5% | 46.3–52.2% | 45.8–52.7% | 44.7–53.8% |
 | [28 March 2022](2022-03-28-Real-PR93.html) | Real-PR 93 | 49.0% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 44.9–53.1% |
@@ -180,16 +181,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0.2% | 100% |  |
-| 44.5–45.5% | 1.0% | 99.7% |  |
-| 45.5–46.5% | 3% | 98.7% |  |
-| 46.5–47.5% | 8% | 95% |  |
-| 47.5–48.5% | 14% | 87% |  |
-| 48.5–49.5% | 19% | 73% |  |
-| 49.5–50.5% | 18% | 54% | Median |
+| 41.5–42.5% | 0% | 100% |  |
+| 42.5–43.5% | 0.1% | 100% |  |
+| 43.5–44.5% | 0.6% | 99.9% |  |
+| 44.5–45.5% | 2% | 99.3% |  |
+| 45.5–46.5% | 4% | 97% |  |
+| 46.5–47.5% | 9% | 93% |  |
+| 47.5–48.5% | 14% | 85% |  |
+| 48.5–49.5% | 18% | 71% |  |
+| 49.5–50.5% | 18% | 53% | Median |
 | 50.5–51.5% | 13% | 36% | Last Result |
-| 51.5–52.5% | 9% | 23% |  |
+| 51.5–52.5% | 8% | 23% |  |
 | 52.5–53.5% | 6% | 14% |  |
 | 53.5–54.5% | 4% | 8% |  |
 | 54.5–55.5% | 3% | 4% |  |
@@ -208,6 +210,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [26–29 March 2022](2022-03-29-Republikon.html) | Republikon | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [28 March 2022](2022-03-28-Real-PR93.html) | Real-PR 93 | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
@@ -380,9 +383,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 11% | 99.9% |  |
-| 11 | 70% | 88% | Median, Majority |
-| 12 | 19% | 19% | Last Result |
+| 10 | 14% | 99.9% |  |
+| 11 | 67% | 86% | Median, Majority |
+| 12 | 18% | 19% | Last Result |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
