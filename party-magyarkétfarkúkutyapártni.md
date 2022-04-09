@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.3–4.3% | 1.0–4.7% | 0.8–5.1% | 0.6–5.8% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.3–4.5% | 1.0–5.0% | 0.8–5.4% | 0.6–6.3% |
+| [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 4.5% | 3.6–5.8% | 3.3–6.1% | 3.1–6.5% | 2.7–7.1% |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 4.0% | 3.1–5.2% | 2.9–5.6% | 2.7–5.9% | 2.3–6.5% |
 | [28–30 March 2022](2022-03-30-Társadalomkutató.html) | Társadalomkutató | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -185,11 +186,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0.3% | 100% | Last Result |
 | 0.5–1.5% | 13% | 99.7% |  |
 | 1.5–2.5% | 27% | 87% |  |
-| 2.5–3.5% | 33% | 60% | Median |
-| 3.5–4.5% | 21% | 28% |  |
-| 4.5–5.5% | 6% | 7% |  |
-| 5.5–6.5% | 0.8% | 0.9% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 31% | 60% | Median |
+| 3.5–4.5% | 20% | 29% |  |
+| 4.5–5.5% | 8% | 10% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.2% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -202,6 +203,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–30 March 2022](2022-03-30-Társadalomkutató.html) | Társadalomkutató | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -375,8 +377,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 16% | 16% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 

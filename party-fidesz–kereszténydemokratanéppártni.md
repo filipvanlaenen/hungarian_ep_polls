@@ -10,7 +10,8 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49.5% | 47.0–52.8% | 46.2–54.1% | 45.5–55.1% | 44.3–56.6% |
+| N/A | [Poll Average](average.html) | 49.4% | 46.8–52.6% | 46.1–54.1% | 45.4–55.1% | 44.2–56.6% |
+| [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 49.0% | 46.4–51.6% | 45.6–52.4% | 45.0–53.0% | 43.8–54.3% |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 47.0% | 45.0–49.0% | 44.5–49.6% | 44.0–50.1% | 43.0–51.1% |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 50.0% | 47.4–52.6% | 46.6–53.4% | 46.0–54.0% | 44.7–55.3% |
 | [28–30 March 2022](2022-03-30-Társadalomkutató.html) | Társadalomkutató | 49.9% | 47.9–51.9% | 47.3–52.5% | 46.8–53.0% | 45.8–54.0% |
@@ -184,16 +185,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 41.5–42.5% | 0% | 100% |  |
 | 42.5–43.5% | 0.1% | 100% |  |
-| 43.5–44.5% | 0.6% | 99.9% |  |
-| 44.5–45.5% | 2% | 99.3% |  |
-| 45.5–46.5% | 4% | 97% |  |
-| 46.5–47.5% | 9% | 93% |  |
-| 47.5–48.5% | 15% | 84% |  |
-| 48.5–49.5% | 20% | 69% |  |
-| 49.5–50.5% | 19% | 50% | Median |
-| 50.5–51.5% | 13% | 31% | Last Result |
-| 51.5–52.5% | 7% | 18% |  |
-| 52.5–53.5% | 4% | 11% |  |
+| 43.5–44.5% | 0.6% | 99.8% |  |
+| 44.5–45.5% | 2% | 99.2% |  |
+| 45.5–46.5% | 5% | 97% |  |
+| 46.5–47.5% | 10% | 92% |  |
+| 47.5–48.5% | 15% | 83% |  |
+| 48.5–49.5% | 20% | 67% | Median |
+| 49.5–50.5% | 19% | 48% |  |
+| 50.5–51.5% | 12% | 29% | Last Result |
+| 51.5–52.5% | 6% | 17% |  |
+| 52.5–53.5% | 4% | 10% |  |
 | 53.5–54.5% | 3% | 7% |  |
 | 54.5–55.5% | 2% | 4% |  |
 | 55.5–56.5% | 1.1% | 2% |  |
@@ -211,6 +212,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [28–30 March 2022](2022-03-30-Társadalomkutató.html) | Társadalomkutató | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
@@ -384,10 +386,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 15% | 99.9% |  |
-| 11 | 73% | 85% | Median, Majority |
-| 12 | 12% | 12% | Last Result |
+| 9 | 0.2% | 100% |  |
+| 10 | 17% | 99.8% |  |
+| 11 | 72% | 83% | Median, Majority |
+| 12 | 11% | 11% | Last Result |
 | 13 | 0% | 0% |  |
 
 
