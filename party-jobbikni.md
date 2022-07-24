@@ -10,13 +10,13 @@ Last result: **14.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
+| N/A | [Poll Average](average.html) | 5.7% | 3.1–7.2% | 2.7–7.6% | 2.5–8.0% | 2.1–8.7% |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
-| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 6.0% | N/A | N/A | N/A | N/A |
-| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 5.0% | N/A | N/A | N/A | N/A |
-| [26–30 April 2022](2022-04-30-Medián.html) | Medián | 3.0% | N/A | N/A | N/A | N/A |
-| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon | 6.0% | N/A | N/A | N/A | N/A |
+| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
+| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| [26–30 April 2022](2022-04-30-Medián.html) | Medián | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
@@ -189,13 +189,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 27% | 97% |  |
-| 6.5–7.5% | 46% | 70% | Median |
-| 7.5–8.5% | 21% | 24% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 13% | 97% |  |
+| 3.5–4.5% | 8% | 84% |  |
+| 4.5–5.5% | 20% | 75% |  |
+| 5.5–6.5% | 32% | 56% | Median |
+| 6.5–7.5% | 18% | 23% |  |
+| 7.5–8.5% | 5% | 6% |  |
+| 8.5–9.5% | 0.6% | 0.7% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -211,13 +214,13 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
-| [26–30 April 2022](2022-04-30-Medián.html) | Medián |  |  |  |  |  |
-| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon |  |  |  |  |  |
+| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 1 | 1 | 1 | 1 | 1 |
+| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [26–30 April 2022](2022-04-30-Medián.html) | Medián | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon | 1 | 1 | 1 | 1 | 1–2 |
 | [31 March–1 April 2022](2022-04-01-Medián.html) | Medián |  |  |  |  |  |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián |  |  |  |  |  |
@@ -392,8 +395,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
+| 0 | 19% | 100% |  |
+| 1 | 79% | 81% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% | Last Result |
 
 
