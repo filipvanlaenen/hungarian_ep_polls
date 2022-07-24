@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.3–4.5% | 1.0–5.0% | 0.8–5.4% | 0.6–6.3% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 8.1% | N/A | N/A | N/A | N/A |
+| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 4.0% | N/A | N/A | N/A | N/A |
+| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
+| [26–30 April 2022](2022-04-30-Medián.html) | Medián | 6.0% | N/A | N/A | N/A | N/A |
+| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon | 2.0% | N/A | N/A | N/A | N/A |
 | [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 4.5% | 3.6–5.8% | 3.3–6.1% | 3.1–6.5% | 2.7–7.1% |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 4.0% | 3.1–5.2% | 2.9–5.6% | 2.7–5.9% | 2.3–6.5% |
@@ -183,15 +189,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 13% | 99.7% |  |
-| 1.5–2.5% | 27% | 87% |  |
-| 2.5–3.5% | 31% | 60% | Median |
-| 3.5–4.5% | 20% | 29% |  |
-| 4.5–5.5% | 8% | 10% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.2% | 0.3% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.5% | 100% |  |
+| 6.5–7.5% | 9% | 99.5% |  |
+| 7.5–8.5% | 36% | 90% |  |
+| 8.5–9.5% | 38% | 55% | Median |
+| 9.5–10.5% | 14% | 16% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -202,7 +213,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
+| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [26–30 April 2022](2022-04-30-Medián.html) | Medián |  |  |  |  |  |
+| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon |  |  |  |  |  |
 | [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -377,8 +394,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 23% | 100% |  |
+| 2 | 77% | 77% | Median |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
