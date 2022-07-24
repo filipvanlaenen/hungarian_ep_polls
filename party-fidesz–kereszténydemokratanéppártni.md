@@ -12,7 +12,7 @@ Last result: **51.5%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 56.3% | 54.3–58.3% | 53.7–58.9% | 53.2–59.3% | 52.2–60.3% |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 56.3% | 54.3–58.3% | 53.7–58.9% | 53.2–59.4% | 52.2–60.3% |
-| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 57.9% | N/A | N/A | N/A | N/A |
+| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 57.9% | 55.9–59.9% | 55.3–60.4% | 54.8–60.9% | 53.8–61.9% |
 | [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 57.0% | N/A | N/A | N/A | N/A |
 | [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 60.0% | N/A | N/A | N/A | N/A |
 | [26–30 April 2022](2022-04-30-Medián.html) | Medián | 60.0% | N/A | N/A | N/A | N/A |
@@ -214,7 +214,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 13–14 | 13–14 | 13–15 | 12–15 |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 13–14 | 13–14 | 13–15 | 12–15 |
-| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 14 | 14–15 | 14–15 | 13–15 | 13–15 |
 | [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [26–30 April 2022](2022-04-30-Medián.html) | Medián |  |  |  |  |  |
