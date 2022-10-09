@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 7.0–9.2% | 6.7–9.5% | 6.5–9.9% | 6.0–10.4% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.4–9.4% | 6.0–9.7% | 5.8–10.0% | 5.3–10.6% |
 | [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
-| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 9.0% | N/A | N/A | N/A | N/A |
-| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet | 6.8% | N/A | N/A | N/A | N/A |
+| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
+| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
 | [27 July–7 August 2022](2022-08-07-IDEAIntézet.html) | IDEA Intézet | 9.0% | N/A | N/A | N/A | N/A |
-| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 7.3% | N/A | N/A | N/A | N/A |
+| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 7.3% | 6.3–8.4% | 6.1–8.8% | 5.8–9.1% | 5.4–9.6% |
 | [9–20 July 2022](2022-07-20-IDEAIntézet.html) | IDEA Intézet | 9.0% | N/A | N/A | N/A | N/A |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 5.2% | N/A | N/A | N/A | N/A |
 | [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 6.2% | N/A | N/A | N/A | N/A |
@@ -200,13 +200,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 3% | 99.9% |  |
-| 6.5–7.5% | 24% | 97% |  |
-| 7.5–8.5% | 44% | 73% | Median |
-| 8.5–9.5% | 24% | 29% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 1.2% | 100% |  |
+| 5.5–6.5% | 12% | 98.8% |  |
+| 6.5–7.5% | 28% | 86% |  |
+| 7.5–8.5% | 29% | 58% | Median |
+| 8.5–9.5% | 22% | 29% |  |
+| 9.5–10.5% | 6% | 7% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -220,10 +220,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2 | 2 | 1–2 |
+| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [27 July–7 August 2022](2022-08-07-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–20 July 2022](2022-07-20-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
@@ -406,8 +406,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 29% | 100% |  |
-| 2 | 71% | 71% | Median |
+| 1 | 48% | 100% |  |
+| 2 | 52% | 52% | Median |
 | 3 | 0% | 0% |  |
 
 

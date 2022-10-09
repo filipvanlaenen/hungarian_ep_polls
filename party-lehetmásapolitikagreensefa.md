@@ -10,12 +10,12 @@ Last result: **5.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.7% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.3% | 1.6–3.6% | 1.5–3.8% | 1.3–4.3% |
 | [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet | 2.1% | N/A | N/A | N/A | N/A |
+| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% |
+| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [27 July–7 August 2022](2022-08-07-IDEAIntézet.html) | IDEA Intézet | 1.0% | N/A | N/A | N/A | N/A |
-| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 2.4% | N/A | N/A | N/A | N/A |
+| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.5% | 1.4–3.9% |
 | [9–20 July 2022](2022-07-20-IDEAIntézet.html) | IDEA Intézet | 1.0% | N/A | N/A | N/A | N/A |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 1.9% | N/A | N/A | N/A | N/A |
 | [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 1.8% | N/A | N/A | N/A | N/A |
@@ -195,11 +195,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 16% | 100% |  |
-| 2.5–3.5% | 65% | 84% | Median |
-| 3.5–4.5% | 19% | 20% |  |
-| 4.5–5.5% | 0.8% | 0.8% | Last Result |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 57% | 96% | Median |
+| 2.5–3.5% | 33% | 39% |  |
+| 3.5–4.5% | 5% | 6% |  |
+| 4.5–5.5% | 0.2% | 0.2% | Last Result |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -211,12 +212,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
+| [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [27 July–7 August 2022](2022-08-07-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0–1 |
 | [9–20 July 2022](2022-07-20-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
@@ -398,8 +399,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Median |
-| 1 | 7% | 7% | Last Result |
+| 0 | 98% | 100% | Median |
+| 1 | 2% | 2% | Last Result |
 | 2 | 0% | 0% |  |
 
 
