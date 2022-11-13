@@ -1,33 +1,33 @@
-# Párbeszéd (Greens/EFA)
+# Nép Pártján (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **7.2%** (General Election of 26 May 2019)
+Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.3% | 1.5–3.6% | 1.4–3.8% | 1.2–4.3% |
-| [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| N/A | [Poll Average](average.html) | 1.8% | 0.8–3.1% | 0.7–3.4% | 0.6–3.6% | 0.5–4.0% |
+| [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [15–21 October 2022](2022-10-21-Medián.html) | Medián | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
-| [17–19 October 2022](2022-10-19-NézőpontIntézet.html) | Nézőpont Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [29 September–9 October 2022](2022-10-09-IDEAIntézet.html) | IDEA Intézet | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.3–3.1% |
-| [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
+| [17–19 October 2022](2022-10-19-NézőpontIntézet.html) | Nézőpont Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [29 September–9 October 2022](2022-10-09-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
-| [25–30 August 2022](2022-08-30-PublicusResearch.html) | Publicus Research | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
-| [27 July–7 August 2022](2022-08-07-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 1.2% | N/A | N/A | N/A | N/A |
-| [9–20 July 2022](2022-07-20-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 1.9% | N/A | N/A | N/A | N/A |
-| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 1.8% | N/A | N/A | N/A | N/A |
-| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% |
-| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [26–30 April 2022](2022-04-30-Medián.html) | Medián | 1.0% | N/A | N/A | N/A | N/A |
-| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [25–30 August 2022](2022-08-30-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
+| [27 July–7 August 2022](2022-08-07-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
+| [9–20 July 2022](2022-07-20-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 April 2022](2022-04-30-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
+| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–1 April 2022](2022-04-01-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
@@ -125,117 +125,116 @@ Last result: **7.2%** (General Election of 26 May 2019)
 | [14–21 January 2021](2021-01-21-Republikon.html) | Republikon | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 January 2021](2021-01-20-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 December 2020](2020-12-31-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
-| [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 3.0% | N/A | N/A | N/A | N/A |
-| [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [1–8 December 2020](2020-12-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
-| [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 2.0% | N/A | N/A | N/A | N/A |
-| [18–21 November 2020](2020-11-21-PublicusResearch.html) | Publicus Research | 2.1% | N/A | N/A | N/A | N/A |
-| [3–17 November 2020](2020-11-17-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
-| [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 2.0% | N/A | N/A | N/A | N/A |
-| [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 1.0% | N/A | N/A | N/A | N/A |
-| [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
-| [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 1.0% | N/A | N/A | N/A | N/A |
-| [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
-| [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 2.0% | N/A | N/A | N/A | N/A |
-| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 1.0% | N/A | N/A | N/A | N/A |
-| [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
-| [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [13–15 July 2020](2020-07-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
+| [8–15 December 2020](2020-12-15-Republikon.html) | Republikon | 0.0% | N/A | N/A | N/A | N/A |
+| [11–15 December 2020](2020-12-15-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [1–8 December 2020](2020-12-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [30 November–4 December 2020](2020-12-04-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [16–23 November 2020](2020-11-23-Republikon.html) | Republikon | 0.0% | N/A | N/A | N/A | N/A |
+| [18–21 November 2020](2020-11-21-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
+| [3–17 November 2020](2020-11-17-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [31 October–5 November 2020](2020-11-05-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [19–26 October 2020](2020-10-26-Republikon.html) | Republikon | 0.0% | N/A | N/A | N/A | N/A |
+| [15–20 October 2020](2020-10-20-IránytűIntézet.html) | Iránytű Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [5–15 October 2020](2020-10-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [30 September–4 October 2020](2020-10-04-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 September 2020](2020-09-25-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
+| [7–18 September 2020](2020-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [27–31 August 2020](2020-08-31-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
+| [27–31 August 2020](2020-08-31-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [14–24 August 2020](2020-08-24-Republikon.html) | Republikon | 0.0% | N/A | N/A | N/A | N/A |
+| [5–19 August 2020](2020-08-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [30 July–3 August 2020](2020-08-03-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 July 2020](2020-07-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–2 July 2020](2020-07-02-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
-| [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
+| [27–30 June 2020](2020-06-30-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 June 2020](2020-06-10-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 June 2020](2020-06-05-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
-| [28 May–5 June 2020](2020-06-05-Medián.html) | Medián | 2.0% | N/A | N/A | N/A | N/A |
-| [27–31 May 2020](2020-05-31-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
+| [28 May–5 June 2020](2020-06-05-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
+| [27–31 May 2020](2020-05-31-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 May 2020](2020-05-22-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 May 2020](2020-05-08-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
-| [20–26 April 2020](2020-04-26-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
+| [20–26 April 2020](2020-04-26-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 April 2020](2020-04-19-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [14–18 April 2020](2020-04-18-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 March 2020](2020-03-21-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
-| [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
+| [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 March 2020](2020-03-10-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
-| [1–29 February 2020](2020-02-29-Medián.html) | Medián | 1.0% | N/A | N/A | N/A | N/A |
-| [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
-| [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
+| [1–29 February 2020](2020-02-29-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
+| [13–20 February 2020](2020-02-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [31 January–12 February 2020](2020-02-12-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [13–20 January 2020](2020-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 January 2020](2020-01-16-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [14–20 December 2019](2019-12-20-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
-| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | N/A | N/A | N/A | N/A |
+| [8–15 December 2019](2019-12-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [28 November–5 December 2019](2019-12-05-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
-| [29 November–3 December 2019](2019-12-03-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [1–30 November 2019](2019-11-30-NézőpontIntézet.html) | Nézőpont Intézet | 0.2% | N/A | N/A | N/A | N/A |
-| [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
-| [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
+| [29 November–3 December 2019](2019-12-03-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [1–30 November 2019](2019-11-30-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [8–16 November 2019](2019-11-16-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [29–31 October 2019](2019-10-31-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [14–27 October 2019](2019-10-27-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
-| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 0.2% | N/A | N/A | N/A | N/A |
+| [18–23 October 2019](2019-10-23-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 October 2019](2019-10-22-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [20–26 September 2019](2019-09-26-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-Századvég.html) | Századvég | 0.0% | N/A | N/A | N/A | N/A |
-| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
-| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.1% | N/A | N/A | N/A | N/A |
+| [20–24 September 2019](2019-09-24-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [7–15 September 2019](2019-09-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1–26 August 2019](2019-08-26-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 August 2019](2019-08-17-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
-| [4–14 August 2019](2019-08-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
+| [4–14 August 2019](2019-08-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [2–28 July 2019](2019-07-28-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
-| [23–26 July 2019](2019-07-26-IDEAIntézet.html) | IDEA Intézet | 1.0% | N/A | N/A | N/A | N/A |
+| [23–26 July 2019](2019-07-26-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 July 2019](2019-07-23-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
-| [4–14 July 2019](2019-07-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
-| [28 June–2 July 2019](2019-07-02-Medián.html) | Medián | 1.0% | N/A | N/A | N/A | N/A |
+| [4–14 July 2019](2019-07-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [28 June–2 July 2019](2019-07-02-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 June 2019](2019-06-27-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–26 June 2019](2019-06-26-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
-| [4–14 June 2019](2019-06-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | N/A | N/A | N/A | N/A |
-| [5–9 June 2019](2019-06-09-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
+| [4–14 June 2019](2019-06-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 June 2019](2019-06-09-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Párbeszéd (Greens/EFA).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Nép Pártján (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 58% | 95% | Median |
-| 2.5–3.5% | 32% | 37% |  |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 1.2% | 100% | Last Result |
+| 0.5–1.5% | 44% | 98.8% |  |
+| 1.5–2.5% | 25% | 54% | Median |
+| 2.5–3.5% | 27% | 30% |  |
+| 3.5–4.5% | 3% | 3% |  |
+| 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% | Last Result |
 
 
 ## Seats
 
-Last result: **1** seats (General Election of 26 May 2019)
+Last result: **0** seats (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [15–21 October 2022](2022-10-21-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
+| [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [15–21 October 2022](2022-10-21-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0–1 |
 | [17–19 October 2022](2022-10-19-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
-| [29 September–9 October 2022](2022-10-09-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
-| [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
-| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0–1 |
+| [29 September–9 October 2022](2022-10-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
+| [14–22 September 2022](2022-09-22-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [31 August–9 September 2022](2022-09-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [29–31 August 2022](2022-08-31-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
-| [25–30 August 2022](2022-08-30-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [25–30 August 2022](2022-08-30-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [27 July–7 August 2022](2022-08-07-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [9–22 July 2022](2022-07-22-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [9–20 July 2022](2022-07-20-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [11–13 July 2022](2022-07-13-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–22 June 2022](2022-06-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
-| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
-| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| [29 April–9 May 2022](2022-05-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
+| [25 April–4 May 2022](2022-05-04-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [26–30 April 2022](2022-04-30-Medián.html) | Medián |  |  |  |  |  |
-| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–24 April 2022](2022-04-24-Republikon.html) | Republikon |  |  |  |  |  |
 | [31 March–1 April 2022](2022-04-01-Medián.html) | Medián |  |  |  |  |  |
 | [29–31 March 2022](2022-03-31-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-Medián.html) | Medián |  |  |  |  |  |
@@ -367,7 +366,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [16–18 April 2020](2020-04-18-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [17–21 March 2020](2020-03-21-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [17–20 March 2020](2020-03-20-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
+| [12–14 March 2020](2020-03-14-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [3–13 March 2020](2020-03-13-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [5–10 March 2020](2020-03-10-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [1–29 February 2020](2020-02-29-Medián.html) | Medián |  |  |  |  |  |
@@ -404,14 +403,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-párbeszédgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-néppártján.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Párbeszéd (Greens/EFA).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Nép Pártján (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Median |
-| 1 | 1.4% | 1.4% | Last Result |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 
