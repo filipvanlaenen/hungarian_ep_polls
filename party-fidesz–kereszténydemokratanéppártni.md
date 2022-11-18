@@ -10,7 +10,8 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.4% | 47.2–56.1% | 46.3–57.1% | 45.6–57.9% | 44.3–59.1% |
+| N/A | [Poll Average](average.html) | 52.0% | 47.2–56.1% | 46.3–57.1% | 45.6–57.9% | 44.3–59.1% |
+| [28 October–8 November 2022](2022-11-08-IDEAIntézet.html) | IDEA Intézet | 53.4% | 51.9–54.9% | 51.5–55.4% | 51.1–55.8% | 50.4–56.5% |
 | [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet | 47.4% | 45.4–49.4% | 44.8–50.0% | 44.3–50.5% | 43.3–51.5% |
 | [15–21 October 2022](2022-10-21-Medián.html) | Medián | 49.9% | 47.8–51.9% | 47.2–52.4% | 46.7–52.9% | 45.8–53.9% |
 | [17–19 October 2022](2022-10-19-NézőpontIntézet.html) | Nézőpont Intézet | 56.1% | 54.1–58.1% | 53.5–58.7% | 53.0–59.2% | 52.0–60.1% |
@@ -207,14 +208,14 @@ The following table shows the probability mass function per percentage block of 
 | 45.5–46.5% | 4% | 98% |  |
 | 46.5–47.5% | 6% | 94% |  |
 | 47.5–48.5% | 7% | 88% |  |
-| 48.5–49.5% | 9% | 80% |  |
-| 49.5–50.5% | 11% | 72% |  |
-| 50.5–51.5% | 13% | 61% | Last Result, Median |
-| 51.5–52.5% | 14% | 47% |  |
-| 52.5–53.5% | 10% | 34% |  |
-| 53.5–54.5% | 6% | 24% |  |
-| 54.5–55.5% | 5% | 18% |  |
-| 55.5–56.5% | 5% | 13% |  |
+| 48.5–49.5% | 8% | 80% |  |
+| 49.5–50.5% | 9% | 72% |  |
+| 50.5–51.5% | 9% | 63% | Last Result |
+| 51.5–52.5% | 11% | 54% | Median |
+| 52.5–53.5% | 12% | 43% |  |
+| 53.5–54.5% | 10% | 32% |  |
+| 54.5–55.5% | 8% | 21% |  |
+| 55.5–56.5% | 6% | 14% |  |
 | 56.5–57.5% | 4% | 8% |  |
 | 57.5–58.5% | 2% | 4% |  |
 | 58.5–59.5% | 0.9% | 1.2% |  |
@@ -231,6 +232,7 @@ Last result: **12** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
+| [28 October–8 November 2022](2022-11-08-IDEAIntézet.html) | IDEA Intézet | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
 | [15–21 October 2022](2022-10-21-Medián.html) | Medián | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [17–19 October 2022](2022-10-19-NézőpontIntézet.html) | Nézőpont Intézet | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
@@ -424,9 +426,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 9% | 99.8% | Majority |
-| 12 | 22% | 91% | Last Result |
-| 13 | 47% | 69% | Median |
-| 14 | 18% | 22% |  |
+| 12 | 18% | 91% | Last Result |
+| 13 | 49% | 73% | Median |
+| 14 | 20% | 24% |  |
 | 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
