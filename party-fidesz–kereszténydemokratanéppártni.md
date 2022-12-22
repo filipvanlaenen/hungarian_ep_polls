@@ -10,7 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50.7% | 47.1–56.1% | 46.2–57.1% | 45.5–57.9% | 44.3–59.1% |
+| N/A | [Poll Average](average.html) | 49.0% | 45.3–56.1% | 44.6–57.1% | 44.0–57.9% | 42.8–59.1% |
+| [29 November–12 December 2022](2022-12-12-IDEAIntézet.html) | IDEA Intézet | 46.6% | 45.1–48.1% | 44.6–48.5% | 44.2–48.9% | 43.5–49.6% |
+| [23–28 November 2022](2022-11-28-RepublikonIntézet.html) | Republikon Intézet | 45.9% | 43.9–47.9% | 43.3–48.5% | 42.8–49.0% | 41.9–50.0% |
 | [14–22 November 2022](2022-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 50.0% | 48.0–52.0% | 47.4–52.6% | 46.9–53.1% | 45.9–54.1% |
 | [28 October–8 November 2022](2022-11-08-IDEAIntézet.html) | IDEA Intézet | 52.0% | 50.5–53.5% | 50.1–53.9% | 49.7–54.3% | 49.0–55.0% |
 | [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet | 47.4% | 45.4–49.4% | 44.8–50.0% | 44.3–50.5% | 43.3–51.5% |
@@ -202,19 +204,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 41.5–42.5% | 0% | 100% |  |
-| 42.5–43.5% | 0.1% | 100% |  |
-| 43.5–44.5% | 0.6% | 99.9% |  |
-| 44.5–45.5% | 2% | 99.3% |  |
-| 45.5–46.5% | 4% | 97% |  |
-| 46.5–47.5% | 7% | 93% |  |
-| 47.5–48.5% | 10% | 87% |  |
-| 48.5–49.5% | 12% | 77% |  |
-| 49.5–50.5% | 13% | 65% |  |
-| 50.5–51.5% | 13% | 52% | Last Result, Median |
-| 51.5–52.5% | 11% | 39% |  |
-| 52.5–53.5% | 7% | 28% |  |
-| 53.5–54.5% | 4% | 21% |  |
+| 40.5–41.5% | 0% | 100% |  |
+| 41.5–42.5% | 0.3% | 99.9% |  |
+| 42.5–43.5% | 1.1% | 99.7% |  |
+| 43.5–44.5% | 3% | 98.6% |  |
+| 44.5–45.5% | 8% | 95% |  |
+| 45.5–46.5% | 11% | 88% |  |
+| 46.5–47.5% | 12% | 76% |  |
+| 47.5–48.5% | 10% | 64% |  |
+| 48.5–49.5% | 10% | 54% | Median |
+| 49.5–50.5% | 10% | 44% |  |
+| 50.5–51.5% | 8% | 34% | Last Result |
+| 51.5–52.5% | 4% | 26% |  |
+| 52.5–53.5% | 2% | 22% |  |
+| 53.5–54.5% | 3% | 19% |  |
 | 54.5–55.5% | 4% | 17% |  |
 | 55.5–56.5% | 5% | 13% |  |
 | 56.5–57.5% | 4% | 8% |  |
@@ -232,7 +235,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
+| [29 November–12 December 2022](2022-12-12-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 11–13 | 11–13 |
+| [23–28 November 2022](2022-11-28-RepublikonIntézet.html) | Republikon Intézet | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [14–22 November 2022](2022-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [28 October–8 November 2022](2022-11-08-IDEAIntézet.html) | IDEA Intézet | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
 | [19–24 October 2022](2022-10-24-RepublikonIntézet.html) | Republikon Intézet | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
@@ -426,11 +431,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 10% | 99.8% | Majority |
-| 12 | 25% | 90% | Last Result |
-| 13 | 44% | 65% | Median |
-| 14 | 17% | 21% |  |
+| 10 | 6% | 100% |  |
+| 11 | 22% | 94% | Majority |
+| 12 | 25% | 72% | Last Result, Median |
+| 13 | 28% | 47% |  |
+| 14 | 15% | 19% |  |
 | 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
