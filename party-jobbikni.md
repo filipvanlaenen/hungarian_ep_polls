@@ -10,7 +10,7 @@ Last result: **14.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.6–5.8% | 3.4–6.1% | 3.2–6.3% | 2.8–6.9% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.7–5.8% | 3.5–6.1% | 3.3–6.4% | 3.1–6.9% |
 | [2–6 January 2023](2023-01-06-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [9–15 December 2022](2022-12-15-Medián.html) | Medián | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [29 November–12 December 2022](2022-12-12-IDEAIntézet.html) | IDEA Intézet | 3.9% | 3.4–4.6% | 3.3–4.8% | 3.1–5.0% | 2.9–5.3% |
@@ -206,13 +206,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 9% | 99.9% |  |
-| 3.5–4.5% | 39% | 91% |  |
-| 4.5–5.5% | 37% | 52% | Median |
-| 5.5–6.5% | 14% | 15% |  |
-| 6.5–7.5% | 1.4% | 1.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 39% | 94% |  |
+| 4.5–5.5% | 39% | 55% | Median |
+| 5.5–6.5% | 15% | 16% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -428,8 +428,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 81% | 81% | Median |
+| 0 | 12% | 100% |  |
+| 1 | 88% | 88% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
