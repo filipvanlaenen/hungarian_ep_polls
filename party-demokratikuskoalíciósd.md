@@ -10,10 +10,8 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 11.5–20.8% | 11.0–21.4% | 10.6–21.9% | 9.9–22.9% |
-| [2–6 January 2023](2023-01-06-RepublikonIntézet.html) | Republikon Intézet | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
-| [9–15 December 2022](2022-12-15-Medián.html) | Medián | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
-| [29 November–12 December 2022](2022-12-12-IDEAIntézet.html) | IDEA Intézet | 18.8% | 17.7–20.1% | 17.4–20.4% | 17.1–20.7% | 16.6–21.3% |
+| N/A | [Poll Average](average.html) | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [2–4 January 2023](2023-01-04-NézőpontIntézet.html) | Nézőpont Intézet | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [23–28 November 2022](2022-11-28-RepublikonIntézet.html) | Republikon Intézet | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [14–22 November 2022](2022-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [28 October–8 November 2022](2022-11-08-IDEAIntézet.html) | IDEA Intézet | 19.0% | 17.8–20.2% | 17.5–20.6% | 17.3–20.9% | 16.7–21.5% |
@@ -206,24 +204,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 2% | 99.8% | Last Result |
-| 10.5–11.5% | 8% | 98% |  |
-| 11.5–12.5% | 12% | 90% |  |
-| 12.5–13.5% | 8% | 77% |  |
-| 13.5–14.5% | 2% | 69% |  |
-| 14.5–15.5% | 0.3% | 67% |  |
-| 15.5–16.5% | 0.2% | 67% |  |
-| 16.5–17.5% | 3% | 66% |  |
-| 17.5–18.5% | 13% | 64% |  |
-| 18.5–19.5% | 21% | 51% | Median |
-| 19.5–20.5% | 16% | 29% |  |
-| 20.5–21.5% | 9% | 13% |  |
-| 21.5–22.5% | 3% | 4% |  |
-| 22.5–23.5% | 0.8% | 0.9% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% | Last Result |
+| 10.5–11.5% | 0.8% | 100% |  |
+| 11.5–12.5% | 7% | 99.2% |  |
+| 12.5–13.5% | 24% | 92% |  |
+| 13.5–14.5% | 35% | 68% | Median |
+| 14.5–15.5% | 23% | 32% |  |
+| 15.5–16.5% | 8% | 9% |  |
+| 16.5–17.5% | 1.3% | 1.5% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -234,10 +224,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
-| [2–6 January 2023](2023-01-06-RepublikonIntézet.html) | Republikon Intézet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [9–15 December 2022](2022-12-15-Medián.html) | Medián | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [29 November–12 December 2022](2022-12-12-IDEAIntézet.html) | IDEA Intézet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [2–4 January 2023](2023-01-04-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [23–28 November 2022](2022-11-28-RepublikonIntézet.html) | Republikon Intézet | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [14–22 November 2022](2022-11-22-ZRIZáveczResearch.html) | ZRI Závecz Research | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [28 October–8 November 2022](2022-11-08-IDEAIntézet.html) | IDEA Intézet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -432,11 +420,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 15% | 100% | Last Result |
-| 3 | 19% | 85% |  |
-| 4 | 34% | 67% | Median |
-| 5 | 32% | 32% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 2 | 1.4% | 100% | Last Result |
+| 3 | 91% | 98.6% | Median |
+| 4 | 8% | 8% |  |
+| 5 | 0% | 0% |  |
 
 
