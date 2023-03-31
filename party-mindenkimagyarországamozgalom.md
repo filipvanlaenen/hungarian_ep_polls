@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 0.8–2.5% | 0.7–2.7% | 0.6–2.9% | 0.5–3.3% |
+| [27–29 March 2023](2023-03-29-Táradalomkutató.html) | Táradalomkutató | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [25 February–16 March 2023](2023-03-16-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February–8 March 2023](2023-03-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [20–22 February 2023](2023-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [10–15 February 2023](2023-02-15-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -225,6 +227,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–29 March 2023](2023-03-29-Táradalomkutató.html) | Táradalomkutató | 0 | 0 | 0 | 0 | 0 |
+| [25 February–16 March 2023](2023-03-16-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [28 February–8 March 2023](2023-03-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [20–22 February 2023](2023-02-22-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [10–15 February 2023](2023-02-15-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
@@ -424,6 +428,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 
