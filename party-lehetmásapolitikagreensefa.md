@@ -10,7 +10,8 @@ Last result: **5.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.7–4.3% | 1.6–4.6% | 1.5–4.9% | 1.3–5.5% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–2.9% | 1.2–3.3% |
+| [28 April–5 May 2023](2023-05-05-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [25 March–13 April 2023](2023-04-13-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% |
 | [1–31 March 2023](2023-03-31-Századvég.html) | Századvég | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [27–29 March 2023](2023-03-29-Táradalomkutató.html) | Táradalomkutató | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -214,13 +215,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 44% | 96% |  |
-| 2.5–3.5% | 27% | 52% | Median |
-| 3.5–4.5% | 19% | 25% |  |
-| 4.5–5.5% | 5% | 6% | Last Result |
-| 5.5–6.5% | 0.4% | 0.4% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 80% | 92% | Median |
+| 2.5–3.5% | 12% | 12% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -231,7 +230,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 April–5 May 2023](2023-05-05-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [25 March–13 April 2023](2023-04-13-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [1–31 March 2023](2023-03-31-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0 |
 | [27–29 March 2023](2023-03-29-Táradalomkutató.html) | Táradalomkutató | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -436,8 +436,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Median |
-| 1 | 17% | 17% | Last Result |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% | Last Result |
 | 2 | 0% | 0% |  |
 
 
