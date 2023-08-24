@@ -10,7 +10,9 @@ Last result: **5.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.0–7.1% | 4.7–7.5% | 4.5–7.8% | 4.1–8.4% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [28 June–19 July 2023](2023-07-19-IDEAIntézet.html) | IDEA Intézet | 2.0% | N/A | N/A | N/A | N/A |
 | [1–30 June 2023](2023-06-30-RepublikonIntézet.html) | Republikon Intézet | 5.9% | 5.0–7.1% | 4.7–7.5% | 4.5–7.8% | 4.1–8.4% |
 | [15–17 May 2023](2023-05-17-NézőpontIntézet.html) | Nézőpont Intézet | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [28 April–5 May 2023](2023-05-05-ZRIZáveczResearch.html) | ZRI Závecz Research | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -215,14 +217,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 26% | 97% | Last Result |
-| 5.5–6.5% | 45% | 72% | Median |
-| 6.5–7.5% | 22% | 26% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 19% | 99.8% |  |
+| 3.5–4.5% | 58% | 80% | Median |
+| 4.5–5.5% | 21% | 22% | Last Result |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -233,7 +234,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 June–19 July 2023](2023-07-19-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [1–30 June 2023](2023-06-30-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 1 | 1 | 1–2 |
 | [15–17 May 2023](2023-05-17-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 April–5 May 2023](2023-05-05-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -440,9 +443,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 98% | 99.6% | Last Result, Median |
-| 2 | 2% | 2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 32% | 100% |  |
+| 1 | 68% | 68% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 
