@@ -10,7 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 46.3% | 42.7–49.0% | 42.0–49.5% | 41.4–49.9% | 40.4–50.7% |
+| N/A | [Poll Average](average.html) | 44.0% | 40.8–47.0% | 40.2–47.5% | 39.8–47.9% | 38.9–48.7% |
+| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 41.9% | 40.2–43.5% | 39.8–44.0% | 39.4–44.4% | 38.6–45.2% |
+| [28 July–9 August 2023](2023-08-09-IDEAIntézet.html) | IDEA Intézet | 46.0% | 44.5–47.5% | 44.1–47.9% | 43.7–48.3% | 43.0–49.0% |
 | [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
 | [28 June–19 July 2023](2023-07-19-IDEAIntézet.html) | IDEA Intézet | 48.0% | 46.5–49.5% | 46.1–49.9% | 45.7–50.3% | 45.0–51.0% |
 | [1–30 June 2023](2023-06-30-RepublikonIntézet.html) | Republikon Intézet | 45.5% | 43.3–47.8% | 42.7–48.5% | 42.1–49.0% | 41.1–50.1% |
@@ -217,22 +219,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 37.5–38.5% | 0% | 100% |  |
-| 38.5–39.5% | 0.1% | 100% |  |
-| 39.5–40.5% | 0.5% | 99.9% |  |
-| 40.5–41.5% | 2% | 99.3% |  |
-| 41.5–42.5% | 6% | 97% |  |
-| 42.5–43.5% | 10% | 91% |  |
-| 43.5–44.5% | 13% | 81% |  |
-| 44.5–45.5% | 11% | 68% |  |
-| 45.5–46.5% | 10% | 57% | Median |
-| 46.5–47.5% | 14% | 47% |  |
-| 47.5–48.5% | 17% | 33% |  |
-| 48.5–49.5% | 11% | 16% |  |
-| 49.5–50.5% | 4% | 5% |  |
-| 50.5–51.5% | 0.7% | 0.8% | Last Result |
-| 51.5–52.5% | 0.1% | 0.1% |  |
-| 52.5–53.5% | 0% | 0% |  |
+| 36.5–37.5% | 0% | 100% |  |
+| 37.5–38.5% | 0.2% | 100% |  |
+| 38.5–39.5% | 1.5% | 99.8% |  |
+| 39.5–40.5% | 6% | 98% |  |
+| 40.5–41.5% | 13% | 93% |  |
+| 41.5–42.5% | 15% | 80% |  |
+| 42.5–43.5% | 11% | 65% |  |
+| 43.5–44.5% | 8% | 54% | Median |
+| 44.5–45.5% | 13% | 46% |  |
+| 45.5–46.5% | 16% | 33% |  |
+| 46.5–47.5% | 11% | 16% |  |
+| 47.5–48.5% | 4% | 5% |  |
+| 48.5–49.5% | 0.7% | 0.8% |  |
+| 49.5–50.5% | 0.1% | 0.1% |  |
+| 50.5–51.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -243,7 +244,9 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
+| N/A | [Poll Average](average.html) | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| [28 July–9 August 2023](2023-08-09-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [28 June–19 July 2023](2023-07-19-IDEAIntézet.html) | IDEA Intézet | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [1–30 June 2023](2023-06-30-RepublikonIntézet.html) | Republikon Intézet | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
@@ -452,11 +455,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 1.1% | 100% |  |
-| 10 | 26% | 98.9% |  |
-| 11 | 35% | 73% | Median, Majority |
-| 12 | 34% | 38% | Last Result |
-| 13 | 4% | 4% |  |
-| 14 | 0% | 0% |  |
+| 9 | 6% | 100% |  |
+| 10 | 33% | 94% |  |
+| 11 | 52% | 61% | Median, Majority |
+| 12 | 9% | 9% | Last Result |
+| 13 | 0% | 0% |  |
 
 
