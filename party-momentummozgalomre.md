@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.7% | 7.4–10.4% | 7.1–10.9% | 6.9–11.3% | 6.4–12.1% |
+| [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% | 6.5–9.8% |
 | [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.2–11.1% |
 | [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -247,6 +248,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 2 | 2 | 2 | 1–2 | 1–2 |
 | [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet | 2 | 2 | 2 | 2 | 1–3 |
