@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 21 Jan 2023 17:56:23 +0100</pubDate>
     <item>
+      <title>Opinion Poll by IDEA Intézet, 28 August–8 September 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 28 August–8 September 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet-seating-plan.png" length="357099" type="image/png"/>
+      <pubDate>Thu, 21 Sep 2023 18:38:22 +0200</pubDate>
+      <dc:date>2023-09-21T18:38:22.559245572+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 28 August–8 September 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 28 August–8 September 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet-seats.png" length="222381" type="image/png"/>
+      <pubDate>Thu, 21 Sep 2023 18:38:22 +0200</pubDate>
+      <dc:date>2023-09-21T18:38:22.559245572+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 28 August–8 September 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IDEA Intézet, 28 August–8 September 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-08-IDEAIntézet.png" length="287039" type="image/png"/>
+      <pubDate>Thu, 21 Sep 2023 18:38:22 +0200</pubDate>
+      <dc:date>2023-09-21T18:38:22.559245572+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Nézőpont Intézet, 4–6 September 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-06-NézőpontIntézet.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Nézőpont Intézet, 4–6 September 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-06-NézőpontIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-06-NézőpontIntézet-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-05-05-ZRIZáveczResearch.png" length="285471" type="image/png"/>
       <pubDate>Sat, 20 May 2023 22:10:38 +0200</pubDate>
       <dc:date>2023-05-20T22:10:38.470806443+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Századvég, 1–31 March 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Századvég, 1–31 March 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég-seating-plan.png" length="358997" type="image/png"/>
-      <pubDate>Tue, 18 Apr 2023 14:51:41 +0200</pubDate>
-      <dc:date>2023-04-18T14:51:41.001672219+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Századvég, 1–31 March 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Századvég, 1–31 March 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég-seats.png" length="232096" type="image/png"/>
-      <pubDate>Tue, 18 Apr 2023 14:51:41 +0200</pubDate>
-      <dc:date>2023-04-18T14:51:41.001672219+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Századvég, 1–31 March 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Századvég, 1–31 March 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-03-31-Századvég.png" length="293857" type="image/png"/>
-      <pubDate>Tue, 18 Apr 2023 14:51:41 +0200</pubDate>
-      <dc:date>2023-04-18T14:51:41.001672219+02:00</dc:date>
     </item>
   </channel>
 </rss>
