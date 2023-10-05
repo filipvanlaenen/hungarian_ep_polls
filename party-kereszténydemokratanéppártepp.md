@@ -10,13 +10,13 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–7.9% | 4.7–8.5% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.6–7.7% | 5.4–8.1% | 5.2–8.4% | 4.8–9.0% |
 | [1–30 September 2023](2023-09-30-Medián.html) | Medián | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
 | [8–18 September 2023](2023-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
 | [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 6.3% | 5.6–7.1% | 5.4–7.3% | 5.2–7.5% | 4.9–7.9% |
-| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 7.1% | N/A | N/A | N/A | N/A |
-| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 5.9% | N/A | N/A | N/A | N/A |
-| [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet | 5.9% | N/A | N/A | N/A | N/A |
+| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
+| [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [28 July–9 August 2023](2023-08-09-IDEAIntézet.html) | IDEA Intézet | 6.4% | N/A | N/A | N/A | N/A |
 | [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet | 6.2% | N/A | N/A | N/A | N/A |
 | [28 June–19 July 2023](2023-07-19-IDEAIntézet.html) | IDEA Intézet | 6.7% | N/A | N/A | N/A | N/A |
@@ -241,12 +241,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 10% | 99.8% |  |
-| 5.5–6.5% | 49% | 90% | Median |
-| 6.5–7.5% | 35% | 41% |  |
-| 7.5–8.5% | 6% | 7% |  |
-| 8.5–9.5% | 0.4% | 0.5% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 4.5–5.5% | 8% | 99.8% |  |
+| 5.5–6.5% | 42% | 92% |  |
+| 6.5–7.5% | 37% | 50% | Median |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -298,13 +298,13 @@ Last result: **11** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–30 September 2023](2023-09-30-Medián.html) | Medián | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–18 September 2023](2023-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 1 | 1 | 1 | 1–2 | 1–2 |
-| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
-| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
-| [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 1 | 1 | 1 | 1 | 1–2 |
+| [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 1 | 1–2 | 1–2 |
 | [28 July–9 August 2023](2023-08-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
 | [28 June–19 July 2023](2023-07-19-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |

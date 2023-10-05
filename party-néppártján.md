@@ -262,8 +262,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–30 September 2023](2023-09-30-Medián.html) | Medián | 1 | 1 | 1 | 1 | 0–1 |
 | [8–18 September 2023](2023-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
-| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0–1 |
+| [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
 | [28 July–9 August 2023](2023-08-09-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
@@ -489,8 +489,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 53% | 53% | Median |
+| 0 | 49% | 100% | Last Result |
+| 1 | 51% | 51% | Median |
 | 2 | 0% | 0% |  |
 
 

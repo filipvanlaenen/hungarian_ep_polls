@@ -10,13 +10,14 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (NI) | 51.5% | 42.0% | 40.0–44.0% |39.5–44.6% |39.0–45.1% |38.0–46.1% |
+| Fidesz (NI) | 51.5% | 36.1% | 34.2–38.1% |33.6–38.7% |33.2–39.1% |32.3–40.1% |
 | Demokratikus Koalíció (S&D) | 9.8% | 17.0% | 15.5–18.6% |15.2–19.1% |14.8–19.5% |14.1–20.3% |
-| Momentum Mozgalom (RE) | 0.0% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
 | Mi Hazánk Mozgalom (NI) | 0.0% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
+| Momentum Mozgalom (RE) | 0.0% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
 | Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 7.0% | 6.1–8.2% |5.8–8.5% |5.6–8.8% |5.2–9.3% |
-| Jobbik (NI) | 14.7% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
+| Kereszténydemokrata Néppárt (EPP) | 51.5% | 5.9% | 5.0–7.0% |4.8–7.3% |4.6–7.5% |4.2–8.1% |
 | Lehet Más a Politika (Greens/EFA) | 5.0% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
+| Jobbik (NI) | 14.7% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
 | Magyar Szocialista Párt (S&D) | 10.9% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
 | Párbeszéd (Greens/EFA) | 7.2% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 
@@ -32,29 +33,30 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz–kereszténydemokrata-néppárt-(ni)">Fidesz–Kereszténydemokrata Néppárt (NI)</a> | 12 | 10 | 9–11 |9–11 |9–11 |9–12 |
-| <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 4 | 3–4 |3–4 |3–4 |3–5 |
-| <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 2 | 2 |2 |2 |1–3 |
-| <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 2 | 2 |2 |2–3 |1–3 |
+| <a href="#fidesz-(ni)">Fidesz (NI)</a> | 11 | 9 | 9 |8–10 |8–10 |8–10 |
+| <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 4 | 3–4 |3–5 |3–5 |3–5 |
+| <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 2 | 2 |2 |2 |1–3 |
+| <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 2 | 2 |2 |2–3 |1–3 |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 2 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 
-### Fidesz–Kereszténydemokrata Néppárt (NI)
+### Fidesz (NI)
 
-*For a full overview of the results for this party, see the [Fidesz–Kereszténydemokrata Néppárt (NI)](party-fidesz–kereszténydemokratanéppártni.html) page.*
+*For a full overview of the results for this party, see the [Fidesz (NI)](party-fideszni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-seats-pmf-fidesz–kereszténydemokratanéppártni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-seats-pmf-fideszni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 14% | 100% |  |
-| 10 | 63% | 86% | Median |
-| 11 | 22% | 23% | Majority |
-| 12 | 1.0% | 1.0% | Last Result |
-| 13 | 0% | 0% |  |
+| 8 | 8% | 100% |  |
+| 9 | 82% | 92% | Median |
+| 10 | 10% | 10% |  |
+| 11 | 0.1% | 0.1% | Last Result, Majority |
+| 12 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
 
@@ -66,23 +68,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 10% | 100% |  |
-| 4 | 89% | 90% | Median |
-| 5 | 1.1% | 1.1% |  |
+| 4 | 85% | 90% | Median |
+| 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
-
-### Momentum Mozgalom (RE)
-
-*For a full overview of the results for this party, see the [Momentum Mozgalom (RE)](party-momentummozgalomre.html) page.*
-
-![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-seats-pmf-momentummozgalomre.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 1.5% | 100% |  |
-| 2 | 96% | 98.5% | Median |
-| 3 | 2% | 2% |  |
-| 4 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (NI)
 
@@ -93,8 +81,22 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 96% | 99.0% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 96% | 98% | Median |
+| 3 | 1.4% | 1.4% |  |
+| 4 | 0% | 0% |  |
+
+### Momentum Mozgalom (RE)
+
+*For a full overview of the results for this party, see the [Momentum Mozgalom (RE)](party-momentummozgalomre.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-seats-pmf-momentummozgalomre.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0.5% | 100% |  |
+| 2 | 96% | 99.5% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -107,22 +109,29 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 90% | 100% | Median |
-| 2 | 10% | 10% |  |
+| 1 | 76% | 100% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
-### Jobbik (NI)
+### Kereszténydemokrata Néppárt (EPP)
 
-*For a full overview of the results for this party, see the [Jobbik (NI)](party-jobbikni.html) page.*
+*For a full overview of the results for this party, see the [Kereszténydemokrata Néppárt (EPP)](party-kereszténydemokratanéppártepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-seats-pmf-jobbikni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-seats-pmf-kereszténydemokratanéppártepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% |  |
-| 1 | 70% | 70% | Median |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% | Last Result |
+| 1 | 95% | 100% | Median |
+| 2 | 5% | 5% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% | Last Result, Majority |
 
 ### Lehet Más a Politika (Greens/EFA)
 
@@ -132,9 +141,22 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% |  |
-| 1 | 72% | 72% | Last Result, Median |
+| 0 | 20% | 100% |  |
+| 1 | 80% | 80% | Last Result, Median |
 | 2 | 0% | 0% |  |
+
+### Jobbik (NI)
+
+*For a full overview of the results for this party, see the [Jobbik (NI)](party-jobbikni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-seats-pmf-jobbikni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 38% | 100% |  |
+| 1 | 62% | 62% | Median |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% | Last Result |
 
 ### Magyar Szocialista Párt (S&D)
 
@@ -144,8 +166,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Median |
-| 1 | 45% | 45% |  |
+| 0 | 70% | 100% | Median |
+| 1 | 30% | 30% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Párbeszéd (Greens/EFA)
@@ -168,20 +190,39 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI) | 15 | 14 | 100% | 13–15 | 13–15 | 13–15 | 13–16 |
+| Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI) | 14 | 13 | 100% | 12–13 | 12–14 | 12–14 | 12–14 |
+| Kereszténydemokrata Néppárt (EPP) | 11 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 
-### Fidesz–Kereszténydemokrata Néppárt (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI)
+### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI)
 
-![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-coalitions-seats-pmf-fidesz–kdnp–hazánk–mkkp–jobbik.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-coalitions-seats-pmf-fidesz–hazánk–mkkp–jobbik.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.4% | 100% |  |
-| 13 | 28% | 99.6% |  |
-| 14 | 53% | 72% | Median |
-| 15 | 18% | 19% | Last Result |
-| 16 | 0.9% | 0.9% |  |
-| 17 | 0% | 0% |  |
+| 11 | 0.1% | 100% | Majority |
+| 12 | 18% | 99.9% |  |
+| 13 | 76% | 82% | Median |
+| 14 | 6% | 6% | Last Result |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
+
+### Kereszténydemokrata Néppárt (EPP)
+
+![Graph with seats probability mass function not yet produced](2023-08-23-RepublikonIntézet-coalitions-seats-pmf-kdnp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 95% | 100% | Median |
+| 2 | 5% | 5% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% | Last Result, Majority |
 
 
 ## Technical Information
@@ -196,5 +237,5 @@
 
 + **Sample size:** 1000
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 2.35%
++ **Error estimate:** 2.26%
 

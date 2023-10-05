@@ -264,13 +264,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–30 September 2023](2023-09-30-Medián.html) | Medián | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–18 September 2023](2023-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 2 | 2 |
 | [24–29 August 2023](2023-08-29-21Kutatóközpont.html) | 21 Kutatóközpont | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet | 2 | 2 | 2 | 2–3 | 1–3 |
+| [16–23 August 2023](2023-08-23-RepublikonIntézet.html) | Republikon Intézet | 2 | 2 | 2 | 2 | 1–3 |
 | [28 July–9 August 2023](2023-08-09-IDEAIntézet.html) | IDEA Intézet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [14–25 July 2023](2023-07-25-RepublikonIntézet.html) | Republikon Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 June–19 July 2023](2023-07-19-IDEAIntézet.html) | IDEA Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -496,8 +496,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 90% | 93% | Median |
+| 1 | 0.2% | 100% |  |
+| 2 | 95% | 99.8% | Median |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
