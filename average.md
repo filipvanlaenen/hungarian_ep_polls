@@ -9,11 +9,11 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Fidesz | KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM | MSZP–Párbeszéd | Hazánk | UO | MMM | NP | 2RK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 51.5% <br> 11 | 51.5% <br> 11 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 37–53% <br> 10–13 | 5–8% <br> 1–2 | 2–6% <br> 0–1 | 1–5% <br> 0–1 | 9–21% <br> 2–5 | 0–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–9% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A | 8–12% <br> 1–3 | N/A <br> N/A | 1–4% <br> 0–1 | 2–6% <br> 0–1 | 1–3% <br> 0 |
+| N/A | Poll Average | 37–46% <br> 10–12 | 5–8% <br> 1–2 | 2–6% <br> 0–1 | 1–5% <br> 0–1 | 9–21% <br> 2–5 | 0–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–9% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 1–4% <br> 0–1 | 2–6% <br> 0–1 | 1–3% <br> 0 |
 | [1–30 September 2023](2023-09-30-Medián.html) | Medián | 37–43% <br> 10–11 | 5–8% <br> 1–2 | 4–7% <br> 0–1 | 1–3% <br> 0 | 10–14% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 6–9% <br> 1–2 | 5–8% <br> 1–2 | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0–1 | 4–7% <br> 1 | 1–3% <br> 0 |
 | [8–18 September 2023](2023-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 37–43% <br> 9–11 | 5–8% <br> 1–2 | 3–5% <br> 0–1 | 3–5% <br> 0–1 | 17–22% <br> 4–5 | 2–4% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–7% <br> 0–1 | 5–8% <br> 1 | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 36–41% <br> 10–11 | 5–7% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 17–21% <br> 4–5 | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 5–7% <br> 1 | 7–9% <br> 1–2 | N/A <br> N/A | 9–11% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 48–54% <br> 12–14 | N/A <br> N/A | 4–7% <br> 1 | 1–3% <br> 0 | 8–12% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 | 6–10% <br> 1–2 | N/A <br> N/A | 7–11% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0–1 | N/A <br> N/A |
+| [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 36–41% <br> 10–11 | 5–7% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 17–21% <br> 4–5 | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 5–7% <br> 1 | 7–9% <br> 1–2 | N/A <br> N/A | 9–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 41–47% <br> 10–12 | 6–9% <br> 1–2 | 4–7% <br> 1 | 1–3% <br> 0 | 8–12% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 | 6–10% <br> 1–2 | N/A <br> N/A | 7–11% <br> 2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
 | 26 May 2019 | General Election | 51.5% <br> 11 | 51.5% <br> 11 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -49,8 +49,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz-(ni)">Fidesz (NI)</a> | 51.5% | 39.9% | 37.7–51.1% |37.2–52.0% | 36.7–52.7% | 35.9–53.9% |
-| <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 51.5% | 6.4% | 5.5–7.4% |5.3–7.7% | 5.1–7.9% | 4.7–8.5% |
+| <a href="#fidesz-(ni)">Fidesz (NI)</a> | 51.5% | 39.9% | 37.7–44.0% |37.2–44.9% | 36.7–45.6% | 35.9–46.8% |
+| <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 51.5% | 6.6% | 5.6–7.7% |5.4–8.1% | 5.2–8.4% | 4.8–9.0% |
 | <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 18.2% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 14.7% | 4.4% | 2.0–5.7% |1.8–6.0% | 1.6–6.3% | 1.4–6.8% |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 10.9% | 2.2% | 1.6–4.2% |1.5–4.6% | 1.4–4.9% | 1.2–5.5% |
@@ -80,22 +80,17 @@ Only polls for which at least the sample size has been published are included in
 | 37.5–38.5% | 15% | 92% |  |
 | 38.5–39.5% | 20% | 77% |  |
 | 39.5–40.5% | 17% | 57% | Median |
-| 40.5–41.5% | 10% | 40% |  |
-| 41.5–42.5% | 4% | 31% |  |
-| 42.5–43.5% | 1.2% | 26% |  |
-| 43.5–44.5% | 0.3% | 25% |  |
-| 44.5–45.5% | 0% | 25% |  |
-| 45.5–46.5% | 0.1% | 25% |  |
-| 46.5–47.5% | 0.5% | 25% |  |
-| 47.5–48.5% | 2% | 24% |  |
-| 48.5–49.5% | 4% | 23% |  |
-| 49.5–50.5% | 6% | 19% |  |
-| 50.5–51.5% | 6% | 13% | Last Result |
-| 51.5–52.5% | 4% | 7% |  |
-| 52.5–53.5% | 2% | 3% |  |
-| 53.5–54.5% | 0.7% | 0.9% |  |
-| 54.5–55.5% | 0.2% | 0.2% |  |
-| 55.5–56.5% | 0% | 0% |  |
+| 40.5–41.5% | 11% | 40% |  |
+| 41.5–42.5% | 8% | 28% |  |
+| 42.5–43.5% | 7% | 20% |  |
+| 43.5–44.5% | 6% | 13% |  |
+| 44.5–45.5% | 4% | 7% |  |
+| 45.5–46.5% | 2% | 3% |  |
+| 46.5–47.5% | 0.6% | 0.8% |  |
+| 47.5–48.5% | 0.1% | 0.2% |  |
+| 48.5–49.5% | 0% | 0% |  |
+| 49.5–50.5% | 0% | 0% |  |
+| 50.5–51.5% | 0% | 0% | Last Result |
 
 ### Kereszténydemokrata Néppárt (EPP)
 
@@ -105,12 +100,12 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 10% | 99.8% |  |
-| 5.5–6.5% | 49% | 90% | Median |
-| 6.5–7.5% | 35% | 41% |  |
-| 7.5–8.5% | 6% | 7% |  |
-| 8.5–9.5% | 0.4% | 0.5% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 4.5–5.5% | 8% | 99.8% |  |
+| 5.5–6.5% | 42% | 92% |  |
+| 6.5–7.5% | 37% | 50% | Median |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -364,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz-(ni)">Fidesz (NI)</a> | 11 | 11 | 10–13 |10–13 | 10–13 | 9–14 |
-| <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#fidesz-(ni)">Fidesz (NI)</a> | 11 | 11 | 10–11 |10–11 | 10–12 | 9–12 |
+| <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1 |1–2 | 1–2 | 1–2 |
 | <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 2 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
@@ -376,7 +371,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#mlp-(re)">MLP (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 2 | 2 |1–2 | 1–3 | 1–3 |
+| <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 2 | 2 |2 | 2–3 | 2–3 |
 | <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#mindenki-magyarországa-mozgalom-(*)">Mindenki Magyarországa Mozgalom (*)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
 | <a href="#nép-pártján-(*)">Nép Pártján (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
@@ -391,12 +386,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 2% | 100% |  |
-| 10 | 44% | 98% |  |
-| 11 | 29% | 54% | Last Result, Median, Majority |
-| 12 | 7% | 25% |  |
-| 13 | 17% | 18% |  |
-| 14 | 0.9% | 0.9% |  |
-| 15 | 0% | 0% |  |
+| 10 | 42% | 98% |  |
+| 11 | 51% | 56% | Last Result, Median, Majority |
+| 12 | 4% | 4% |  |
+| 13 | 0% | 0% |  |
 
 ### Kereszténydemokrata Néppárt (EPP)
 
@@ -432,8 +425,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% |  |
-| 1 | 58% | 58% | Median |
+| 0 | 41% | 100% |  |
+| 1 | 59% | 59% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -457,11 +450,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.3% | 100% |  |
-| 2 | 33% | 99.7% | Last Result |
+| 2 | 33% | 100% | Last Result |
 | 3 | 17% | 67% |  |
-| 4 | 26% | 50% | Median |
-| 5 | 24% | 24% |  |
+| 4 | 28% | 50% | Median |
+| 5 | 22% | 22% |  |
 | 6 | 0% | 0% |  |
 
 ### Párbeszéd (Greens/EFA)
@@ -508,7 +500,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.7% | 100% | Last Result |
-| 1 | 62% | 99.3% | Median |
+| 1 | 61% | 99.3% | Median |
 | 2 | 38% | 38% |  |
 | 3 | 0% | 0% |  |
 
@@ -521,8 +513,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 61% | 100% | Median |
-| 2 | 39% | 39% |  |
+| 1 | 56% | 100% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (NI)
@@ -534,8 +526,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 90% | 93% | Median |
+| 1 | 0.2% | 100% |  |
+| 2 | 95% | 99.8% | Median |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
@@ -565,8 +557,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 53% | 53% | Median |
+| 0 | 49% | 100% | Last Result |
+| 1 | 51% | 51% | Median |
 | 2 | 0% | 0% |  |
 
 ### Második Reformkor (*)
@@ -590,9 +582,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz (NI) – Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI) | 14 | 14 | 100% | 13–17 | 13–18 | 13–18 | 13–18 |
+| Fidesz (NI) – Jobbik (NI) – Magyar Kétfarkú Kutya Párt (NI) – Mi Hazánk Mozgalom (NI) | 14 | 14 | 100% | 13–16 | 13–16 | 13–16 | 12–17 |
 | Magyar Szocialista Párt–Párbeszéd (S&D) – Magyar Szocialista Párt (S&D) – Demokratikus Koalíció (S&D) – United Opposition (S&D) | 7 | 4 | 0% | 2–5 | 2–5 | 2–5 | 2–6 |
-| Kereszténydemokrata Néppárt (EPP) | 11 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kereszténydemokrata Néppárt (EPP) | 11 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 | MLP (RE) – Momentum Mozgalom (RE) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) – Lehet Más a Politika (Greens/EFA) | 2 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
@@ -603,13 +595,12 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.5% | 100% |  |
-| 13 | 21% | 99.5% |  |
-| 14 | 31% | 78% | Last Result |
-| 15 | 18% | 47% | Median |
-| 16 | 5% | 29% |  |
-| 17 | 16% | 24% |  |
-| 18 | 9% | 9% |  |
-| 19 | 0% | 0% |  |
+| 13 | 17% | 99.5% |  |
+| 14 | 35% | 82% | Last Result |
+| 15 | 20% | 47% | Median |
+| 16 | 26% | 28% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0% | 0% |  |
 
 ### Magyar Szocialista Párt–Párbeszéd (S&D) – Magyar Szocialista Párt (S&D) – Demokratikus Koalíció (S&D) – United Opposition (S&D)
 
@@ -617,11 +608,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.3% | 100% |  |
-| 2 | 33% | 99.7% |  |
+| 2 | 33% | 100% |  |
 | 3 | 17% | 67% |  |
-| 4 | 10% | 50% | Median |
-| 5 | 38% | 40% |  |
+| 4 | 13% | 50% | Median |
+| 5 | 35% | 37% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% | Last Result |
 
@@ -650,8 +640,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 61% | 100% | Median |
-| 2 | 39% | 39% |  |
+| 1 | 56% | 100% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0% | 0% |  |
 
 ### Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) – Lehet Más a Politika (Greens/EFA)
@@ -668,6 +658,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 2.93%
