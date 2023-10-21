@@ -10,8 +10,9 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.9% | 37.7–44.0% | 37.2–44.9% | 36.7–45.6% | 35.9–46.8% |
+| N/A | [Poll Average](average.html) | 39.3% | 36.0–43.6% | 35.1–44.7% | 34.4–45.4% | 33.2–46.7% |
 | [1–30 September 2023](2023-09-30-Medián.html) | Medián | 39.6% | 37.6–41.6% | 37.1–42.2% | 36.6–42.7% | 35.7–43.6% |
+| [18–25 September 2023](2023-09-25-RepublikonIntézet.html) | Republikon Intézet | 36.1% | 34.2–38.1% | 33.6–38.7% | 33.2–39.1% | 32.3–40.1% |
 | [8–18 September 2023](2023-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 39.6% | 37.6–41.6% | 37.1–42.2% | 36.6–42.7% | 35.7–43.6% |
 | [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 38.7% | 37.3–40.2% | 36.9–40.6% | 36.5–41.0% | 35.8–41.7% |
 | [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 43.6% | 41.6–45.6% | 41.0–46.2% | 40.5–46.7% | 39.6–47.7% |
@@ -239,21 +240,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0.2% | 100% |  |
-| 35.5–36.5% | 2% | 99.7% |  |
-| 36.5–37.5% | 6% | 98% |  |
-| 37.5–38.5% | 15% | 92% |  |
-| 38.5–39.5% | 20% | 77% |  |
-| 39.5–40.5% | 17% | 57% | Median |
-| 40.5–41.5% | 11% | 40% |  |
-| 41.5–42.5% | 8% | 28% |  |
-| 42.5–43.5% | 7% | 20% |  |
-| 43.5–44.5% | 6% | 13% |  |
-| 44.5–45.5% | 4% | 7% |  |
-| 45.5–46.5% | 2% | 3% |  |
-| 46.5–47.5% | 0.6% | 0.8% |  |
-| 47.5–48.5% | 0.1% | 0.2% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0.1% | 100% |  |
+| 32.5–33.5% | 0.7% | 99.8% |  |
+| 33.5–34.5% | 2% | 99.1% |  |
+| 34.5–35.5% | 4% | 97% |  |
+| 35.5–36.5% | 6% | 93% |  |
+| 36.5–37.5% | 9% | 86% |  |
+| 37.5–38.5% | 14% | 77% |  |
+| 38.5–39.5% | 17% | 63% | Median |
+| 39.5–40.5% | 14% | 46% |  |
+| 40.5–41.5% | 9% | 32% |  |
+| 41.5–42.5% | 6% | 23% |  |
+| 42.5–43.5% | 6% | 16% |  |
+| 43.5–44.5% | 5% | 11% |  |
+| 44.5–45.5% | 3% | 6% |  |
+| 45.5–46.5% | 2% | 2% |  |
+| 46.5–47.5% | 0.5% | 0.6% |  |
+| 47.5–48.5% | 0.1% | 0.1% |  |
 | 48.5–49.5% | 0% | 0% |  |
 | 49.5–50.5% | 0% | 0% |  |
 | 50.5–51.5% | 0% | 0% | Last Result |
@@ -267,8 +271,9 @@ Last result: **11** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [1–30 September 2023](2023-09-30-Medián.html) | Medián | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
+| [18–25 September 2023](2023-09-25-RepublikonIntézet.html) | Republikon Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [8–18 September 2023](2023-09-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [28 August–8 September 2023](2023-09-08-IDEAIntézet.html) | IDEA Intézet | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [4–6 September 2023](2023-09-06-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
@@ -498,10 +503,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 2% | 100% |  |
-| 10 | 42% | 98% |  |
-| 11 | 51% | 56% | Last Result, Median, Majority |
-| 12 | 4% | 4% |  |
+| 8 | 1.4% | 100% |  |
+| 9 | 18% | 98.6% |  |
+| 10 | 36% | 80% | Median |
+| 11 | 41% | 45% | Last Result, Majority |
+| 12 | 3% | 3% |  |
 | 13 | 0% | 0% |  |
 
 
