@@ -14,13 +14,13 @@
 | Demokratikus Koalíció (S&D) | 9.8% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
 | Mi Hazánk Mozgalom (NI) | 0.0% | 9.0% | 7.9–10.3% |7.6–10.6% |7.4–10.9% |6.9–11.6% |
 | Momentum Mozgalom (RE) | 0.0% | 8.0% | 7.0–9.2% |6.7–9.6% |6.5–9.9% |6.0–10.5% |
-| Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 8.0% | 7.0–9.2% |6.7–9.6% |6.5–9.9% |6.0–10.5% |
+| Magyar Kétfarkú Kutya Párt (Greens/EFA) | 0.0% | 8.0% | 7.0–9.2% |6.7–9.6% |6.5–9.9% |6.0–10.5% |
 | Kereszténydemokrata Néppárt (EPP) | 51.5% | 7.1% | 6.2–8.3% |5.9–8.6% |5.7–8.9% |5.2–9.4% |
 | Jobbik (NI) | 14.7% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.5–7.1% |
 | Nép Pártján (*) | 0.0% | 3.0% | 2.4–3.8% |2.2–4.1% |2.1–4.3% |1.9–4.7% |
 | Lehet Más a Politika (Greens/EFA) | 5.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 | Magyar Szocialista Párt (S&D) | 10.9% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
-| Mindenki Magyarországa Mozgalom (*) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
+| Mindenki Magyarországa Mozgalom (EPP) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 | Párbeszéd (Greens/EFA) | 7.2% | 0.2% | 0.1–0.5% |0.1–0.6% |0.1–0.7% |0.0–0.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -39,13 +39,13 @@
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 2 | 2 |2 |2 |2–3 |
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 2 | 2 |2 |2 |2 |
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
-| <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#magyar-kétfarkú-kutya-párt-(greens/efa)">Magyar Kétfarkú Kutya Párt (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 1 | 1 |1 |1 |1 |
 | <a href="#nép-pártján-(*)">Nép Pártján (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 2 | 0 | 0 |0 |0 |0 |
-| <a href="#mindenki-magyarországa-mozgalom-(*)">Mindenki Magyarországa Mozgalom (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#mindenki-magyarországa-mozgalom-(epp)">Mindenki Magyarországa Mozgalom (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 
 ### Fidesz (NI)
@@ -102,11 +102,11 @@
 | 2 | 93% | 93% | Median |
 | 3 | 0% | 0% |  |
 
-### Magyar Kétfarkú Kutya Párt (NI)
+### Magyar Kétfarkú Kutya Párt (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Magyar Kétfarkú Kutya Párt (NI)](party-magyarkétfarkúkutyapártni.html) page.*
+*For a full overview of the results for this party, see the [Magyar Kétfarkú Kutya Párt (Greens/EFA)](party-magyarkétfarkúkutyapártgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-seats-pmf-magyarkétfarkúkutyapártni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-seats-pmf-magyarkétfarkúkutyapártgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -183,11 +183,11 @@
 | 1 | 0% | 0% |  |
 | 2 | 0% | 0% | Last Result |
 
-### Mindenki Magyarországa Mozgalom (*)
+### Mindenki Magyarországa Mozgalom (EPP)
 
-*For a full overview of the results for this party, see the [Mindenki Magyarországa Mozgalom (*)](party-mindenkimagyarországamozgalom.html) page.*
+*For a full overview of the results for this party, see the [Mindenki Magyarországa Mozgalom (EPP)](party-mindenkimagyarországamozgalomepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-seats-pmf-mindenkimagyarországamozgalom.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-seats-pmf-mindenkimagyarországamozgalomepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -213,24 +213,23 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI) | 14 | 16 | 100% | 16 | 15–17 | 15–17 | 15–17 |
-| Kereszténydemokrata Néppárt (EPP) | 11 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
+| Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI) | 14 | 14 | 100% | 14–15 | 14–15 | 13–15 | 13–15 |
+| Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP) | 11 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 
-### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI)
+### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI)
 
-![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-coalitions-seats-pmf-fidesz–hazánk–mkkp–jobbik.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-coalitions-seats-pmf-fidesz–hazánk–jobbik.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.2% | 100% | Last Result |
-| 15 | 7% | 99.8% |  |
-| 16 | 86% | 93% | Median |
-| 17 | 7% | 7% |  |
-| 18 | 0% | 0% |  |
+| 13 | 5% | 100% |  |
+| 14 | 80% | 95% | Last Result, Median |
+| 15 | 15% | 15% |  |
+| 16 | 0% | 0% |  |
 
-### Kereszténydemokrata Néppárt (EPP)
+### Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP)
 
-![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-coalitions-seats-pmf-kdnp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-06-NézőpontIntézet-coalitions-seats-pmf-kdnp–mmm.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

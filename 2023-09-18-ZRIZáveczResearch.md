@@ -15,7 +15,7 @@
 | Mi Hazánk Mozgalom (NI) | 0.0% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
 | Kereszténydemokrata Néppárt (EPP) | 51.5% | 6.4% | 5.5–7.5% |5.3–7.8% |5.0–8.1% |4.6–8.7% |
 | Momentum Mozgalom (RE) | 0.0% | 6.0% | 5.1–7.1% |4.9–7.4% |4.7–7.7% |4.3–8.2% |
-| Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.5–7.1% |
+| Magyar Kétfarkú Kutya Párt (Greens/EFA) | 0.0% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.5–7.1% |
 | Jobbik (NI) | 14.7% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
 | Magyar Szocialista Párt (S&D) | 10.9% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
 | Párbeszéd (Greens/EFA) | 7.2% | 3.0% | 2.4–3.8% |2.2–4.1% |2.1–4.3% |1.9–4.7% |
@@ -38,7 +38,7 @@
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
 | <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#magyar-kétfarkú-kutya-párt-(greens/efa)">Magyar Kétfarkú Kutya Párt (Greens/EFA)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 2 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 1 | 0 | 0 |0–1 |0–1 |0–1 |
@@ -121,11 +121,11 @@
 | 2 | 1.5% | 1.5% |  |
 | 3 | 0% | 0% |  |
 
-### Magyar Kétfarkú Kutya Párt (NI)
+### Magyar Kétfarkú Kutya Párt (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Magyar Kétfarkú Kutya Párt (NI)](party-magyarkétfarkúkutyapártni.html) page.*
+*For a full overview of the results for this party, see the [Magyar Kétfarkú Kutya Párt (Greens/EFA)](party-magyarkétfarkúkutyapártgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-09-18-ZRIZáveczResearch-seats-pmf-magyarkétfarkúkutyapártni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-18-ZRIZáveczResearch-seats-pmf-magyarkétfarkúkutyapártgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -191,38 +191,20 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI) | 14 | 14 | 100% | 13–14 | 13–15 | 13–15 | 12–15 |
-| Kereszténydemokrata Néppárt (EPP) | 11 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
+| Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI) | 14 | 13 | 100% | 12–13 | 12–14 | 12–14 | 11–14 |
 
-### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI)
+### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI)
 
-![Graph with seats probability mass function not yet produced](2023-09-18-ZRIZáveczResearch-coalitions-seats-pmf-fidesz–hazánk–mkkp–jobbik.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-18-ZRIZáveczResearch-coalitions-seats-pmf-fidesz–hazánk–jobbik.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.0% | 100% |  |
-| 13 | 19% | 99.0% |  |
-| 14 | 73% | 80% | Last Result, Median |
-| 15 | 7% | 7% |  |
+| 11 | 0.8% | 100% | Majority |
+| 12 | 17% | 99.2% |  |
+| 13 | 74% | 82% | Median |
+| 14 | 8% | 8% | Last Result |
+| 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
-
-### Kereszténydemokrata Néppárt (EPP)
-
-![Graph with seats probability mass function not yet produced](2023-09-18-ZRIZáveczResearch-coalitions-seats-pmf-kdnp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% | Last Result, Majority |
 
 
 ## Technical Information

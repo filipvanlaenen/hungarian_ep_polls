@@ -15,7 +15,7 @@
 | Mi Hazánk Mozgalom (NI) | 0.0% | 10.0% | 9.1–11.0% |8.9–11.2% |8.7–11.5% |8.3–12.0% |
 | Momentum Mozgalom (RE) | 0.0% | 8.0% | 7.2–8.9% |7.0–9.1% |6.8–9.4% |6.5–9.8% |
 | Kereszténydemokrata Néppárt (EPP) | 51.5% | 6.3% | 5.6–7.1% |5.4–7.3% |5.2–7.5% |4.9–7.9% |
-| Magyar Kétfarkú Kutya Párt (NI) | 0.0% | 6.0% | 5.3–6.8% |5.2–7.0% |5.0–7.2% |4.7–7.6% |
+| Magyar Kétfarkú Kutya Párt (Greens/EFA) | 0.0% | 6.0% | 5.3–6.8% |5.2–7.0% |5.0–7.2% |4.7–7.6% |
 | Lehet Más a Politika (Greens/EFA) | 5.0% | 2.0% | 1.6–2.5% |1.5–2.6% |1.4–2.8% |1.3–3.0% |
 | Jobbik (NI) | 14.7% | 2.0% | 1.6–2.5% |1.5–2.6% |1.4–2.8% |1.3–3.0% |
 | Magyar Szocialista Párt (S&D) | 10.9% | 2.0% | 1.6–2.5% |1.5–2.6% |1.4–2.8% |1.3–3.0% |
@@ -38,7 +38,7 @@
 | <a href="#mi-hazánk-mozgalom-(ni)">Mi Hazánk Mozgalom (NI)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1 |1–2 |1–2 |1–2 |
-| <a href="#magyar-kétfarkú-kutya-párt-(ni)">Magyar Kétfarkú Kutya Párt (NI)</a> | 0 | 1 | 1 |1 |1 |1–2 |
+| <a href="#magyar-kétfarkú-kutya-párt-(greens/efa)">Magyar Kétfarkú Kutya Párt (Greens/EFA)</a> | 0 | 1 | 1 |1 |1 |1–2 |
 | <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 0 | 0 |0 |0 |0 |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 2 | 0 | 0 |0 |0 |0 |
@@ -120,11 +120,11 @@
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% | Last Result, Majority |
 
-### Magyar Kétfarkú Kutya Párt (NI)
+### Magyar Kétfarkú Kutya Párt (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Magyar Kétfarkú Kutya Párt (NI)](party-magyarkétfarkúkutyapártni.html) page.*
+*For a full overview of the results for this party, see the [Magyar Kétfarkú Kutya Párt (Greens/EFA)](party-magyarkétfarkúkutyapártgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-09-08-IDEAIntézet-seats-pmf-magyarkétfarkúkutyapártni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-08-IDEAIntézet-seats-pmf-magyarkétfarkúkutyapártgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -189,38 +189,19 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI) | 14 | 13 | 100% | 13–14 | 13–14 | 13–14 | 12–15 |
-| Kereszténydemokrata Néppárt (EPP) | 11 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
+| Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI) | 14 | 12 | 100% | 12–13 | 12–13 | 12–13 | 11–14 |
 
-### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Magyar Kétfarkú Kutya Párt (NI) – Jobbik (NI)
+### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI)
 
-![Graph with seats probability mass function not yet produced](2023-09-08-IDEAIntézet-coalitions-seats-pmf-fidesz–hazánk–mkkp–jobbik.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.0% | 100% |  |
-| 13 | 50% | 99.0% | Median |
-| 14 | 47% | 49% | Last Result |
-| 15 | 1.5% | 1.5% |  |
-| 16 | 0% | 0% |  |
-
-### Kereszténydemokrata Néppárt (EPP)
-
-![Graph with seats probability mass function not yet produced](2023-09-08-IDEAIntézet-coalitions-seats-pmf-kdnp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-08-IDEAIntézet-coalitions-seats-pmf-fidesz–hazánk–jobbik.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 94% | 100% | Median |
-| 2 | 6% | 6% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% | Last Result, Majority |
+| 11 | 1.1% | 100% | Majority |
+| 12 | 51% | 98.9% | Median |
+| 13 | 47% | 48% |  |
+| 14 | 1.4% | 1.4% | Last Result |
+| 15 | 0% | 0% |  |
 
 
 ## Technical Information
