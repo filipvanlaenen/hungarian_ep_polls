@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 21 Jan 2023 17:56:23 +0100</pubDate>
     <item>
+      <title>Opinion Poll by ZRI Závecz Research, 29 October–8 November 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ZRI Závecz Research, 29 October–8 November 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch-seating-plan.png" length="391317" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 22:59:38 +0100</pubDate>
+      <dc:date>2023-11-18T22:59:38.203708902+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ZRI Závecz Research, 29 October–8 November 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ZRI Závecz Research, 29 October–8 November 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch-seats.png" length="275109" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 22:59:38 +0100</pubDate>
+      <dc:date>2023-11-18T22:59:38.203708902+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ZRI Závecz Research, 29 October–8 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by ZRI Závecz Research, 29 October–8 November 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-11-08-ZRIZáveczResearch.png" length="331816" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 22:59:38 +0100</pubDate>
+      <dc:date>2023-11-18T22:59:38.203708902+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Medián, 1–30 September 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-30-Medián.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Medián, 1–30 September 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-30-Medián.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-09-30-Medián-seating-plan.png"/>]]></description>
@@ -148,78 +172,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-29-21Kutatóközpont.png" length="359444" type="image/png"/>
       <pubDate>Thu, 5 Oct 2023 19:49:29 +0200</pubDate>
       <dc:date>2023-10-05T19:49:29.329485602+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon Intézet, 16–23 August 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon Intézet, 16–23 August 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet-seating-plan.png" length="404474" type="image/png"/>
-      <pubDate>Thu, 5 Oct 2023 19:59:46 +0200</pubDate>
-      <dc:date>2023-10-05T19:59:46.230692135+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon Intézet, 16–23 August 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon Intézet, 16–23 August 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet-seats.png" length="261604" type="image/png"/>
-      <pubDate>Thu, 5 Oct 2023 19:59:46 +0200</pubDate>
-      <dc:date>2023-10-05T19:59:46.230692135+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon Intézet, 16–23 August 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Republikon Intézet, 16–23 August 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-08-23-RepublikonIntézet.png" length="327950" type="image/png"/>
-      <pubDate>Thu, 5 Oct 2023 19:59:46 +0200</pubDate>
-      <dc:date>2023-10-05T19:59:46.230692135+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon Intézet, 14–25 July 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon Intézet, 14–25 July 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet-seating-plan.png" length="396269" type="image/png"/>
-      <pubDate>Thu, 24 Aug 2023 21:09:05 +0200</pubDate>
-      <dc:date>2023-08-24T21:09:05.094367771+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon Intézet, 14–25 July 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Republikon Intézet, 14–25 July 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet-seats.png" length="253258" type="image/png"/>
-      <pubDate>Thu, 24 Aug 2023 21:09:05 +0200</pubDate>
-      <dc:date>2023-08-24T21:09:05.094367771+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Republikon Intézet, 14–25 July 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Republikon Intézet, 14–25 July 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-25-RepublikonIntézet.png" length="300168" type="image/png"/>
-      <pubDate>Thu, 24 Aug 2023 21:09:05 +0200</pubDate>
-      <dc:date>2023-08-24T21:09:05.094367771+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IDEA Intézet, 28 June–19 July 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 28 June–19 July 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet-seating-plan.png" length="351264" type="image/png"/>
-      <pubDate>Fri, 25 Aug 2023 06:31:12 +0200</pubDate>
-      <dc:date>2023-08-25T06:31:12.938665811+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IDEA Intézet, 28 June–19 July 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by IDEA Intézet, 28 June–19 July 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet-seats.png" length="233307" type="image/png"/>
-      <pubDate>Fri, 25 Aug 2023 06:31:12 +0200</pubDate>
-      <dc:date>2023-08-25T06:31:12.938665811+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IDEA Intézet, 28 June–19 July 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IDEA Intézet, 28 June–19 July 2023<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2023-07-19-IDEAIntézet.png" length="283964" type="image/png"/>
-      <pubDate>Fri, 25 Aug 2023 06:31:12 +0200</pubDate>
-      <dc:date>2023-08-25T06:31:12.938665811+02:00</dc:date>
     </item>
   </channel>
 </rss>
