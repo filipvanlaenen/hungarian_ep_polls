@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
+| [30 November–13 December 2023](2023-12-13-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [17–24 November 2023](2023-11-24-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–16 November 2023](2023-11-16-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [29 October–8 November 2023](2023-11-08-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -264,6 +265,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [30 November–13 December 2023](2023-12-13-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [17–24 November 2023](2023-11-24-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
 | [31 October–16 November 2023](2023-11-16-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [29 October–8 November 2023](2023-11-08-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
