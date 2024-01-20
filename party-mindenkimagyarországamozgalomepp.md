@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.3% | 0.7–2.6% | 0.6–2.8% | 0.5–3.2% |
+| [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 2.0% | 1.7–2.3% | 1.7–2.4% | 1.6–2.5% | 1.5–2.7% |
+| [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [30 November–13 December 2023](2023-12-13-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [17–24 November 2023](2023-11-24-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -248,11 +253,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 78% | 99.6% | Median |
-| 1.5–2.5% | 22% | 22% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 62% | 98% | Median |
+| 1.5–2.5% | 31% | 36% |  |
+| 2.5–3.5% | 5% | 5% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -264,6 +270,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0 |
+| [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 0 | 0 | 0 | 0 | 0 |
+| [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
+| [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
+| [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 0 | 0 | 0 | 0 | 0 |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [30 November–13 December 2023](2023-12-13-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [17–24 November 2023](2023-11-24-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |

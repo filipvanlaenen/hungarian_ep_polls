@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 3.7–7.8% | 3.4–8.2% | 3.2–8.4% | 2.8–9.0% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.5–10.1% | 7.1–10.4% | 6.8–10.8% | 6.3–11.4% |
+| [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 10.0% | 9.4–10.6% | 9.2–10.8% | 9.1–11.0% | 8.8–11.3% |
+| [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [30 November–13 December 2023](2023-12-13-IDEAIntézet.html) | IDEA Intézet | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
 | [17–24 November 2023](2023-11-24-RepublikonIntézet.html) | Republikon Intézet | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -250,16 +255,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 7% | 99.9% |  |
-| 3.5–4.5% | 19% | 93% |  |
-| 4.5–5.5% | 8% | 74% |  |
-| 5.5–6.5% | 16% | 66% |  |
-| 6.5–7.5% | 34% | 50% | Median |
-| 7.5–8.5% | 15% | 17% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 11% | 98.9% |  |
+| 7.5–8.5% | 31% | 88% |  |
+| 8.5–9.5% | 36% | 57% | Median |
+| 9.5–10.5% | 17% | 21% |  |
+| 10.5–11.5% | 4% | 4% |  |
+| 11.5–12.5% | 0.3% | 0.4% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -270,7 +277,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 2 | 2 | 2 | 1–2 | 1–3 |
+| [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 2 | 2 | 2 | 1–2 | 1–2 |
+| [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 November–13 December 2023](2023-12-13-IDEAIntézet.html) | IDEA Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–24 November 2023](2023-11-24-RepublikonIntézet.html) | Republikon Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -510,9 +522,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 66% | 82% | Median |
-| 2 | 16% | 16% |  |
-| 3 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 8% | 100% |  |
+| 2 | 91% | 92% | Median |
+| 3 | 0.8% | 0.8% |  |
+| 4 | 0% | 0% |  |
 
 
