@@ -10,8 +10,10 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.4% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.7–8.1% | 5.4–8.4% | 5.1–8.7% | 4.6–9.3% |
 | [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| [15–20 January 2024](2024-01-20-RepublikonIntézet.html) | Republikon Intézet | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [9–11 January 2024](2024-01-11-Medián.html) | Medián | 7.4% | N/A | N/A | N/A | N/A |
 | [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 6.8% | 6.4–7.4% | 6.2–7.5% | 6.1–7.7% | 5.9–8.0% |
@@ -253,13 +255,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 22% | 98% |  |
-| 6.5–7.5% | 46% | 76% | Median |
-| 7.5–8.5% | 26% | 31% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 7% | 99.6% |  |
+| 5.5–6.5% | 29% | 92% |  |
+| 6.5–7.5% | 40% | 64% | Median |
+| 7.5–8.5% | 20% | 24% |  |
+| 8.5–9.5% | 3% | 4% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -313,6 +316,8 @@ Last result: **11** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–20 January 2024](2024-01-20-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 1 | 1 | 1–2 |
+| [9–11 January 2024](2024-01-11-Medián.html) | Medián |  |  |  |  |  |
 | [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -556,8 +561,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 64% | 100% | Median |
-| 2 | 36% | 36% |  |
+| 1 | 73% | 100% | Median |
+| 2 | 27% | 27% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |

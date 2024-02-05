@@ -12,6 +12,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.8–2.3% | 0.7–2.6% | 0.6–2.8% | 0.5–3.2% |
 | [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [15–20 January 2024](2024-01-20-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [9–11 January 2024](2024-01-11-Medián.html) | Medián | 1.0% | N/A | N/A | N/A | N/A |
 | [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 2.0% | 1.7–2.3% | 1.7–2.4% | 1.6–2.5% | 1.5–2.7% |
@@ -271,6 +273,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–31 January 2024](2024-01-31-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0 |
+| [15–20 January 2024](2024-01-20-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [9–11 January 2024](2024-01-11-Medián.html) | Medián |  |  |  |  |  |
 | [8–9 January 2024](2024-01-09-AlapjogokértKözpont.html) | Alapjogokért Központ | 0 | 0 | 0 | 0 | 0 |
 | [2–5 January 2024](2024-01-05-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
