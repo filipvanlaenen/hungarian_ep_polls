@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.3–9.5% | 6.0–9.9% | 5.8–10.3% | 5.3–11.0% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
-| [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
-| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.5–10.8% | 7.1–11.3% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7.7% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
+| [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
+| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 9.2% | 8.2–10.4% | 7.9–10.7% | 7.7–11.0% | 7.2–11.6% |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 4.0% | 3.6–4.4% | 3.5–4.6% | 3.4–4.7% | 3.3–4.9% |
 | [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 8.4% | 7.3–9.6% | 7.1–10.0% | 6.8–10.3% | 6.3–10.9% |
@@ -255,18 +256,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.2% | 100% |  |
-| 5.5–6.5% | 14% | 98.7% |  |
-| 6.5–7.5% | 30% | 85% |  |
-| 7.5–8.5% | 26% | 55% | Median |
-| 8.5–9.5% | 19% | 28% |  |
-| 9.5–10.5% | 8% | 9% |  |
-| 10.5–11.5% | 1.3% | 1.4% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 24% | 99.6% |  |
+| 3.5–4.5% | 58% | 75% | Median |
+| 4.5–5.5% | 17% | 18% |  |
+| 5.5–6.5% | 1.0% | 1.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -277,10 +272,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 2 | 2 | 2 | 2 | 1–3 |
+| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 2 | 2 | 2 | 2 | 1–2 |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 1 | 1 | 1 | 1 | 0–1 |
 | [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 1 | 1 | 1 | 1 | 1–2 |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -522,10 +518,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 49% | 100% |  |
-| 2 | 51% | 51% | Median |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
+| 2 | 0% | 0% |  |
 
 

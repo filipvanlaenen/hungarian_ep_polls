@@ -10,10 +10,11 @@ Last result: **51.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.8% | 37.0–42.7% | 36.3–43.4% | 35.8–44.0% | 34.8–45.1% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 41.7% | 39.7–43.7% | 39.2–44.3% | 38.7–44.8% | 37.8–45.8% |
-| [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 40.0% | 38.0–42.0% | 37.4–42.5% | 37.0–43.0% | 36.0–44.0% |
-| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 37.8% | 36.1–39.7% | 35.6–40.2% | 35.1–40.6% | 34.3–41.5% |
+| N/A | [Poll Average](average.html) | 39.2% | 37.2–41.2% | 36.7–41.8% | 36.2–42.3% | 35.3–43.2% |
+| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 39.2% | 37.2–41.2% | 36.7–41.8% | 36.2–42.3% | 35.3–43.2% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 43.8% | 39.7–43.7% | 39.2–44.3% | 38.7–44.8% | 37.8–45.8% |
+| [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 40.1% | 38.1–42.1% | 37.6–42.7% | 37.1–43.2% | 36.2–44.2% |
+| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 38.8% | 37.0–40.6% | 36.5–41.2% | 36.0–41.6% | 35.2–42.5% |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 42.2% | 41.2–43.2% | 40.9–43.5% | 40.6–43.7% | 40.1–44.2% |
 | [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 40.4% | 38.4–42.4% | 37.9–43.0% | 37.4–43.5% | 36.5–44.4% |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 39.4% | 37.4–41.4% | 36.9–42.0% | 36.4–42.4% | 35.5–43.4% |
@@ -254,19 +255,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.3% | 100% |  |
-| 34.5–35.5% | 1.4% | 99.7% |  |
-| 35.5–36.5% | 5% | 98% |  |
-| 36.5–37.5% | 10% | 94% |  |
-| 37.5–38.5% | 14% | 84% |  |
-| 38.5–39.5% | 16% | 70% |  |
-| 39.5–40.5% | 16% | 55% | Median |
-| 40.5–41.5% | 15% | 39% |  |
-| 41.5–42.5% | 12% | 23% |  |
-| 42.5–43.5% | 7% | 11% |  |
-| 43.5–44.5% | 3% | 4% |  |
-| 44.5–45.5% | 1.0% | 1.2% |  |
-| 45.5–46.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0.1% | 100% |  |
+| 34.5–35.5% | 0.7% | 99.9% |  |
+| 35.5–36.5% | 3% | 99.2% |  |
+| 36.5–37.5% | 10% | 96% |  |
+| 37.5–38.5% | 19% | 86% |  |
+| 38.5–39.5% | 25% | 67% | Median |
+| 39.5–40.5% | 22% | 41% |  |
+| 40.5–41.5% | 13% | 20% |  |
+| 41.5–42.5% | 5% | 7% |  |
+| 42.5–43.5% | 1.3% | 2% |  |
+| 43.5–44.5% | 0.2% | 0.3% |  |
+| 44.5–45.5% | 0% | 0% |  |
+| 45.5–46.5% | 0% | 0% |  |
 | 46.5–47.5% | 0% | 0% |  |
 | 47.5–48.5% | 0% | 0% |  |
 | 48.5–49.5% | 0% | 0% |  |
@@ -282,10 +283,11 @@ Last result: **11** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10–11 | 10–12 | 9–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 10 | 9–11 | 9–11 | 9–11 |
+| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10 | 9–11 | 9–11 | 9–11 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
-| [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
+| [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
+| [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 11 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [18–21 December 2023](2023-12-21-Real-PR93.html) | Real-PR 93 | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [12–15 December 2023](2023-12-15-PublicusResearch.html) | Publicus Research | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
@@ -527,11 +529,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 3% | 100% |  |
-| 10 | 61% | 97% | Median |
-| 11 | 29% | 36% | Last Result, Majority |
-| 12 | 7% | 8% |  |
-| 13 | 0.3% | 0.3% |  |
-| 14 | 0% | 0% |  |
+| 9 | 6% | 100% |  |
+| 10 | 87% | 94% | Median |
+| 11 | 7% | 7% | Last Result, Majority |
+| 12 | 0% | 0% |  |
 
 
