@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz (NI) | 51.5% | 39.2% | 37.2–41.2% |36.7–41.8% |36.2–42.3% |35.3–43.2% |
-| Party of Péter Magyar (EPP) | 0.0% | 12.6% | 11.3–14.0% |11.0–14.4% |10.7–14.8% |10.1–15.5% |
+| Tisztelet és Szabadság (EPP) | 0.0% | 12.6% | 11.3–14.0% |11.0–14.4% |10.7–14.8% |10.1–15.5% |
 | Magyar Kétfarkú Kutya Párt (Greens/EFA) | 0.0% | 10.7% | 9.5–12.1% |9.2–12.4% |8.9–12.8% |8.4–13.5% |
 | Demokratikus Koalíció (S&D) | 9.8% | 8.8% | 7.7–10.1% |7.4–10.4% |7.2–10.7% |6.7–11.4% |
 | Kereszténydemokrata Néppárt (EPP) | 51.5% | 6.4% | 5.5–7.5% |5.3–7.8% |5.0–8.1% |4.6–8.7% |
@@ -38,7 +38,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz-(ni)">Fidesz (NI)</a> | 11 | 10 | 10 |9–11 |9–11 |9–11 |
-| <a href="#party-of-péter-magyar-(epp)">Party of Péter Magyar (EPP)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#magyar-kétfarkú-kutya-párt-(greens/efa)">Magyar Kétfarkú Kutya Párt (Greens/EFA)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 2 | 3 | 3 |2–3 |2–3 |2–4 |
 | <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1 |1–2 |1–2 |1–2 |
@@ -65,11 +65,11 @@
 | 11 | 7% | 7% | Last Result, Majority |
 | 12 | 0% | 0% |  |
 
-### Party of Péter Magyar (EPP)
+### Tisztelet és Szabadság (EPP)
 
-*For a full overview of the results for this party, see the [Party of Péter Magyar (EPP)](party-partyofpétermagyarepp.html) page.*
+*For a full overview of the results for this party, see the [Tisztelet és Szabadság (EPP)](party-tiszteletésszabadságepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-04-04-NézőpontIntézet-seats-pmf-partyofpétermagyarepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-04-04-NézőpontIntézet-seats-pmf-tiszteletésszabadságepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -240,7 +240,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI) | 14 | 11 | 94% | 11–12 | 10–12 | 10–12 | 10–12 |
-| Party of Péter Magyar (EPP) – Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP) | 11 | 4 | 0% | 3–4 | 3–5 | 3–5 | 3–5 |
+| Tisztelet és Szabadság (EPP) – Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP) | 11 | 4 | 0% | 3–4 | 3–5 | 3–5 | 3–5 |
 
 ### Fidesz (NI) – Mi Hazánk Mozgalom (NI) – Jobbik (NI)
 
@@ -254,9 +254,9 @@
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% | Last Result |
 
-### Party of Péter Magyar (EPP) – Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP)
+### Tisztelet és Szabadság (EPP) – Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP)
 
-![Graph with seats probability mass function not yet produced](2024-04-04-NézőpontIntézet-coalitions-seats-pmf-magyar–kdnp–mmm.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-04-04-NézőpontIntézet-coalitions-seats-pmf-tisza–kdnp–mmm.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
