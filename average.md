@@ -6,7 +6,7 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | Fidesz | KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM | MSZP–Párbeszéd | Hazánk | UO | MMM | NP | 2RK | SzocDem | Magyar |
+| Period     | Polling firm/Commissioner(s) | Fidesz | KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM | MSZP–Párbeszéd | Hazánk | UO | MMM | NP | 2RK | SzocDem | TISZA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 51.5% <br> 11 | 51.5% <br> 11 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 36–42% <br> 9–11 | 5–8% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0–1 | 7–11% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 9–13% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 11–15% <br> 2–3 |
@@ -36,7 +36,7 @@ Only polls for which at least the sample size has been published are included in
 + **NP:** Nép Pártján (*)
 + **2RK:** Második Reformkor (*)
 + **SzocDem:** Szocialisták és demokraták (S&D)
-+ **Magyar:** Party of Péter Magyar (EPP)
++ **TISZA:** Tisztelet és Szabadság (EPP)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -66,7 +66,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#nép-pártján-(*)">Nép Pártján (*)</a> | 0.0% | 2.0% | 1.5–2.6% |1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
 | <a href="#második-reformkor-(*)">Második Reformkor (*)</a> | 0.0% | 2.0% | 1.5–2.6% |1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
 | <a href="#szocialisták-és-demokraták-(s&d)">Szocialisták és demokraták (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#party-of-péter-magyar-(epp)">Party of Péter Magyar (EPP)</a> | 0.0% | 12.6% | 11.3–14.0% |11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
+| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0.0% | 12.6% | 11.3–14.0% |11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
 
 ### Fidesz (NI)
 
@@ -254,9 +254,9 @@ Only polls for which at least the sample size has been published are included in
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
-### Party of Péter Magyar (EPP)
+### Tisztelet és Szabadság (EPP)
 
-*For a full overview of the results for this party, see the [Party of Péter Magyar (EPP)](party-partyofpétermagyarepp.html) page.*
+*For a full overview of the results for this party, see the [Tisztelet és Szabadság (EPP)](party-tiszteletésszabadságepp.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -384,7 +384,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#nép-pártján-(*)">Nép Pártján (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#második-reformkor-(*)">Második Reformkor (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#szocialisták-és-demokraták-(s&d)">Szocialisták és demokraták (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#party-of-péter-magyar-(epp)">Party of Péter Magyar (EPP)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
+| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
 
 ### Fidesz (NI)
 
@@ -579,11 +579,11 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-szocialistákésdemokratáksd.png "Seats Probability Mass Function")
 
-### Party of Péter Magyar (EPP)
+### Tisztelet és Szabadság (EPP)
 
-*For a full overview of the results for this party, see the [Party of Péter Magyar (EPP)](party-partyofpétermagyarepp.html) page.*
+*For a full overview of the results for this party, see the [Tisztelet és Szabadság (EPP)](party-tiszteletésszabadságepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partyofpétermagyarepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-tiszteletésszabadságepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -604,7 +604,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fidesz (NI) – Jobbik (NI) – Mi Hazánk Mozgalom (NI) | 14 | 11 | 94% | 11–12 | 10–12 | 10–12 | 10–12 |
-| Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP) – Party of Péter Magyar (EPP) | 11 | 4 | 0% | 3–4 | 3–5 | 3–5 | 3–5 |
+| Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP) – Tisztelet és Szabadság (EPP) | 11 | 4 | 0% | 3–4 | 3–5 | 3–5 | 3–5 |
 | Magyar Szocialista Párt–Párbeszéd (S&D) – Magyar Szocialista Párt (S&D) – Demokratikus Koalíció (S&D) – Szocialisták és demokraták (S&D) – United Opposition (S&D) | 7 | 3 | 0% | 3 | 3 | 2–3 | 2–4 |
 | Együtt (Greens/EFA) – Párbeszéd (Greens/EFA) – Lehet Más a Politika (Greens/EFA) – Magyar Kétfarkú Kutya Párt (Greens/EFA) | 2 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
 | MLP (RE) – Momentum Mozgalom (RE) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
@@ -621,9 +621,9 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% | Last Result |
 
-### Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP) – Party of Péter Magyar (EPP)
+### Kereszténydemokrata Néppárt (EPP) – Mindenki Magyarországa Mozgalom (EPP) – Tisztelet és Szabadság (EPP)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kdnp–mmm–magyar.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kdnp–mmm–tisza.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
