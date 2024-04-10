@@ -2,11 +2,11 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | Fidesz | KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM | MSZP–Párbeszéd | Hazánk | UO | MMM | NP | 2RK | SzocDem | Magyar |
+| Period     | Polling firm/Commissioner(s) | Fidesz | KDNP | Jobbik | MSZP | DK | Párbeszéd | Együtt | LMP | MLP | MKKP | MM | MSZP–Párbeszéd | Hazánk | UO | MMM | NP | 2RK | SzocDem | TISZA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 51.5% <br> 11 | 51.5% <br> 11 | 14.7% <br> 3 | 10.9% <br> 2 | 9.8% <br> 2 | 7.2% <br> 1 | 7.2% <br> 0 | 5.0% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 18.2% <br> 3 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 36–42% <br> 9–11 | 5–8% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0–1 | 7–11% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 9–13% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 11–15% <br> 2–3 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 39–45% <br> 10–12 | 5–8% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A | 15–19% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–6% <br> 0–1 | 6–9% <br> 1–2 | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 41–47% <br> 10–12 | 6–9% <br> 1–2 | 2–4% <br> 0 | 2–4% <br> 0–1 | 10–15% <br> 3–4 | 2–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–6% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 8–12% <br> 2 | N/A <br> N/A | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 37–43% <br> 10–11 | 5–8% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 11–15% <br> 3–4 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 | 6–9% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 3–5% <br> 0–1 | 1–2% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 36–42% <br> 9–11 | 5–8% <br> 1–2 | 1–3% <br> 0 | 2–5% <br> 0–1 | 12–16% <br> 3–4 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1 | 8–11% <br> 2 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 4–7% <br> 1 | 2–4% <br> 0 | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 41–44% <br> 11–13 | 6–8% <br> 1–2 | 2% <br> 0 | 2% <br> 0 | 9–11% <br> 2–3 | 0% <br> 0 | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A | 9–11% <br> 2–3 | 3–5% <br> 1 | N/A <br> N/A | 9–11% <br> 2–3 | N/A <br> N/A | 2% <br> 0 | 3–4% <br> 0–1 | 2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
@@ -266,7 +266,7 @@ Only polls for which at least the sample size has been published are included in
 + **NP:** Nép Pártján (*)
 + **2RK:** Második Reformkor (*)
 + **SzocDem:** Szocialisták és demokraták (S&D)
-+ **Magyar:** Party of Péter Magyar (EPP)
++ **TISZA:** Tisztelet és Szabadság (EPP)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
