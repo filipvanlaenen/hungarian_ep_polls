@@ -283,8 +283,8 @@ Last result: **11** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10 | 9–11 | 9–11 | 9–11 |
-| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10 | 9–11 | 9–11 | 9–11 |
+| N/A | [Poll Average](average.html) | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
+| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 11 | 9–11 | 9–11 | 9–11 | 9–11 |
@@ -529,9 +529,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 6% | 100% |  |
-| 10 | 87% | 94% | Median |
-| 11 | 7% | 7% | Last Result, Majority |
-| 12 | 0% | 0% |  |
+| 9 | 4% | 100% |  |
+| 10 | 49% | 96% | Median |
+| 11 | 47% | 47% | Last Result, Majority |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
