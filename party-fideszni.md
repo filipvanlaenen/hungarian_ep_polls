@@ -285,7 +285,7 @@ Last result: **11** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 11 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [1–31 December 2023](2023-12-31-Társadalomkutató.html) | Társadalomkutató | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
