@@ -10,7 +10,9 @@ Last result: **7.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.3–4.0% | 1.2–4.3% | 1.1–4.5% | 0.9–5.0% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.1–3.8% | 1.0–4.1% | 0.9–4.4% | 0.7–4.9% |
+| [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.6–2.5% |
+| [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet | 1.2% | N/A | N/A | N/A | N/A |
 | [4–11 April 2024](2024-04-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.3% | 1.8–3.0% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
@@ -256,11 +258,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 20% | 100% |  |
-| 1.5–2.5% | 31% | 80% |  |
-| 2.5–3.5% | 28% | 49% | Median |
-| 3.5–4.5% | 20% | 22% |  |
-| 4.5–5.5% | 2% | 2% |  |
+| 0.5–1.5% | 36% | 100% |  |
+| 1.5–2.5% | 31% | 64% | Median |
+| 2.5–3.5% | 18% | 33% |  |
+| 3.5–4.5% | 13% | 15% |  |
+| 4.5–5.5% | 1.3% | 1.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
 
@@ -274,6 +276,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
+| [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
 | [4–11 April 2024](2024-04-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -520,8 +524,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 25% | 25% | Last Result |
+| 0 | 84% | 100% | Median |
+| 1 | 16% | 16% | Last Result |
 | 2 | 0% | 0% |  |
 
 
