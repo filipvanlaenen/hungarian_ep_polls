@@ -299,7 +299,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–6 | 3–6 | 2–7 | 2–7 |
+| N/A | [Poll Average](average.html) | 3 | 3–6 | 3–6 | 2–6 | 2–7 |
 | [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
 | [4–11 April 2024](2024-04-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -555,7 +555,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 4% | 37% |  |
 | 5 | 0.8% | 33% |  |
 | 6 | 30% | 33% |  |
-| 7 | 3% | 3% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 
