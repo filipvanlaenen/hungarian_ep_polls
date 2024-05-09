@@ -303,8 +303,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
-| [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 5 | 5 | 5–6 | 4–6 | 4–6 |
+| [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 5 | 5 | 5 | 4–6 | 4–6 |
 | [26–29 April 2024](2024-04-29-Medián.html) | Medián | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
@@ -558,9 +558,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
 | 3 | 18% | 99.7% |  |
-| 4 | 3% | 81% |  |
-| 5 | 40% | 78% | Median |
-| 6 | 37% | 39% |  |
+| 4 | 5% | 81% |  |
+| 5 | 38% | 76% | Median |
+| 6 | 37% | 38% |  |
 | 7 | 1.3% | 1.3% |  |
 | 8 | 0% | 0% |  |
 

@@ -280,7 +280,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0–1 |
-| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 April 2024](2024-04-29-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
 | [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
 | [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
@@ -530,8 +530,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Median |
-| 1 | 18% | 18% | Last Result |
+| 0 | 86% | 100% | Median |
+| 1 | 14% | 14% | Last Result |
 | 2 | 0% | 0% |  |
 
 
