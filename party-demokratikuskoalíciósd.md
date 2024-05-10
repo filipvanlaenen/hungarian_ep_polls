@@ -291,10 +291,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
+| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [26–29 April 2024](2024-04-29-Medián.html) | Medián | 2 | 2 | 2 | 2 | 2 |
+| [26–29 April 2024](2024-04-29-Medián.html) | Medián | 2 | 2 | 2 | 1–2 | 1–2 |
 | [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 2 | 2 | 2 | 2–3 | 1–3 |
 | [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
 | [4–11 April 2024](2024-04-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -543,8 +543,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 49% | 99.8% | Last Result |
+| 1 | 0.9% | 100% |  |
+| 2 | 48% | 99.1% | Last Result |
 | 3 | 11% | 51% | Median |
 | 4 | 12% | 40% |  |
 | 5 | 27% | 28% |  |
