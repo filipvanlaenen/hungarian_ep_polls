@@ -10,7 +10,8 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.4–4.7% | 1.3–5.0% | 1.1–5.3% | 0.9–5.9% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.4–4.1% | 1.3–4.5% | 1.1–4.9% | 0.9–5.5% |
+| [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 2.9% | 2.4–3.5% | 2.2–3.7% | 2.1–3.8% | 1.9–4.2% |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
@@ -263,11 +264,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 34% | 85% |  |
-| 2.5–3.5% | 19% | 50% | Median |
-| 3.5–4.5% | 19% | 31% |  |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 1.3% | 1.4% |  |
+| 1.5–2.5% | 38% | 85% | Median |
+| 2.5–3.5% | 29% | 47% |  |
+| 3.5–4.5% | 13% | 18% |  |
+| 4.5–5.5% | 4% | 5% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -284,6 +285,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0–1 | 0–1 |
 | [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -536,8 +538,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Median |
-| 1 | 35% | 35% |  |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% |  |
 | 2 | 0% | 0% | Last Result |
 
 
