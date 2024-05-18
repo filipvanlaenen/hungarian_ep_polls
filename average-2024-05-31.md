@@ -422,9 +422,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 20% | 99.6% |  |
-| 9 | 33% | 80% | Median |
+| 7 | 0.2% | 100% |  |
+| 8 | 15% | 99.8% |  |
+| 9 | 37% | 84% | Median |
 | 10 | 27% | 47% |  |
 | 11 | 18% | 20% | Last Result, Majority |
 | 12 | 2% | 2% |  |
@@ -438,9 +438,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 91% | 99.7% | Median |
-| 2 | 9% | 9% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 91% | 99.8% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
@@ -478,8 +478,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 27% | 27% |  |
+| 0 | 71% | 100% | Median |
+| 1 | 29% | 29% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Demokratikus Koalíció (S&D)
@@ -492,8 +492,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.8% | 100% |  |
 | 2 | 40% | 99.2% | Last Result |
-| 3 | 26% | 59% | Median |
-| 4 | 22% | 33% |  |
+| 3 | 28% | 59% | Median |
+| 4 | 21% | 32% |  |
 | 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 
@@ -540,8 +540,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% | Last Result |
-| 1 | 62% | 65% | Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 60% | 64% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
@@ -553,8 +553,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 43% | 43% |  |
+| 0 | 61% | 100% | Last Result, Median |
+| 1 | 39% | 39% |  |
 | 2 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (NI)
@@ -567,7 +567,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 52% | 100% | Last Result, Median |
 | 1 | 47% | 48% |  |
-| 2 | 0.3% | 0.3% |  |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 ### United Opposition (S&D)
@@ -655,9 +655,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.9% | 100% |  |
-| 9 | 41% | 99.1% | Median |
-| 10 | 26% | 58% |  |
+| 8 | 0.8% | 100% |  |
+| 9 | 37% | 99.2% | Median |
+| 10 | 30% | 63% |  |
 | 11 | 25% | 32% | Majority |
 | 12 | 7% | 7% |  |
 | 13 | 0.2% | 0.2% |  |
@@ -670,10 +670,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 3% | 100% |  |
-| 6 | 48% | 97% | Median |
-| 7 | 43% | 49% |  |
-| 8 | 7% | 7% |  |
-| 9 | 0.1% | 0.1% |  |
+| 6 | 47% | 97% | Median |
+| 7 | 43% | 50% |  |
+| 8 | 6% | 7% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% | Last Result, Majority |
 
@@ -685,9 +685,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.7% | 100% |  |
 | 2 | 39% | 99.3% |  |
-| 3 | 17% | 60% | Median |
-| 4 | 25% | 43% |  |
-| 5 | 9% | 18% |  |
+| 3 | 16% | 60% | Median |
+| 4 | 26% | 44% |  |
+| 5 | 9% | 17% |  |
 | 6 | 9% | 9% |  |
 | 7 | 0% | 0% | Last Result |
 
@@ -697,8 +697,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% |  |
-| 1 | 65% | 71% | Median |
+| 0 | 30% | 100% |  |
+| 1 | 65% | 70% | Median |
 | 2 | 5% | 5% | Last Result |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
@@ -709,14 +709,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 43% | 43% |  |
+| 0 | 61% | 100% | Last Result, Median |
+| 1 | 39% | 39% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 11,534,336
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 12,582,912
 + **Error estimate:** 2.65%
