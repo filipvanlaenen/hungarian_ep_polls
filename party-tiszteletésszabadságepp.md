@@ -304,11 +304,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [26–29 April 2024](2024-04-29-Medián.html) | Medián | 6 | 6 | 6 | 6–7 | 5–7 |
 | [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
@@ -562,10 +562,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.2% | 100% |  |
-| 5 | 50% | 98.8% | Median |
-| 6 | 43% | 49% |  |
-| 7 | 5% | 5% |  |
-| 8 | 0% | 0% |  |
+| 4 | 3% | 100% |  |
+| 5 | 49% | 97% | Median |
+| 6 | 44% | 48% |  |
+| 7 | 4% | 4% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 

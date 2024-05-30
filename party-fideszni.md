@@ -296,12 +296,12 @@ Last result: **11** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 8–11 |
-| [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
-| [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
-| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
-| [26–29 April 2024](2024-04-29-Medián.html) | Medián | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
+| N/A | [Poll Average](average.html) | 9 | 9–11 | 8–11 | 8–11 | 8–11 |
+| [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 9–10 | 9–11 | 9–11 |
+| [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [26–30 April 2024](2024-04-30-PublicusResearch.html) | Publicus Research | 9 | 9 | 8–10 | 8–10 | 8–10 |
+| [26–29 April 2024](2024-04-29-Medián.html) | Medián | 11 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
 | [4–11 April 2024](2024-04-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -551,11 +551,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 11% | 99.9% |  |
-| 9 | 42% | 89% | Median |
-| 10 | 21% | 47% |  |
-| 11 | 26% | 26% | Last Result, Majority |
-| 12 | 0.3% | 0.3% |  |
+| 8 | 7% | 99.9% |  |
+| 9 | 43% | 93% | Median |
+| 10 | 29% | 50% |  |
+| 11 | 21% | 21% | Last Result, Majority |
+| 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
 
 
