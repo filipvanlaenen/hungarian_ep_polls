@@ -305,7 +305,7 @@ Last result: **11** seats (General Election of 26 May 2019)
 | [17–19 April 2024](2024-04-19-IránytűIntézet.html) | Iránytű Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [9–12 April 2024](2024-04-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
 | [4–11 April 2024](2024-04-11-ZRIZáveczResearch.html) | ZRI Závecz Research | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10–11 | 10–11 | 10–11 | 10–12 |
+| [2–4 April 2024](2024-04-04-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [26–28 February 2024](2024-02-28-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [22–26 February 2024](2024-02-26-21Kutatóközpont.html) | 21 Kutatóközpont | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
