@@ -301,7 +301,7 @@ Last result: **11** seats (General Election of 26 May 2019)
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 11 | 11 | 11–12 | 11–12 | 10–12 |
 | [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [27–29 May 2024](2024-05-29-Medián.html) | Medián | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
-| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 10 | 10 | 9–10 | 9–11 | 9–11 |
+| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 10 | 10 | 9–10 | 9–10 | 9–11 |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 10 | 10–11 | 9–11 | 9–11 |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
@@ -558,9 +558,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
-| 9 | 12% | 99.9% |  |
-| 10 | 55% | 87% | Median |
-| 11 | 31% | 33% | Last Result, Majority |
+| 9 | 11% | 99.9% |  |
+| 10 | 55% | 89% | Median |
+| 11 | 32% | 33% | Last Result, Majority |
 | 12 | 1.4% | 1.4% |  |
 | 13 | 0% | 0% |  |
 

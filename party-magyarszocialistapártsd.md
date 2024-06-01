@@ -293,8 +293,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
 | [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 0 | 0 | 0 | 0 | 0–1 |
-| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0–1 |
-| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0 |
+| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
+| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0–1 |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 0 | 0 | 0 | 0 | 0 |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

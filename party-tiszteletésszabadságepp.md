@@ -315,10 +315,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 6 | 6 | 6 | 5–6 | 5–6 |
-| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 5 | 5 | 5–6 | 5–6 | 4–6 |
-| [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 6 | 6 | 6–7 | 5–7 | 5–7 |
+| [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -579,9 +579,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
 | 5 | 21% | 99.8% |  |
-| 6 | 66% | 79% | Median |
-| 7 | 13% | 13% |  |
-| 8 | 0.3% | 0.3% |  |
+| 6 | 59% | 79% | Median |
+| 7 | 20% | 20% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 

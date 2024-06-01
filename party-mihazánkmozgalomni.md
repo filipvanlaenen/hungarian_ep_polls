@@ -292,9 +292,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
-| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 1 | 1 | 1 | 0–1 | 0–1 |
+| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 1 | 1 | 1 | 1 | 0–1 |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -550,8 +550,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 73% | 75% | Median |
+| 0 | 30% | 100% | Last Result |
+| 1 | 69% | 70% | Median |
 | 2 | 1.1% | 1.1% |  |
 | 3 | 0% | 0% |  |
 
