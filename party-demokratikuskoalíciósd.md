@@ -10,7 +10,13 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 6.3–16.8% | 5.8–17.7% | 5.5–18.2% | 5.0–19.2% |
+| N/A | [Poll Average](average.html) | 5.6% | 5.2–6.1% | 5.0–6.2% | 4.9–6.4% | 4.7–6.6% |
+| [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 5.6% | 5.2–6.1% | 5.0–6.2% | 4.9–6.4% | 4.7–6.6% |
+| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 7.0% | N/A | N/A | N/A | N/A |
+| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 6.2% | N/A | N/A | N/A | N/A |
+| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 7.0% | N/A | N/A | N/A | N/A |
+| [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 5.6% | N/A | N/A | N/A | N/A |
+| [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 6.3% | N/A | N/A | N/A | N/A |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.5–14.8% |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 11.9% | 10.9–13.0% | 10.6–13.3% | 10.3–13.6% | 9.9–14.2% |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
@@ -262,25 +268,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 9% | 97% |  |
-| 6.5–7.5% | 9% | 88% |  |
-| 7.5–8.5% | 9% | 79% |  |
-| 8.5–9.5% | 7% | 69% |  |
-| 9.5–10.5% | 4% | 62% | Last Result |
-| 10.5–11.5% | 11% | 58% | Median |
-| 11.5–12.5% | 16% | 46% |  |
-| 12.5–13.5% | 8% | 30% |  |
-| 13.5–14.5% | 2% | 22% |  |
-| 14.5–15.5% | 2% | 20% |  |
-| 15.5–16.5% | 5% | 17% |  |
-| 16.5–17.5% | 6% | 12% |  |
-| 17.5–18.5% | 4% | 6% |  |
-| 18.5–19.5% | 1.3% | 2% |  |
-| 19.5–20.5% | 0.2% | 0.3% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 4.5–5.5% | 43% | 99.9% |  |
+| 5.5–6.5% | 57% | 57% | Median |
+| 6.5–7.5% | 0.7% | 0.7% |  |
+| 7.5–8.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -291,7 +285,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
+| [27–29 May 2024](2024-05-29-Medián.html) | Medián |  |  |  |  |  |
+| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég |  |  |  |  |  |
+| [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ |  |  |  |  |  |
+| [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -545,11 +545,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.8% | 100% |  |
-| 2 | 27% | 99.2% | Last Result |
-| 3 | 29% | 72% | Median |
-| 4 | 29% | 43% |  |
-| 5 | 14% | 14% |  |
-| 6 | 0% | 0% |  |
+| 1 | 35% | 100% |  |
+| 2 | 65% | 65% | Last Result, Median |
+| 3 | 0% | 0% |  |
 
 

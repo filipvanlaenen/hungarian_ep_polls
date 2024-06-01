@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.0% | 20.2–26.5% | 19.6–27.2% | 19.2–27.7% | 18.4–28.8% |
+| N/A | [Poll Average](average.html) | 25.0% | 24.1–25.9% | 23.9–26.1% | 23.7–26.4% | 23.3–26.8% |
+| [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 25.0% | 24.1–25.9% | 23.9–26.2% | 23.7–26.4% | 23.3–26.8% |
+| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 28.0% | N/A | N/A | N/A | N/A |
+| [27–29 May 2024](2024-05-29-Medián.html) | Medián | 28.3% | N/A | N/A | N/A | N/A |
+| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 23.0% | N/A | N/A | N/A | N/A |
+| [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 26.0% | N/A | N/A | N/A | N/A |
+| [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 24.0% | N/A | N/A | N/A | N/A |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 20.9% | 19.6–22.3% | 19.3–22.7% | 18.9–23.1% | 18.3–23.8% |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.4% |
@@ -279,21 +285,18 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.7% | 99.9% |  |
-| 18.5–19.5% | 4% | 99.3% |  |
-| 19.5–20.5% | 11% | 95% |  |
-| 20.5–21.5% | 15% | 85% |  |
-| 21.5–22.5% | 14% | 69% |  |
-| 22.5–23.5% | 11% | 56% | Median |
-| 23.5–24.5% | 12% | 44% |  |
-| 24.5–25.5% | 12% | 32% |  |
-| 25.5–26.5% | 11% | 20% |  |
-| 26.5–27.5% | 6% | 9% |  |
-| 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.6% | 0.8% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 2% | 100% |  |
+| 23.5–24.5% | 24% | 98% |  |
+| 24.5–25.5% | 53% | 75% | Median |
+| 25.5–26.5% | 20% | 22% |  |
+| 26.5–27.5% | 1.3% | 1.3% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -304,7 +307,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
+| [27–29 May 2024](2024-05-29-Medián.html) | Medián |  |  |  |  |  |
+| [20–28 May 2024](2024-05-28-Századvég.html) | Századvég |  |  |  |  |  |
+| [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ |  |  |  |  |  |
+| [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -562,11 +571,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 49% | 97% | Median |
-| 6 | 44% | 48% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 94% | 100% | Median |
+| 7 | 6% | 6% |  |
+| 8 | 0% | 0% |  |
 
 
