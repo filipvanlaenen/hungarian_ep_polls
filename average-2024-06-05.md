@@ -375,7 +375,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz-(ni)">Fidesz (NI)</a> | 11 | 10 | 9–11 |9–11 | 9–11 | 9–12 |
-| <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#kereszténydemokrata-néppárt-(epp)">Kereszténydemokrata Néppárt (EPP)</a> | 11 | 1 | 1 |1–2 | 1–2 | 1–2 |
 | <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 3 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 3 | 0 | 0 |0 | 0 | 0 |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 2 | 0 | 0 |0 | 0 | 0 |
@@ -404,9 +404,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
 | 9 | 11% | 99.9% |  |
-| 10 | 55% | 89% | Median |
-| 11 | 32% | 33% | Last Result, Majority |
-| 12 | 1.4% | 1.4% |  |
+| 10 | 54% | 89% | Median |
+| 11 | 34% | 35% | Last Result, Majority |
+| 12 | 1.3% | 1.3% |  |
 | 13 | 0% | 0% |  |
 
 ### Kereszténydemokrata Néppárt (EPP)
@@ -468,9 +468,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 86% | 86% | Last Result, Median |
-| 3 | 1.0% | 1.0% |  |
+| 1 | 16% | 100% |  |
+| 2 | 83% | 84% | Last Result, Median |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 ### Párbeszéd (Greens/EFA)
@@ -517,8 +517,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 20% | 100% | Last Result |
-| 1 | 58% | 80% | Median |
-| 2 | 22% | 22% |  |
+| 1 | 56% | 80% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Momentum Mozgalom (RE)
@@ -543,7 +543,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 30% | 100% | Last Result |
 | 1 | 69% | 70% | Median |
-| 2 | 1.1% | 1.1% |  |
+| 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
 ### United Opposition (S&D)
@@ -597,8 +597,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
-| 5 | 21% | 99.8% |  |
-| 6 | 59% | 79% | Median |
+| 5 | 22% | 99.8% |  |
+| 6 | 58% | 78% | Median |
 | 7 | 20% | 20% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
@@ -626,8 +626,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.6% | 100% |  |
 | 10 | 19% | 99.3% |  |
-| 11 | 66% | 80% | Median, Majority |
-| 12 | 14% | 15% |  |
+| 11 | 64% | 80% | Median, Majority |
+| 12 | 16% | 17% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% | Last Result |
 
@@ -638,8 +638,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 20% | 99.9% |  |
-| 7 | 57% | 80% | Median |
+| 6 | 21% | 99.9% |  |
+| 7 | 55% | 79% | Median |
 | 8 | 19% | 24% |  |
 | 9 | 4% | 4% |  |
 | 10 | 0% | 0% |  |
@@ -651,9 +651,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% |  |
-| 2 | 86% | 87% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 16% | 100% |  |
+| 2 | 83% | 84% | Median |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -666,8 +666,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 20% | 100% |  |
-| 1 | 58% | 80% | Median |
-| 2 | 22% | 22% | Last Result |
+| 1 | 56% | 80% | Median |
+| 2 | 24% | 24% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### MLP (RE) – Momentum Mozgalom (RE)
@@ -684,6 +684,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 11,534,336
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 12,582,912
 + **Error estimate:** 2.53%

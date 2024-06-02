@@ -293,7 +293,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [27–29 May 2024](2024-05-29-Medián.html) | Medián | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 2 | 2 | 2 | 2 | 1–3 |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 2 | 2 | 1–2 | 1–3 |
+| [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–10 May 2024](2024-05-10-ZRIZáveczResearch.html) | ZRI Závecz Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25 April–4 May 2024](2024-05-04-IDEAIntézet.html) | IDEA Intézet | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [29 April–2 May 2024](2024-05-02-NézőpontIntézet.html) | Nézőpont Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -547,9 +547,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 86% | 86% | Last Result, Median |
-| 3 | 1.0% | 1.0% |  |
+| 1 | 16% | 100% |  |
+| 2 | 83% | 84% | Last Result, Median |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 
