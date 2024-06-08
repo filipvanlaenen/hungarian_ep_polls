@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 4.0–7.2% | 3.8–7.7% | 3.7–8.0% | 3.4–8.7% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.0–6.6% | 3.8–7.0% | 3.7–7.3% | 3.4–7.9% |
+| [3–5 June 2024](2024-06-05-PublicusResearch.html) | Publicus Research | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 4.0% | 3.6–4.4% | 3.5–4.6% | 3.4–4.7% | 3.3–4.9% |
 | [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [27–29 May 2024](2024-05-29-Medián.html) | Medián | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
+| [20–29 May 2024](2024-05-29-IDEAIntézet.html) | IDEA Intézet | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -272,14 +274,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 1.1% | 100% |  |
-| 3.5–4.5% | 19% | 98.9% |  |
-| 4.5–5.5% | 22% | 79% |  |
-| 5.5–6.5% | 32% | 57% | Median |
-| 6.5–7.5% | 19% | 25% |  |
-| 7.5–8.5% | 5% | 6% |  |
-| 8.5–9.5% | 0.7% | 0.8% |  |
+| 3.5–4.5% | 22% | 98.9% |  |
+| 4.5–5.5% | 35% | 76% | Median |
+| 5.5–6.5% | 30% | 41% |  |
+| 6.5–7.5% | 10% | 11% |  |
+| 7.5–8.5% | 1.2% | 1.3% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
-| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -290,10 +291,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–5 June 2024](2024-06-05-PublicusResearch.html) | Publicus Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
 | [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–29 May 2024](2024-05-29-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–29 May 2024](2024-05-29-IDEAIntézet.html) | IDEA Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 1 | 1 | 1 | 1 | 0–1 |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -550,9 +553,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 69% | 70% | Median |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 

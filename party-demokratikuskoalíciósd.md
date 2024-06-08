@@ -10,10 +10,12 @@ Last result: **9.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.3–7.6% | 5.0–8.0% | 4.8–8.3% | 4.4–9.0% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.4–10.1% | 5.1–10.9% | 4.9–11.5% | 4.4–12.4% |
+| [3–5 June 2024](2024-06-05-PublicusResearch.html) | Publicus Research | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 5.6% | 5.2–6.1% | 5.0–6.2% | 4.9–6.4% | 4.7–6.6% |
 | [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [27–29 May 2024](2024-05-29-Medián.html) | Medián | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.8–7.9% | 4.5–8.4% |
+| [20–29 May 2024](2024-05-29-IDEAIntézet.html) | IDEA Intézet | 8.3% | 7.5–9.3% | 7.2–9.6% | 7.0–9.8% | 6.6–10.3% |
 | [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
@@ -269,14 +271,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.1% | 100% |  |
-| 4.5–5.5% | 19% | 98.9% |  |
-| 5.5–6.5% | 41% | 80% | Median |
-| 6.5–7.5% | 28% | 39% |  |
-| 7.5–8.5% | 10% | 12% |  |
-| 8.5–9.5% | 1.4% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% | Last Result |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 15% | 99.1% |  |
+| 5.5–6.5% | 28% | 85% |  |
+| 6.5–7.5% | 21% | 56% | Median |
+| 7.5–8.5% | 15% | 36% |  |
+| 8.5–9.5% | 8% | 21% |  |
+| 9.5–10.5% | 6% | 13% | Last Result |
+| 10.5–11.5% | 5% | 7% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.3% | 0.4% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -287,10 +292,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [3–5 June 2024](2024-06-05-PublicusResearch.html) | Publicus Research | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 2 | 2 | 2 | 2 | 1–2 |
 | [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 2 | 2 | 2 | 2–3 | 2–3 |
 | [27–29 May 2024](2024-05-29-Medián.html) | Medián | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–29 May 2024](2024-05-29-IDEAIntézet.html) | IDEA Intézet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–28 May 2024](2024-05-28-Századvég.html) | Századvég | 2 | 2 | 2 | 2 | 1–3 |
 | [22–24 May 2024](2024-05-24-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 May 2024](2024-05-22-NézőpontIntézet.html) | Nézőpont Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -547,9 +554,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 16% | 100% |  |
-| 2 | 83% | 84% | Last Result, Median |
-| 3 | 0.9% | 0.9% |  |
-| 4 | 0% | 0% |  |
+| 1 | 11% | 100% |  |
+| 2 | 68% | 89% | Last Result, Median |
+| 3 | 17% | 21% |  |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
 
 
