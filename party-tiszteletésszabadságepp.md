@@ -316,7 +316,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [3–5 June 2024](2024-06-05-PublicusResearch.html) | Publicus Research | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [3–5 June 2024](2024-06-05-PublicusResearch.html) | Publicus Research | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [1–31 May 2024](2024-05-31-Társadalomkutató.html) | Társadalomkutató | 6 | 6 | 6 | 5–6 | 5–6 |
 | [27–29 May 2024](2024-05-29-Real-PR93.html) | Real-PR 93 | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [27–29 May 2024](2024-05-29-Medián.html) | Medián | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
@@ -582,9 +582,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 16% | 99.9% |  |
-| 6 | 58% | 84% | Median |
-| 7 | 26% | 26% |  |
+| 5 | 15% | 99.9% |  |
+| 6 | 58% | 85% | Median |
+| 7 | 27% | 27% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
