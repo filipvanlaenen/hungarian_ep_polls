@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.2–2.2% | 0.1–2.4% | 0.1–2.6% | 0.1–2.9% |
+| [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [19–27 June 2024](2024-06-27-IDEAIntézet.html) | IDEA Intézet | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% |
@@ -37,6 +38,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [19–27 June 2024](2024-06-27-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
