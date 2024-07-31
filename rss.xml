@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
+    <pubDate>Wed, 31 Jul 2024 21:50:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 15–17 July 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-17-NézőpontIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 10–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-17-NézőpontIntézet-seats.png"
+        length="235128"
+        type="image/png"/>
+      <pubDate>Wed, 31 Jul 2024 21:50:44 +0200</pubDate>
+      <dc:date>2024-07-31T21:50:44.704764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 15–17 July 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-17-NézőpontIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-17-NézőpontIntézet-coalitions-seats.png"
+        length="206546"
+        type="image/png"/>
+      <pubDate>Wed, 31 Jul 2024 21:50:44 +0200</pubDate>
+      <dc:date>2024-07-31T21:50:44.704764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 15–17 July 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-17-NézőpontIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 26.3–31.9%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 43.9–50.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-17-NézőpontIntézet.png"
+        length="256953"
+        type="image/png"/>
+      <pubDate>Wed, 31 Jul 2024 21:50:44 +0200</pubDate>
+      <dc:date>2024-07-31T21:50:44.704764+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Medián, 4–10 July 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-10-Medián.html#seats</link>
@@ -99,6 +129,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
+    <dc:date>2024-07-31T21:50:44.704764+02:00</dc:date>
   </channel>
 </rss>
