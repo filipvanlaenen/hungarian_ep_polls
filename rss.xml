@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 31 Jul 2024 21:50:44 +0200</pubDate>
+    <pubDate>Sat, 24 Aug 2024 13:14:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 24–31 July 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-31-IDEAIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nép Pártján (*): 0 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 0 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Mindenki Magyarországa Mozgalom (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Második Reformkor (*): 0 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 9–11 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-31-IDEAIntézet-seats.png"
+        length="297420"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2024 13:14:08 +0200</pubDate>
+      <dc:date>2024-08-24T13:14:08.635798+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 24–31 July 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-31-IDEAIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-31-IDEAIntézet-coalitions-seats.png"
+        length="185609"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2024 13:14:08 +0200</pubDate>
+      <dc:date>2024-08-24T13:14:08.635798+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 24–31 July 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-31-IDEAIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Nép Pártján (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 31.4–36.2%&lt;/li&gt;&lt;li&gt;Mindenki Magyarországa Mozgalom (EPP): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Második Reformkor (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 38.3–43.3%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 6.7–9.4%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-31-IDEAIntézet.png"
+        length="365644"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2024 13:14:08 +0200</pubDate>
+      <dc:date>2024-08-24T13:14:08.635798+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 15–17 July 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-07-17-NézőpontIntézet.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2024-07-31T21:50:44.704764+02:00</dc:date>
+    <dc:date>2024-08-24T13:14:08.635798+02:00</dc:date>
   </channel>
 </rss>
