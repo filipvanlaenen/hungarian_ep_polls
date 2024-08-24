@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.7% | 28.3–32.8% | 27.7–33.3% | 27.1–33.8% | 26.1–34.7% |
+| N/A | [Poll Average](average.html) | 30.9% | 28.3–34.2% | 27.7–34.9% | 27.1–35.4% | 26.1–36.4% |
+| [24–31 July 2024](2024-07-31-IDEAIntézet.html) | IDEA Intézet | 33.8% | 32.3–35.4% | 31.8–35.8% | 31.4–36.2% | 30.7–37.0% |
 | [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 30.7% | 28.9–32.6% | 28.3–33.2% | 27.9–33.6% | 27.1–34.6% |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 30.7% | 28.9–32.6% | 28.3–33.2% | 27.9–33.6% | 27.1–34.6% |
@@ -51,15 +52,16 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0.9% | 99.8% |  |
 | 26.5–27.5% | 3% | 98.9% |  |
 | 27.5–28.5% | 8% | 96% |  |
-| 28.5–29.5% | 15% | 87% |  |
-| 29.5–30.5% | 20% | 73% |  |
-| 30.5–31.5% | 22% | 53% | Median |
-| 31.5–32.5% | 18% | 31% |  |
-| 32.5–33.5% | 9% | 13% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 0.5% | 0.6% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 28.5–29.5% | 14% | 88% |  |
+| 29.5–30.5% | 17% | 73% |  |
+| 30.5–31.5% | 16% | 56% | Median |
+| 31.5–32.5% | 13% | 40% |  |
+| 32.5–33.5% | 11% | 27% |  |
+| 33.5–34.5% | 9% | 16% |  |
+| 34.5–35.5% | 5% | 7% |  |
+| 35.5–36.5% | 2% | 2% |  |
+| 36.5–37.5% | 0.3% | 0.3% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,6 +73,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [24–31 July 2024](2024-07-31-IDEAIntézet.html) | IDEA Intézet | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 9 | 8–9 | 8–9 | 7–9 | 7–9 |
@@ -91,9 +94,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 9% | 100% |  |
-| 7 | 37% | 91% |  |
-| 8 | 34% | 54% | Median |
-| 9 | 19% | 19% |  |
-| 10 | 0% | 0% |  |
+| 7 | 24% | 91% |  |
+| 8 | 38% | 67% | Median |
+| 9 | 29% | 29% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% | Majority |
 
 

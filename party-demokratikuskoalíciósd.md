@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.8% | 5.3–8.3% | 5.0–8.6% | 4.7–9.0% | 4.3–9.5% |
+| [24–31 July 2024](2024-07-31-IDEAIntézet.html) | IDEA Intézet | 7.9% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
 | [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
@@ -45,6 +46,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [24–31 July 2024](2024-07-31-IDEAIntézet.html) | IDEA Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,8 +61,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% | Last Result |
-| 1 | 65% | 95% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 74% | 95% | Median |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 

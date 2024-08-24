@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42.1% | 39.5–47.4% | 38.9–48.3% | 38.4–49.0% | 37.3–50.2% |
+| [24–31 July 2024](2024-07-31-IDEAIntézet.html) | IDEA Intézet | 40.8% | 39.2–42.4% | 38.7–42.9% | 38.3–43.3% | 37.6–44.1% |
 | [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 42.8% | 40.8–44.8% | 40.2–45.4% | 39.8–45.9% | 38.8–46.9% |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 40.6% | 38.6–42.6% | 38.1–43.2% | 37.6–43.7% | 36.7–44.7% |
@@ -86,7 +87,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [24–31 July 2024](2024-07-31-IDEAIntézet.html) | IDEA Intézet | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [4–10 July 2024](2024-07-10-Medián.html) | Medián | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 9 | 9–10 | 9–10 | 9–11 | 9–11 |
@@ -109,9 +111,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 18% | 100% |  |
-| 10 | 25% | 82% |  |
-| 11 | 49% | 57% | Median, Majority |
+| 9 | 23% | 100% |  |
+| 10 | 29% | 77% | Median |
+| 11 | 40% | 47% | Majority |
 | 12 | 7% | 7% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
