@@ -57,8 +57,8 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 5% | 100% |  |
-| 11 | 52% | 94% | Median, Majority |
-| 12 | 41% | 42% |  |
+| 11 | 53% | 95% | Median, Majority |
+| 12 | 40% | 42% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
@@ -78,8 +78,8 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.4% | 100% |  |
-| 8 | 32% | 99.6% |  |
-| 9 | 63% | 68% | Median |
+| 8 | 30% | 99.6% |  |
+| 9 | 64% | 69% | Median |
 | 10 | 5% | 5% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -91,8 +91,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 41% | 100% | Last Result |
+| 1 | 59% | 59% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -104,8 +104,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 19% | 19% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (Greens/EFA)
@@ -149,7 +149,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0 | 11 | 94% | 11–12 | 10–12 | 10–12 | 10–13 |
+| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0 | 11 | 95% | 11–12 | 10–12 | 10–12 | 10–13 |
 | Mi Hazánk Mozgalom (ESN) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Fidesz–Kereszténydemokrata Néppárt (PfE)
@@ -169,8 +169,8 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 5% | 100% |  |
-| 11 | 52% | 94% | Median, Majority |
-| 12 | 41% | 42% |  |
+| 11 | 53% | 95% | Median, Majority |
+| 12 | 40% | 42% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
@@ -180,8 +180,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 41% | 100% | Last Result |
+| 1 | 59% | 59% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -197,6 +197,6 @@
 ### Calculations
 
 + **Sample size:** 970
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.66%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.03%
 
