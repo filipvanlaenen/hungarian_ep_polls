@@ -89,8 +89,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–31 August 2024](2024-08-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [24–31 July 2024](2024-07-31-IDEAIntézet.html) | IDEA Intézet | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [15–17 July 2024](2024-07-17-NézőpontIntézet.html) | Nézőpont Intézet | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [4–10 July 2024](2024-07-10-Medián.html) | Medián | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 9 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [4–10 July 2024](2024-07-10-Medián.html) | Medián | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [3–8 July 2024](2024-07-08-RepublikonIntézet.html) | Republikon Intézet | 9 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [19–27 June 2024](2024-06-27-IDEAIntézet.html) | IDEA Intézet | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 
 ### Probability Mass Function
@@ -109,8 +109,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 4% | 99.9% |  |
-| 8 | 42% | 96% |  |
-| 9 | 36% | 55% | Median |
+| 8 | 45% | 96% |  |
+| 9 | 33% | 51% | Median |
 | 10 | 15% | 18% |  |
 | 11 | 3% | 3% | Majority |
 | 12 | 0% | 0% |  |
