@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 23 Oct 2024 21:09:51 +0200</pubDate>
+    <pubDate>Fri, 25 Oct 2024 19:22:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 28 September–8 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2024-10-08-ZRIZáveczResearch.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-09-18-NézőpontIntézet-seats.png"
         length="230477"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 21:58:55 +0200</pubDate>
-      <dc:date>2024-10-20T21:58:55.333226+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 19:22:17 +0200</pubDate>
+      <dc:date>2024-10-25T19:22:17.318055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 16–18 September 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-09-18-NézőpontIntézet-coalitions-seats.png"
         length="185359"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 21:58:55 +0200</pubDate>
-      <dc:date>2024-10-20T21:58:55.333226+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 19:22:17 +0200</pubDate>
+      <dc:date>2024-10-25T19:22:17.318055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 16–18 September 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2024-09-18-NézőpontIntézet.png"
         length="278516"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 21:58:55 +0200</pubDate>
-      <dc:date>2024-10-20T21:58:55.333226+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 19:22:17 +0200</pubDate>
+      <dc:date>2024-10-25T19:22:17.318055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 9–11 September 2024 – Seat Projections for the Parties</title>
@@ -369,6 +369,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2024-10-23T21:09:51.992468+02:00</dc:date>
+    <dc:date>2024-10-25T19:22:17.318055+02:00</dc:date>
   </channel>
 </rss>
