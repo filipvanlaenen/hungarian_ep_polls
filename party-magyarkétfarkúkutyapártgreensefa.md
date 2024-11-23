@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.9–4.8% | 2.7–5.0% | 2.5–5.3% | 2.1–5.7% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.7–6.4% | 2.5–7.3% | 2.3–7.8% | 2.0–8.6% |
+| [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
+| [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [1–31 October 2024](2024-10-31-Századvég.html) | Századvég | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [28–30 October 2024](2024-10-30-Real-PR93.html) | Real-PR 93 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [24–29 October 2024](2024-10-29-RepublikonIntézet.html) | Republikon Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [11–18 October 2024](2024-10-18-PublicusResearch.html) | Publicus Research | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [14–17 October 2024](2024-10-17-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [9–15 October 2024](2024-10-15-21Kutatóközpont.html) | 21 Kutatóközpont | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -35,12 +41,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 28% | 97% |  |
-| 3.5–4.5% | 52% | 68% | Median |
-| 4.5–5.5% | 15% | 16% |  |
-| 5.5–6.5% | 1.0% | 1.0% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 35% | 94% |  |
+| 3.5–4.5% | 35% | 59% | Median |
+| 4.5–5.5% | 11% | 24% |  |
+| 5.5–6.5% | 4% | 13% |  |
+| 6.5–7.5% | 6% | 9% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -51,7 +60,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
+| [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
+| [1–31 October 2024](2024-10-31-Századvég.html) | Századvég | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28–30 October 2024](2024-10-30-Real-PR93.html) | Real-PR 93 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [24–29 October 2024](2024-10-29-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [11–18 October 2024](2024-10-18-PublicusResearch.html) | Publicus Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–17 October 2024](2024-10-17-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [9–15 October 2024](2024-10-15-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -76,8 +91,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
-| 2 | 0% | 0% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 14% | 16% |  |
+| 2 | 2% | 2% |  |
+| 3 | 0% | 0% |  |
 
 
