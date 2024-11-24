@@ -107,7 +107,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | [1–31 October 2024](2024-10-31-Századvég.html) | Századvég | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [28–30 October 2024](2024-10-30-Real-PR93.html) | Real-PR 93 | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| [24–29 October 2024](2024-10-29-RepublikonIntézet.html) | Republikon Intézet | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [24–29 October 2024](2024-10-29-RepublikonIntézet.html) | Republikon Intézet | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [11–18 October 2024](2024-10-18-PublicusResearch.html) | Publicus Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [14–17 October 2024](2024-10-17-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [9–15 October 2024](2024-10-15-21Kutatóközpont.html) | 21 Kutatóközpont | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
@@ -140,8 +140,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
-| 8 | 31% | 97% |  |
-| 9 | 21% | 66% | Median |
+| 8 | 30% | 97% |  |
+| 9 | 22% | 67% | Median |
 | 10 | 29% | 45% |  |
 | 11 | 15% | 16% | Majority |
 | 12 | 0.8% | 0.8% |  |

@@ -101,13 +101,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [1–31 October 2024](2024-10-31-Századvég.html) | Századvég | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [28–30 October 2024](2024-10-30-Real-PR93.html) | Real-PR 93 | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
-| [24–29 October 2024](2024-10-29-RepublikonIntézet.html) | Republikon Intézet | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [24–29 October 2024](2024-10-29-RepublikonIntézet.html) | Republikon Intézet | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [11–18 October 2024](2024-10-18-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [14–17 October 2024](2024-10-17-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [9–15 October 2024](2024-10-15-21Kutatóközpont.html) | 21 Kutatóközpont | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
@@ -140,9 +140,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 6% | 100% |  |
-| 9 | 37% | 94% |  |
-| 10 | 32% | 57% | Median |
+| 8 | 5% | 100% |  |
+| 9 | 37% | 95% |  |
+| 10 | 33% | 59% | Median |
 | 11 | 23% | 25% | Majority |
 | 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
