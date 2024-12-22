@@ -11,6 +11,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
+| [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 1.0% | N/A | N/A | N/A | N/A |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 0.0% | N/A | N/A | N/A | N/A |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
@@ -54,6 +65,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–31 December 2024](2024-12-31-Századvég.html) | Századvég |  |  |  |  |  |
+| [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
+| [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
+| [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián |  |  |  |  |  |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég |  |  |  |  |  |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián |  |  |  |  |  |

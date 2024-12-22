@@ -10,7 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.7% | 36.0–45.6% | 35.3–46.6% | 34.7–47.4% | 33.6–48.8% |
+| N/A | [Poll Average](average.html) | 42.0% | 31.0–49.3% | 30.0–50.2% | 29.4–50.9% | 28.2–52.1% |
+| [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
+| [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 49.0% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 44.9–53.1% |
+| [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
+| [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 36.7% | 35.1–38.3% | 34.6–38.7% | 34.3–39.1% | 33.5–39.9% |
+| [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
+| [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 34.7% | 32.8–36.7% | 32.3–37.2% | 31.8–37.7% | 30.9–38.7% |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 44.0% | N/A | N/A | N/A | N/A |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 35.9% | N/A | N/A | N/A | N/A |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 45.0% | N/A | N/A | N/A | N/A |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 40.0% | N/A | N/A | N/A | N/A |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 37.7% | N/A | N/A | N/A | N/A |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 37.5% | 35.9–39.2% | 35.5–39.6% | 35.1–40.0% | 34.4–40.8% |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
@@ -66,31 +77,34 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.1% | 100% |  |
-| 32.5–33.5% | 0.4% | 99.9% |  |
-| 33.5–34.5% | 2% | 99.5% |  |
-| 34.5–35.5% | 4% | 98% |  |
-| 35.5–36.5% | 9% | 94% |  |
-| 36.5–37.5% | 12% | 85% |  |
-| 37.5–38.5% | 12% | 73% |  |
-| 38.5–39.5% | 10% | 61% |  |
-| 39.5–40.5% | 8% | 51% | Median |
-| 40.5–41.5% | 6% | 44% |  |
-| 41.5–42.5% | 6% | 37% |  |
-| 42.5–43.5% | 7% | 31% |  |
-| 43.5–44.5% | 7% | 24% |  |
-| 44.5–45.5% | 7% | 17% |  |
-| 45.5–46.5% | 5% | 10% |  |
-| 46.5–47.5% | 3% | 5% |  |
-| 47.5–48.5% | 2% | 2% |  |
-| 48.5–49.5% | 0.5% | 0.7% |  |
-| 49.5–50.5% | 0.1% | 0.2% |  |
-| 50.5–51.5% | 0% | 0% |  |
+| 26.5–27.5% | 0.1% | 100% |  |
+| 27.5–28.5% | 0.7% | 99.8% |  |
+| 28.5–29.5% | 2% | 99.1% |  |
+| 29.5–30.5% | 4% | 97% |  |
+| 30.5–31.5% | 5% | 93% |  |
+| 31.5–32.5% | 4% | 87% |  |
+| 32.5–33.5% | 2% | 83% |  |
+| 33.5–34.5% | 1.4% | 81% |  |
+| 34.5–35.5% | 3% | 79% |  |
+| 35.5–36.5% | 6% | 76% |  |
+| 36.5–37.5% | 6% | 71% |  |
+| 37.5–38.5% | 4% | 65% |  |
+| 38.5–39.5% | 2% | 61% |  |
+| 39.5–40.5% | 3% | 59% |  |
+| 40.5–41.5% | 4% | 57% |  |
+| 41.5–42.5% | 5% | 52% | Median |
+| 42.5–43.5% | 4% | 47% |  |
+| 43.5–44.5% | 3% | 43% |  |
+| 44.5–45.5% | 3% | 40% |  |
+| 45.5–46.5% | 5% | 36% |  |
+| 46.5–47.5% | 7% | 31% |  |
+| 47.5–48.5% | 8% | 24% |  |
+| 48.5–49.5% | 7% | 16% |  |
+| 49.5–50.5% | 5% | 8% |  |
+| 50.5–51.5% | 2% | 3% |  |
+| 51.5–52.5% | 0.9% | 1.1% |  |
+| 52.5–53.5% | 0.2% | 0.2% |  |
+| 53.5–54.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -101,7 +115,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 7–13 | 7–13 |
+| [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
+| [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
+| [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–13 |
+| [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 8 | 8–9 | 8–10 | 8–10 | 8–11 |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián |  |  |  |  |  |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég |  |  |  |  |  |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
@@ -139,12 +164,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 5% | 100% |  |
-| 9 | 37% | 95% |  |
-| 10 | 33% | 59% | Median |
-| 11 | 23% | 25% | Majority |
-| 12 | 2% | 2% |  |
-| 13 | 0% | 0% |  |
+| 7 | 4% | 100% |  |
+| 8 | 18% | 96% |  |
+| 9 | 17% | 78% |  |
+| 10 | 17% | 61% | Median |
+| 11 | 20% | 44% | Majority |
+| 12 | 21% | 24% |  |
+| 13 | 3% | 3% |  |
+| 14 | 0% | 0% |  |
 
 
