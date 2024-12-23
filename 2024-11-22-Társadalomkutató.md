@@ -76,7 +76,7 @@
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 42% | 99.9% |  |
-| 9 | 56% | 57% | Median |
+| 9 | 56% | 58% | Median |
 | 10 | 1.4% | 1.4% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -89,7 +89,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% | Last Result |
-| 1 | 93% | 93% | Median |
+| 1 | 92% | 93% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
@@ -101,8 +101,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 92% | 93% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 92% | 92% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
@@ -166,7 +166,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% | Last Result |
-| 1 | 93% | 93% | Median |
+| 1 | 92% | 93% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
@@ -182,6 +182,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.40%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.35%
 

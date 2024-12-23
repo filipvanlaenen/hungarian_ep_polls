@@ -80,7 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 0 | 0 | 0 | 0–1 | 0–1 |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
 | [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

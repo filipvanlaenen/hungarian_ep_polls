@@ -119,7 +119,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–26 November 2024](2024-11-26-Medián.html) | Medián | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
