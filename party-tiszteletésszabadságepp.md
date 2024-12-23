@@ -17,11 +17,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 42.6% | 41.0–44.3% | 40.5–44.7% | 40.1–45.1% | 39.3–45.9% |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 38.6% | 36.7–40.6% | 36.1–41.2% | 35.6–41.7% | 34.7–42.6% |
-| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 36.0% | N/A | N/A | N/A | N/A |
-| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 46.9% | N/A | N/A | N/A | N/A |
-| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 37.0% | N/A | N/A | N/A | N/A |
-| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 35.0% | N/A | N/A | N/A | N/A |
-| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 38.7% | N/A | N/A | N/A | N/A |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 46.9% | 45.1–48.8% | 44.6–49.3% | 44.1–49.7% | 43.2–50.6% |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 38.7% | 36.7–40.7% | 36.2–41.3% | 35.7–41.8% | 34.8–42.7% |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 40.5% | 38.9–42.1% | 38.4–42.6% | 38.0–43.0% | 37.2–43.8% |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
@@ -115,11 +115,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 10 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 9–11 | 9–11 | 9–11 | 9–11 |
-| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
-| [20–26 November 2024](2024-11-26-Medián.html) | Medián |  |  |  |  |  |
-| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
-| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég |  |  |  |  |  |
-| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 11 | 10–11 | 10–12 | 10–12 | 10–12 |

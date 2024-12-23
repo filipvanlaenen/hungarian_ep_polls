@@ -17,11 +17,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 1.0% | N/A | N/A | N/A | N/A |
-| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 1.0% | N/A | N/A | N/A | N/A |
-| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 1.0% | N/A | N/A | N/A | N/A |
-| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 2.0% | N/A | N/A | N/A | N/A |
-| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 2.0% | N/A | N/A | N/A | N/A |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -75,11 +75,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0–1 | 0–1 |
 | [20–30 November 2024](2024-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
-| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
-| [20–26 November 2024](2024-11-26-Medián.html) | Medián |  |  |  |  |  |
-| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
-| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég |  |  |  |  |  |
-| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [25–27 November 2024](2024-11-27-Real-PR93.html) | Real-PR 93 | 0 | 0 | 0 | 0 | 0 |
+| [20–26 November 2024](2024-11-26-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
+| [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
+| [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0 |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |

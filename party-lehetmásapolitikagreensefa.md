@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–26 November 2024](2024-11-26-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 November 2024](2024-11-19-Századvég.html) | Századvég | 0.0% | N/A | N/A | N/A | N/A |
-| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 0.2% | N/A | N/A | N/A | N/A |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián | 0.0% | N/A | N/A | N/A | N/A |
@@ -75,7 +75,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–26 November 2024](2024-11-26-Medián.html) | Medián |  |  |  |  |  |
 | [19–22 November 2024](2024-11-22-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
 | [14–19 November 2024](2024-11-19-Századvég.html) | Századvég |  |  |  |  |  |
-| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
+| [14–19 November 2024](2024-11-19-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [11–13 November 2024](2024-11-13-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [31 October–8 November 2024](2024-11-08-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [28 October–4 November 2024](2024-11-04-Medián.html) | Medián |  |  |  |  |  |
