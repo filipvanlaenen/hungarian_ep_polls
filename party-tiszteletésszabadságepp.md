@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.3% | 33.0–42.6% | 32.3–43.5% | 31.8–44.1% | 30.7–45.1% |
+| N/A | [Poll Average](average.html) | 37.2% | 33.0–44.6% | 32.3–45.4% | 31.8–46.0% | 30.7–47.0% |
+| [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 44.5% | 42.8–46.1% | 42.4–46.6% | 42.0–47.0% | 41.2–47.8% |
 | [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
+| [11–17 December 2024](2024-12-17-PublicusResearch.html) | Publicus Research | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
 | [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 42.6% | 41.0–44.3% | 40.5–44.7% | 40.1–45.1% | 39.3–45.9% |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
@@ -84,20 +86,22 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 2% | 99.6% |  |
 | 31.5–32.5% | 5% | 98% |  |
 | 32.5–33.5% | 9% | 93% |  |
-| 33.5–34.5% | 12% | 85% |  |
-| 34.5–35.5% | 13% | 72% |  |
-| 35.5–36.5% | 13% | 60% | Median |
-| 36.5–37.5% | 12% | 47% |  |
-| 37.5–38.5% | 8% | 35% |  |
-| 38.5–39.5% | 5% | 26% |  |
-| 39.5–40.5% | 2% | 22% |  |
-| 40.5–41.5% | 3% | 19% |  |
-| 41.5–42.5% | 6% | 16% |  |
-| 42.5–43.5% | 6% | 10% |  |
-| 43.5–44.5% | 3% | 5% |  |
-| 44.5–45.5% | 1.1% | 1.3% |  |
-| 45.5–46.5% | 0.2% | 0.2% |  |
-| 46.5–47.5% | 0% | 0% |  |
+| 33.5–34.5% | 11% | 85% |  |
+| 34.5–35.5% | 10% | 73% |  |
+| 35.5–36.5% | 9% | 63% |  |
+| 36.5–37.5% | 7% | 54% | Median |
+| 37.5–38.5% | 5% | 48% |  |
+| 38.5–39.5% | 3% | 43% |  |
+| 39.5–40.5% | 3% | 40% |  |
+| 40.5–41.5% | 5% | 37% |  |
+| 41.5–42.5% | 6% | 32% |  |
+| 42.5–43.5% | 7% | 26% |  |
+| 43.5–44.5% | 8% | 19% |  |
+| 44.5–45.5% | 6% | 11% |  |
+| 45.5–46.5% | 3% | 4% |  |
+| 46.5–47.5% | 0.9% | 1.1% |  |
+| 47.5–48.5% | 0.2% | 0.2% |  |
+| 48.5–49.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,9 +112,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [11–17 December 2024](2024-12-17-PublicusResearch.html) | Publicus Research | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 10 | 9–10 | 9–10 | 8–10 | 8–11 |
@@ -158,11 +164,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 4% | 100% |  |
-| 8 | 33% | 96% |  |
-| 9 | 30% | 63% | Median |
-| 10 | 20% | 33% |  |
-| 11 | 12% | 13% | Majority |
-| 12 | 0.1% | 0.1% |  |
+| 8 | 32% | 96% |  |
+| 9 | 24% | 64% | Median |
+| 10 | 25% | 40% |  |
+| 11 | 15% | 16% | Majority |
+| 12 | 0.9% | 0.9% |  |
 | 13 | 0% | 0% |  |
 
 

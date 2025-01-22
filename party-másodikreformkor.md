@@ -11,8 +11,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
+| [11–17 December 2024](2024-12-17-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -65,8 +67,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [1–31 December 2024](2024-12-31-Századvég.html) | Századvég |  |  |  |  |  |
 | [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató |  |  |  |  |  |
+| [11–17 December 2024](2024-12-17-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [9–11 December 2024](2024-12-11-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [29 November–6 December 2024](2024-12-06-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [28 November–5 December 2024](2024-12-05-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
