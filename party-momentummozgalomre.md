@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–3.2% | 0.7–3.5% | 0.6–3.8% | 0.5–4.3% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–3.4% | 0.7–3.7% | 0.7–4.0% | 0.5–4.4% |
 | [20–29 January 2025](2025-01-29-PublicusResearch.html) | Publicus Research | 1.0% | 0.8–1.3% | 0.8–1.4% | 0.7–1.4% | 0.6–1.6% |
-| [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet | 3.0% | N/A | N/A | N/A | N/A |
+| [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -54,12 +54,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.9% | 100% | Last Result |
-| 0.5–1.5% | 71% | 99.1% | Median |
-| 1.5–2.5% | 7% | 29% |  |
-| 2.5–3.5% | 16% | 21% |  |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 0.7% | 100% | Last Result |
+| 0.5–1.5% | 56% | 99.3% | Median |
+| 1.5–2.5% | 9% | 43% |  |
+| 2.5–3.5% | 26% | 34% |  |
+| 3.5–4.5% | 8% | 8% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -73,7 +73,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–29 January 2025](2025-01-29-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
-| [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [1–31 December 2024](2024-12-31-Századvég.html) | Századvég | 0 | 0 | 0 | 0 | 0 |
 | [16–18 December 2024](2024-12-18-Társadalomkutató.html) | Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
