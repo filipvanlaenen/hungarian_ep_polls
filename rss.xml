@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Feb 2025 09:52:24 +0100</pubDate>
+    <pubDate>Sun, 09 Feb 2025 14:04:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Publicus Research, 20–29 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-01-29-PublicusResearch.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 9–10 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 8–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-01-29-PublicusResearch-seats.png"
-        length="232295"
+        length="221674"
         type="image/png"/>
-      <pubDate>Sat, 08 Feb 2025 22:59:46 +0100</pubDate>
-      <dc:date>2025-02-08T22:59:46.222322+01:00</dc:date>
+      <pubDate>Sun, 09 Feb 2025 14:04:37 +0100</pubDate>
+      <dc:date>2025-02-09T14:04:37.635504+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 20–29 January 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-01-29-PublicusResearch.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-01-29-PublicusResearch-coalitions-seats.png"
-        length="199880"
+        length="189651"
         type="image/png"/>
-      <pubDate>Sat, 08 Feb 2025 22:59:46 +0100</pubDate>
-      <dc:date>2025-02-08T22:59:46.222322+01:00</dc:date>
+      <pubDate>Sun, 09 Feb 2025 14:04:37 +0100</pubDate>
+      <dc:date>2025-02-09T14:04:37.635504+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 20–29 January 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-01-29-PublicusResearch.png"
         length="245389"
         type="image/png"/>
-      <pubDate>Sat, 08 Feb 2025 22:59:46 +0100</pubDate>
-      <dc:date>2025-02-08T22:59:46.222322+01:00</dc:date>
+      <pubDate>Sun, 09 Feb 2025 14:04:37 +0100</pubDate>
+      <dc:date>2025-02-09T14:04:37.635504+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet, 14–22 January 2025 – Seat Projections for the Parties</title>
@@ -1089,6 +1089,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2025-02-09T09:52:24.794401+01:00</dc:date>
+    <dc:date>2025-02-09T14:04:37.635504+01:00</dc:date>
   </channel>
 </rss>
