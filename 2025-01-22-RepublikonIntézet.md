@@ -33,7 +33,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0 | 10 | 9–10 |9–10 |9–11 |9–11 |
+| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0 | 10 | 9–10 |9–11 |9–11 |9–11 |
 | <a href="#fidesz–kereszténydemokrata-néppárt-(pfe)">Fidesz–Kereszténydemokrata Néppárt (PfE)</a> | 0 | 8 | 7–9 |7–9 |7–9 |7–9 |
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#mi-hazánk-mozgalom-(esn)">Mi Hazánk Mozgalom (ESN)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
@@ -60,10 +60,10 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.2% | 100% |  |
-| 9 | 37% | 99.8% |  |
-| 10 | 59% | 63% | Median |
-| 11 | 4% | 4% | Majority |
+| 8 | 0.3% | 100% |  |
+| 9 | 33% | 99.7% |  |
+| 10 | 61% | 66% | Median |
+| 11 | 5% | 5% | Majority |
 | 12 | 0% | 0% |  |
 
 ### Fidesz–Kereszténydemokrata Néppárt (PfE)
@@ -81,9 +81,9 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 25% | 100% |  |
-| 8 | 60% | 75% | Median |
-| 9 | 15% | 15% |  |
+| 7 | 23% | 100% |  |
+| 8 | 66% | 77% | Median |
+| 9 | 11% | 11% |  |
 | 10 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
@@ -95,8 +95,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 31% | 100% |  |
-| 2 | 69% | 69% | Median |
+| 1 | 34% | 100% |  |
+| 2 | 66% | 66% | Median |
 | 3 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (ESN)
@@ -108,8 +108,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 72% | 99.7% | Median |
-| 2 | 27% | 27% |  |
+| 1 | 76% | 99.7% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Magyar Kétfarkú Kutya Párt (Greens/EFA)
@@ -120,8 +120,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Last Result, Median |
-| 1 | 48% | 48% |  |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 50% | 50% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -203,9 +203,9 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 25% | 100% |  |
-| 8 | 60% | 75% | Median |
-| 9 | 15% | 15% |  |
+| 7 | 23% | 100% |  |
+| 8 | 66% | 77% | Median |
+| 9 | 11% | 11% |  |
 | 10 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (ESN)
@@ -215,8 +215,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 72% | 99.7% | Median |
-| 2 | 27% | 27% |  |
+| 1 | 76% | 99.7% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -239,6 +239,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.19%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.91%
 
