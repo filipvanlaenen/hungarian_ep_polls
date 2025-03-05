@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 4.7–7.8% | 4.5–8.1% | 4.2–8.4% | 3.8–9.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 4.8–7.8% | 4.6–8.1% | 4.5–8.3% | 4.2–8.9% |
+| [22–26 February 2026](2026-02-26-RepublikonIntézet.html) | Republikon Intézet | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [20–29 January 2025](2025-01-29-PublicusResearch.html) | Publicus Research | 5.0% | 4.5–5.5% | 4.4–5.7% | 4.3–5.8% | 4.1–6.1% |
 | [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 6.9% | 6.2–7.8% | 5.9–8.1% | 5.7–8.3% | 5.4–8.8% |
@@ -57,13 +58,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 7% | 99.8% |  |
-| 4.5–5.5% | 28% | 93% |  |
-| 5.5–6.5% | 22% | 66% | Median |
-| 6.5–7.5% | 30% | 44% |  |
-| 7.5–8.5% | 13% | 14% |  |
-| 8.5–9.5% | 2% | 2% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 4% | 100% |  |
+| 4.5–5.5% | 28% | 96% |  |
+| 5.5–6.5% | 21% | 69% | Median |
+| 6.5–7.5% | 33% | 48% |  |
+| 7.5–8.5% | 13% | 15% |  |
+| 8.5–9.5% | 1.4% | 1.5% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [22–26 February 2026](2026-02-26-RepublikonIntézet.html) | Republikon Intézet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–29 January 2025](2025-01-29-PublicusResearch.html) | Publicus Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -122,9 +124,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 69% | 80% | Median |
-| 2 | 11% | 11% |  |
+| 0 | 17% | 100% | Last Result |
+| 1 | 69% | 83% | Median |
+| 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
 
