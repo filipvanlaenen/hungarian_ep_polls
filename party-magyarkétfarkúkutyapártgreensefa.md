@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.6–5.4% | 2.5–5.8% | 2.4–6.1% | 2.1–6.7% |
-| [22–26 February 2026](2026-02-26-RepublikonIntézet.html) | Republikon Intézet | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.0–6.0% | 1.8–6.5% | 1.6–6.9% | 1.3–7.5% |
+| [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [27 February–8 March 2025](2025-03-08-Medián.html) | Medián <br> HVG | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [1 December 2024–28 February 2025](2025-02-28-IránytűIntézet.html) | Iránytű Intézet | 4.0% | 3.7–4.3% | 3.6–4.4% | 3.5–4.5% | 3.4–4.6% |
+| [22–26 February 2025](2025-02-26-RepublikonIntézet.html) | Republikon Intézet | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [20–29 January 2025](2025-01-29-PublicusResearch.html) | Publicus Research | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.5–3.7% | 2.3–3.9% |
 | [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
@@ -56,14 +60,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 55% | 93% | Median |
-| 3.5–4.5% | 13% | 38% |  |
-| 4.5–5.5% | 18% | 26% |  |
-| 5.5–6.5% | 7% | 8% |  |
-| 6.5–7.5% | 0.8% | 0.8% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 18% | 98% |  |
+| 2.5–3.5% | 21% | 80% |  |
+| 3.5–4.5% | 35% | 59% | Median |
+| 4.5–5.5% | 10% | 24% |  |
+| 5.5–6.5% | 10% | 15% |  |
+| 6.5–7.5% | 4% | 4% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -75,7 +80,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–26 February 2026](2026-02-26-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 1 | 0–1 | 0–1 |
+| [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
+| [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [27 February–8 March 2025](2025-03-08-Medián.html) | Medián <br> HVG | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1 December 2024–28 February 2025](2025-02-28-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
+| [22–26 February 2025](2025-02-26-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [20–29 January 2025](2025-01-29-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [14–22 January 2025](2025-01-22-RepublikonIntézet.html) | Republikon Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 December 2024–10 January 2025](2025-01-10-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
@@ -121,8 +130,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
-| 2 | 0% | 0% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
+| 2 | 0.2% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 
