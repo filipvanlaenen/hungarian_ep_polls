@@ -371,8 +371,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 18% | 18% |  |
+| 0 | 81% | 100% | Last Result, Median |
+| 1 | 19% | 19% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -456,8 +456,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.5% | 100% |  |
 | 8 | 17% | 99.5% |  |
-| 9 | 29% | 82% |  |
-| 10 | 18% | 53% | Median |
+| 9 | 28% | 82% |  |
+| 10 | 19% | 54% | Median |
 | 11 | 32% | 35% | Majority |
 | 12 | 4% | 4% |  |
 | 13 | 0% | 0% |  |
@@ -478,8 +478,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 17% | 99.8% |  |
-| 9 | 55% | 83% | Median |
+| 8 | 16% | 99.8% |  |
+| 9 | 55% | 84% | Median |
 | 10 | 13% | 28% |  |
 | 11 | 14% | 15% | Majority |
 | 12 | 0.7% | 0.7% |  |
@@ -494,8 +494,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
-| 1 | 59% | 89% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 60% | 89% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -552,8 +552,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.5% | 100% |  |
 | 8 | 17% | 99.5% |  |
-| 9 | 29% | 82% |  |
-| 10 | 18% | 53% | Median |
+| 9 | 28% | 82% |  |
+| 10 | 19% | 54% | Median |
 | 11 | 32% | 35% | Majority |
 | 12 | 4% | 4% |  |
 | 13 | 0% | 0% |  |
@@ -572,8 +572,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 17% | 99.8% |  |
-| 9 | 55% | 83% | Median |
+| 8 | 16% | 99.8% |  |
+| 9 | 55% | 84% | Median |
 | 10 | 13% | 28% |  |
 | 11 | 14% | 15% | Majority |
 | 12 | 0.7% | 0.7% |  |
@@ -597,8 +597,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
-| 1 | 59% | 89% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 60% | 89% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Együtt (Greens/EFA) – Lehet Más a Politika (Greens/EFA) – Magyar Kétfarkú Kutya Párt (Greens/EFA) – Párbeszéd (Greens/EFA)
@@ -607,8 +607,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 18% | 18% |  |
+| 0 | 81% | 100% | Last Result, Median |
+| 1 | 19% | 19% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -632,6 +632,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
-+ **Error estimate:** 2.65%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
++ **Error estimate:** 1.55%
