@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 04 Apr 2025 19:00:35 +0200</pubDate>
+    <pubDate>Sat, 05 Apr 2025 12:08:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Závecz Research, 16–25 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-03-25-ZáveczResearch.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 8–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 0–2 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 8–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-03-25-ZáveczResearch-seats.png"
-        length="236891"
+        length="238547"
         type="image/png"/>
-      <pubDate>Fri, 04 Apr 2025 19:00:35 +0200</pubDate>
-      <dc:date>2025-04-04T19:00:35.810542+02:00</dc:date>
+      <pubDate>Sat, 05 Apr 2025 12:08:52 +0200</pubDate>
+      <dc:date>2025-04-05T12:08:52.521507+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Závecz Research, 16–25 March 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-03-25-ZáveczResearch.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-03-25-ZáveczResearch-coalitions-seats.png"
-        length="200774"
+        length="202712"
         type="image/png"/>
-      <pubDate>Fri, 04 Apr 2025 19:00:35 +0200</pubDate>
-      <dc:date>2025-04-04T19:00:35.810542+02:00</dc:date>
+      <pubDate>Sat, 05 Apr 2025 12:08:52 +0200</pubDate>
+      <dc:date>2025-04-05T12:08:52.521507+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Závecz Research, 16–25 March 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-03-25-ZáveczResearch.png"
         length="284237"
         type="image/png"/>
-      <pubDate>Fri, 04 Apr 2025 19:00:35 +0200</pubDate>
-      <dc:date>2025-04-04T19:00:35.810542+02:00</dc:date>
+      <pubDate>Sat, 05 Apr 2025 12:08:52 +0200</pubDate>
+      <dc:date>2025-04-05T12:08:52.521507+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 10–12 March 2025 – Seat Projections for the Parties</title>
@@ -1269,6 +1269,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2025-04-04T19:00:35.810542+02:00</dc:date>
+    <dc:date>2025-04-05T12:08:52.521507+02:00</dc:date>
   </channel>
 </rss>
