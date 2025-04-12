@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 1.8–5.8% | 1.6–6.4% | 1.5–6.8% | 1.2–7.5% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.8–4.1% | 1.6–4.5% | 1.5–4.8% | 1.2–5.4% |
+| [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -62,14 +64,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 27% | 96% |  |
-| 2.5–3.5% | 20% | 69% |  |
-| 3.5–4.5% | 29% | 49% | Median |
-| 4.5–5.5% | 8% | 20% |  |
-| 5.5–6.5% | 8% | 12% |  |
-| 6.5–7.5% | 3% | 4% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 32% | 96% |  |
+| 2.5–3.5% | 41% | 64% | Median |
+| 3.5–4.5% | 19% | 23% |  |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -80,7 +80,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0 | 0 | 0 |
+| [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
 | [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
@@ -132,9 +134,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 16% | 16% |  |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
+| 2 | 0% | 0% |  |
 
 

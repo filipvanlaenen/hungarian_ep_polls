@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
+| [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -76,6 +78,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
+| [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 0 | 0 | 0 | 0 | 0 |
 | [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
