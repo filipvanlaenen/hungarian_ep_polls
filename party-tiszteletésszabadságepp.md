@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41.0% | 35.4–50.6% | 34.2–51.8% | 33.5–52.6% | 32.2–54.0% |
+| N/A | [Poll Average](average.html) | 40.8% | 35.4–50.6% | 34.2–51.8% | 33.5–52.6% | 32.2–54.0% |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 51.0% | 49.0–53.0% | 48.4–53.6% | 47.9–54.1% | 46.9–55.1% |
 | [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
-| [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
+| [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 39.3% | 37.3–41.3% | 36.8–41.9% | 36.3–42.4% | 35.4–43.3% |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
 | [27 February–8 March 2025](2025-03-08-Medián.html) | Medián <br> HVG | 45.5% | 43.5–47.5% | 42.9–48.1% | 42.4–48.6% | 41.5–49.6% |
@@ -99,12 +99,12 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 4% | 97% |  |
 | 34.5–35.5% | 4% | 94% |  |
 | 35.5–36.5% | 4% | 89% |  |
-| 36.5–37.5% | 3% | 86% |  |
-| 37.5–38.5% | 5% | 82% |  |
-| 38.5–39.5% | 9% | 77% |  |
-| 39.5–40.5% | 12% | 68% |  |
-| 40.5–41.5% | 11% | 56% | Median |
-| 41.5–42.5% | 7% | 45% |  |
+| 36.5–37.5% | 4% | 85% |  |
+| 37.5–38.5% | 6% | 81% |  |
+| 38.5–39.5% | 10% | 75% |  |
+| 39.5–40.5% | 11% | 65% |  |
+| 40.5–41.5% | 10% | 53% | Median |
+| 41.5–42.5% | 7% | 43% |  |
 | 42.5–43.5% | 4% | 37% |  |
 | 43.5–44.5% | 4% | 33% |  |
 | 44.5–45.5% | 4% | 29% |  |
@@ -131,8 +131,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
-| [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
-| [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [27 February–8 March 2025](2025-03-08-Medián.html) | Medián <br> HVG | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
@@ -192,10 +192,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.4% | 100% |  |
 | 8 | 12% | 99.6% |  |
-| 9 | 14% | 88% |  |
-| 10 | 28% | 73% | Median |
-| 11 | 26% | 46% | Majority |
-| 12 | 16% | 20% |  |
+| 9 | 16% | 88% |  |
+| 10 | 33% | 71% | Median |
+| 11 | 20% | 39% | Majority |
+| 12 | 15% | 19% |  |
 | 13 | 4% | 4% |  |
 | 14 | 0% | 0% |  |
 
