@@ -128,7 +128,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
-| [9–18 April 2025](2025-04-18-Republikon.html) | Republikon | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [9–18 April 2025](2025-04-18-Republikon.html) | Republikon | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
@@ -190,9 +190,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 34% | 99.6% |  |
-| 9 | 45% | 66% | Median |
+| 7 | 0.5% | 100% |  |
+| 8 | 32% | 99.5% |  |
+| 9 | 46% | 67% | Median |
 | 10 | 6% | 21% |  |
 | 11 | 14% | 15% | Majority |
 | 12 | 0.7% | 0.7% |  |
