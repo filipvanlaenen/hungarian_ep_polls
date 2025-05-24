@@ -92,7 +92,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–18 April 2025](2025-04-18-Republikon.html) | Republikon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 2 | 2 | 2 | 1–2 | 1–2 |
+| [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0 | 0 | 0 |
 | [26 March–1 April 2025](2025-04-01-Republikon.html) | Republikon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
