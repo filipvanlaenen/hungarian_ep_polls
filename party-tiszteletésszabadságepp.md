@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
-| [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
+| [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [9–18 April 2025](2025-04-18-Republikon.html) | Republikon | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
@@ -199,8 +199,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.5% | 100% |  |
 | 8 | 14% | 99.5% |  |
 | 9 | 18% | 85% |  |
-| 10 | 36% | 67% | Median |
-| 11 | 12% | 32% | Majority |
+| 10 | 35% | 68% | Median |
+| 11 | 14% | 33% | Majority |
 | 12 | 15% | 19% |  |
 | 13 | 5% | 5% |  |
 | 14 | 0% | 0% |  |
