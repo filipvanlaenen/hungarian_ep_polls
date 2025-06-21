@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet | 1.0% | N/A | N/A | N/A | N/A |
+| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
 | [26 March–1 April 2025](2025-04-01-RepublikonIntézet.html) | Republikon Intézet | 1.0% | N/A | N/A | N/A | N/A |
@@ -87,7 +87,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
-| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
 | [26 March–1 April 2025](2025-04-01-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |

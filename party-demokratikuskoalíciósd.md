@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 2.9–9.2% | 2.6–9.7% | 2.4–10.2% | 2.1–10.9% |
+| N/A | [Poll Average](average.html) | 6.3% | 3.1–9.0% | 2.7–9.6% | 2.5–10.0% | 2.1–10.8% |
 | [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet | 6.0% | N/A | N/A | N/A | N/A |
+| [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
 | [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
-| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet | 7.0% | N/A | N/A | N/A | N/A |
+| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [26 March–1 April 2025](2025-04-01-RepublikonIntézet.html) | Republikon Intézet | 7.0% | N/A | N/A | N/A | N/A |
@@ -69,16 +69,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 16% | 96% |  |
-| 3.5–4.5% | 5% | 80% |  |
-| 4.5–5.5% | 7% | 75% |  |
-| 5.5–6.5% | 19% | 68% |  |
-| 6.5–7.5% | 18% | 49% | Median |
-| 7.5–8.5% | 13% | 31% |  |
-| 8.5–9.5% | 11% | 18% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 1.1% | 1.2% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 13% | 97% |  |
+| 3.5–4.5% | 4% | 84% |  |
+| 4.5–5.5% | 9% | 80% |  |
+| 5.5–6.5% | 27% | 70% | Median |
+| 6.5–7.5% | 19% | 43% |  |
+| 7.5–8.5% | 10% | 25% |  |
+| 8.5–9.5% | 9% | 14% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.9% | 0.9% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -92,10 +92,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
+| [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet | 1 | 1 | 1 | 0–1 | 0–1 |
 | [12–16 May 2025](2025-05-16-PublicusResearch.html) | Publicus Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [9–18 April 2025](2025-04-18-RepublikonIntézet.html) | Republikon Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0 | 0 | 0 |
 | [26 March–1 April 2025](2025-04-01-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
@@ -150,10 +150,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% | Last Result |
-| 1 | 45% | 72% | Median |
-| 2 | 27% | 27% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 23% | 100% | Last Result |
+| 1 | 56% | 77% | Median |
+| 2 | 22% | 22% |  |
+| 3 | 0% | 0% |  |
 
 
