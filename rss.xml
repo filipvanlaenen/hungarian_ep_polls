@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Jun 2025 18:02:16 +0200</pubDate>
+    <pubDate>Sat, 21 Jun 2025 13:42:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Republikon Intézet, 28 May–3 June 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-03-RepublikonIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 0 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 7–9 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-03-RepublikonIntézet-seats.png"
+        length="255721"
+        type="image/png"/>
+      <pubDate>Fri, 20 Jun 2025 21:06:21 +0200</pubDate>
+      <dc:date>2025-06-20T21:06:21.52819+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon Intézet, 28 May–3 June 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-03-RepublikonIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-03-RepublikonIntézet-coalitions-seats.png"
+        length="201297"
+        type="image/png"/>
+      <pubDate>Fri, 20 Jun 2025 21:06:21 +0200</pubDate>
+      <dc:date>2025-06-20T21:06:21.52819+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Republikon Intézet, 28 May–3 June 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-03-RepublikonIntézet.html</link>
@@ -16,8 +36,38 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-03-RepublikonIntézet.png"
         length="298763"
         type="image/png"/>
-      <pubDate>Fri, 20 Jun 2025 18:02:16 +0200</pubDate>
-      <dc:date>2025-06-20T18:02:16.358568+02:00</dc:date>
+      <pubDate>Fri, 20 Jun 2025 21:06:21 +0200</pubDate>
+      <dc:date>2025-06-20T21:06:21.52819+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 15–23 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-05-23-IDEAIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Második Reformkor (*): 0 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 10–11 seats&lt;/li&gt;&lt;li&gt;Nép Pártján (*): 0 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 8–10 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-05-23-IDEAIntézet-seats.png"
+        length="224448"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 12:59:28 +0200</pubDate>
+      <dc:date>2025-06-21T12:59:28.05094+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 15–23 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-05-23-IDEAIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-05-23-IDEAIntézet-coalitions-seats.png"
+        length="190820"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 12:59:28 +0200</pubDate>
+      <dc:date>2025-06-21T12:59:28.05094+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IDEA Intézet, 15–23 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-05-23-IDEAIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Második Reformkor (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 41.5–46.5%&lt;/li&gt;&lt;li&gt;Nép Pártján (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 34.6–39.5%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 4.9–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-05-23-IDEAIntézet.png"
+        length="261799"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 12:59:28 +0200</pubDate>
+      <dc:date>2025-06-21T12:59:28.05094+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 12–16 May 2025 – Seat Projections for the Parties</title>
@@ -48,6 +98,36 @@
         type="image/png"/>
       <pubDate>Sat, 24 May 2025 16:08:06 +0200</pubDate>
       <dc:date>2025-05-24T16:08:06.875112+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon Intézet, 9–18 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-04-18-RepublikonIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 9–10 seats&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 0 seats&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Jobbik (NI): 0 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 8–9 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-04-18-RepublikonIntézet-seats.png"
+        length="260337"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 13:42:15 +0200</pubDate>
+      <dc:date>2025-06-21T13:42:15.774265+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon Intézet, 9–18 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-04-18-RepublikonIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-04-18-RepublikonIntézet-coalitions-seats.png"
+        length="195015"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 13:42:15 +0200</pubDate>
+      <dc:date>2025-06-21T13:42:15.774265+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon Intézet, 9–18 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-04-18-RepublikonIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Magyar Szocialista Párt (S&amp;amp;D): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Párbeszéd (Greens/EFA): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 36.5–41.4%&lt;/li&gt;&lt;li&gt;Momentum Mozgalom (RE): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Lehet Más a Politika (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Jobbik (NI): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 32.6–37.4%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 5.8–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-04-18-RepublikonIntézet.png"
+        length="311810"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 13:42:15 +0200</pubDate>
+      <dc:date>2025-06-21T13:42:15.774265+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 3–9 April 2025 – Seat Projections for the Parties</title>
@@ -1369,6 +1449,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2025-06-20T18:02:16.358568+02:00</dc:date>
+    <dc:date>2025-06-21T13:42:15.774265+02:00</dc:date>
   </channel>
 </rss>
