@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% | 0.1–2.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.4–2.1% |
+| [19–27 June 2025](2025-06-27-ZáveczResearch.html) | Závecz Research | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [24–27 June 2025](2025-06-27-21Kutatóközpont.html) | 21 Kutatóközpont <br> 24.hu | 0.0% | N/A | N/A | N/A | N/A |
+| [23–25 June 2025](2025-06-25-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [16–17 June 2025](2025-06-17-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 June 2025](2025-06-07-Medián.html) | Medián <br> HVG | 0.0% | N/A | N/A | N/A | N/A |
 | [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
@@ -68,9 +72,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 32% | 100% | Last Result |
-| 0.5–1.5% | 64% | 68% | Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 90% | 98% | Median |
+| 1.5–2.5% | 8% | 8% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -83,6 +87,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–27 June 2025](2025-06-27-ZáveczResearch.html) | Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| [24–27 June 2025](2025-06-27-21Kutatóközpont.html) | 21 Kutatóközpont <br> 24.hu |  |  |  |  |  |
+| [23–25 June 2025](2025-06-25-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [16–17 June 2025](2025-06-17-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [3–7 June 2025](2025-06-07-Medián.html) | Medián <br> HVG |  |  |  |  |  |
 | [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [15–23 May 2025](2025-05-23-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
