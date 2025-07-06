@@ -135,7 +135,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 8 | 8–10 | 7–11 | 7–11 | 7–11 |
 | [19–27 June 2025](2025-06-27-ZáveczResearch.html) | Závecz Research | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [24–27 June 2025](2025-06-27-21Kutatóközpont.html) | 21 Kutatóközpont <br> 24.hu | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [23–25 June 2025](2025-06-25-PublicusResearch.html) | Publicus Research | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [23–25 June 2025](2025-06-25-PublicusResearch.html) | Publicus Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [16–17 June 2025](2025-06-17-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [3–7 June 2025](2025-06-07-Medián.html) | Medián <br> HVG | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [28 May–3 June 2025](2025-06-03-RepublikonIntézet.html) | Republikon Intézet | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
