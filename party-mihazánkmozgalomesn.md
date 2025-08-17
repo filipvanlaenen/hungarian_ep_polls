@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 2.9–8.1% | 2.6–8.5% | 2.4–9.0% | 2.0–9.7% |
+| N/A | [Poll Average](average.html) | 5.6% | 2.7–7.3% | 2.5–7.6% | 2.3–7.9% | 2.0–8.5% |
+| [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [30 June–1 July 2025](2025-07-01-Real-PR93.html) | Real-PR 93 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -77,17 +78,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 19% | 96% |  |
-| 3.5–4.5% | 9% | 77% |  |
-| 4.5–5.5% | 11% | 68% |  |
-| 5.5–6.5% | 17% | 57% | Median |
-| 6.5–7.5% | 21% | 39% |  |
-| 7.5–8.5% | 13% | 18% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 26% | 94% |  |
+| 3.5–4.5% | 8% | 68% |  |
+| 4.5–5.5% | 10% | 60% |  |
+| 5.5–6.5% | 24% | 50% | Median |
+| 6.5–7.5% | 20% | 26% |  |
+| 7.5–8.5% | 5% | 6% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -98,7 +97,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
 | [30 June–1 July 2025](2025-07-01-Real-PR93.html) | Real-PR 93 | 0 | 0 | 0 | 0 | 0 |
@@ -165,9 +165,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% | Last Result |
-| 1 | 52% | 63% | Median |
-| 2 | 12% | 12% |  |
+| 0 | 43% | 100% | Last Result |
+| 1 | 55% | 57% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 

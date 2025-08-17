@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.3% | 0.7–2.6% | 0.6–2.8% | 0.5–3.2% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–1 July 2025](2025-07-01-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
@@ -75,12 +76,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.2% | 100% | Last Result |
-| 0.5–1.5% | 65% | 98.8% | Median |
-| 1.5–2.5% | 29% | 34% |  |
-| 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 91% | 98% | Median |
+| 1.5–2.5% | 7% | 7% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -92,6 +91,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0 | 0 | 0 | 0 |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató |  |  |  |  |  |
 | [30 June–1 July 2025](2025-07-01-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
