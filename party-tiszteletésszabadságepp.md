@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.7% | 40.3–52.0% | 39.6–53.1% | 39.0–53.8% | 37.9–55.1% |
+| N/A | [Poll Average](average.html) | 43.3% | 40.3–46.3% | 39.6–47.0% | 39.0–47.5% | 37.9–48.5% |
+| [1–31 August 2025](2025-08-31-PublicusResearch.html) | Publicus Research <br> Népszava | 45.0% | 43.0–47.0% | 42.4–47.6% | 41.9–48.1% | 41.0–49.1% |
+| [31 July–7 August 2025](2025-08-07-IDEAIntézet.html) | IDEA Intézet | 45.5% | 43.9–47.2% | 43.4–47.7% | 43.0–48.1% | 42.2–48.9% |
 | [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
-| [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
+| [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 42.9% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
 | [30 June–1 July 2025](2025-07-01-Real-PR93.html) | Real-PR 93 | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
 | [19–27 June 2025](2025-06-27-ZáveczResearch.html) | Závecz Research | 46.0% | 44.4–47.7% | 43.9–48.1% | 43.5–48.5% | 42.7–49.3% |
@@ -118,22 +120,16 @@ The following table shows the probability mass function per percentage block of 
 | 38.5–39.5% | 3% | 98.6% |  |
 | 39.5–40.5% | 7% | 95% |  |
 | 40.5–41.5% | 12% | 88% |  |
-| 41.5–42.5% | 13% | 76% |  |
-| 42.5–43.5% | 12% | 63% |  |
-| 43.5–44.5% | 9% | 51% | Median |
-| 44.5–45.5% | 8% | 42% |  |
-| 45.5–46.5% | 7% | 34% |  |
-| 46.5–47.5% | 5% | 27% |  |
-| 47.5–48.5% | 2% | 22% |  |
-| 48.5–49.5% | 1.4% | 20% |  |
-| 49.5–50.5% | 2% | 19% |  |
-| 50.5–51.5% | 4% | 16% |  |
-| 51.5–52.5% | 5% | 12% |  |
-| 52.5–53.5% | 4% | 7% |  |
-| 53.5–54.5% | 2% | 3% |  |
-| 54.5–55.5% | 0.8% | 1.1% |  |
-| 55.5–56.5% | 0.2% | 0.2% |  |
-| 56.5–57.5% | 0% | 0% |  |
+| 41.5–42.5% | 14% | 76% |  |
+| 42.5–43.5% | 14% | 61% | Median |
+| 43.5–44.5% | 15% | 47% |  |
+| 44.5–45.5% | 14% | 32% |  |
+| 45.5–46.5% | 11% | 18% |  |
+| 46.5–47.5% | 6% | 8% |  |
+| 47.5–48.5% | 2% | 2% |  |
+| 48.5–49.5% | 0.4% | 0.4% |  |
+| 49.5–50.5% | 0.1% | 0.1% |  |
+| 50.5–51.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,7 +140,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
+| [1–31 August 2025](2025-08-31-PublicusResearch.html) | Publicus Research <br> Népszava | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
+| [31 July–7 August 2025](2025-08-07-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -221,11 +219,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
-| 9 | 13% | 99.9% |  |
-| 10 | 38% | 86% | Median |
-| 11 | 29% | 48% | Majority |
-| 12 | 17% | 19% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0% | 0% |  |
+| 9 | 14% | 99.9% |  |
+| 10 | 46% | 86% | Median |
+| 11 | 36% | 40% | Majority |
+| 12 | 4% | 4% |  |
+| 13 | 0% | 0% |  |
 
 
