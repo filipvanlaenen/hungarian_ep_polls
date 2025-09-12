@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.6–5.3% | 2.4–5.7% | 2.2–6.0% | 2.0–6.6% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.8–5.5% | 2.5–5.8% | 2.3–6.1% | 2.0–6.7% |
 | [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [1–31 August 2025](2025-08-31-PublicusResearch.html) | Publicus Research <br> Népszava | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
-| [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 4.0% | N/A | N/A | N/A | N/A |
-| [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 5.0% | N/A | N/A | N/A | N/A |
+| [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [31 July–7 August 2025](2025-08-07-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -84,12 +84,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 40% | 92% |  |
-| 3.5–4.5% | 27% | 52% | Median |
-| 4.5–5.5% | 18% | 25% |  |
-| 5.5–6.5% | 6% | 7% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 30% | 95% |  |
+| 3.5–4.5% | 31% | 65% | Median |
+| 4.5–5.5% | 25% | 33% |  |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 0.8% | 0.8% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -104,8 +104,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–31 August 2025](2025-08-31-PublicusResearch.html) | Publicus Research <br> Népszava | 0 | 0 | 0 | 0 | 0 |
-| [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
-| [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 July–7 August 2025](2025-08-07-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -175,8 +175,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 
