@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 10:43:10 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Závecz Research, 29 August–3 September 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Závecz Research, 29 August–3 September 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch-seating-plan.png" length="256422" type="image/png"/>
+      <pubDate>Fri, 12 Sep 2025 19:04:32 +0200</pubDate>
+      <dc:date>2025-09-12T19:04:32.129469587+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Závecz Research, 29 August–3 September 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Závecz Research, 29 August–3 September 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch-seats.png" length="221396" type="image/png"/>
+      <pubDate>Fri, 12 Sep 2025 19:04:32 +0200</pubDate>
+      <dc:date>2025-09-12T19:04:32.129469587+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Závecz Research, 29 August–3 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Závecz Research, 29 August–3 September 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-09-03-ZáveczResearch.png" length="261968" type="image/png"/>
+      <pubDate>Fri, 12 Sep 2025 19:04:32 +0200</pubDate>
+      <dc:date>2025-09-12T19:04:32.129469587+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Publicus Research for Népszava, 1–31 August 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-08-31-PublicusResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Publicus Research for Népszava, 1–31 August 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-08-31-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-08-31-PublicusResearch-seating-plan.png"/>]]></description>
@@ -172,78 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-07-01-Real-PR93.png" length="211413" type="image/png"/>
       <pubDate>Wed, 30 Jul 2025 22:45:25 +0200</pubDate>
       <dc:date>2025-07-30T22:45:25.216323313+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 21 Kutatóközpont for 24.hu, 24–27 June 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by 21 Kutatóközpont for 24.hu, 24–27 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont-seating-plan.png" length="247696" type="image/png"/>
-      <pubDate>Sun, 6 Jul 2025 09:28:39 +0200</pubDate>
-      <dc:date>2025-07-06T09:28:39.332897919+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 21 Kutatóközpont for 24.hu, 24–27 June 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by 21 Kutatóközpont for 24.hu, 24–27 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont-seats.png" length="191247" type="image/png"/>
-      <pubDate>Sun, 6 Jul 2025 09:28:39 +0200</pubDate>
-      <dc:date>2025-07-06T09:28:39.332897919+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 21 Kutatóközpont for 24.hu, 24–27 June 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by 21 Kutatóközpont for 24.hu, 24–27 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-21Kutatóközpont.png" length="211806" type="image/png"/>
-      <pubDate>Sun, 6 Jul 2025 09:28:39 +0200</pubDate>
-      <dc:date>2025-07-06T09:28:39.332897919+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Závecz Research, 19–27 June 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Závecz Research, 19–27 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch-seating-plan.png" length="248764" type="image/png"/>
-      <pubDate>Sat, 5 Jul 2025 21:10:54 +0200</pubDate>
-      <dc:date>2025-07-05T21:10:54.533766944+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Závecz Research, 19–27 June 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Závecz Research, 19–27 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch-seats.png" length="208309" type="image/png"/>
-      <pubDate>Sat, 5 Jul 2025 21:10:54 +0200</pubDate>
-      <dc:date>2025-07-05T21:10:54.533766944+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Závecz Research, 19–27 June 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Závecz Research, 19–27 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-27-ZáveczResearch.png" length="251536" type="image/png"/>
-      <pubDate>Sat, 5 Jul 2025 21:10:54 +0200</pubDate>
-      <dc:date>2025-07-05T21:10:54.533766944+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Publicus Research, 23–25 June 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Publicus Research, 23–25 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch-seating-plan.png" length="255175" type="image/png"/>
-      <pubDate>Sun, 6 Jul 2025 10:23:22 +0200</pubDate>
-      <dc:date>2025-07-06T10:23:22.647044906+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Publicus Research, 23–25 June 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Publicus Research, 23–25 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch-seats.png" length="208219" type="image/png"/>
-      <pubDate>Sun, 6 Jul 2025 10:23:22 +0200</pubDate>
-      <dc:date>2025-07-06T10:23:22.647044906+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Publicus Research, 23–25 June 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Publicus Research, 23–25 June 2025<br/>Details on https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.html<br/><img src="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-06-25-PublicusResearch.png" length="247887" type="image/png"/>
-      <pubDate>Sun, 6 Jul 2025 10:23:22 +0200</pubDate>
-      <dc:date>2025-07-06T10:23:22.647044906+02:00</dc:date>
     </item>
   </channel>
 </rss>
