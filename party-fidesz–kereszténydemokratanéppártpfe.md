@@ -15,13 +15,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–12 September 2025](2025-09-12-PublicusResearch.html) | Publicus Research <br> Népszava | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
 | [31 August–6 September 2025](2025-09-06-IDEAIntézet.html) | IDEA Intézet | 39.0% | 37.4–40.6% | 36.9–41.1% | 36.5–41.5% | 35.8–42.3% |
-| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
+| [29 August–4 September 2025](2025-09-04-ZáveczResearch.html) | Závecz Research | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
 | [28 August–3 September 2025](2025-09-03-Medián.html) | Medián <br> HVG | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
-| [1–31 August 2025](2025-08-31-PublicusResearch.html) | Publicus Research <br> Népszava | 35.2% | 33.3–37.2% | 32.8–37.7% | 32.3–38.2% | 31.4–39.2% |
 | [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
 | [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 34.7% | 32.8–36.7% | 32.3–37.2% | 31.8–37.7% | 30.9–38.7% |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
 | [31 July–7 August 2025](2025-08-07-IDEAIntézet.html) | IDEA Intézet | 38.6% | 37.0–40.2% | 36.5–40.7% | 36.2–41.1% | 35.4–41.9% |
+| [1–6 August 2025](2025-08-06-PublicusResearch.html) | Publicus Research <br> Népszava | 35.2% | 33.3–37.2% | 32.8–37.7% | 32.3–38.2% | 31.4–39.2% |
 | [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 32.9% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 49.0% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 44.9–53.1% |
@@ -155,13 +155,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–12 September 2025](2025-09-12-PublicusResearch.html) | Publicus Research <br> Népszava | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [31 August–6 September 2025](2025-09-06-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
-| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [29 August–4 September 2025](2025-09-04-ZáveczResearch.html) | Závecz Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [28 August–3 September 2025](2025-09-03-Medián.html) | Medián <br> HVG | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
-| [1–31 August 2025](2025-08-31-PublicusResearch.html) | Publicus Research <br> Népszava | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [31 July–7 August 2025](2025-08-07-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
+| [1–6 August 2025](2025-08-06-PublicusResearch.html) | Publicus Research <br> Népszava | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [23–29 July 2025](2025-07-29-RepublikonIntézet.html) | Republikon Intézet | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
