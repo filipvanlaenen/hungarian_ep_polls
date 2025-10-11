@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [25 September–1 October 2025](2025-10-01-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [29 September–1 October 2025](2025-10-01-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 September 2025](2025-09-14-McLaughlinAssociates.html) | McLaughlin & Associates <br> Index | 0.0% | N/A | N/A | N/A | N/A |
 | [8–12 September 2025](2025-09-12-PublicusResearch.html) | Publicus Research <br> Népszava | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
@@ -102,6 +104,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25 September–1 October 2025](2025-10-01-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [29 September–1 October 2025](2025-10-01-MagyarTársadalomkutató.html) | Magyar Társadalomkutató |  |  |  |  |  |
 | [10–14 September 2025](2025-09-14-McLaughlinAssociates.html) | McLaughlin & Associates <br> Index |  |  |  |  |  |
 | [8–12 September 2025](2025-09-12-PublicusResearch.html) | Publicus Research <br> Népszava |  |  |  |  |  |
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
