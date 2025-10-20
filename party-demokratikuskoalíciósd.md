@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.0–6.6% | 1.7–7.3% | 1.5–7.8% | 1.3–8.6% |
+| N/A | [Poll Average](average.html) | 4.5% | 1.9–6.6% | 1.7–7.3% | 1.5–7.7% | 1.3–8.5% |
+| [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [6–13 October 2025](2025-10-13-PublicusResearch.html) | Publicus Research <br> Népszava | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [3–10 October 2025](2025-10-10-21Kutatóközpont.html) | 21 Kutatóközpont | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [30 September–7 October 2025](2025-10-07-IDEAIntézet.html) | IDEA Intézet | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [25 September–1 October 2025](2025-10-01-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [29 September–1 October 2025](2025-10-01-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [10–14 September 2025](2025-09-14-McLaughlinAssociates.html) | McLaughlin & Associates <br> Index | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -91,14 +95,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 18% | 97% |  |
-| 2.5–3.5% | 7% | 79% |  |
-| 3.5–4.5% | 18% | 72% |  |
-| 4.5–5.5% | 30% | 54% | Median |
-| 5.5–6.5% | 14% | 24% |  |
-| 6.5–7.5% | 7% | 10% |  |
-| 7.5–8.5% | 3% | 4% |  |
-| 8.5–9.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 23% | 97% |  |
+| 2.5–3.5% | 14% | 74% |  |
+| 3.5–4.5% | 12% | 60% | Median |
+| 4.5–5.5% | 24% | 48% |  |
+| 5.5–6.5% | 13% | 24% |  |
+| 6.5–7.5% | 7% | 11% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.4% | 0.5% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -111,6 +115,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 0 | 0 | 0 | 0 | 0 |
+| [6–13 October 2025](2025-10-13-PublicusResearch.html) | Publicus Research <br> Népszava | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [3–10 October 2025](2025-10-10-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0 | 0 | 0 |
+| [30 September–7 October 2025](2025-10-07-IDEAIntézet.html) | IDEA Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 September–1 October 2025](2025-10-01-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 September–1 October 2025](2025-10-01-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
 | [10–14 September 2025](2025-09-14-McLaughlinAssociates.html) | McLaughlin & Associates <br> Index | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -191,9 +199,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 39% | 40% |  |
-| 2 | 0.8% | 0.8% |  |
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 35% | 36% |  |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% |  |
 
 
