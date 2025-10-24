@@ -23,8 +23,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–12 September 2025](2025-09-12-PublicusResearch.html) | Publicus Research <br> Népszava | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
 | [31 August–6 September 2025](2025-09-06-IDEAIntézet.html) | IDEA Intézet | 39.0% | 37.4–40.6% | 36.9–41.1% | 36.5–41.5% | 35.8–42.3% |
-| [28 August–4 September 2025](2025-09-04-Medián.html) | Medián <br> HVG | 38.0% | N/A | N/A | N/A | N/A |
-| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 36.0% | N/A | N/A | N/A | N/A |
+| [28 August–4 September 2025](2025-09-04-Medián.html) | Medián <br> HVG | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
+| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
 | [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
 | [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 34.7% | 32.8–36.7% | 32.3–37.2% | 31.8–37.7% | 30.9–38.7% |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
@@ -173,8 +173,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–12 September 2025](2025-09-12-PublicusResearch.html) | Publicus Research <br> Népszava | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [31 August–6 September 2025](2025-09-06-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
-| [28 August–4 September 2025](2025-09-04-Medián.html) | Medián <br> HVG |  |  |  |  |  |
-| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
+| [28 August–4 September 2025](2025-09-04-Medián.html) | Medián <br> HVG | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
