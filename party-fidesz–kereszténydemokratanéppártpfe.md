@@ -160,7 +160,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [6–13 October 2025](2025-10-13-PublicusResearch.html) | Publicus Research <br> Népszava | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
@@ -256,8 +256,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
 | 8 | 23% | 97% |  |
-| 9 | 24% | 74% | Median |
-| 10 | 17% | 50% |  |
+| 9 | 24% | 74% |  |
+| 10 | 17% | 50% | Median |
 | 11 | 27% | 33% | Majority |
 | 12 | 6% | 6% |  |
 | 13 | 0% | 0% |  |
