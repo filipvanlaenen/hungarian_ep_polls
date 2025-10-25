@@ -325,7 +325,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#mindenki-magyarországa-mozgalom-(epp)">Mindenki Magyarországa Mozgalom (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0 | 10 | 9–12 |9–12 | 9–13 | 8–13 |
-| <a href="#fidesz–kereszténydemokrata-néppárt-(pfe)">Fidesz–Kereszténydemokrata Néppárt (PfE)</a> | 0 | 9 | 8–11 |8–12 | 7–12 | 7–12 |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(pfe)">Fidesz–Kereszténydemokrata Néppárt (PfE)</a> | 0 | 10 | 8–11 |8–12 | 7–12 | 7–12 |
 | <a href="#mi-hazánk-mozgalom-(esn)">Mi Hazánk Mozgalom (ESN)</a> | 0 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nép-pártján-(*)">Nép Pártján (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -469,8 +469,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
 | 8 | 23% | 97% |  |
-| 9 | 24% | 74% | Median |
-| 10 | 17% | 50% |  |
+| 9 | 24% | 74% |  |
+| 10 | 17% | 50% | Median |
 | 11 | 27% | 33% | Majority |
 | 12 | 6% | 6% |  |
 | 13 | 0% | 0% |  |
@@ -485,7 +485,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 27% | 100% | Last Result |
 | 1 | 66% | 73% | Median |
-| 2 | 8% | 8% |  |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 ### Jobbik (NI)
@@ -520,7 +520,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Mindenki Magyarországa Mozgalom (EPP) – Tisztelet és Szabadság (EPP) | 0 | 10 | 35% | 9–12 | 9–12 | 9–13 | 8–13 |
-| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0 | 9 | 33% | 8–11 | 8–12 | 7–12 | 7–12 |
+| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0 | 10 | 33% | 8–11 | 8–12 | 7–12 | 7–12 |
 | Mi Hazánk Mozgalom (ESN) | 0 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratikus Koalíció (S&D) – Magyar Szocialista Párt (S&D) – Magyar Szocialista Párt–Párbeszéd (S&D) – Szocialisták és demokraták (S&D) – United Opposition (S&D) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 | Együtt (Greens/EFA) – Lehet Más a Politika (Greens/EFA) – Magyar Kétfarkú Kutya Párt (Greens/EFA) – Párbeszéd (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -564,8 +564,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
 | 8 | 23% | 97% |  |
-| 9 | 24% | 74% | Median |
-| 10 | 17% | 50% |  |
+| 9 | 24% | 74% |  |
+| 10 | 17% | 50% | Median |
 | 11 | 27% | 33% | Majority |
 | 12 | 6% | 6% |  |
 | 13 | 0% | 0% |  |
@@ -578,7 +578,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 27% | 100% | Last Result |
 | 1 | 66% | 73% | Median |
-| 2 | 8% | 8% |  |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D) – Magyar Szocialista Párt (S&D) – Magyar Szocialista Párt–Párbeszéd (S&D) – Szocialisták és demokraták (S&D) – United Opposition (S&D)
@@ -622,6 +622,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 14,680,064
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 16,777,216
 + **Error estimate:** 1.80%
