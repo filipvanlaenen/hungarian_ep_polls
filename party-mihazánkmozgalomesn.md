@@ -121,7 +121,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–13 October 2025](2025-10-13-PublicusResearch.html) | Publicus Research <br> Népszava | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
