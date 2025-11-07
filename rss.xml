@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 05 Nov 2025 20:25:46 +0100</pubDate>
+    <pubDate>Fri, 07 Nov 2025 16:56:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Závecz Research, 23 October–4 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-04-ZáveczResearch.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-10-22-RepublikonIntézet-seats.png"
         length="260119"
         type="image/png"/>
-      <pubDate>Mon, 03 Nov 2025 23:05:09 +0100</pubDate>
-      <dc:date>2025-11-03T23:05:09.708549+01:00</dc:date>
+      <pubDate>Fri, 07 Nov 2025 16:56:37 +0100</pubDate>
+      <dc:date>2025-11-07T16:56:37.31216+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet, 16–22 October 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-10-22-RepublikonIntézet-coalitions-seats.png"
         length="191493"
         type="image/png"/>
-      <pubDate>Mon, 03 Nov 2025 23:05:09 +0100</pubDate>
-      <dc:date>2025-11-03T23:05:09.708549+01:00</dc:date>
+      <pubDate>Fri, 07 Nov 2025 16:56:37 +0100</pubDate>
+      <dc:date>2025-11-07T16:56:37.31216+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet, 16–22 October 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-10-22-RepublikonIntézet.png"
         length="307790"
         type="image/png"/>
-      <pubDate>Mon, 03 Nov 2025 23:05:09 +0100</pubDate>
-      <dc:date>2025-11-03T23:05:09.708549+01:00</dc:date>
+      <pubDate>Fri, 07 Nov 2025 16:56:37 +0100</pubDate>
+      <dc:date>2025-11-07T16:56:37.31216+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alapjogokért Központ, 13–16 October 2025 – Seat Projections for the Parties</title>
@@ -2289,6 +2289,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2025-11-05T20:25:46.632958+01:00</dc:date>
+    <dc:date>2025-11-07T16:56:37.31216+01:00</dc:date>
   </channel>
 </rss>
