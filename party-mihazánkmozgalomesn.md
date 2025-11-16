@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.1–7.4% | 3.8–7.8% | 3.6–8.2% | 3.2–8.8% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.0–7.1% | 3.7–7.5% | 3.5–7.9% | 3.1–8.6% |
+| [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 3.9% | 3.4–4.7% | 3.2–4.9% | 3.1–5.0% | 2.8–5.4% |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -100,15 +101,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 17% | 98% |  |
-| 4.5–5.5% | 28% | 81% |  |
-| 5.5–6.5% | 27% | 53% | Median |
-| 6.5–7.5% | 18% | 26% |  |
-| 7.5–8.5% | 7% | 8% |  |
-| 8.5–9.5% | 1.0% | 1.1% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 19% | 97% |  |
+| 4.5–5.5% | 31% | 77% | Median |
+| 5.5–6.5% | 27% | 46% |  |
+| 6.5–7.5% | 14% | 19% |  |
+| 7.5–8.5% | 4% | 5% |  |
+| 8.5–9.5% | 0.6% | 0.6% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,6 +120,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0–1 | 0–1 |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -208,8 +209,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 66% | 68% | Median |
+| 0 | 37% | 100% | Last Result |
+| 1 | 62% | 63% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
