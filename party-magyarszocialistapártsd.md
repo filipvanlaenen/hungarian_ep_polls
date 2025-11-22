@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [10–18 November 2025](2025-11-18-PublicusResearch.html) | Publicus Research | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
+| [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
@@ -98,10 +102,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 62% | 100% | Last Result, Median |
-| 0.5–1.5% | 35% | 38% |  |
-| 1.5–2.5% | 3% | 3% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 91% | 100% | Last Result, Median |
+| 0.5–1.5% | 9% | 9% |  |
+| 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,8 +116,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–18 November 2025](2025-11-18-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató |  |  |  |  |  |
+| [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ |  |  |  |  |  |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ |  |  |  |  |  |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |

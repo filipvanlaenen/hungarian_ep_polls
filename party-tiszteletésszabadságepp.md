@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45.0% | 40.2–52.2% | 39.2–53.6% | 38.5–54.5% | 37.2–55.8% |
+| N/A | [Poll Average](average.html) | 45.0% | 39.4–48.5% | 38.6–49.3% | 37.9–49.9% | 36.7–51.1% |
+| [10–18 November 2025](2025-11-18-PublicusResearch.html) | Publicus Research | 47.2% | 45.2–49.2% | 44.6–49.8% | 44.1–50.3% | 43.2–51.3% |
+| [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 39.6% | 37.6–41.6% | 37.1–42.2% | 36.6–42.7% | 35.7–43.6% |
+| [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 46.4% | 44.7–48.1% | 44.3–48.5% | 43.9–48.9% | 43.1–49.7% |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 47.9% | 45.9–49.9% | 45.3–50.5% | 44.8–51.0% | 43.9–52.0% |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 47.9% | N/A | N/A | N/A | N/A |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 43.9% | 41.9–45.9% | 41.3–46.5% | 40.8–47.0% | 39.9–48.0% |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 41.9% | 39.9–43.9% | 39.4–44.5% | 38.9–45.0% | 37.9–46.0% |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
@@ -133,30 +137,25 @@ The following table shows the probability mass function per percentage block of 
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0% | 100% |  |
 | 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0% | 100% |  |
-| 35.5–36.5% | 0.1% | 100% |  |
-| 36.5–37.5% | 0.6% | 99.8% |  |
-| 37.5–38.5% | 2% | 99.2% |  |
-| 38.5–39.5% | 4% | 97% |  |
-| 39.5–40.5% | 6% | 94% |  |
-| 40.5–41.5% | 7% | 88% |  |
-| 41.5–42.5% | 8% | 81% |  |
-| 42.5–43.5% | 9% | 73% |  |
-| 43.5–44.5% | 10% | 64% |  |
-| 44.5–45.5% | 10% | 54% | Median |
-| 45.5–46.5% | 10% | 44% |  |
-| 46.5–47.5% | 9% | 35% |  |
-| 47.5–48.5% | 6% | 26% |  |
-| 48.5–49.5% | 4% | 20% |  |
-| 49.5–50.5% | 2% | 16% |  |
-| 50.5–51.5% | 2% | 14% |  |
-| 51.5–52.5% | 3% | 12% |  |
-| 52.5–53.5% | 4% | 9% |  |
-| 53.5–54.5% | 3% | 5% |  |
-| 54.5–55.5% | 2% | 2% |  |
-| 55.5–56.5% | 0.6% | 0.7% |  |
-| 56.5–57.5% | 0.1% | 0.2% |  |
-| 57.5–58.5% | 0% | 0% |  |
+| 34.5–35.5% | 0.1% | 100% |  |
+| 35.5–36.5% | 0.3% | 99.9% |  |
+| 36.5–37.5% | 1.3% | 99.6% |  |
+| 37.5–38.5% | 3% | 98% |  |
+| 38.5–39.5% | 6% | 95% |  |
+| 39.5–40.5% | 8% | 89% |  |
+| 40.5–41.5% | 8% | 81% |  |
+| 41.5–42.5% | 7% | 73% |  |
+| 42.5–43.5% | 6% | 67% |  |
+| 43.5–44.5% | 7% | 60% |  |
+| 44.5–45.5% | 9% | 54% | Median |
+| 45.5–46.5% | 12% | 45% |  |
+| 46.5–47.5% | 13% | 33% |  |
+| 47.5–48.5% | 10% | 20% |  |
+| 48.5–49.5% | 6% | 10% |  |
+| 49.5–50.5% | 3% | 4% |  |
+| 50.5–51.5% | 0.8% | 1.1% |  |
+| 51.5–52.5% | 0.2% | 0.2% |  |
+| 52.5–53.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -167,9 +166,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–12 | 8–12 |
+| [10–18 November 2025](2025-11-18-PublicusResearch.html) | Publicus Research | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
+| [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
@@ -265,12 +268,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.9% | 100% |  |
-| 9 | 19% | 99.1% |  |
-| 10 | 25% | 80% |  |
-| 11 | 33% | 55% | Median, Majority |
-| 12 | 20% | 22% |  |
-| 13 | 3% | 3% |  |
+| 8 | 2% | 100% |  |
+| 9 | 23% | 98% |  |
+| 10 | 21% | 75% |  |
+| 11 | 42% | 54% | Median, Majority |
+| 12 | 12% | 12% |  |
+| 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
 
