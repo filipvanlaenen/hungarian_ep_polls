@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
-| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 5.0% | N/A | N/A | N/A | N/A |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -128,7 +128,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 0 | 0 | 0 | 0 | 0 |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 0 | 0 | 0 | 0 | 0 |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 0 | 0 | 0 | 0 | 0 |

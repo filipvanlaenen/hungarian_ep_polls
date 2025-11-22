@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.1% |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 39.5% | 37.9–41.2% | 37.5–41.6% | 37.1–42.0% | 36.3–42.8% |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 36.9% | 35.0–38.9% | 34.4–39.5% | 34.0–39.9% | 33.0–40.9% |
-| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 36.9% | N/A | N/A | N/A | N/A |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 36.9% | 35.0–38.9% | 34.4–39.5% | 34.0–39.9% | 33.0–40.9% |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 33.9% | 32.0–35.9% | 31.5–36.4% | 31.0–36.9% | 30.1–37.8% |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 46.9% | 44.9–48.9% | 44.3–49.5% | 43.8–50.0% | 42.9–51.0% |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 49.0% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 44.9–53.1% |
@@ -174,7 +174,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
+| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
