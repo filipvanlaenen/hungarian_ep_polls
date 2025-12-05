@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Dec 2025 22:57:28 +0100</pubDate>
+    <pubDate>Fri, 05 Dec 2025 18:29:07 +0100</pubDate>
     <item>
       <title>Opinion Poll by Medián for HVG, 20–25 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-25-Medián.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-25-Medián-seats.png"
         length="176449"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 20:43:44 +0100</pubDate>
-      <dc:date>2025-12-03T20:43:44.588932+01:00</dc:date>
+      <pubDate>Thu, 04 Dec 2025 22:54:32 +0100</pubDate>
+      <dc:date>2025-12-04T22:54:32.428401+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián for HVG, 20–25 November 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-25-Medián-coalitions-seats.png"
         length="178900"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 20:43:44 +0100</pubDate>
-      <dc:date>2025-12-03T20:43:44.588932+01:00</dc:date>
+      <pubDate>Thu, 04 Dec 2025 22:54:32 +0100</pubDate>
+      <dc:date>2025-12-04T22:54:32.428401+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián for HVG, 20–25 November 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-25-Medián.png"
         length="207543"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 20:43:44 +0100</pubDate>
-      <dc:date>2025-12-03T20:43:44.588932+01:00</dc:date>
+      <pubDate>Thu, 04 Dec 2025 22:54:32 +0100</pubDate>
+      <dc:date>2025-12-04T22:54:32.428401+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research for Népszava, 10–18 November 2025 – Seat Projections for the Parties</title>
@@ -70,14 +70,34 @@
       <dc:date>2025-11-22T14:07:45.052602+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Minerva Intézet, 10–17 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-17-MinervaIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 9–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-17-MinervaIntézet-seats.png"
+        length="124592"
+        type="image/png"/>
+      <pubDate>Fri, 05 Dec 2025 18:29:07 +0100</pubDate>
+      <dc:date>2025-12-05T18:29:07.564271+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Minerva Intézet, 10–17 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-17-MinervaIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-17-MinervaIntézet-coalitions-seats.png"
+        length="178267"
+        type="image/png"/>
+      <pubDate>Fri, 05 Dec 2025 18:29:07 +0100</pubDate>
+      <dc:date>2025-12-05T18:29:07.564271+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Minerva Intézet, 10–17 November 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-17-MinervaIntézet.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 44.8–51.0%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 40.3–46.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 44.8–51.0%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 40.4–46.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2025-11-17-MinervaIntézet.png"
-        length="134287"
+        length="134918"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 22:57:28 +0100</pubDate>
-      <dc:date>2025-12-03T22:57:28.433191+01:00</dc:date>
+      <pubDate>Fri, 05 Dec 2025 18:29:07 +0100</pubDate>
+      <dc:date>2025-12-05T18:29:07.564271+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Magyar Társadalomkutató, 13–14 November 2025 – Seat Projections for the Parties</title>
@@ -2479,6 +2499,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2025-12-03T22:57:28.433191+01:00</dc:date>
+    <dc:date>2025-12-05T18:29:07.564271+01:00</dc:date>
   </channel>
 </rss>
