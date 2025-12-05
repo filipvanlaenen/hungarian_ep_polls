@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 40.8% | 36.9–49.4% | 36.0–50.4% | 35.3–51.1% | 34.1–52.4% |
 | [20–25 November 2025](2025-11-25-Medián.html) | Medián <br> HVG | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
 | [10–18 November 2025](2025-11-18-PublicusResearch.html) | Publicus Research <br> Népszava | 38.3% | 36.4–40.3% | 35.8–40.9% | 35.4–41.4% | 34.4–42.3% |
-| [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet | 43.4% | 41.4–45.4% | 40.8–46.0% | 40.3–46.5% | 39.4–47.5% |
+| [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet | 43.4% | 41.4–45.4% | 40.8–46.0% | 40.4–46.5% | 39.4–47.5% |
 | [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 49.5% | 47.5–51.5% | 46.9–52.1% | 46.4–52.6% | 45.4–53.6% |
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 47.5% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.1% |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 39.5% | 37.9–41.2% | 37.5–41.6% | 37.1–42.0% | 36.3–42.8% |

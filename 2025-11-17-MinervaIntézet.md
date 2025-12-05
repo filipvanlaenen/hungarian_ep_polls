@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Tisztelet és Szabadság (EPP) | 0.0% | 47.9% | 45.9–49.9% |45.3–50.5% |44.8–51.0% |43.9–52.0% |
-| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0.0% | 43.4% | 41.4–45.4% |40.8–46.0% |40.3–46.5% |39.4–47.5% |
+| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0.0% | 43.4% | 41.4–45.4% |40.8–46.0% |40.4–46.5% |39.4–47.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -116,6 +116,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 65,536
-+ **Error estimate:** 0.18%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.31%
 
