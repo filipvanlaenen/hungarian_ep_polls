@@ -11,6 +11,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [29 November–3 December 2025](2025-12-03-XXISzázadIntézet.html) | XXI. Század Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [1–3 December 2025](2025-12-03-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
+| [23–30 November 2025](2025-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [24–28 November 2025](2025-11-28-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [21–28 November 2025](2025-11-28-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
+| [24–26 November 2025](2025-11-26-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 November 2025](2025-11-25-Medián.html) | Medián <br> HVG | 0.0% | N/A | N/A | N/A | N/A |
 | [10–18 November 2025](2025-11-18-PublicusResearch.html) | Publicus Research <br> Népszava | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -118,6 +124,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 November–3 December 2025](2025-12-03-XXISzázadIntézet.html) | XXI. Század Intézet |  |  |  |  |  |
+| [1–3 December 2025](2025-12-03-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
+| [23–30 November 2025](2025-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [24–28 November 2025](2025-11-28-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [21–28 November 2025](2025-11-28-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
+| [24–26 November 2025](2025-11-26-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–25 November 2025](2025-11-25-Medián.html) | Medián <br> HVG |  |  |  |  |  |
 | [10–18 November 2025](2025-11-18-PublicusResearch.html) | Publicus Research <br> Népszava | 0 | 0 | 0 | 0 | 0 |
 | [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet |  |  |  |  |  |
