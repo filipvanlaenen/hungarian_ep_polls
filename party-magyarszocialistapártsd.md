@@ -10,11 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [29 November–3 December 2025](2025-12-03-XXISzázadIntézet.html) | XXI. Század Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
+| [15–16 December 2025](2025-12-16-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [12–16 December 2025](2025-12-16-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
+| [10–15 December 2025](2025-12-15-RepublikonIntézet.html) | Republikon Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [8–12 December 2025](2025-12-12-MinervaIntézet.html) | Minerva Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [27 November–4 December 2025](2025-12-04-IDEAIntézet.html) | IDEA Intézet | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [1–3 December 2025](2025-12-03-Real-PR93.html) | Real-PR 93 | 0.0% | N/A | N/A | N/A | N/A |
+| [29 November–1 December 2025](2025-12-01-XXISzázadIntézet.html) | XXI. Század Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 November 2025](2025-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [1 September–30 November 2025](2025-11-30-IránytűIntézet.html) | Iránytű Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 November 2025](2025-11-28-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 November 2025](2025-11-28-McLaughlinAssociates.html) | McLaughlin & Associates <br> Index | 0.0% | N/A | N/A | N/A | N/A |
 | [21–28 November 2025](2025-11-28-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 November 2025](2025-11-26-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 November 2025](2025-11-25-Medián.html) | Medián <br> HVG | 0.0% | N/A | N/A | N/A | N/A |
@@ -22,6 +29,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 0.0% | N/A | N/A | N/A | N/A |
+| [25 September–9 November 2025](2025-11-09-ZáveczResearch.html) | Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -110,9 +118,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 91% | 100% | Last Result, Median |
-| 0.5–1.5% | 9% | 9% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 62% | 100% | Last Result, Median |
+| 0.5–1.5% | 35% | 38% |  |
+| 1.5–2.5% | 3% | 3% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -124,10 +133,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [29 November–3 December 2025](2025-12-03-XXISzázadIntézet.html) | XXI. Század Intézet |  |  |  |  |  |
+| [15–16 December 2025](2025-12-16-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [12–16 December 2025](2025-12-16-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
+| [10–15 December 2025](2025-12-15-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
+| [8–12 December 2025](2025-12-12-MinervaIntézet.html) | Minerva Intézet |  |  |  |  |  |
+| [27 November–4 December 2025](2025-12-04-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [1–3 December 2025](2025-12-03-Real-PR93.html) | Real-PR 93 |  |  |  |  |  |
+| [29 November–1 December 2025](2025-12-01-XXISzázadIntézet.html) | XXI. Század Intézet |  |  |  |  |  |
 | [23–30 November 2025](2025-11-30-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [1 September–30 November 2025](2025-11-30-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
 | [24–28 November 2025](2025-11-28-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [26–28 November 2025](2025-11-28-McLaughlinAssociates.html) | McLaughlin & Associates <br> Index |  |  |  |  |  |
 | [21–28 November 2025](2025-11-28-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
 | [24–26 November 2025](2025-11-26-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [20–25 November 2025](2025-11-25-Medián.html) | Medián <br> HVG |  |  |  |  |  |
@@ -135,6 +151,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet |  |  |  |  |  |
 | [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató |  |  |  |  |  |
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ |  |  |  |  |  |
+| [25 September–9 November 2025](2025-11-09-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
 | [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research |  |  |  |  |  |
