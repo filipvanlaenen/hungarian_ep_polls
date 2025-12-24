@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 3.3–7.4% | 2.6–8.1% | 2.2–8.6% | 1.8–9.5% |
+| N/A | [Poll Average](average.html) | 5.4% | 3.5–7.4% | 2.6–8.1% | 2.2–8.6% | 1.8–9.5% |
+| [18–19 December 2025](2025-12-19-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [15–16 December 2025](2025-12-16-NézőpontIntézet.html) | Nézőpont Intézet | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [12–16 December 2025](2025-12-16-21Kutatóközpont.html) | 21 Kutatóközpont | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [10–15 December 2025](2025-12-15-RepublikonIntézet.html) | Republikon Intézet | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -121,10 +122,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 5% | 99.9% |  |
-| 2.5–3.5% | 7% | 95% |  |
-| 3.5–4.5% | 18% | 88% |  |
-| 4.5–5.5% | 25% | 70% | Median |
-| 5.5–6.5% | 25% | 45% |  |
+| 2.5–3.5% | 5% | 95% |  |
+| 3.5–4.5% | 15% | 90% |  |
+| 4.5–5.5% | 28% | 75% | Median |
+| 5.5–6.5% | 27% | 47% |  |
 | 6.5–7.5% | 11% | 20% |  |
 | 7.5–8.5% | 6% | 9% |  |
 | 8.5–9.5% | 2% | 3% |  |
@@ -141,6 +142,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [18–19 December 2025](2025-12-19-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–16 December 2025](2025-12-16-NézőpontIntézet.html) | Nézőpont Intézet | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–16 December 2025](2025-12-16-21Kutatóközpont.html) | 21 Kutatóközpont | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–15 December 2025](2025-12-15-RepublikonIntézet.html) | Republikon Intézet | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -250,8 +252,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 55% | 59% | Median |
+| 0 | 37% | 100% | Last Result |
+| 1 | 59% | 63% | Median |
 | 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
