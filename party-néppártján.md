@@ -10,9 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
+| [15–20 January 2026](2026-01-20-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 January 2026](2026-01-14-XXISzázadIntézet.html) | XXI. Század Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [7–13 January 2026](2026-01-13-Medián.html) | Medián <br> HVG | 0.0% | N/A | N/A | N/A | N/A |
+| [5–8 January 2026](2026-01-08-AlapjogokértKözpont.html) | Alapjogokért Központ | 0.0% | N/A | N/A | N/A | N/A |
+| [5–7 January 2026](2026-01-07-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
+| [31 December 2025–6 January 2026](2026-01-06-IDEAIntézet.html) | IDEA Intézet | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [16–20 December 2025](2025-12-20-PublicusResearch.html) | Publicus Research <br> Népszava | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 December 2025](2025-12-19-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 December 2025](2025-12-18-AlapjogokértKözpont.html) | Alapjogokért Központ | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 December 2025](2025-12-16-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 December 2025](2025-12-16-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 December 2025](2025-12-15-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
@@ -120,10 +127,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% | Last Result |
-| 0.5–1.5% | 95% | 99.0% | Median |
-| 1.5–2.5% | 4% | 4% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 91% | 100% | Last Result, Median |
+| 0.5–1.5% | 9% | 9% |  |
+| 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -135,8 +141,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–20 January 2026](2026-01-20-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [12–14 January 2026](2026-01-14-XXISzázadIntézet.html) | XXI. Század Intézet |  |  |  |  |  |
+| [7–13 January 2026](2026-01-13-Medián.html) | Medián <br> HVG |  |  |  |  |  |
+| [5–8 January 2026](2026-01-08-AlapjogokértKözpont.html) | Alapjogokért Központ |  |  |  |  |  |
+| [5–7 January 2026](2026-01-07-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
+| [31 December 2025–6 January 2026](2026-01-06-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [16–20 December 2025](2025-12-20-PublicusResearch.html) | Publicus Research <br> Népszava |  |  |  |  |  |
 | [18–19 December 2025](2025-12-19-MagyarTársadalomkutató.html) | Magyar Társadalomkutató |  |  |  |  |  |
+| [15–18 December 2025](2025-12-18-AlapjogokértKözpont.html) | Alapjogokért Központ |  |  |  |  |  |
 | [15–16 December 2025](2025-12-16-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [12–16 December 2025](2025-12-16-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
 | [10–15 December 2025](2025-12-15-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
