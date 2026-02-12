@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.1–5.4% | 1.8–5.8% | 1.6–6.1% | 1.3–6.7% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.8–5.0% | 1.6–5.5% | 1.5–5.9% | 1.2–6.5% |
+| [28 January–2 February 2026](2026-02-02-21Kutatóközpont.html) | 21 Kutatóközpont | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [19–24 January 2026](2026-01-24-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [21–24 January 2026](2026-01-24-PublicusResearch.html) | Publicus Research <br> Népszava | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [22–23 January 2026](2026-01-23-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [19–22 January 2026](2026-01-22-MinervaIntézet.html) | Minerva Intézet | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [15–20 January 2026](2026-01-20-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [12–14 January 2026](2026-01-14-XXISzázadIntézet.html) | XXI. Század Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [7–13 January 2026](2026-01-13-Medián.html) | Medián <br> HVG | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -128,13 +133,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 17% | 98% |  |
-| 2.5–3.5% | 29% | 81% |  |
-| 3.5–4.5% | 22% | 52% | Median |
-| 4.5–5.5% | 21% | 30% |  |
-| 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.8% | 0.8% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 33% | 96% |  |
+| 2.5–3.5% | 32% | 63% | Median |
+| 3.5–4.5% | 15% | 31% |  |
+| 4.5–5.5% | 12% | 16% |  |
+| 5.5–6.5% | 4% | 5% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -147,6 +152,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 January–2 February 2026](2026-02-02-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0 | 0 | 0 |
+| [19–24 January 2026](2026-01-24-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
+| [21–24 January 2026](2026-01-24-PublicusResearch.html) | Publicus Research <br> Népszava | 0 | 0 | 0 | 0 | 0 |
+| [22–23 January 2026](2026-01-23-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0 | 0 | 0 | 0 | 0 |
+| [19–22 January 2026](2026-01-22-MinervaIntézet.html) | Minerva Intézet | 0 | 0 | 0 | 0 | 0 |
 | [15–20 January 2026](2026-01-20-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 January 2026](2026-01-14-XXISzázadIntézet.html) | XXI. Század Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 January 2026](2026-01-13-Medián.html) | Medián <br> HVG | 0 | 0 | 0 | 0 | 0 |
@@ -265,8 +275,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 19% | 19% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 

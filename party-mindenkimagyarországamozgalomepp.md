@@ -11,6 +11,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
+| [28 January–2 February 2026](2026-02-02-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
+| [19–24 January 2026](2026-01-24-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [21–24 January 2026](2026-01-24-PublicusResearch.html) | Publicus Research <br> Népszava | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 January 2026](2026-01-23-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 0.0% | N/A | N/A | N/A | N/A |
+| [19–22 January 2026](2026-01-22-MinervaIntézet.html) | Minerva Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 January 2026](2026-01-20-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 January 2026](2026-01-14-XXISzázadIntézet.html) | XXI. Század Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 January 2026](2026-01-13-Medián.html) | Medián <br> HVG | 0.0% | N/A | N/A | N/A | N/A |
@@ -141,6 +146,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 January–2 February 2026](2026-02-02-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
+| [19–24 January 2026](2026-01-24-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [21–24 January 2026](2026-01-24-PublicusResearch.html) | Publicus Research <br> Népszava |  |  |  |  |  |
+| [22–23 January 2026](2026-01-23-MagyarTársadalomkutató.html) | Magyar Társadalomkutató |  |  |  |  |  |
+| [19–22 January 2026](2026-01-22-MinervaIntézet.html) | Minerva Intézet |  |  |  |  |  |
 | [15–20 January 2026](2026-01-20-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
 | [12–14 January 2026](2026-01-14-XXISzázadIntézet.html) | XXI. Század Intézet |  |  |  |  |  |
 | [7–13 January 2026](2026-01-13-Medián.html) | Medián <br> HVG |  |  |  |  |  |
