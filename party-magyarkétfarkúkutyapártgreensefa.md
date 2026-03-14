@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.8–4.8% | 1.6–5.3% | 1.5–5.7% | 1.2–6.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.9–5.2% | 1.7–5.6% | 1.5–6.0% | 1.3–6.6% |
 | [12–17 February 2026](2026-02-17-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [9–12 February 2026](2026-02-12-PublicusResearch.html) | Publicus Research <br> Népszava | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [9–11 February 2026](2026-02-11-NézőpontIntézet.html) | Nézőpont Intézet | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [2–10 February 2026](2026-02-10-IránytűIntézet.html) | Iránytű Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [31 January–6 February 2026](2026-02-06-IDEAIntézet.html) | IDEA Intézet | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [28 January–2 February 2026](2026-02-02-21Kutatóközpont.html) | 21 Kutatóközpont | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [19–24 January 2026](2026-01-24-ZRIZáveczResearch.html) | ZRI Závecz Research | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -137,13 +138,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 34% | 96% |  |
-| 2.5–3.5% | 34% | 63% | Median |
-| 3.5–4.5% | 16% | 29% |  |
-| 4.5–5.5% | 9% | 13% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 30% | 97% |  |
+| 2.5–3.5% | 30% | 67% | Median |
+| 3.5–4.5% | 17% | 36% |  |
+| 4.5–5.5% | 14% | 20% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -155,10 +156,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–17 February 2026](2026-02-17-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–12 February 2026](2026-02-12-PublicusResearch.html) | Publicus Research <br> Népszava | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–11 February 2026](2026-02-11-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
+| [2–10 February 2026](2026-02-10-IránytűIntézet.html) | Iránytű Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 January–6 February 2026](2026-02-06-IDEAIntézet.html) | IDEA Intézet | 0 | 0 | 0 | 0 | 0 |
 | [28 January–2 February 2026](2026-02-02-21Kutatóközpont.html) | 21 Kutatóközpont | 0 | 0 | 0 | 0 | 0 |
 | [19–24 January 2026](2026-01-24-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
@@ -283,8 +285,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 
