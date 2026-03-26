@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Mar 2026 22:26:49 +0100</pubDate>
+    <pubDate>Thu, 26 Mar 2026 19:45:15 +0100</pubDate>
     <item>
       <title>Opinion Poll by Medián, 17–20 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-20-Medián.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-20-Medián-seats.png"
         length="167760"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 22:26:49 +0100</pubDate>
-      <dc:date>2026-03-25T22:26:49.222294+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 19:45:15 +0100</pubDate>
+      <dc:date>2026-03-26T19:45:15.688085+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián, 17–20 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-20-Medián-coalitions-seats.png"
         length="171083"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 22:26:49 +0100</pubDate>
-      <dc:date>2026-03-25T22:26:49.222294+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 19:45:15 +0100</pubDate>
+      <dc:date>2026-03-26T19:45:15.688085+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián, 17–20 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-20-Medián.png"
         length="202764"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 22:26:49 +0100</pubDate>
-      <dc:date>2026-03-25T22:26:49.222294+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 19:45:15 +0100</pubDate>
+      <dc:date>2026-03-26T19:45:15.688085+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 16–17 March 2026 – Seat Projections for the Parties</title>
@@ -3879,6 +3879,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2026-03-25T22:26:49.222294+01:00</dc:date>
+    <dc:date>2026-03-26T19:45:15.688085+01:00</dc:date>
   </channel>
 </rss>
