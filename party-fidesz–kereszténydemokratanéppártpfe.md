@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.0% | 35.5–46.4% | 34.5–47.3% | 33.7–47.9% | 32.4–49.1% |
+| N/A | [Poll Average](average.html) | 40.5% | 35.7–48.2% | 34.7–49.9% | 33.9–51.0% | 32.6–52.5% |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 39.5% | 37.6–41.5% | 37.0–42.1% | 36.5–42.6% | 35.6–43.6% |
-| [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 36.9% | N/A | N/A | N/A | N/A |
-| [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 39.9% | N/A | N/A | N/A | N/A |
+| [28–29 March 2026](2026-03-29-AlapjogokértKözpont.html) | Alapjogokért Központ | 49.9% | 47.9–51.9% | 47.3–52.5% | 46.8–53.0% | 45.8–54.0% |
+| [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 37.9% | N/A | N/A | N/A | N/A |
+| [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 36.9% | 35.3–38.6% | 34.9–39.0% | 34.5–39.4% | 33.8–40.2% |
+| [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 39.9% | 37.9–41.9% | 37.4–42.5% | 36.9–43.0% | 36.0–43.9% |
 | [17–20 March 2026](2026-03-20-Medián.html) | Medián | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [16–17 March 2026](2026-03-17-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
 | [10–11 March 2026](2026-03-11-MinervaIntézet.html) | Minerva Intézet | 40.1% | 38.1–42.1% | 37.6–42.7% | 37.1–43.2% | 36.2–44.1% |
@@ -64,10 +66,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet | 43.4% | 41.4–45.4% | 40.8–46.0% | 40.4–46.5% | 39.4–47.5% |
 | [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 49.5% | 47.5–51.5% | 46.9–52.1% | 46.4–52.6% | 45.4–53.6% |
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 47.5% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.1% |
-| [25 September–9 November 2025](2025-11-09-ZáveczResearch.html) | Závecz Research | 39.0% | 38.0–40.0% | 37.7–40.3% | 37.5–40.5% | 37.0–41.0% |
+| [25 September–9 November 2025](2025-11-09-ZRIZáveczResearch.html) | ZRI Závecz Research | 39.0% | N/A | N/A | N/A | N/A |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 39.5% | 37.9–41.2% | 37.5–41.6% | 37.1–42.0% | 36.3–42.8% |
-| [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 36.9% | 35.0–38.9% | 34.4–39.5% | 34.0–39.9% | 33.0–40.9% |
-| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 36.9% | 35.0–38.9% | 34.4–39.5% | 34.0–39.9% | 33.0–40.9% |
+| [24–31 October 2025](2025-10-31-ZRIZáveczResearch.html) | ZRI Závecz Research | 36.9% | N/A | N/A | N/A | N/A |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 33.9% | 32.0–35.9% | 31.5–36.4% | 31.0–36.9% | 30.1–37.8% |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 46.9% | 44.9–48.9% | 44.3–49.5% | 43.8–50.0% | 42.9–51.0% |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 49.0% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 44.9–53.1% |
@@ -82,7 +83,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
 | [31 August–6 September 2025](2025-09-06-IDEAIntézet.html) | IDEA Intézet | 39.0% | 37.4–40.6% | 36.9–41.1% | 36.5–41.5% | 35.8–42.3% |
 | [28 August–4 September 2025](2025-09-04-Medián.html) | Medián <br> HVG | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
-| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
+| [29 August–3 September 2025](2025-09-03-ZRIZáveczResearch.html) | ZRI Závecz Research | 36.0% | N/A | N/A | N/A | N/A |
 | [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
 | [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 34.7% | 32.8–36.7% | 32.3–37.2% | 31.8–37.7% | 30.9–38.7% |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
@@ -92,7 +93,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 32.9% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 49.0% | 47.0–51.0% | 46.4–51.6% | 45.9–52.1% | 44.9–53.1% |
 | [30 June–1 July 2025](2025-07-01-Real-PR93.html) | Real-PR 93 | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 43.0–51.1% |
-| [19–27 June 2025](2025-06-27-ZáveczResearch.html) | Závecz Research | 35.0% | 33.4–36.6% | 33.0–37.1% | 32.6–37.5% | 31.9–38.2% |
+| [19–27 June 2025](2025-06-27-ZRIZáveczResearch.html) | ZRI Závecz Research | 35.0% | N/A | N/A | N/A | N/A |
 | [24–27 June 2025](2025-06-27-21Kutatóközpont.html) | 21 Kutatóközpont <br> 24.hu | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [23–25 June 2025](2025-06-25-PublicusResearch.html) | Publicus Research | 37.0% | 35.0–39.0% | 34.5–39.5% | 34.0–40.0% | 33.1–41.0% |
 | [16–17 June 2025](2025-06-17-NézőpontIntézet.html) | Nézőpont Intézet | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 40.0–48.1% |
@@ -104,7 +105,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 36.7% | 34.8–38.7% | 34.2–39.2% | 33.8–39.7% | 32.8–40.7% |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [26 March–1 April 2025](2025-04-01-RepublikonIntézet.html) | Republikon Intézet | 33.0% | N/A | N/A | N/A | N/A |
-| [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 34.4% | 32.5–36.4% | 32.0–36.9% | 31.5–37.4% | 30.6–38.4% |
+| [16–25 March 2025](2025-03-25-ZRIZáveczResearch.html) | ZRI Závecz Research | 34.4% | N/A | N/A | N/A | N/A |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 45.0% | 43.0–47.0% | 42.4–47.6% | 41.9–48.1% | 41.0–49.1% |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
 | [27 February–8 March 2025](2025-03-08-Medián.html) | Medián <br> HVG | 36.6% | 34.7–38.6% | 34.1–39.2% | 33.7–39.6% | 32.8–40.6% |
@@ -185,26 +186,30 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0.1% | 100% |  |
-| 31.5–32.5% | 0.5% | 99.9% |  |
-| 32.5–33.5% | 1.5% | 99.4% |  |
+| 31.5–32.5% | 0.4% | 99.9% |  |
+| 32.5–33.5% | 1.2% | 99.5% |  |
 | 33.5–34.5% | 3% | 98% |  |
-| 34.5–35.5% | 5% | 95% |  |
-| 35.5–36.5% | 7% | 90% |  |
-| 36.5–37.5% | 9% | 82% |  |
-| 37.5–38.5% | 10% | 73% |  |
-| 38.5–39.5% | 10% | 63% |  |
-| 39.5–40.5% | 8% | 54% | Median |
-| 40.5–41.5% | 7% | 46% |  |
-| 41.5–42.5% | 5% | 39% |  |
-| 42.5–43.5% | 5% | 33% |  |
-| 43.5–44.5% | 6% | 29% |  |
-| 44.5–45.5% | 7% | 23% |  |
-| 45.5–46.5% | 7% | 16% |  |
-| 46.5–47.5% | 5% | 9% |  |
-| 47.5–48.5% | 3% | 4% |  |
-| 48.5–49.5% | 0.9% | 1.2% |  |
-| 49.5–50.5% | 0.2% | 0.2% |  |
-| 50.5–51.5% | 0% | 0% |  |
+| 34.5–35.5% | 5% | 96% |  |
+| 35.5–36.5% | 7% | 91% |  |
+| 36.5–37.5% | 9% | 84% |  |
+| 37.5–38.5% | 9% | 75% |  |
+| 38.5–39.5% | 9% | 66% |  |
+| 39.5–40.5% | 8% | 58% | Median |
+| 40.5–41.5% | 7% | 49% |  |
+| 41.5–42.5% | 5% | 42% |  |
+| 42.5–43.5% | 4% | 37% |  |
+| 43.5–44.5% | 5% | 33% |  |
+| 44.5–45.5% | 5% | 28% |  |
+| 45.5–46.5% | 6% | 23% |  |
+| 46.5–47.5% | 5% | 17% |  |
+| 47.5–48.5% | 3% | 12% |  |
+| 48.5–49.5% | 3% | 9% |  |
+| 49.5–50.5% | 3% | 6% |  |
+| 50.5–51.5% | 2% | 3% |  |
+| 51.5–52.5% | 1.0% | 1.5% |  |
+| 52.5–53.5% | 0.4% | 0.5% |  |
+| 53.5–54.5% | 0.1% | 0.1% |  |
+| 54.5–55.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -215,10 +220,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 9 | 9 | 8–10 | 8–10 | 8–10 |
-| [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
-| [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
+| [28–29 March 2026](2026-03-29-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
+| [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [17–20 March 2026](2026-03-20-Medián.html) | Medián | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [16–17 March 2026](2026-03-17-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [10–11 March 2026](2026-03-11-MinervaIntézet.html) | Minerva Intézet | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
@@ -269,10 +276,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–17 November 2025](2025-11-17-MinervaIntézet.html) | Minerva Intézet | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [13–14 November 2025](2025-11-14-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 11 | 11–12 | 11–12 | 11–12 | 10–13 |
 | [10–13 November 2025](2025-11-13-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
-| [25 September–9 November 2025](2025-11-09-ZáveczResearch.html) | Závecz Research | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
+| [25 September–9 November 2025](2025-11-09-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [31 October–7 November 2025](2025-11-07-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
-| [23 October–4 November 2025](2025-11-04-ZáveczResearch.html) | Závecz Research | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [24–31 October 2025](2025-10-31-ZáveczResearch.html) | Závecz Research | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [24–31 October 2025](2025-10-31-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [16–22 October 2025](2025-10-22-RepublikonIntézet.html) | Republikon Intézet | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [13–16 October 2025](2025-10-16-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [13–14 October 2025](2025-10-14-Real-PR93.html) | Real-PR 93 | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
@@ -287,7 +293,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–10 September 2025](2025-09-10-Real-PR93.html) | Real-PR 93 | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [31 August–6 September 2025](2025-09-06-IDEAIntézet.html) | IDEA Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [28 August–4 September 2025](2025-09-04-Medián.html) | Medián <br> HVG | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
-| [29 August–3 September 2025](2025-09-03-ZáveczResearch.html) | Závecz Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [29 August–3 September 2025](2025-09-03-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [27–31 August 2025](2025-08-31-21Kutatóközpont.html) | 21 Kutatóközpont | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [21–27 August 2025](2025-08-27-RepublikonIntézet.html) | Republikon Intézet | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [18–19 August 2025](2025-08-19-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
@@ -297,7 +303,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–8 July 2025](2025-07-08-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [30 June–2 July 2025](2025-07-02-MagyarTársadalomkutató.html) | Magyar Társadalomkutató | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [30 June–1 July 2025](2025-07-01-Real-PR93.html) | Real-PR 93 | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
-| [19–27 June 2025](2025-06-27-ZáveczResearch.html) | Závecz Research | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [19–27 June 2025](2025-06-27-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [24–27 June 2025](2025-06-27-21Kutatóközpont.html) | 21 Kutatóközpont <br> 24.hu | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [23–25 June 2025](2025-06-25-PublicusResearch.html) | Publicus Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [16–17 June 2025](2025-06-17-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
@@ -309,7 +315,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–9 April 2025](2025-04-09-PublicusResearch.html) | Publicus Research | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [1–7 April 2025](2025-04-07-21Kutatóközpont.html) | 21 Kutatóközpont | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [26 March–1 April 2025](2025-04-01-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
-| [16–25 March 2025](2025-03-25-ZáveczResearch.html) | Závecz Research | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [16–25 March 2025](2025-03-25-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [10–12 March 2025](2025-03-12-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [5–11 March 2025](2025-03-11-PublicusResearch.html) | Publicus Research | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [27 February–8 March 2025](2025-03-08-Medián.html) | Medián <br> HVG | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
@@ -369,10 +375,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
 | 8 | 27% | 97% |  |
-| 9 | 31% | 70% | Median |
-| 10 | 16% | 39% |  |
-| 11 | 21% | 23% | Majority |
-| 12 | 1.2% | 1.2% |  |
+| 9 | 27% | 70% | Median |
+| 10 | 16% | 43% |  |
+| 11 | 24% | 27% | Majority |
+| 12 | 4% | 4% |  |
 | 13 | 0% | 0% |  |
 
 
