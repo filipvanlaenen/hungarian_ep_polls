@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.2–7.2% | 3.9–8.1% | 3.6–8.6% | 3.1–9.5% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.2–7.1% | 3.9–8.0% | 3.6–8.6% | 3.1–9.5% |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [28–29 March 2026](2026-03-29-AlapjogokértKözpont.html) | Alapjogokért Központ | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
-| [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 5.0% | N/A | N/A | N/A | N/A |
+| [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [17–20 March 2026](2026-03-20-Medián.html) | Medián | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -158,13 +158,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 15% | 98% |  |
-| 4.5–5.5% | 35% | 82% | Median |
-| 5.5–6.5% | 29% | 47% |  |
-| 6.5–7.5% | 10% | 18% |  |
-| 7.5–8.5% | 5% | 8% |  |
+| 3.5–4.5% | 16% | 98% |  |
+| 4.5–5.5% | 37% | 82% | Median |
+| 5.5–6.5% | 29% | 45% |  |
+| 6.5–7.5% | 9% | 17% |  |
+| 7.5–8.5% | 5% | 7% |  |
 | 8.5–9.5% | 2% | 3% |  |
-| 9.5–10.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -179,7 +179,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [28–29 March 2026](2026-03-29-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 March 2026](2026-03-20-Medián.html) | Medián | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -322,9 +322,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 64% | 68% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 34% | 100% | Last Result |
+| 1 | 63% | 66% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 
