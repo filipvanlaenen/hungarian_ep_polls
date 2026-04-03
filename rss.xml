@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 26 Mar 2026 19:45:15 +0100</pubDate>
+    <pubDate>Fri, 03 Apr 2026 16:10:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Publicus Research, 27–30 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-30-PublicusResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 8–10 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-30-PublicusResearch-seats.png"
+        length="185309"
+        type="image/png"/>
+      <pubDate>Fri, 03 Apr 2026 16:10:00 +0200</pubDate>
+      <dc:date>2026-04-03T16:10:00.653305+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Publicus Research, 27–30 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-30-PublicusResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-30-PublicusResearch-coalitions-seats.png"
+        length="188874"
+        type="image/png"/>
+      <pubDate>Fri, 03 Apr 2026 16:10:00 +0200</pubDate>
+      <dc:date>2026-04-03T16:10:00.653305+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Publicus Research, 27–30 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-30-PublicusResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Magyar Kétfarkú Kutya Párt (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 45.3–51.5%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 36.5–42.6%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-30-PublicusResearch.png"
+        length="214289"
+        type="image/png"/>
+      <pubDate>Fri, 03 Apr 2026 16:10:00 +0200</pubDate>
+      <dc:date>2026-04-03T16:10:00.653305+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Medián, 17–20 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-20-Medián.html#seats</link>
@@ -3879,6 +3909,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2026-03-26T19:45:15.688085+01:00</dc:date>
+    <dc:date>2026-04-03T16:10:00.653305+02:00</dc:date>
   </channel>
 </rss>
