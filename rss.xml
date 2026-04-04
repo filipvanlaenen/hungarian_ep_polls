@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Apr 2026 13:49:53 +0200</pubDate>
+    <pubDate>Sat, 04 Apr 2026 15:24:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Publicus Research, 27–30 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-30-PublicusResearch.html#seats</link>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-26-RepublikonIntézet-seats.png"
         length="187888"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 19:43:28 +0200</pubDate>
-      <dc:date>2026-04-03T19:43:28.686321+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 15:24:27 +0200</pubDate>
+      <dc:date>2026-04-04T15:24:27.393435+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet, 23–26 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -146,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-26-RepublikonIntézet-coalitions-seats.png"
         length="194263"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 19:43:28 +0200</pubDate>
-      <dc:date>2026-04-03T19:43:28.686321+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 15:24:27 +0200</pubDate>
+      <dc:date>2026-04-04T15:24:27.393435+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet, 23–26 March 2026 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-03-26-RepublikonIntézet.png"
         length="212055"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 19:43:28 +0200</pubDate>
-      <dc:date>2026-04-03T19:43:28.686321+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 15:24:27 +0200</pubDate>
+      <dc:date>2026-04-04T15:24:27.393435+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián, 17–20 March 2026 – Seat Projections for the Parties</title>
@@ -3849,6 +3849,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2026-04-04T13:49:53.81328+02:00</dc:date>
+    <dc:date>2026-04-04T15:24:27.393435+02:00</dc:date>
   </channel>
 </rss>
