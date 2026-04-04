@@ -54,8 +54,8 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.6% | 100% | Majority |
-| 12 | 56% | 99.4% | Median |
-| 13 | 43% | 43% |  |
+| 12 | 55% | 99.4% | Median |
+| 13 | 44% | 44% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
@@ -163,6 +163,6 @@
 ### Calculations
 
 + **Sample size:** 1500
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.69%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.52%
 
