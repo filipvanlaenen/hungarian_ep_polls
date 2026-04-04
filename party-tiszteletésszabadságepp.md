@@ -233,7 +233,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–29 March 2026](2026-03-29-AlapjogokértKözpont.html) | Alapjogokért Központ | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
-| [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
+| [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [17–20 March 2026](2026-03-20-Medián.html) | Medián | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [16–17 March 2026](2026-03-17-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [10–11 March 2026](2026-03-11-MinervaIntézet.html) | Minerva Intézet | 11 | 11–12 | 11–12 | 11–12 | 10–13 |
