@@ -10,12 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.0% | 35.7–47.9% | 34.8–49.8% | 34.0–50.9% | 32.6–52.4% |
+| N/A | [Poll Average](average.html) | 39.6% | 35.7–48.0% | 34.8–49.8% | 34.0–50.9% | 32.6–52.4% |
+| [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 39.9% | 37.9–41.9% | 37.4–42.5% | 36.9–43.0% | 36.0–43.9% |
+| [29 March–4 April 2026](2026-04-04-IDEAIntézet.html) | IDEA Intézet | 37.0% | 35.4–38.6% | 35.0–39.1% | 34.6–39.5% | 33.8–40.3% |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 39.5% | 37.6–41.5% | 37.0–42.1% | 36.5–42.6% | 35.6–43.6% |
 | [28–29 March 2026](2026-03-29-AlapjogokértKözpont.html) | Alapjogokért Központ | 49.9% | 47.9–51.9% | 47.3–52.5% | 46.8–53.0% | 45.8–54.0% |
 | [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 37.9% | 36.0–39.9% | 35.4–40.5% | 34.9–41.0% | 34.0–41.9% |
 | [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 36.9% | 35.3–38.6% | 34.9–39.0% | 34.5–39.4% | 33.8–40.2% |
+| [26–27 March 2026](2026-03-27-XXISzázadIntézet.html) | XXI. Század Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
 | [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 39.9% | 37.9–41.9% | 37.4–42.5% | 36.9–43.0% | 36.0–43.9% |
+| [23–24 March 2026](2026-03-24-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
 | [17–20 March 2026](2026-03-20-Medián.html) | Medián | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [16–17 March 2026](2026-03-17-NézőpontIntézet.html) | Nézőpont Intézet | 46.0% | 44.0–48.0% | 43.4–48.6% | 42.9–49.1% | 42.0–50.1% |
 | [10–11 March 2026](2026-03-11-MinervaIntézet.html) | Minerva Intézet | 40.1% | 38.1–42.1% | 37.6–42.7% | 37.1–43.2% | 36.2–44.1% |
@@ -191,16 +195,16 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 2% | 98% |  |
 | 34.5–35.5% | 5% | 96% |  |
 | 35.5–36.5% | 8% | 91% |  |
-| 36.5–37.5% | 10% | 84% |  |
-| 37.5–38.5% | 10% | 73% |  |
-| 38.5–39.5% | 10% | 63% |  |
-| 39.5–40.5% | 8% | 54% | Median |
-| 40.5–41.5% | 7% | 45% |  |
-| 41.5–42.5% | 5% | 39% |  |
-| 42.5–43.5% | 4% | 34% |  |
-| 43.5–44.5% | 4% | 30% |  |
-| 44.5–45.5% | 5% | 26% |  |
-| 45.5–46.5% | 5% | 21% |  |
+| 36.5–37.5% | 11% | 83% |  |
+| 37.5–38.5% | 11% | 73% |  |
+| 38.5–39.5% | 11% | 62% |  |
+| 39.5–40.5% | 10% | 50% | Median |
+| 40.5–41.5% | 7% | 40% |  |
+| 41.5–42.5% | 4% | 32% |  |
+| 42.5–43.5% | 2% | 29% |  |
+| 43.5–44.5% | 2% | 27% |  |
+| 44.5–45.5% | 4% | 24% |  |
+| 45.5–46.5% | 5% | 20% |  |
 | 46.5–47.5% | 4% | 16% |  |
 | 47.5–48.5% | 3% | 11% |  |
 | 48.5–49.5% | 3% | 8% |  |
@@ -220,12 +224,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [29 March–4 April 2026](2026-04-04-IDEAIntézet.html) | IDEA Intézet | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 9 | 9 | 8–10 | 8–10 | 8–10 |
 | [28–29 March 2026](2026-03-29-AlapjogokértKözpont.html) | Alapjogokért Központ | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [24–28 March 2026](2026-03-28-ZRIZáveczResearch.html) | ZRI Závecz Research | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [23–28 March 2026](2026-03-28-21Kutatóközpont.html) | 21 Kutatóközpont | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [26–27 March 2026](2026-03-27-XXISzázadIntézet.html) | XXI. Század Intézet | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [23–26 March 2026](2026-03-26-RepublikonIntézet.html) | Republikon Intézet | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [23–24 March 2026](2026-03-24-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [17–20 March 2026](2026-03-20-Medián.html) | Medián | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [16–17 March 2026](2026-03-17-NézőpontIntézet.html) | Nézőpont Intézet | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [10–11 March 2026](2026-03-11-MinervaIntézet.html) | Minerva Intézet | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
@@ -374,11 +382,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
-| 8 | 27% | 97% |  |
-| 9 | 30% | 70% | Median |
-| 10 | 14% | 39% |  |
-| 11 | 22% | 25% | Majority |
-| 12 | 3% | 3% |  |
+| 8 | 25% | 97% |  |
+| 9 | 41% | 72% | Median |
+| 10 | 15% | 32% |  |
+| 11 | 15% | 17% | Majority |
+| 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
 
 
