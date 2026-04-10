@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.0–7.1% | 3.7–8.0% | 3.4–8.6% | 3.0–9.5% |
+| N/A | [Poll Average](average.html) | 5.2% | 4.0–7.6% | 3.7–8.3% | 3.4–8.8% | 3.0–9.6% |
+| [7–9 April 2026](2026-04-09-PublicusResearch.html) | Publicus Research | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
+| [7 April 2026](2026-04-07-McLaughlinAssociates.html) | McLaughlin & Associates | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [29 March–4 April 2026](2026-04-04-IDEAIntézet.html) | IDEA Intézet | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
@@ -163,12 +165,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 4% | 100% |  |
 | 3.5–4.5% | 21% | 96% |  |
-| 4.5–5.5% | 38% | 75% | Median |
-| 5.5–6.5% | 23% | 37% |  |
-| 6.5–7.5% | 8% | 15% |  |
-| 7.5–8.5% | 5% | 7% |  |
-| 8.5–9.5% | 2% | 3% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 37% | 76% | Median |
+| 5.5–6.5% | 19% | 39% |  |
+| 6.5–7.5% | 9% | 19% |  |
+| 7.5–8.5% | 7% | 11% |  |
+| 8.5–9.5% | 3% | 3% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -181,6 +183,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [7–9 April 2026](2026-04-09-PublicusResearch.html) | Publicus Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7 April 2026](2026-04-07-McLaughlinAssociates.html) | McLaughlin & Associates | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [29 March–4 April 2026](2026-04-04-IDEAIntézet.html) | IDEA Intézet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 March 2026](2026-03-30-PublicusResearch.html) | Publicus Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -331,8 +335,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 42% | 100% | Last Result |
-| 1 | 55% | 58% | Median |
-| 2 | 3% | 3% |  |
+| 1 | 54% | 58% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
