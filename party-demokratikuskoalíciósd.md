@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.0–4.8% | 0.8–5.3% | 0.7–5.6% | 0.5–6.3% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.0–4.7% | 0.8–5.2% | 0.7–5.6% | 0.6–6.3% |
+| [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 1.7% | 1.4–2.0% | 1.4–2.1% | 1.3–2.2% | 1.2–2.4% |
+| [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.5% |
 | [7–9 April 2026](2026-04-09-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [7 April 2026](2026-04-07-McLaughlinAssociates.html) | McLaughlin & Associates | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -161,11 +163,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 30% | 99.5% |  |
-| 1.5–2.5% | 26% | 69% | Median |
-| 2.5–3.5% | 16% | 43% |  |
-| 3.5–4.5% | 14% | 27% |  |
-| 4.5–5.5% | 10% | 13% |  |
+| 0.5–1.5% | 29% | 99.5% |  |
+| 1.5–2.5% | 31% | 71% | Median |
+| 2.5–3.5% | 15% | 40% |  |
+| 3.5–4.5% | 13% | 25% |  |
+| 4.5–5.5% | 9% | 12% |  |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -180,6 +182,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 0 | 0 | 0 | 0 | 0 |
+| [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 0 | 0 | 0 | 0 | 0 |
 | [7–9 April 2026](2026-04-09-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
 | [7 April 2026](2026-04-07-McLaughlinAssociates.html) | McLaughlin & Associates | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
