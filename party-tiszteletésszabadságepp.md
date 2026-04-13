@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50.2% | 39.8–56.1% | 38.9–57.7% | 38.2–58.7% | 37.0–60.3% |
+| N/A | [Poll Average](average.html) | 50.4% | 39.8–55.2% | 38.9–56.1% | 38.2–56.8% | 37.0–57.9% |
+| [8–11 April 2026](2026-04-11-Medián.html) | Medián | 54.9% | 53.2–56.5% | 52.7–57.0% | 52.3–57.4% | 51.5–58.2% |
+| [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 41.9% | 39.9–43.9% | 39.4–44.5% | 38.9–45.0% | 37.9–46.0% |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 50.7% | 49.6–51.9% | 49.3–52.2% | 49.0–52.4% | 48.5–53.0% |
 | [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 52.1% | 50.5–53.7% | 50.0–54.2% | 49.6–54.6% | 48.9–55.3% |
+| [7–9 April 2026](2026-04-09-ZRIZáveczResearch.html) | ZRI Závecz Research | 53.9% | 51.9–55.9% | 51.3–56.5% | 50.8–57.0% | 49.8–57.9% |
 | [7–9 April 2026](2026-04-09-PublicusResearch.html) | Publicus Research | 51.9% | 49.9–53.9% | 49.3–54.5% | 48.8–55.0% | 47.8–55.9% |
 | [7 April 2026](2026-04-07-McLaughlinAssociates.html) | McLaughlin & Associates | 39.7% | 37.7–41.7% | 37.2–42.3% | 36.7–42.8% | 35.8–43.7% |
 | [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 50.9% | 48.9–52.9% | 48.3–53.5% | 47.8–54.0% | 46.8–55.0% |
@@ -209,23 +212,20 @@ The following table shows the probability mass function per percentage block of 
 | 43.5–44.5% | 1.2% | 71% |  |
 | 44.5–45.5% | 0.5% | 70% |  |
 | 45.5–46.5% | 0.5% | 69% |  |
-| 46.5–47.5% | 1.4% | 69% |  |
+| 46.5–47.5% | 1.3% | 69% |  |
 | 47.5–48.5% | 3% | 67% |  |
-| 48.5–49.5% | 7% | 64% |  |
-| 49.5–50.5% | 11% | 57% | Median |
-| 50.5–51.5% | 13% | 46% |  |
-| 51.5–52.5% | 10% | 33% |  |
-| 52.5–53.5% | 5% | 23% |  |
-| 53.5–54.5% | 3% | 18% |  |
-| 54.5–55.5% | 3% | 15% |  |
-| 55.5–56.5% | 3% | 12% |  |
-| 56.5–57.5% | 3% | 9% |  |
-| 57.5–58.5% | 2% | 5% |  |
-| 58.5–59.5% | 2% | 3% |  |
-| 59.5–60.5% | 0.9% | 1.2% |  |
-| 60.5–61.5% | 0.3% | 0.4% |  |
-| 61.5–62.5% | 0.1% | 0.1% |  |
-| 62.5–63.5% | 0% | 0% |  |
+| 48.5–49.5% | 6% | 64% |  |
+| 49.5–50.5% | 10% | 58% | Median |
+| 50.5–51.5% | 11% | 49% |  |
+| 51.5–52.5% | 9% | 37% |  |
+| 52.5–53.5% | 7% | 28% |  |
+| 53.5–54.5% | 7% | 21% |  |
+| 54.5–55.5% | 6% | 14% |  |
+| 55.5–56.5% | 5% | 8% |  |
+| 56.5–57.5% | 2% | 3% |  |
+| 57.5–58.5% | 0.8% | 0.9% |  |
+| 58.5–59.5% | 0.1% | 0.2% |  |
+| 59.5–60.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -236,9 +236,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–13 | 9–13 | 9–13 | 8–14 |
+| N/A | [Poll Average](average.html) | 12 | 9–12 | 9–13 | 9–13 | 8–13 |
+| [8–11 April 2026](2026-04-11-Medián.html) | Medián | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
+| [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [7–9 April 2026](2026-04-09-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [7–9 April 2026](2026-04-09-PublicusResearch.html) | Publicus Research | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [7 April 2026](2026-04-07-McLaughlinAssociates.html) | McLaughlin & Associates | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [31 March–4 April 2026](2026-04-04-IránytűIntézet.html) | Iránytű Intézet | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
@@ -399,12 +402,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
-| 9 | 22% | 98% |  |
-| 10 | 7% | 76% |  |
-| 11 | 17% | 69% | Majority |
-| 12 | 39% | 52% | Median |
-| 13 | 11% | 12% |  |
-| 14 | 1.5% | 1.5% |  |
-| 15 | 0% | 0% |  |
+| 9 | 20% | 98% |  |
+| 10 | 10% | 79% |  |
+| 11 | 16% | 69% | Majority |
+| 12 | 45% | 53% | Median |
+| 13 | 8% | 8% |  |
+| 14 | 0% | 0% |  |
 
 
