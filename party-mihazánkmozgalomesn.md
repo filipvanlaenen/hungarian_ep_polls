@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.0–7.7% | 3.7–8.3% | 3.5–8.8% | 3.0–9.5% |
+| N/A | [Poll Average](average.html) | 6.0% | 5.1–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
+| [15–20 April 2026](2026-04-20-Medián.html) | Medián <br> HVG and RTL | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [8–11 April 2026](2026-04-11-Medián.html) | Medián | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 4.2% | 3.8–4.7% | 3.7–4.8% | 3.6–4.9% | 3.4–5.2% |
@@ -168,15 +169,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 24% | 97% |  |
-| 4.5–5.5% | 34% | 73% | Median |
-| 5.5–6.5% | 16% | 39% |  |
-| 6.5–7.5% | 11% | 23% |  |
-| 7.5–8.5% | 8% | 12% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.5% | 0.5% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 27% | 98% |  |
+| 5.5–6.5% | 49% | 71% | Median |
+| 6.5–7.5% | 20% | 22% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -187,7 +187,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [15–20 April 2026](2026-04-20-Medián.html) | Medián <br> HVG and RTL | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [8–11 April 2026](2026-04-11-Medián.html) | Medián | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 0 | 0 | 0 | 0 | 0–1 |
@@ -344,9 +345,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 51% | 56% | Median |
-| 2 | 5% | 5% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 
