@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 Apr 2026 17:27:23 +0200</pubDate>
+    <pubDate>Wed, 06 May 2026 22:34:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Medián for HVG and RTL, 27 April–2 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-05-02-Medián.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 0–1 seats&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 14–16 seats&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 4–6 seats&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-05-02-Medián-seats.png"
+        length="160072"
+        type="image/png"/>
+      <pubDate>Wed, 06 May 2026 22:34:57 +0200</pubDate>
+      <dc:date>2026-05-06T22:34:57.081198+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián for HVG and RTL, 27 April–2 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-05-02-Medián.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-05-02-Medián-coalitions-seats.png"
+        length="180118"
+        type="image/png"/>
+      <pubDate>Wed, 06 May 2026 22:34:57 +0200</pubDate>
+      <dc:date>2026-05-06T22:34:57.081198+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián for HVG and RTL, 27 April–2 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-05-02-Medián.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Mi Hazánk Mozgalom (ESN): 4.4–8.2%&lt;/li&gt;&lt;li&gt;Tisztelet és Szabadság (EPP): 64.2–71.6%&lt;/li&gt;&lt;li&gt;Fidesz–Kereszténydemokrata Néppárt (PfE): 20.7–27.6%&lt;/li&gt;&lt;li&gt;Demokratikus Koalíció (S&amp;amp;D): 0.5–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-05-02-Medián.png"
+        length="184021"
+        type="image/png"/>
+      <pubDate>Wed, 06 May 2026 22:34:57 +0200</pubDate>
+      <dc:date>2026-05-06T22:34:57.081198+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Medián for HVG and RTL, 15–20 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-04-20-Medián.html#seats</link>
@@ -4209,6 +4239,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2026-04-23T17:27:23.421658+02:00</dc:date>
+    <dc:date>2026-05-06T22:34:57.081198+02:00</dc:date>
   </channel>
 </rss>
