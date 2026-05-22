@@ -1,42 +1,42 @@
-# Opinion Poll by Medián for HVG and RTL, 27 April–2 May 2026
+# Opinion Poll by IDEA Intézet, 8–11 May 2026
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2026-05-02-Medián.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2026-05-11-IDEAIntézet.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Tisztelet és Szabadság (EPP) | 0.0% | 68.0% | 66.1–69.9% |65.5–70.4% |65.0–70.8% |64.1–71.7% |
-| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0.0% | 24.0% | 22.3–25.8% |21.9–26.3% |21.4–26.7% |20.7–27.6% |
-| Mi Hazánk Mozgalom (ESN) | 0.0% | 6.0% | 5.1–7.1% |4.9–7.4% |4.7–7.7% |4.3–8.2% |
+| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0.0% | 25.0% | 23.3–26.8% |22.8–27.3% |22.4–27.8% |21.6–28.7% |
+| Mi Hazánk Mozgalom (ESN) | 0.0% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.5–7.1% |
 | Demokratikus Koalíció (S&D) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2026-05-02-Medián-seats.png "Seats")
+![Graph with seats not yet produced](2026-05-11-IDEAIntézet-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2026-05-02-Medián-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2026-05-11-IDEAIntézet-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0 | 15 | 15–16 |15–16 |14–16 |14–16 |
-| <a href="#fidesz–kereszténydemokrata-néppárt-(pfe)">Fidesz–Kereszténydemokrata Néppárt (PfE)</a> | 0 | 5 | 5 |5–6 |4–6 |4–6 |
-| <a href="#mi-hazánk-mozgalom-(esn)">Mi Hazánk Mozgalom (ESN)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0 | 15 | 15–16 |14–16 |14–16 |14–16 |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(pfe)">Fidesz–Kereszténydemokrata Néppárt (PfE)</a> | 0 | 5 | 5–6 |5–6 |5–6 |4–6 |
+| <a href="#mi-hazánk-mozgalom-(esn)">Mi Hazánk Mozgalom (ESN)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Tisztelet és Szabadság (EPP)
 
 *For a full overview of the results for this party, see the [Tisztelet és Szabadság (EPP)](party-tiszteletésszabadságepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-05-02-Medián-seats-pmf-tiszteletésszabadságepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-05-11-IDEAIntézet-seats-pmf-tiszteletésszabadságepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -54,9 +54,9 @@
 | 11 | 0% | 100% | Majority |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 5% | 100% |  |
-| 15 | 85% | 95% | Median |
-| 16 | 10% | 10% |  |
+| 14 | 7% | 100% |  |
+| 15 | 63% | 93% | Median |
+| 16 | 30% | 30% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
@@ -64,7 +64,7 @@
 
 *For a full overview of the results for this party, see the [Fidesz–Kereszténydemokrata Néppárt (PfE)](party-fidesz–kereszténydemokratanéppártpfe.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-05-02-Medián-seats-pmf-fidesz–kereszténydemokratanéppártpfe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-05-11-IDEAIntézet-seats-pmf-fidesz–kereszténydemokratanéppártpfe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -72,29 +72,28 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 89% | 95% | Median |
-| 6 | 6% | 6% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 73% | 99.2% | Median |
+| 6 | 26% | 26% |  |
 | 7 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (ESN)
 
 *For a full overview of the results for this party, see the [Mi Hazánk Mozgalom (ESN)](party-mihazánkmozgalomesn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-05-02-Medián-seats-pmf-mihazánkmozgalomesn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-05-11-IDEAIntézet-seats-pmf-mihazánkmozgalomesn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 93% | 93% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 48% | 100% | Last Result |
+| 1 | 52% | 52% | Median |
+| 2 | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
 
 *For a full overview of the results for this party, see the [Demokratikus Koalíció (S&D)](party-demokratikuskoalíciósd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-05-02-Medián-seats-pmf-demokratikuskoalíciósd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-05-11-IDEAIntézet-seats-pmf-demokratikuskoalíciósd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -103,18 +102,18 @@
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2026-05-02-Medián-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2026-05-11-IDEAIntézet-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0 | 5 | 0% | 5 | 5–6 | 4–6 | 4–6 |
-| Mi Hazánk Mozgalom (ESN) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
+| Fidesz–Kereszténydemokrata Néppárt (PfE) | 0 | 5 | 0% | 5–6 | 5–6 | 5–6 | 4–6 |
+| Mi Hazánk Mozgalom (ESN) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Fidesz–Kereszténydemokrata Néppárt (PfE)
 
-![Graph with seats probability mass function not yet produced](2026-05-02-Medián-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-05-11-IDEAIntézet-coalitions-seats-pmf-fidesz–kdnp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -122,34 +121,33 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 89% | 95% | Median |
-| 6 | 6% | 6% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 73% | 99.2% | Median |
+| 6 | 26% | 26% |  |
 | 7 | 0% | 0% |  |
 
 ### Mi Hazánk Mozgalom (ESN)
 
-![Graph with seats probability mass function not yet produced](2026-05-02-Medián-coalitions-seats-pmf-hazánk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-05-11-IDEAIntézet-coalitions-seats-pmf-hazánk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 93% | 93% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 48% | 100% | Last Result |
+| 1 | 52% | 52% | Median |
+| 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 ### Opinion Poll
 
-+ **Polling firm:** Medián
-+ **Commissioner(s):** HVG and RTL
-+ **Fieldwork period:** 27 April–2 May 2026
++ **Polling firm:** IDEA Intézet
++ **Commissioner(s):** —
++ **Fieldwork period:** 8–11 May 2026
 
 ### Calculations
 
 + **Sample size:** 1000
 + **Simulations done:** 2,097,152
-+ **Error estimate:** 0.38%
++ **Error estimate:** 0.21%
 
