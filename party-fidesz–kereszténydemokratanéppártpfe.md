@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–9 May 2026](2026-05-09-Europion.html) | Europion | 26.8% | 25.5–28.1% | 25.1–28.4% | 24.8–28.7% | 24.3–29.4% |
 | [27 April–2 May 2026](2026-05-02-Medián.html) | Medián <br> HVG and RTL | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [15–20 April 2026](2026-04-20-Medián.html) | Medián <br> HVG and RTL | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
-| [8–11 April 2026](2026-04-11-Medián.html) | Medián | 37.9% | 36.3–39.6% | 35.9–40.0% | 35.5–40.4% | 34.8–41.2% |
+| [7–11 April 2026](2026-04-11-Medián.html) | Medián | 37.9% | 36.3–39.6% | 35.9–40.0% | 35.5–40.4% | 34.8–41.2% |
 | [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 44.4% | 42.4–46.4% | 41.8–47.0% | 41.3–47.5% | 40.4–48.5% |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 41.0% | 39.9–42.1% | 39.6–42.5% | 39.4–42.7% | 38.9–43.3% |
 | [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 39.3% | 37.8–40.9% | 37.3–41.4% | 36.9–41.7% | 36.2–42.5% |
@@ -222,7 +222,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–9 May 2026](2026-05-09-Europion.html) | Europion | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27 April–2 May 2026](2026-05-02-Medián.html) | Medián <br> HVG and RTL | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [15–20 April 2026](2026-04-20-Medián.html) | Medián <br> HVG and RTL | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [8–11 April 2026](2026-04-11-Medián.html) | Medián | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [7–11 April 2026](2026-04-11-Medián.html) | Medián | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
