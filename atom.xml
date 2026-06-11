@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-06-07T09:33:42.107615+02:00</updated>
+  <updated>2026-06-10T22:44:52.957618+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Mi Hazánk Mozgalom (ESN): 5.1–7.1%, 1 seats</li><li>Tisztelet és Szabadság (EPP): 61.0–65.0%, 14–15 seats</li><li>Fidesz–Kereszténydemokrata Néppárt (PfE): 26.2–29.9%, 6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-06-08-Europion.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-06-08-Europion.html"/>
+    <title>Opinion Poll by Europion, 6–8 June 2026</title>
+    <updated>2026-06-10T22:44:52.957618+02:00</updated>
+    <dc:date>2026-06-10T22:44:52.957618+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Mi Hazánk Mozgalom (ESN): 3.8–6.5%, 0–1 seats</li><li>Magyar Kétfarkú Kutya Párt (Greens/EFA): 0.5–1.8%, 0 seats</li><li>Tisztelet és Szabadság (EPP): 70.2–75.7%, 15–17 seats</li><li>Fidesz–Kereszténydemokrata Néppárt (PfE): 17.6–22.6%, 4–5 seats</li><li>Demokratikus Koalíció (S&amp;D): 0.5–1.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-06-03-ZRIZáveczResearch.html</id>
@@ -1183,5 +1191,5 @@
     <updated>2024-07-21T12:01:18.625596+02:00</updated>
     <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
   </entry>
-  <dc:date>2026-06-07T09:33:42.107615+02:00</dc:date>
+  <dc:date>2026-06-10T22:44:52.957618+02:00</dc:date>
 </feed>
