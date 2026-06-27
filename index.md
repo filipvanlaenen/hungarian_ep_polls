@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 31 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 51 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | Párbeszéd | Együtt | LMP | MKKP | MSZP | DK | MSZP–Párbeszéd | UO | SzocDem | MLP | MM | MMM | TISZA | Fidesz–KDNP | Hazánk | Jobbik | NP | 2RK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
