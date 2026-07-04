@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Jul 2026 11:34:13 +0200</pubDate>
+    <pubDate>Sat, 04 Jul 2026 17:31:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Medián for HVG, 22–29 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-06-29-Medián.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-06-17-IDEAIntézet-seats.png"
         length="172866"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 23:53:27 +0200</pubDate>
-      <dc:date>2026-07-03T23:53:27.843284+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 17:31:54 +0200</pubDate>
+      <dc:date>2026-07-04T17:31:54.059995+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IDEA Intézet, 12–17 June 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-06-17-IDEAIntézet-coalitions-seats.png"
         length="175850"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 23:53:27 +0200</pubDate>
-      <dc:date>2026-07-03T23:53:27.843284+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 17:31:54 +0200</pubDate>
+      <dc:date>2026-07-04T17:31:54.059995+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IDEA Intézet, 12–17 June 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-06-17-IDEAIntézet.png"
         length="198213"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 23:53:27 +0200</pubDate>
-      <dc:date>2026-07-03T23:53:27.843284+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 17:31:54 +0200</pubDate>
+      <dc:date>2026-07-04T17:31:54.059995+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Europion, 6–8 June 2026 – Seat Projections for the Parties</title>
@@ -4509,6 +4509,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2026-07-04T11:34:13.961351+02:00</dc:date>
+    <dc:date>2026-07-04T17:31:54.059995+02:00</dc:date>
   </channel>
 </rss>
