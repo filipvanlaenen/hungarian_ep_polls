@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/hungarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 10 Aug 2026 12:28:27 +0200</pubDate>
+    <pubDate>Mon, 10 Aug 2026 15:06:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Medián for HVG, 22–24 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-07-24-Medián.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-07-24-Medián-seats.png"
         length="166432"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 12:28:27 +0200</pubDate>
-      <dc:date>2026-08-10T12:28:27.301888+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:06:30 +0200</pubDate>
+      <dc:date>2026-08-10T15:06:30.599359+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián for HVG, 22–24 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-07-24-Medián-coalitions-seats.png"
         length="169324"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 12:28:27 +0200</pubDate>
-      <dc:date>2026-08-10T12:28:27.301888+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:06:30 +0200</pubDate>
+      <dc:date>2026-08-10T15:06:30.599359+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián for HVG, 22–24 July 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-07-24-Medián.png"
         length="199682"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 12:28:27 +0200</pubDate>
-      <dc:date>2026-08-10T12:28:27.301888+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:06:30 +0200</pubDate>
+      <dc:date>2026-08-10T15:06:30.599359+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 13–20 July 2026 – Seat Projections for the Parties</title>
@@ -4659,6 +4659,6 @@
       <pubDate>Sun, 21 Jul 2024 12:01:18 +0200</pubDate>
       <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
     </item>
-    <dc:date>2026-08-10T12:28:27.301888+02:00</dc:date>
+    <dc:date>2026-08-10T15:06:30.599359+02:00</dc:date>
   </channel>
 </rss>
