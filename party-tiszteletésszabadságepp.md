@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67.5% | 63.9–73.8% | 63.3–74.7% | 62.8–75.3% | 62.1–76.4% |
+| N/A | [Poll Average](average.html) | 67.8% | 64.0–73.8% | 63.3–74.7% | 62.8–75.3% | 62.1–76.4% |
+| [22–27 July 2026](2026-07-27-RepublikonIntézet.html) | Republikon Intézet | 69.0% | 67.1–70.8% | 66.5–71.3% | 66.1–71.8% | 65.1–72.7% |
 | [22–24 July 2026](2026-07-24-Medián.html) | Medián <br> HVG | 67.8% | 65.9–69.7% | 65.3–70.2% | 64.8–70.6% | 63.9–71.5% |
 | [13–20 July 2026](2026-07-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 73.8% | 72.0–75.5% | 71.4–76.0% | 71.0–76.4% | 70.1–77.2% |
 | [10–12 July 2026](2026-07-12-Europion.html) | Europion | 64.0% | 62.7–65.2% | 62.4–65.6% | 62.0–65.9% | 61.4–66.5% |
@@ -245,15 +246,15 @@ The following table shows the probability mass function per percentage block of 
 | 60.5–61.5% | 0.1% | 100% |  |
 | 61.5–62.5% | 1.3% | 99.9% |  |
 | 62.5–63.5% | 5% | 98.6% |  |
-| 63.5–64.5% | 9% | 93% |  |
+| 63.5–64.5% | 8% | 93% |  |
 | 64.5–65.5% | 8% | 85% |  |
-| 65.5–66.5% | 11% | 76% |  |
-| 66.5–67.5% | 16% | 65% |  |
-| 67.5–68.5% | 15% | 50% | Median |
-| 68.5–69.5% | 9% | 35% |  |
-| 69.5–70.5% | 4% | 25% |  |
-| 70.5–71.5% | 2% | 21% |  |
-| 71.5–72.5% | 3% | 19% |  |
+| 65.5–66.5% | 9% | 77% |  |
+| 66.5–67.5% | 14% | 68% |  |
+| 67.5–68.5% | 14% | 54% | Median |
+| 68.5–69.5% | 11% | 40% |  |
+| 69.5–70.5% | 6% | 29% |  |
+| 70.5–71.5% | 3% | 23% |  |
+| 71.5–72.5% | 3% | 20% |  |
 | 72.5–73.5% | 5% | 16% |  |
 | 73.5–74.5% | 5% | 11% |  |
 | 74.5–75.5% | 4% | 6% |  |
@@ -271,7 +272,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–16 | 14–16 | 14–17 | 14–17 |
+| N/A | [Poll Average](average.html) | 15 | 15–16 | 14–16 | 14–17 | 14–17 |
+| [22–27 July 2026](2026-07-27-RepublikonIntézet.html) | Republikon Intézet | 15 | 15–16 | 15–16 | 15–16 | 14–16 |
 | [22–24 July 2026](2026-07-24-Medián.html) | Medián <br> HVG | 15 | 15–16 | 15–16 | 14–16 | 14–16 |
 | [13–20 July 2026](2026-07-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 16 | 16–17 | 16–17 | 16–17 | 15–17 |
 | [10–12 July 2026](2026-07-12-Europion.html) | Europion | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
@@ -459,8 +461,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
 | 14 | 10% | 99.9% |  |
-| 15 | 63% | 90% | Median |
-| 16 | 22% | 26% |  |
+| 15 | 61% | 90% | Median |
+| 16 | 25% | 29% |  |
 | 17 | 4% | 4% |  |
 | 18 | 0% | 0% |  |
 
