@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67.8% | 64.0–73.8% | 63.3–74.7% | 62.8–75.3% | 62.1–76.4% |
+| N/A | [Poll Average](average.html) | 67.8% | 64.0–73.8% | 63.3–74.7% | 62.9–75.3% | 62.1–76.4% |
 | [22–27 July 2026](2026-07-27-RepublikonIntézet.html) | Republikon Intézet | 69.0% | 67.1–70.8% | 66.5–71.3% | 66.1–71.8% | 65.1–72.7% |
 | [22–24 July 2026](2026-07-24-Medián.html) | Medián <br> HVG | 67.8% | 65.9–69.7% | 65.3–70.2% | 64.8–70.6% | 63.9–71.5% |
 | [13–20 July 2026](2026-07-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 73.8% | 72.0–75.5% | 71.4–76.0% | 71.0–76.4% | 70.1–77.2% |
-| [10–12 July 2026](2026-07-12-Europion.html) | Europion | 64.0% | 62.7–65.2% | 62.4–65.6% | 62.0–65.9% | 61.4–66.5% |
+| [10–12 July 2026](2026-07-12-Europion.html) | Europion | 64.0% | 62.7–65.2% | 62.4–65.6% | 62.1–65.9% | 61.4–66.5% |
 | [26 June–1 July 2026](2026-07-01-RepublikonIntézet.html) | Republikon Intézet | 68.0% | 66.1–69.9% | 65.5–70.4% | 65.0–70.8% | 64.1–71.7% |
 | [23 June–1 July 2026](2026-07-01-21Kutatóközpont.html) | 21 Kutatóközpont | 67.0% | 65.4–68.5% | 65.0–69.0% | 64.6–69.3% | 63.8–70.1% |
 | [22–29 June 2026](2026-06-29-Medián.html) | Medián <br> HVG | 73.0% | 71.1–74.7% | 70.6–75.2% | 70.2–75.7% | 69.3–76.5% |
