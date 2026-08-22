@@ -9,12 +9,12 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Párbeszéd | Együtt | LMP | MKKP | MSZP | DK | MSZP–Párbeszéd | UO | SzocDem | MLP | MM | MMM | TISZA | Fidesz–KDNP | Hazánk | Jobbik | NP | 2RK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 60–75% <br> 13–17 | 18–26% <br> 4–6 | 5–11% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | 0–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 60–75% <br> 13–17 | 18–26% <br> 4–6 | 5–11% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11 August 2026](2026-08-11-Europion.html) | Europion | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 59–63% <br> 13–14 | 23–27% <br> 5–6 | 9–12% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–27 July 2026](2026-07-27-RepublikonIntézet.html) | Republikon Intézet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 66–72% <br> 15–16 | 20–26% <br> 4–5 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 July 2026](2026-07-24-Medián.html) | Medián <br> HVG | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 65–71% <br> 14–16 | 20–26% <br> 4–5 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–21 July 2026](2026-07-21-PublicusResearch.html) | Publicus Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 65–71% <br> 15–16 | 20–26% <br> 4–5 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–20 July 2026](2026-07-20-ZRIZáveczResearch.html) | ZRI Závecz Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 71–76% <br> 16–17 | 17–22% <br> 3–4 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23 June–1 July 2026](2026-07-01-21Kutatóközpont.html) | 21 Kutatóközpont | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 65–69% <br> 15–16 | 21–25% <br> 4–5 | 6–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -54,18 +54,18 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#párbeszéd-(greens/efa)">Párbeszéd (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#együtt-(greens/efa)">Együtt (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lehet-más-a-politika-(greens/efa)">Lehet Más a Politika (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#magyar-kétfarkú-kutya-párt-(greens/efa)">Magyar Kétfarkú Kutya Párt (Greens/EFA)</a> | 0.0% | 0.9% | 0.2–1.4% |0.1–1.6% | 0.1–1.7% | 0.1–2.0% |
+| <a href="#magyar-kétfarkú-kutya-párt-(greens/efa)">Magyar Kétfarkú Kutya Párt (Greens/EFA)</a> | 0.0% | 0.9% | 0.2–1.5% |0.2–1.6% | 0.1–1.8% | 0.1–2.1% |
 | <a href="#magyar-szocialista-párt-(s&d)">Magyar Szocialista Párt (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 0.0% | 0.9% | 0.2–1.4% |0.1–1.6% | 0.1–1.7% | 0.1–2.0% |
+| <a href="#demokratikus-koalíció-(s&d)">Demokratikus Koalíció (S&D)</a> | 0.0% | 1.1% | 0.2–2.2% |0.2–2.5% | 0.1–2.7% | 0.1–3.1% |
 | <a href="#magyar-szocialista-párt–párbeszéd-(s&d)">Magyar Szocialista Párt–Párbeszéd (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#united-opposition-(s&d)">United Opposition (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#szocialisták-és-demokraták-(s&d)">Szocialisták és demokraták (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#mlp-(re)">MLP (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#momentum-mozgalom-(re)">Momentum Mozgalom (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#mindenki-magyarországa-mozgalom-(epp)">Mindenki Magyarországa Mozgalom (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0.0% | 67.8% | 61.0–73.8% |60.2–74.7% | 59.6–75.3% | 58.7–76.4% |
-| <a href="#fidesz–kereszténydemokrata-néppárt-(pfe)">Fidesz–Kereszténydemokrata Néppárt (PfE)</a> | 0.0% | 23.0% | 19.0–25.3% |18.2–25.9% | 17.6–26.3% | 16.7–27.2% |
-| <a href="#mi-hazánk-mozgalom-(esn)">Mi Hazánk Mozgalom (ESN)</a> | 0.0% | 6.9% | 5.5–10.0% |5.2–10.5% | 5.0–10.9% | 4.5–11.5% |
+| <a href="#tisztelet-és-szabadság-(epp)">Tisztelet és Szabadság (EPP)</a> | 0.0% | 68.2% | 61.0–73.8% |60.2–74.7% | 59.6–75.3% | 58.7–76.4% |
+| <a href="#fidesz–kereszténydemokrata-néppárt-(pfe)">Fidesz–Kereszténydemokrata Néppárt (PfE)</a> | 0.0% | 23.0% | 19.0–25.4% |18.2–25.9% | 17.6–26.4% | 16.7–27.2% |
+| <a href="#mi-hazánk-mozgalom-(esn)">Mi Hazánk Mozgalom (ESN)</a> | 0.0% | 6.6% | 5.3–10.0% |5.1–10.5% | 4.8–10.9% | 4.4–11.5% |
 | <a href="#jobbik-(ni)">Jobbik (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nép-pártján-(*)">Nép Pártján (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#második-reformkor-(*)">Második Reformkor (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -80,11 +80,11 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 10% | 99.4% |  |
-| 5.5–6.5% | 29% | 90% |  |
-| 6.5–7.5% | 29% | 61% | Median |
-| 7.5–8.5% | 11% | 31% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 14% | 99.1% |  |
+| 5.5–6.5% | 35% | 85% |  |
+| 6.5–7.5% | 23% | 50% | Median |
+| 7.5–8.5% | 7% | 27% |  |
 | 8.5–9.5% | 6% | 21% |  |
 | 9.5–10.5% | 10% | 15% |  |
 | 10.5–11.5% | 4% | 5% |  |
@@ -161,14 +161,14 @@ Only polls for which at least the sample size has been published are included in
 | 60.5–61.5% | 6% | 93% |  |
 | 61.5–62.5% | 5% | 86% |  |
 | 62.5–63.5% | 2% | 82% |  |
-| 63.5–64.5% | 1.0% | 80% |  |
-| 64.5–65.5% | 3% | 79% |  |
-| 65.5–66.5% | 8% | 76% |  |
-| 66.5–67.5% | 13% | 68% |  |
-| 67.5–68.5% | 14% | 54% | Median |
-| 68.5–69.5% | 11% | 40% |  |
-| 69.5–70.5% | 6% | 29% |  |
-| 70.5–71.5% | 3% | 23% |  |
+| 63.5–64.5% | 0.8% | 80% |  |
+| 64.5–65.5% | 2% | 79% |  |
+| 65.5–66.5% | 6% | 77% |  |
+| 66.5–67.5% | 12% | 71% |  |
+| 67.5–68.5% | 15% | 59% | Median |
+| 68.5–69.5% | 13% | 44% |  |
+| 69.5–70.5% | 8% | 32% |  |
+| 70.5–71.5% | 4% | 24% |  |
 | 71.5–72.5% | 3% | 20% |  |
 | 72.5–73.5% | 5% | 16% |  |
 | 73.5–74.5% | 5% | 11% |  |
@@ -203,13 +203,13 @@ Only polls for which at least the sample size has been published are included in
 | 15.5–16.5% | 0.3% | 100% |  |
 | 16.5–17.5% | 2% | 99.6% |  |
 | 17.5–18.5% | 5% | 98% |  |
-| 18.5–19.5% | 6% | 93% |  |
+| 18.5–19.5% | 7% | 93% |  |
 | 19.5–20.5% | 6% | 87% |  |
 | 20.5–21.5% | 8% | 81% |  |
-| 21.5–22.5% | 15% | 73% |  |
-| 22.5–23.5% | 20% | 58% | Median |
-| 23.5–24.5% | 18% | 38% |  |
-| 24.5–25.5% | 12% | 20% |  |
+| 21.5–22.5% | 15% | 72% |  |
+| 22.5–23.5% | 19% | 58% | Median |
+| 23.5–24.5% | 18% | 39% |  |
+| 24.5–25.5% | 13% | 21% |  |
 | 25.5–26.5% | 6% | 8% |  |
 | 26.5–27.5% | 2% | 2% |  |
 | 27.5–28.5% | 0.2% | 0.2% |  |
@@ -221,9 +221,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 32% | 100% | Last Result |
-| 0.5–1.5% | 62% | 68% | Median |
-| 1.5–2.5% | 6% | 6% |  |
+| 0.0–0.5% | 25% | 100% | Last Result |
+| 0.5–1.5% | 68% | 75% | Median |
+| 1.5–2.5% | 7% | 7% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 ### Demokratikus Koalíció (S&D)
@@ -232,10 +232,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 32% | 100% | Last Result |
-| 0.5–1.5% | 62% | 68% | Median |
-| 1.5–2.5% | 6% | 6% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 24% | 100% | Last Result |
+| 0.5–1.5% | 49% | 76% | Median |
+| 1.5–2.5% | 23% | 27% |  |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -370,8 +372,8 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 4% | 100% |  |
 | 14 | 17% | 96% |  |
-| 15 | 50% | 79% | Median |
-| 16 | 25% | 29% |  |
+| 15 | 47% | 79% | Median |
+| 16 | 28% | 32% |  |
 | 17 | 4% | 4% |  |
 | 18 | 0% | 0% |  |
 
@@ -387,8 +389,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 26% | 98% |  |
-| 5 | 67% | 72% | Median |
+| 4 | 27% | 98% |  |
+| 5 | 65% | 71% | Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -400,8 +402,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 76% | 97% | Median |
+| 0 | 5% | 100% | Last Result |
+| 1 | 75% | 95% | Median |
 | 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
@@ -461,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 4% | 100% |  |
 | 14 | 17% | 96% |  |
-| 15 | 50% | 79% | Median |
-| 16 | 25% | 29% |  |
+| 15 | 47% | 79% | Median |
+| 16 | 28% | 32% |  |
 | 17 | 4% | 4% |  |
 | 18 | 0% | 0% |  |
 
@@ -476,8 +478,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 26% | 98% |  |
-| 5 | 67% | 72% | Median |
+| 4 | 27% | 98% |  |
+| 5 | 65% | 71% | Median |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -487,8 +489,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 76% | 97% | Median |
+| 0 | 5% | 100% | Last Result |
+| 1 | 75% | 95% | Median |
 | 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
