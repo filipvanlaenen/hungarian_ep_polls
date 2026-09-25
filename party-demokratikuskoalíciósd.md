@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.2–2.2% | 0.2–2.4% | 0.1–2.7% | 0.1–3.1% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.3% | 0.7–2.6% | 0.6–2.8% | 0.5–3.2% |
+| [14–18 September 2026](2026-09-18-Medián.html) | Medián <br> HVG | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 September 2026](2026-09-08-Europion.html) | Europion | 0.0% | N/A | N/A | N/A | N/A |
 | [26 August–1 September 2026](2026-09-01-RepublikonIntézet.html) | Republikon Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [18–25 August 2026](2026-08-25-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -187,10 +188,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 24% | 100% | Last Result |
-| 0.5–1.5% | 49% | 76% | Median |
-| 1.5–2.5% | 23% | 27% |  |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 63% | 98% | Median |
+| 1.5–2.5% | 31% | 36% |  |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -204,6 +205,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–18 September 2026](2026-09-18-Medián.html) | Medián <br> HVG |  |  |  |  |  |
 | [7–8 September 2026](2026-09-08-Europion.html) | Europion |  |  |  |  |  |
 | [26 August–1 September 2026](2026-09-01-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
 | [18–25 August 2026](2026-08-25-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
