@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-09-22T23:00:37.074376+02:00</updated>
+  <updated>2026-09-25T13:05:18.629561+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Mi Hazánk Mozgalom (ESN): 6.5–9.9%, 1–2 seats</li><li>Tisztelet és Szabadság (EPP): 61.0–66.9%, 13–15 seats</li><li>Fidesz–Kereszténydemokrata Néppárt (PfE): 24.3–29.8%, 5–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-09-18-Medián.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_ep_polls/2026-09-18-Medián.html"/>
+    <title>Opinion Poll by Medián for HVG, 14–18 September 2026</title>
+    <updated>2026-09-25T13:05:18.629561+02:00</updated>
+    <dc:date>2026-09-25T13:05:18.629561+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Mi Hazánk Mozgalom (ESN): 8.7–11.3%, 2 seats</li><li>Tisztelet és Szabadság (EPP): 56.3–60.5%, 13–14 seats</li><li>Fidesz–Kereszténydemokrata Néppárt (PfE): 24.9–28.7%, 5–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_ep_polls/2026-09-08-Europion.html</id>
@@ -1295,5 +1303,5 @@
     <updated>2024-07-21T12:01:18.625596+02:00</updated>
     <dc:date>2024-07-21T12:01:18.625596+02:00</dc:date>
   </entry>
-  <dc:date>2026-09-22T23:00:37.074376+02:00</dc:date>
+  <dc:date>2026-09-25T13:05:18.629561+02:00</dc:date>
 </feed>
