@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.2–2.4% | 0.1–2.7% | 0.1–2.9% | 0.0–3.3% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.1–1.5% | 0.1–1.7% | 0.0–2.0% |
+| [7–18 October 2026](2026-10-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
+| [8–16 October 2026](2026-10-16-PublicusResearch.html) | Publicus Research | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [13–16 October 2026](2026-10-16-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 October 2026](2026-10-15-Europion.html) | Europion | 0.0% | N/A | N/A | N/A | N/A |
 | [28–30 September 2026](2026-09-30-21Kutatóközpont.html) | 21 Kutatóközpont | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 September 2026](2026-09-28-RepublikonIntézet.html) | Republikon Intézet | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
@@ -37,7 +40,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–9 May 2026](2026-05-09-Europion.html) | Europion | 0.0% | N/A | N/A | N/A | N/A |
 | [27 April–2 May 2026](2026-05-02-Medián.html) | Medián <br> HVG and RTL | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [15–20 April 2026](2026-04-20-Medián.html) | Medián <br> HVG and RTL | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [7–11 April 2026](2026-04-11-Medián.html) | Medián | 1.4% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [8–11 April 2026](2026-04-11-Medián.html) | Medián | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 1.7% | 1.4–2.0% | 1.4–2.1% | 1.3–2.2% | 1.2–2.4% |
 | [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.5% |
@@ -191,12 +194,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 46% | 100% | Last Result |
-| 0.5–1.5% | 10% | 54% | Median |
-| 1.5–2.5% | 37% | 44% |  |
-| 2.5–3.5% | 7% | 8% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 47% | 100% | Last Result |
+| 0.5–1.5% | 49% | 53% | Median |
+| 1.5–2.5% | 4% | 4% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -208,6 +209,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–18 October 2026](2026-10-18-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
+| [8–16 October 2026](2026-10-16-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
+| [13–16 October 2026](2026-10-16-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [14–15 October 2026](2026-10-15-Europion.html) | Europion |  |  |  |  |  |
 | [28–30 September 2026](2026-09-30-21Kutatóközpont.html) | 21 Kutatóközpont |  |  |  |  |  |
 | [23–28 September 2026](2026-09-28-RepublikonIntézet.html) | Republikon Intézet | 0 | 0 | 0 | 0 | 0 |
@@ -234,7 +238,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–9 May 2026](2026-05-09-Europion.html) | Europion |  |  |  |  |  |
 | [27 April–2 May 2026](2026-05-02-Medián.html) | Medián <br> HVG and RTL | 0 | 0 | 0 | 0 | 0 |
 | [15–20 April 2026](2026-04-20-Medián.html) | Medián <br> HVG and RTL | 0 | 0 | 0 | 0 | 0 |
-| [7–11 April 2026](2026-04-11-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
+| [8–11 April 2026](2026-04-11-Medián.html) | Medián | 0 | 0 | 0 | 0 | 0 |
 | [9–11 April 2026](2026-04-11-AlapjogokértKözpont.html) | Alapjogokért Központ | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [7–10 April 2026](2026-04-10-MinervaIntézet.html) | Minerva Intézet | 0 | 0 | 0 | 0 | 0 |
 | [5–10 April 2026](2026-04-10-AtlasIntel.html) | Atlas Intel | 0 | 0 | 0 | 0 | 0 |
