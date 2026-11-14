@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Tisztelet és Szabadság (EPP) | 0.0% | 66.0% | 64.0–67.9% |63.5–68.4% |63.0–68.9% |62.0–69.8% |
+| Tisztelet és Szabadság (EPP) | 0.0% | 66.0% | 64.0–67.9% |63.5–68.4% |63.0–68.9% |62.1–69.8% |
 | Fidesz–Kereszténydemokrata Néppárt (PfE) | 0.0% | 23.0% | 21.4–24.8% |20.9–25.3% |20.5–25.7% |19.7–26.6% |
 | Mi Hazánk Mozgalom (ESN) | 0.0% | 9.0% | 7.9–10.3% |7.6–10.6% |7.4–10.9% |6.9–11.6% |
 
@@ -52,8 +52,8 @@
 | 11 | 0% | 100% | Majority |
 | 12 | 0% | 100% |  |
 | 13 | 0.2% | 100% |  |
-| 14 | 46% | 99.8% |  |
-| 15 | 51% | 54% | Median |
+| 14 | 47% | 99.8% |  |
+| 15 | 51% | 53% | Median |
 | 16 | 2% | 2% |  |
 | 17 | 0% | 0% |  |
 
@@ -137,6 +137,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.06%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.08%
 
