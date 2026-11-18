@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [29 October–4 November 2026](2026-11-04-Medián.html) | Medián <br> HVG | 0.0% | N/A | N/A | N/A | N/A |
 | [28 October–2 November 2026](2026-11-02-RepublikonIntézet.html) | Republikon Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [7–18 October 2026](2026-10-18-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [8–16 October 2026](2026-10-16-PublicusResearch.html) | Publicus Research | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -212,6 +213,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 October–4 November 2026](2026-11-04-Medián.html) | Medián <br> HVG |  |  |  |  |  |
 | [28 October–2 November 2026](2026-11-02-RepublikonIntézet.html) | Republikon Intézet |  |  |  |  |  |
 | [7–18 October 2026](2026-10-18-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [8–16 October 2026](2026-10-16-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
